@@ -466,9 +466,9 @@ https://archive.org/download/quran_mp4/QS-114%20An-Naas.mp4
 ######TV Nasional#######
 
 #EXTINF:-1 group-title="TV Nasional", tvg-logo="https://e7.pngegg.com/pngimages/371/409/png-clipart-smpte-color-bars-color-television-television-show-tv-miscellaneous-television-thumbnail.png", Test,
-#https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
 
-#EXTINF:-1 group-title="TV Nasional",TVRI Nasional tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik0zFfmeD0GYOZWPM1jZzJrjjF_rAtelzMPFymdWomiVUNro-os6-nzkXPMJCJx8y5N9JOgeFcekhHnxbkAIJd9wXW0e4SAl9kSU51lm9AGl0T04TM6WFKdVmk42YkDAmy72pFFRQSZrtM_ob9g0GzZcPqFU8FwAcD4YfRDA5fLS4jbGEjPfREonU1n40E/s1600/TVRILogo2006.svg.png",
+#EXTINF:-1 group-title="TV Nasional", tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik0zFfmeD0GYOZWPM1jZzJrjjF_rAtelzMPFymdWomiVUNro-os6-nzkXPMJCJx8y5N9JOgeFcekhHnxbkAIJd9wXW0e4SAl9kSU51lm9AGl0T04TM6WFKdVmk42YkDAmy72pFFRQSZrtM_ob9g0GzZcPqFU8FwAcD4YfRDA5fLS4jbGEjPfREonU1n40E/s1600/TVRILogo2006.svg.png", TVRI Nasional
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #EXTINF:-1 group-title="TV Nasional",TVRI Nasional 2 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgafjlYAfoYCHoRcoFq760Wc4AONnV3lTA9KMocvvbAIvg1_RHG7nJd3CBk5ymE8Kh9ncvyyr7UPEmtd_vTiPC6VX-v_KXCUZt5R-9DKE0mEVuNwAd2UeyvSagSjkjN-6BesEGZz0FYwiKjaa2eoB0-N2A48nH0lt0IECGk-swAg5ACSSWKT3Wo-V6ORzmX/s1600/TVRILogo2019.svg.png",
@@ -2879,7 +2879,6 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
-
 
 
 
