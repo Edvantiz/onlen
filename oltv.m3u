@@ -2115,10 +2115,6 @@ https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8?l1br3date0702andAM
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0zIyvSA-aEGR1lT5ATzh1BU9GVWenK_hkPQb-IipW1Tt6mF6DmISYjoNJv6lu7amFQzuJkbEN-D1OCU6gGA-3nacwIZGHZWbaZKAK0ENWf9CQ1_uwzobfWlDzBpMwblyGGbG20whsRWaCtaFTrw7QDbGSCSQOqB958Gs7hes25LUkdKnaWqfXrw0DvbUc/s1600/moviesforfree.png" group-title="Film & Drama",Movies4Free
 https://movies4free-lg.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJSBFIUjqQQrdMKHwwikx8NgOxaNz1jc2a7lxrsJmtFjZJuT03MywscVZfdCXcmX-n6nmvAcDvmfs5bWlhWa1WnXccfmwSBJWEVFPhd5RcXOT8HAIqoGfkRGXQgnbpnaPuQFtV7RPJUZzedVyBKp2l7hAlsPVTQJPNHGbYTVjoddVTzDwXUltzycwy5v5j/s1600/ACETV.png" group-title="Film & Drama",ACE TV
-#https://streams2.sofast.tv/sofast/acetv/AceTV_1000k.m3u8
-https://streams2.sofast.tv/sofast/acetv/AceTV_2500k.m3u8
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTuWSQA_hNBBX_RuYSeCfO_T1-VtFHjNzp9dpZV1UFf33E498a50OdrGfjiEq8OWLrILriibG3ZHk05FneIMyNqhqrvuGeVVcIWH8Hm19TpUUkAscLgDEXSOb_z8PfoPPeESCUGvgrhgJcMuh7S6pFwR0BoKQleXAUd-qjzfqiZPg16-mV4D5eULi52Neq/s1600/ion.png" group-title="Film & Drama",Ion
 https://live-manifest.production-public.tubi.io/live/4ed608c9-863e-4ea5-91d1-27549ef1adda/playlist.m3u8
 
@@ -2209,6 +2205,10 @@ https://apollo.production-public.tubi.io/live/mlb2-RR0NCJ/1024x576.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimNIW7i3Gqb1FNAhek0xu2msa7HZmN7u103zfNBQkG-wcA7wHDBFwX2c533gATnD4RW51Esso_xsN6e5hekFB6b2rERh_VoaKvr_o6TgiD_YlDUbsciBu5eM9yYz0oufNhUZSUunOTAJoRzuaFfF1izYcSHmQ-ZgrCX8M4jOL6Ov3lUZZ5yl157UtjtOhd/s1600/tennis-channel-logo.png" group-title="TV Olahraga",Tennis+
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJSBFIUjqQQrdMKHwwikx8NgOxaNz1jc2a7lxrsJmtFjZJuT03MywscVZfdCXcmX-n6nmvAcDvmfs5bWlhWa1WnXccfmwSBJWEVFPhd5RcXOT8HAIqoGfkRGXQgnbpnaPuQFtV7RPJUZzedVyBKp2l7hAlsPVTQJPNHGbYTVjoddVTzDwXUltzycwy5v5j/s1600/ACETV.png" group-title="TV Olahraga",ACE TV
+#https://streams2.sofast.tv/sofast/acetv/AceTV_1000k.m3u8
+https://streams2.sofast.tv/sofast/acetv/AceTV_2500k.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYgwRdKwodFM7AOrSikqWQiypt6p43jNJ99a4NFgUAD7X7UWFNd3bq-3dRvfkAFhRtN4XxSuYeDIpoKbeZJVyoJ-l-tzS_2BKUkNGU3IP0C5TUlXJLAE6dd0_emxwsJp0zs1r2wCC_j5pXJmkI12XoBMOGZ1_T99Dyuq5kKpvpN9BuR3yIfx1_ZeK1AJeO/s1600/9Sports.jpg" group-title="TV Olahraga",Cricket Gold TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-65e0c8c6d899afe817b9d224.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Fhx47RvJvdxKTEYnb6u2
@@ -3002,6 +3002,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
