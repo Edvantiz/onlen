@@ -1701,7 +1701,8 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/36
 http://210.210.155.35/x6bnqe/s/s94/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiei3mWurrHFayz_ubgRUJ5XPJRrbcs2Odd5GYtzDYsRtklULMu49O2lLHWJ7e5tAWkPmy97-RnRhDOi56AhgnT6vLxCfB9UU37mASAbIv6HLHNicRDswxAEbyRbGlXPsjA4cvzWPMeT8S68Q0owIOrpIDI3TQah9-Sl5DA-_ceGSE6DSNcAdY9Er4RKc0b/s1600/RTP.png" group-title="International",RTP Portugal
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
+#https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
+https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxOTc2NDg4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9ydHBpL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ1ZThjMWEzYmM0ZTczYzMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI0MSIsInNvdXJjZXMiOls0OF19.YQ-Ln3B64U6TZgDGRG2WFaLx26_Uj7D1RFxhiIYH-q17lYk4r82UNjfgYrFm1HIO3Wqiwi1ffXEuG-pB_a9kSg==/live/eds/rtpi/browser-HLS8/rtpi-mp4a_130400_por=20000.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibDIAw-3nnu45XclZcjqdF4ccdIwgEFSTUWVlbsSKOUrZjQsvYFQNzEIQYawzTUgCY-8GTHaPzqBbh6n9O5uPvmjMnMWAtaXwt2XQzRSBU9_4AgkE8E2Pjj4jzwYJb-UKLGMBPfeqgwdgMPBkHPg8B7RdkGfxcBXaI0kr7YcsVwKXXsF0zK4rRjW5570wY/s1600/Logo_of_RAI_%282016%29.png" group-title="International",Rai Italia
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/events(1000)/RAIItaliaAustralia-video=1200000.m3u8
@@ -3622,6 +3623,7 @@ https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 
 #EXTINF:-1 tvg-id="AstroSuperSport5HD" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest?cb=20190319023656",819 BeIN Sports MAX HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
+
 
 
 
