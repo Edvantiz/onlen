@@ -1898,7 +1898,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid
 https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=lite&chname=ROCK_Entertainment_HD
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAWKx4Wf9W4DxKhv25Q_QpBZZdo-efJU6cZDc4j1hOjsmXoYDA5DcaMcoXUF-EP8eeX1AO5b1fMh8BqNozCrKk2MK0RuyPIItBe0zH22tKLaW-O3TnFfl-pH9og1YaWB4J8YlLQVU9hrv_Y_U9uS7HmWZyh4KFLd6w7NHgwDxxF6qqu69_5AbZlM17_dvi/s1600/Thrill_logo.svg.png" group-title="TV Premium",Thrill
-https://op-group1-swiftservehd-1.dens.tv/h/h240/01.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h240/01.m3u8
+https://cdnjktbpidfrmjkt4.transvision.co.id/live/master/4/4028c68587f789fe0188421264d560f5/manifest.mpd?sign=d76c198da95d7d6f45699d5e8ad44ac6&time=1771922034
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjpOBWblqwD2zucWJIgi6VmsS2KpilwksDsE8z9_Keoo33h7Y38nhm_14b0In8YFinm0LjcoE7loSa8dzJo5P9LD68tbyU9SnTurxbJ0s-fGkHn8mL2kVAF-oA1LylQLN2EVTJ4B-FTNKIaG_ZiEq8tPqzTKa4H4STY9Hp2bctwmV0zuPKp9DxwHXlxLpm/s1600/AXN.png" group-title="TV Premium",AXN
 http://210.210.155.66/h/h141/01.m3u8
@@ -3607,6 +3608,7 @@ https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 
 #EXTINF:-1 tvg-id="AstroSuperSport5HD" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest?cb=20190319023656",819 BeIN Sports MAX HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
+
 
 
 
