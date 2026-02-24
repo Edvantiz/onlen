@@ -1498,6 +1498,10 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDIshV1EvFFg_ypEbzc8q_ynorr9wWNn0x4BDh-s36Ej3u9wqNoNjcO9ArfOw0VLgWjknM535qNfMgH85U_W8U0VUVthPDLqJeAOjomooEOhQuNHquSw_ZBtObk4okd1OewJjdHVmqWtFgAtbErdh-FVjiVAlLbAJrnK67vc-o4xifBZS35uM3WWSONUdN/s1600/bbc-news-logo.png" group-title="International",BBC News Live
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnrM2QNZGAuhsaCrwkNZ6PJogC20Ql7A6mxfU-q8if_Qt0KCoZOiaz0pptQ5mzkAETIXjL0ZFCGIvzmajIEPWF-ljbqTdbKNdYoeBa4YntKFE750zu7cLWfhemQ8AqjXknFOE8qatlG-SmCQvTjIHb-88dyIK5AJZuJMo_nF6K7FnueokGvFwTgHLxghyphenhyphenh/s1600/BBC%20World%20News.png" group-title="International",BBC World News
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_2000000=11-mp4a_256000_eng=9.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9vPDdyySlJZwnR1Nn-2i07WrJbnX0dCood1eRGOzogk-Y6eofwamsJUZV7Cyy0a2xlEa1i2KU5T4OQw9it6m5_52nW6V2JzF2XcYNcc4aOQCEudhFr0-MSkV6iputC1Rr6F09JV4CCrBrfSqC4-MbsH3H1L4R9feOLkdgMgTb_ymgfX_qxCZdO_HSiHAf/s1600/BBC_Earth_channel.png" group-title="International",BBC Earth
 https://live-manifest.production-public.tubi.io/live/88810cb1-e91e-4f19-870b-513ffc9a39cb/playlist.m3u8
 
@@ -1542,11 +1546,14 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO-u6ZGMpeR1rCxojobcJu4hLNJZViVMU8exyH2qwodWYDFbMpwHf3dNKTavcHSNcLzXi7Wo-Sf2BJSbarBFiAGoPN-bKaEwzOhH_R8xu2Ptd4V0ZPKaDxbpPWJfJ_wfO_f2a9HQEjrq0j2bqtHiRFGr_Pu32Ez7HJzC__NiE4bX72TiJvtLiDhyjEH9S_/s1600/Fox_News_Channel_logo.png" group-title="International",FOX News Channel
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmcznluywlV2Kixi9gi23zO15_VEerqS5TSY9bS3A_O9aDwxssBE4xsrpLLC6oF6nQTbv16E4_kY_DFZ2DwgQHJwz2hLVaIIT79wLS9gq21Cd1X5BL8EGaDhhOnkcPAt61InbDhr2WoPpnUQywGsfFwIKEHB5VY-CIx9o6rCbgT_a6mVhtTD4SqbZPyT9J/s1600/Fox_Business.png" group-title="International",Fox Business
+http://41.205.93.154/FOXBUSINESS/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP0aniRQ1fSfmXbCHRee097scm8dZYs-gCeDNO5IAtALdsoSKlf6xXjA-dL-GPeBRko2PZq3C2froyiYPk_p3K4ha3e-FwzuNqTkdolFUiPpy_DMZYEu81c5uiI-cgLYYfQzhg9MJwhU7LoGkhyLNJ5b50kaQfNCtJiAkq7UEbHhNfqrfCnaRIrnBeuh6a/s1600/Fox-weather-logo.png" group-title="International",FOX Weather
 https://247wlive.foxweather.com/stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmcznluywlV2Kixi9gi23zO15_VEerqS5TSY9bS3A_O9aDwxssBE4xsrpLLC6oF6nQTbv16E4_kY_DFZ2DwgQHJwz2hLVaIIT79wLS9gq21Cd1X5BL8EGaDhhOnkcPAt61InbDhr2WoPpnUQywGsfFwIKEHB5VY-CIx9o6rCbgT_a6mVhtTD4SqbZPyT9J/s1600/Fox_Business.png" group-title="International",Fox Business
-http://41.205.93.154/FOXBUSINESS/index.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_zCIfRYjmAFUtxyMJ_IZ28S3_gVpEuoZhEeacRhuF5JqhxGEx_PeNRYAm6_HkiOtU-8aiR-1jTtEdSQZRnBtLs8Ot7CrIqQ8ls2ZyyyAATqo0wslOWwaGIgjbspoT0Pk5lbt0VY5fVzg7ExdRsw5ZdwzACZ3-Z_lGMCRNG5nLf82xqH3vpFlVD67YtyTB/s1600/Accu-Weather.png" group-title="International",AccuWeather TV
+https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/ts-us-w2-n1/playlist/amg00684-accuweather-accuweather-plex/cb543d1e786c648d9fd43d64d6ef43a4f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac765bdb80148b61299bce8c37683f03409a5e5afba358b1ebe65f148e6ef0e24f55952847e49f43c8821da689d25ccc5ed770f016cb93f88ad4158b8ff33c93748a98cd5c581fb0a43bfae053b2d5946c2a95705a297437c790e335caa1e43d277debf6cac50897ec0d8d57e64a36b0018a5b8572fb0351caa3932c8a86c1b8684032a5d64f606dc0b7e3e26f5642e8e9a387ce0f0bdce02844810db1b8e2026154b1eec215cbe9149db73191b553d059aa9e689487bb8fe3b1c21fd2758a8fc391334641741742a869e2cb3d957986389fc71d77081604b5cc018dc6f84e206e4ab1855cff1a0ff68ed8d4915d6d8a283072dc4df5174560c53f693cc228fa913325c90502973a30fe1764d01bb2e862a5e98ba5353ab3dfd54bb03abce24481a070dc07566e0bbdf62348560c2c809c012304399215aa83b0a21d6f27e3f8caf2c529482431055d018ea2aa30ac87ce2d1201d211414471031c820bc663bc511d50cea8a7497ca512e8a80a7fcdaa92e5a4f85b8b79214b0c/140/848x480_1985360/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio8H9gEiq7hVRQun5eIs5u3np0PtfQZfc9ploxpJE8x7bbYWW6MbXcUeJmbVGstNL0s1EakhyDU40LqNjyBS4zyqPtx0hT6fIbBobe2b-DeLZFCwkrJQd6wb6WXEVAlv8GHlOKTnf7hk8icNWNerbL5fbiHWlac4BgyEnABPDWkYELzI5rUGdtkZrqsZH-/s1600/CNA_new_logo.svg.png" group-title="International",Channel News Asia (CNA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -1729,6 +1736,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/f9df390f-1207-4bc5-b2cf-0e97ccac135d/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE0jhW1tePiegCAN6qnIbTb6m8XjE9J-h0y6XbBp_qPgyofnbYSHzfu53Ma4am3-urJRt_LUIBDf4SrqDPXMXTRBoraAi4CqDLEyPoHf9aGsSZdbXhOyBc6hmyUoroFKpCJbGNhIWfYXzwnm_L0DPuoAqmrEq4mb3A5YbbYMFH6gGuhURxJ0lplLAA7QV2/s1600/AWEPlus.png" group-title="International",AWE+
+#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/playlist.m3u8?ads.vf=eVE5nru-EHa
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/78d000da-a35e-4394-bd1c-42c7a6dacadc/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp81GsUehhDXzwynxGD-Dj7Rk0V5RJyw-dCREsSk_2ljEKvaXjEPx9Nd968T774PM3lyWEgT8tjbMcNvx9b_l9m2F6jPqWb5TcWRDTyz7FZF5YzLCZ1d0qr-IFl4fb8Eil68nNT62L_xbzLAgGuMBbIGnoVlJbNgRYqhtKAVhUYYZyGLGRUPo1JRGCWz-K/s1600/Earth%20Touch.png" group-title="International",Earth Touch TV
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
@@ -2879,6 +2890,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
