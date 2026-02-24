@@ -1724,7 +1724,8 @@ http://104.255.88.155/cnn/tracks-v1a1/mono.ts.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIuTujAMAb6bT0Sh3lbm3cZZQprAv4OpnKjI4kgV0QeXWf3m23ZMbnS2YZBXvL7IZ2jfuQEkdpjAkm80IVpX3kfBEiCN1UQeygkBDH75Z_0KXG5UkDrxlvy-gvxLV_b4ayCIr1mdM49Huh_riGWbaFlDxiflVO5XNiaPWPU6Ax6B_QhT4iL7fAoSvDyeyJ/s1600/gousa_logo_color.png" group-title="International",GoUSA TV
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Li5GYyuE8SoJYsEhBsrf
+#https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Li5GYyuE8SoJYsEhBsrf
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c/variant.m3u8?x-plex-token=f9Vx_5ntCy4xdxwwPR9A&x-plex-advertising-identifier=&x-plex-client-identifier=b1863eb6-ffb4-4d5b-b0e6-d2495b21c7bc&x-plex-playback-id=p_379ac76e-6020-43bb-bfb7-7a715880a8bf&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=144.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1771924976&url=afbb9fb8637aec8ac31e90d0c4f350c4-c1237e28693f9055b4df37a6fa1b81e71df8df05cff7582023b15a3ddb0be91c92b738acaed24bfb440d96e2cbe7adeea3c0739e07e5cc1b675f84c29ef1244729411a63883819c4056ad91833b191c73aebc28eb7d9cf4fdc9250df1eb0745fb9e637e65c2376aec765be5fba0ac7c0a2e298f50b2e6e576d415f96c8a1ac8222ba1bcc7ed18a2171889199ccad83689f3fb7ae1295b82563ec738af0b443053017823964b33ed6ef666db9bfff65be73bf3f67f381d5347458106f315d840e2805b22f6c969fc5e8dbe0671a818028
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjybItg1_pkppU9sF2P1Ij857JZ1GcImBYNFyfzjBqK2kBWT0kgP4riN7bCUReKUAee1WRHR6RIXjG0p8Z0jGeB_dYftQyWW1JrCgrdoa9l3-7_9rKN-8sM7B0watgk1GaTuQItvsZp6mZEmxha1CKFxw8pOpxbOb9OoiW68QUk8poeVFEkKh_dj0Ki7kGT/s1600/OAN.png" group-title="International",One America News
 https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
@@ -3620,6 +3621,7 @@ https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 
 #EXTINF:-1 tvg-id="AstroSuperSport5HD" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest?cb=20190319023656",819 BeIN Sports MAX HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
+
 
 
 
