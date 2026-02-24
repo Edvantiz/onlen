@@ -1525,7 +1525,8 @@ https://content.uplynk.com/channel/ext/96195dc445894d079a91958abba8d3af/kfsn_24x
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN9_8NIwIvjBLC93gRCsHy31909zd0pE7RSa4h7b57TlMrPDUVhaPDjlLgNQkw_Kw4YwY8yr9hYbjGmBP0y0dNtCur9Qh8H3cayxgUcDjfa3526meAf9eByAA3P3LdkNQDauBP2_t_946O_ZlxnWmhNoGfDf0R6iq9PLey56Kp40a4N4mbuxjIhWSg4kXC/s1600/Aljazeera_eng.png" group-title="International",Al Jazeera (En)
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+https://live-hls-apps-aje-fa.getaj.net/AJE/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDIshV1EvFFg_ypEbzc8q_ynorr9wWNn0x4BDh-s36Ej3u9wqNoNjcO9ArfOw0VLgWjknM535qNfMgH85U_W8U0VUVthPDLqJeAOjomooEOhQuNHquSw_ZBtObk4okd1OewJjdHVmqWtFgAtbErdh-FVjiVAlLbAJrnK67vc-o4xifBZS35uM3WWSONUdN/s1600/bbc-news-logo.png" group-title="International",BBC News Live
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
@@ -3014,6 +3015,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
