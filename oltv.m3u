@@ -1985,6 +1985,19 @@ https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMC80G1E9Gxtdj5a2JeS0IIVn2blOHRIaY-T-TvVx5g0OyoQ4HcuvPf-vTTI-oPLqmMlcFFSqXrbq5GeGokYq_CAKhz7EeW4WZ-xEJikPoUPrgQC7qjcla1OUeN8UVsqTwZgFM0KZPkkNJB9ILQWCuZ0tQ6ZMHjG7Mhw844YiUml38UML0nRADs82pl5DD/s1600/HBORed.png" group-title="TV Premium",Red By HBO
 https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
 
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvGzr9jq66uNC9ScSqwbz8tGsahcCXYvHmcPacnt0-YCoGyBmswpEcWdJiuqAceCaEnH3kE03H6MY3QL5gM8EIydPh1QQ3KVAeUmuQ4DACDlKK-C3LJdaVvWmXU25qZk9GT134XkaqaJvF8MSx3SAQuOu0GA4B-t-qGHSiNxPu0L0N-ErwSfwEIl01hgst/s1600/Cinemax_logo.png" group-title="TV Premium",Cinemax
+#https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
+https://fl31.moveonjoy.com/CINEMAX/index.m3u8
+#https://fl31.moveonjoy.com/CINEMAX/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvGzr9jq66uNC9ScSqwbz8tGsahcCXYvHmcPacnt0-YCoGyBmswpEcWdJiuqAceCaEnH3kE03H6MY3QL5gM8EIydPh1QQ3KVAeUmuQ4DACDlKK-C3LJdaVvWmXU25qZk9GT134XkaqaJvF8MSx3SAQuOu0GA4B-t-qGHSiNxPu0L0N-ErwSfwEIl01hgst/s1600/Cinemax_logo.png" group-title="TV Premium",Cinemax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+https://dl.dropboxusercontent.com/scl/fi/j5865bib5wy1i72ppk2hx/cinemax.m3u8?rlkey=qkzwmgpv6lhf8ccuplf39c21n
 
 
 
@@ -2058,20 +2071,6 @@ http://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZfR_c-CnT5ggK8uQCw57bxERJ2thSUHo3CxRD7su250vqQqXoh55Xir6mK-9LnQmMnGzzdX2ahxI7IZMpXlY3P2s48K93tsElSQUKfm2BLQM8H0J6-v3ukxpyp6EKpAbd4zi9XJYQGHdk3VJ-pWfJA6Y0NFksPOrsd_SV037KzIzNG9FrDG8UbPOnZmta/s1600/Logo_oneTV_DE_2016.png" group-title="Film & Drama",One TV
 http://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8 
-
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvGzr9jq66uNC9ScSqwbz8tGsahcCXYvHmcPacnt0-YCoGyBmswpEcWdJiuqAceCaEnH3kE03H6MY3QL5gM8EIydPh1QQ3KVAeUmuQ4DACDlKK-C3LJdaVvWmXU25qZk9GT134XkaqaJvF8MSx3SAQuOu0GA4B-t-qGHSiNxPu0L0N-ErwSfwEIl01hgst/s1600/Cinemax_logo.png" group-title="Film & Drama",Cinemax
-#https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
-https://fl31.moveonjoy.com/CINEMAX/index.m3u8
-#https://fl31.moveonjoy.com/CINEMAX/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvGzr9jq66uNC9ScSqwbz8tGsahcCXYvHmcPacnt0-YCoGyBmswpEcWdJiuqAceCaEnH3kE03H6MY3QL5gM8EIydPh1QQ3KVAeUmuQ4DACDlKK-C3LJdaVvWmXU25qZk9GT134XkaqaJvF8MSx3SAQuOu0GA4B-t-qGHSiNxPu0L0N-ErwSfwEIl01hgst/s1600/Cinemax_logo.png" group-title="Film & Drama",Cinemax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-https://dl.dropboxusercontent.com/scl/fi/j5865bib5wy1i72ppk2hx/cinemax.m3u8?rlkey=qkzwmgpv6lhf8ccuplf39c21n
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg12orkkSZvtubJGv43XyXi5mqRvMYCCmiV1dBqbR4NGBrLZ_YoTQat1hF4zPRpdBcmXZaKnt0rwUk79-gA2fEj7SUCRXGWIxZ_ksW3WQNsgzKkU8VIRPCwJLbIZxBP-aNLsSiRdmW9oSgMC3pks6hXMiWLyj26S4zraszMfA4nkq-THnbx_2eSE6wvg6XV/s1600/Wau_nove_logo.png" group-title="Film & Drama",WAU
 https://live.cdn.joj.sk/live/andromeda/wau-720.m3u8
@@ -2904,6 +2903,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
