@@ -1529,7 +1529,8 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 https://live-hls-apps-aje-fa.getaj.net/AJE/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDIshV1EvFFg_ypEbzc8q_ynorr9wWNn0x4BDh-s36Ej3u9wqNoNjcO9ArfOw0VLgWjknM535qNfMgH85U_W8U0VUVthPDLqJeAOjomooEOhQuNHquSw_ZBtObk4okd1OewJjdHVmqWtFgAtbErdh-FVjiVAlLbAJrnK67vc-o4xifBZS35uM3WWSONUdN/s1600/bbc-news-logo.png" group-title="International",BBC News Live
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnrM2QNZGAuhsaCrwkNZ6PJogC20Ql7A6mxfU-q8if_Qt0KCoZOiaz0pptQ5mzkAETIXjL0ZFCGIvzmajIEPWF-ljbqTdbKNdYoeBa4YntKFE750zu7cLWfhemQ8AqjXknFOE8qatlG-SmCQvTjIHb-88dyIK5AJZuJMo_nF6K7FnueokGvFwTgHLxghyphenhyphenh/s1600/BBC%20World%20News.png" group-title="International",BBC World News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
@@ -3015,6 +3016,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
