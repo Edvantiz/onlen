@@ -1621,7 +1621,8 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrhyphenhyphenMAvMQ8R2e26X8AXCgckFCXxe5EJoH0HLa11uk81d5paqChHObj8yJl83hKn9tRphIZ_uD2zPB5AtJXDtZWdeAfecYeiSews1oLqV_N0ZrHqZOgaAGxGpwVuq-0odemHOKcDFsr3tXNQRG19lofdOWpBQ_o7_Krc8eyO-3Jue5LkV4kKjVZGf83FOV/s1600/earthTV-logo.png" group-title="International",Earth TV
-https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge2/cdnedge/HicYJzEAB5E/chunklist.m3u8
+#https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge2/cdnedge/HicYJzEAB5E/chunklist.m3u8
+https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge2/cdnedge/HicYJzEAB5E/chunklist.m3u8?token=EAIY6wE43urPekCIHUgF.CgdlYXJ0aHR2EAEyC0hpY1lKeTZBQjVBOgtIaWNZSnpFQUI1RQ.OZ-qZQi81PiGr_QiHhT35x1nEDrDf-BiNX788uf46pXB3h36Q5IsoXRYHsK8-Az3BzCigzUnAT5NQ3i4hiMNvA&domain=www.earthtv.com
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiufyzPd33M4YZun7Ymdv1dKKYgW_MbDM4sogP4dMTxmGH8tlZliezVtRAbvHh1w2A2q_mKjHHxAWero_Kwsi948VFlL0IgvuLPHYNMTdd3MInsnsjqhLS6tD3R_BiXWORWJzYqZ6LbDaJYvu0ioLY6B_U-6vodBW4dS2DXoG8h8zUABlXBKUSwpSj3ZBYY/s1600/NHK.png" group-title="International",NHK World
 #https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
@@ -3621,6 +3622,7 @@ https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 
 #EXTINF:-1 tvg-id="AstroSuperSport5HD" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest?cb=20190319023656",819 BeIN Sports MAX HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
+
 
 
 
