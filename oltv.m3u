@@ -1566,7 +1566,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1J9dcbgiqWW6ut4z0kz0ENd4S3B2RIHN-8hid4Gt-dJdnDmWzlNTHKUlMBAITqkd0Enj1mLkx9hDL_nL4aqz4WoDG9rjW_u-ZP8DqLjgMQVclG9hQJuY3fnFRKGrjOcELHMZSVH-mWMTHxBAHsTpstzvGQlV_oKQLIdmXCS3LVS10xvPx4_B1z3-1Atu/s1600/NBC_News.png" group-title="International",NBC News
-https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
+#https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
+https://d4ybyqrhce41r.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/71aa169c-7af2-4a7e-bfbd-b8a61babf6a2/1.m3u8
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZmTSEGYpuvqPFFT4oj_i59_81ejN4A5kHFBdOBsQvdXrYADMJfs4asAGyH8bEL3tLvFfRJ3EYi8sG6756Tj3p5-lB4C6CRpqgWGldFSfJSa7jwrtDwn-V1tAYYH9_tXy9RZOb8N9pqQTP7Co9g11X_CXAsRJ2W-0aDtPkxPkuWHDXZxzIGTz-g-9Z5MGg/s1600/CNBC-Logo.wine.png" group-title="International",CNBC Live
 #https://fl7.moveonjoy.com/CNBC/tracks-v1a1/mono.ts.m3u8
@@ -3012,6 +3013,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
