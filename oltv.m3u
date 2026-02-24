@@ -1891,6 +1891,100 @@ https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBps46_Uk3oC0M28-YcJrTPa8msGB63mOXPPi6DQEpBrrMqpuhhLfKC2A3jWnekVWPUloiIpUvU3omBiS4M3VOMWIyeNjIIir9SZjQDnqQWGTpNSfsHIHVBcLeYdJ0KKwzK-hocH6LMqpejKWujKM_GvP5GLWun7OnJbK6_Qo2YmObFlEqMfWMJD8ab2UP/s1600/densknow.png" group-title="TV Premium",DENS Knowledge
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0ckiFO4mO-oZnvaGR2rXOGXgyGo8u-ERN2lpIIlP5oA4aVUYATVfQM2iKCi08TV34CO6D_n4iWbqQTOR95dyTPKLDkzC32OpOOWEyT_58WWE0ivN0ZwU3cTVkezS4kvLym-c0vh_Q03K6hy4cVJ18QGgocacuu0VQePMnTy1natprQh2vskkDJBe8Dqt_/s1600/HBO+%20Black.png" group-title="TV Premium", HBO+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0ckiFO4mO-oZnvaGR2rXOGXgyGo8u-ERN2lpIIlP5oA4aVUYATVfQM2iKCi08TV34CO6D_n4iWbqQTOR95dyTPKLDkzC32OpOOWEyT_58WWE0ivN0ZwU3cTVkezS4kvLym-c0vh_Q03K6hy4cVJ18QGgocacuu0VQePMnTy1natprQh2vskkDJBe8Dqt_/s1600/HBO+%20Black.png" group-title="TV Premium",HBO+ FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32934
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk10oLw9s0Im7BB2pfb0h6mEp0q5rr39wMKJH1Fj-aaNnLGBVajXoWAK_54y2b9nnIAY0MdBbQvOLbJIVMY-1zg4Qlbzpb8OdxBtUxA4AS8JGd03GrjPay6SGGqEQd_Rm24FYCWUCNyMusBGZm0xPPp-vls-5WhzR8pZn7wmDiE7W0OTAho6p7yEVQOnTZ/s1600/HBO2%20Black.png" group-title="TV Premium", HBO 2
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=09e84fc7ecb71def143cd7e2771f3b35:1a91f2d315fb0593321ba60aa783ec2c
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO2-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk10oLw9s0Im7BB2pfb0h6mEp0q5rr39wMKJH1Fj-aaNnLGBVajXoWAK_54y2b9nnIAY0MdBbQvOLbJIVMY-1zg4Qlbzpb8OdxBtUxA4AS8JGd03GrjPay6SGGqEQd_Rm24FYCWUCNyMusBGZm0xPPp-vls-5WhzR8pZn7wmDiE7W0OTAho6p7yEVQOnTZ/s1600/HBO2%20Black.png" group-title="TV Premium",HBO 2 FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32930
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSe3zEd9brm-MfnXb0aHI5gYoMdPXAO9FYsQrmsqQK4NISncRFAx6ThE-AYMA99itnyvE5KjaGnUMSLDNBCV_VU4bDutef9_8rNBlOrR4DRL9q0KsOm5lnayhr3s7e-aXVXetEg66TSTAGpqho6kQDEtXGfb-8nsbLYU67lBOaIyGy9m0qsFIuKKvvNTYJ/s1600/HBO%20Extreme.jpg" group-title="TV Premium",HBO XTREME
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSe3zEd9brm-MfnXb0aHI5gYoMdPXAO9FYsQrmsqQK4NISncRFAx6ThE-AYMA99itnyvE5KjaGnUMSLDNBCV_VU4bDutef9_8rNBlOrR4DRL9q0KsOm5lnayhr3s7e-aXVXetEg66TSTAGpqho6kQDEtXGfb-8nsbLYU67lBOaIyGy9m0qsFIuKKvvNTYJ/s1600/HBO%20Extreme.jpg" group-title="TV Premium",HBO XTREME FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32945
+
+#EXTINF:-1 tvg-id="Canal.HBO.Pop.mx" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1rx0cvAM_4coq9Kg8tfEGEanDd5VOj_97GzDAO0oWT9WJcmAcXrNPVCVQtOWcD6tedQl8ywa5gzCkyMV0fCUdvpJNH2PtnPUFIfFhD8ezXcTiuPOCdWikaOswEtWhEw46Zol58J3nz56kQo1V-DGk6GTRBxwRC4_eW3FbULqYeJUJZlbTn2e72yivS6Qc/s1600/HBO%20Pop1.png" group-title="TV Premium", HBO POP
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
+
+#EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAhz0roNm93t8EuLNbG_03JWrLkzFKBO4mWggYd0w8j71qdtY9beKcVySr8mGelZMpf1hfq0Mfm3cPoiF46hhT-oZ9J0kIo-9gDo7JzsUPoSFVEubIx2N6w0koiAxWW8q3pdLidLBuqfKNvMw3lFJgQwnFfKnV0NFmBiZLFe3Ls0rznYlCgU5PcXBiq4mp/s1600/HBO%20US.png",HBO 🇺🇸
+http://212.102.60.231/HBO/index.m3u8
+
+#EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4xYyLaPDvgSbd_7cryiYvxrE2GIj430teIkGOJOgdMDK90C6AnKExEzU34Pz6kj4l98GhrpE__541njClZEXiI49eAuOkm1sGLOTZx7cj5gjogIrXUtOrKvLlbxOhJblU-80UWSCtXlbeVIjBDlEZNlpmZGCgQCOElPl7xdqFpXVGl4v5WbWsCd5k5wS4/s1600/HBO_Family.png",HBO Fams 🇺🇸
+http://212.102.60.231/HBO_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3ILTqqZrv6FJcAbpLpgJ6xN83ywF3wxA8C-a4DqcPmbne3i4FEMENmAMi3_cBkt5RgFeZ_vcXe_neVabjKsY0MGqczpU3Q_M3f9Bb9VKrRfQZU0dUQyZOWc78fvvjFyuwsxhThkvG99kcqOtIa3APwFl_cVcGCsZ1_1sDkihMXhMM4_8AiVfJKXTWgalH/s1600/HBO_v1.png" group-title="TV Premium",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+https://dl.dropboxusercontent.com/scl/fi/sbw7rk9t36fcv6zz1eltf/HBONEW.m3u8?rlkey=pb1ves3ot5funxgexdmxtoa3g&st=vruhuh1l
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiybBraEuXONWMtCtJSC4ZKWW5rgMqxR-sroICAZ1GKbEcav5xCGndtT9enkt47ar7MUXqE0q2GEmIyZGOQ5p6p6iDXPpHhvV4N4xXMcJ-3m9rOnphe4GaaMF0WNQUPo4g_q4TFuu0uY474faE0CPS1VdxQQtUIf2jMC1092IBBzYRtkdqJTzXR7_wAoi_m/s1600/HBO%20Hits.jpg" group-title="TV Premium",HBO Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+https://dl.dropboxusercontent.com/scl/fi/mrhqmp2glr0z9fjrues9r/HBO_HITS.m3u8?rlkey=ea4y7k38ddra7dvyjwav2f5w7
+
+#EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF_q8w6BXOTKRRJ9VZik8_8VIqt7YYl8C_fPSlx5p-sKOP6939Nm76V4xXoWkpPidZ3vHQPKKr5bjKCCaxgWG3k7GWgRQmaegqTpsQA8W4inSuWoMtZSN_Q-dGxJA_ZdUSSGo9w7AJYPXpxbH1_hDQMaqQv_z8S0AkuVJFhIiTCHBn8qY8gXAhBDtfcyTV/s1600/HBO_Signature_Asia.png", HBO Signature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+https://dl.dropboxusercontent.com/scl/fi/4g8v7vxu9nqwz608szt77/HBO_SIG.m3u8?rlkey=0wpw3lr2cnqygy5f5rvsad8eq
+
+#EXTINF:-1 tvg-id="414.astro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4xYyLaPDvgSbd_7cryiYvxrE2GIj430teIkGOJOgdMDK90C6AnKExEzU34Pz6kj4l98GhrpE__541njClZEXiI49eAuOkm1sGLOTZx7cj5gjogIrXUtOrKvLlbxOhJblU-80UWSCtXlbeVIjBDlEZNlpmZGCgQCOElPl7xdqFpXVGl4v5WbWsCd5k5wS4/s1600/HBO_Family.png" group-title="TV Premium",HBO Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+https://dl.dropboxusercontent.com/scl/fi/in4900m4mvd6vocrthhaw/HBO_FAM.m3u8?rlkey=ib8qky6h6oyj8x6d616l5elow
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK0SLC0DF7_YTyVNyxhUHSiZ53zCgfpx-l7LZTD_cVt6ExuKn0nZoGB4_MqL4Qvis2k8yGUw2ER6WFOXEAv_uvTqBut-6-JTj3qChea0FlbslrlwAmJlj6W8DK8YRS_hWyde1ukgnYAXIkMOUcRLj3TgLmfhiKkzTO-F-472Tp0KSLN0KFNDzO5-Be-qT_/s1600/HBO_logo.png" group-title="TV Premium",HBO
+https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiU2jOZP-sBB6yAbvjjTET_Sgw6MNyQzXsJ4ukRKS_FcgmxNh1YczhoMu_fiCGmZ6akJiwyvVxE1yq0vd7sVSmWXpsIVmBLDSrvihpnGgm8064PHh7N7jCPFLp_DqSaLydlXRXNrwzgc10qkBTJXct0t-O0PZNcakK3JLwoonWIa8onzkY8c0WuCqNsPIu/s1600/HBO_Signature.png" group-title="TV Premium",HBO Signature
+https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SdhrqZap7k__gUaKy5_l3NaGYdE9RhyphenhyphenOizOZ52Fzp7zfMwBhSu0uXbjVvW6Ykz2NPtph9rTCu9zKguoBgh1Ui1VdrPYR7gWkONdYe9CqnO6nbIBpNXY9tAjcT7uv197tl1N-RsamcBrLGDkZNmqvlr71hJZYrUgYA2-meTBOe7JiPByBAbPWns_CMVrk/s1600/HBO_Family_logo.png" group-title="TV Premium",HBO Family
+https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyqmEc3h6l17pnO4jXSbERLFaXOWx8Xw600kReGoWlSVt9Pdqe4Zrl6KLR_yXgn4cxZVscCTv8QgleZVxyAySsl1rMGpIB23hzuDRJjo8GVVorBLiyRjthBWOwMvjrQ4C61sqKcbAEaUBFpPW-9yiffUHoUbY8zfVvJl2OIvUXwJTstfcyTyH81lsKCD10/s1600/HBOHits-ASIA.png" group-title="TV Premium",HBO Hits
+https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMC80G1E9Gxtdj5a2JeS0IIVn2blOHRIaY-T-TvVx5g0OyoQ4HcuvPf-vTTI-oPLqmMlcFFSqXrbq5GeGokYq_CAKhz7EeW4WZ-xEJikPoUPrgQC7qjcla1OUeN8UVsqTwZgFM0KZPkkNJB9ILQWCuZ0tQ6ZMHjG7Mhw844YiUml38UML0nRADs82pl5DD/s1600/HBORed.png" group-title="TV Premium",Red By HBO
+https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
+
 
 
 
@@ -1901,99 +1995,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHvgqpjCFvlZTCJmi_MQgd9cmYoddQP1Cwz61ynZivvHLvHkEC4N0vd7tzjR2VGGrP152QSZMiEKZ2jwxU90cWYC8ix9LpATNHHTfdxEgAZx7b9gTAscjf0Zp4zqVp3TDgzLW8xhtM-XMhKo7sX7ELvDjXraWWk2OeqCT4utDJBjlqT202BYSFzN3pkBX9/s1600/HauntTV.png" group-title="Film & Drama",Haunt TV
 https://bamcahaunttvrakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0ckiFO4mO-oZnvaGR2rXOGXgyGo8u-ERN2lpIIlP5oA4aVUYATVfQM2iKCi08TV34CO6D_n4iWbqQTOR95dyTPKLDkzC32OpOOWEyT_58WWE0ivN0ZwU3cTVkezS4kvLym-c0vh_Q03K6hy4cVJ18QGgocacuu0VQePMnTy1natprQh2vskkDJBe8Dqt_/s1600/HBO+%20Black.png" group-title="Film & Drama", HBO+
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
-https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0ckiFO4mO-oZnvaGR2rXOGXgyGo8u-ERN2lpIIlP5oA4aVUYATVfQM2iKCi08TV34CO6D_n4iWbqQTOR95dyTPKLDkzC32OpOOWEyT_58WWE0ivN0ZwU3cTVkezS4kvLym-c0vh_Q03K6hy4cVJ18QGgocacuu0VQePMnTy1natprQh2vskkDJBe8Dqt_/s1600/HBO+%20Black.png" group-title="Film & Drama",HBO+ FHD
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32934
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk10oLw9s0Im7BB2pfb0h6mEp0q5rr39wMKJH1Fj-aaNnLGBVajXoWAK_54y2b9nnIAY0MdBbQvOLbJIVMY-1zg4Qlbzpb8OdxBtUxA4AS8JGd03GrjPay6SGGqEQd_Rm24FYCWUCNyMusBGZm0xPPp-vls-5WhzR8pZn7wmDiE7W0OTAho6p7yEVQOnTZ/s1600/HBO2%20Black.png" group-title="Film & Drama", HBO 2
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=09e84fc7ecb71def143cd7e2771f3b35:1a91f2d315fb0593321ba60aa783ec2c
-https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO2-HD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk10oLw9s0Im7BB2pfb0h6mEp0q5rr39wMKJH1Fj-aaNnLGBVajXoWAK_54y2b9nnIAY0MdBbQvOLbJIVMY-1zg4Qlbzpb8OdxBtUxA4AS8JGd03GrjPay6SGGqEQd_Rm24FYCWUCNyMusBGZm0xPPp-vls-5WhzR8pZn7wmDiE7W0OTAho6p7yEVQOnTZ/s1600/HBO2%20Black.png" group-title="Film & Drama",HBO 2 FHD
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32930
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSe3zEd9brm-MfnXb0aHI5gYoMdPXAO9FYsQrmsqQK4NISncRFAx6ThE-AYMA99itnyvE5KjaGnUMSLDNBCV_VU4bDutef9_8rNBlOrR4DRL9q0KsOm5lnayhr3s7e-aXVXetEg66TSTAGpqho6kQDEtXGfb-8nsbLYU67lBOaIyGy9m0qsFIuKKvvNTYJ/s1600/HBO%20Extreme.jpg" group-title="Film & Drama",HBO XTREME
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
-https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSe3zEd9brm-MfnXb0aHI5gYoMdPXAO9FYsQrmsqQK4NISncRFAx6ThE-AYMA99itnyvE5KjaGnUMSLDNBCV_VU4bDutef9_8rNBlOrR4DRL9q0KsOm5lnayhr3s7e-aXVXetEg66TSTAGpqho6kQDEtXGfb-8nsbLYU67lBOaIyGy9m0qsFIuKKvvNTYJ/s1600/HBO%20Extreme.jpg" group-title="Film & Drama",HBO XTREME FHD
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32945
-
-#EXTINF:-1 tvg-id="Canal.HBO.Pop.mx" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1rx0cvAM_4coq9Kg8tfEGEanDd5VOj_97GzDAO0oWT9WJcmAcXrNPVCVQtOWcD6tedQl8ywa5gzCkyMV0fCUdvpJNH2PtnPUFIfFhD8ezXcTiuPOCdWikaOswEtWhEw46Zol58J3nz56kQo1V-DGk6GTRBxwRC4_eW3FbULqYeJUJZlbTn2e72yivS6Qc/s1600/HBO%20Pop1.png" group-title="Film & Drama", HBO POP
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
-https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
-
-#EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAhz0roNm93t8EuLNbG_03JWrLkzFKBO4mWggYd0w8j71qdtY9beKcVySr8mGelZMpf1hfq0Mfm3cPoiF46hhT-oZ9J0kIo-9gDo7JzsUPoSFVEubIx2N6w0koiAxWW8q3pdLidLBuqfKNvMw3lFJgQwnFfKnV0NFmBiZLFe3Ls0rznYlCgU5PcXBiq4mp/s1600/HBO%20US.png",HBO 🇺🇸
-http://212.102.60.231/HBO/index.m3u8
-
-#EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4xYyLaPDvgSbd_7cryiYvxrE2GIj430teIkGOJOgdMDK90C6AnKExEzU34Pz6kj4l98GhrpE__541njClZEXiI49eAuOkm1sGLOTZx7cj5gjogIrXUtOrKvLlbxOhJblU-80UWSCtXlbeVIjBDlEZNlpmZGCgQCOElPl7xdqFpXVGl4v5WbWsCd5k5wS4/s1600/HBO_Family.png",HBO Fams 🇺🇸
-http://212.102.60.231/HBO_FAMILY/index.m3u8
-
-#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3ILTqqZrv6FJcAbpLpgJ6xN83ywF3wxA8C-a4DqcPmbne3i4FEMENmAMi3_cBkt5RgFeZ_vcXe_neVabjKsY0MGqczpU3Q_M3f9Bb9VKrRfQZU0dUQyZOWc78fvvjFyuwsxhThkvG99kcqOtIa3APwFl_cVcGCsZ1_1sDkihMXhMM4_8AiVfJKXTWgalH/s1600/HBO_v1.png" group-title="Film & Drama",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-https://dl.dropboxusercontent.com/scl/fi/sbw7rk9t36fcv6zz1eltf/HBONEW.m3u8?rlkey=pb1ves3ot5funxgexdmxtoa3g&st=vruhuh1l
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiybBraEuXONWMtCtJSC4ZKWW5rgMqxR-sroICAZ1GKbEcav5xCGndtT9enkt47ar7MUXqE0q2GEmIyZGOQ5p6p6iDXPpHhvV4N4xXMcJ-3m9rOnphe4GaaMF0WNQUPo4g_q4TFuu0uY474faE0CPS1VdxQQtUIf2jMC1092IBBzYRtkdqJTzXR7_wAoi_m/s1600/HBO%20Hits.jpg" group-title="Film & Drama",HBO Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-https://dl.dropboxusercontent.com/scl/fi/mrhqmp2glr0z9fjrues9r/HBO_HITS.m3u8?rlkey=ea4y7k38ddra7dvyjwav2f5w7
-
-#EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF_q8w6BXOTKRRJ9VZik8_8VIqt7YYl8C_fPSlx5p-sKOP6939Nm76V4xXoWkpPidZ3vHQPKKr5bjKCCaxgWG3k7GWgRQmaegqTpsQA8W4inSuWoMtZSN_Q-dGxJA_ZdUSSGo9w7AJYPXpxbH1_hDQMaqQv_z8S0AkuVJFhIiTCHBn8qY8gXAhBDtfcyTV/s1600/HBO_Signature_Asia.png", HBO Signature
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-https://dl.dropboxusercontent.com/scl/fi/4g8v7vxu9nqwz608szt77/HBO_SIG.m3u8?rlkey=0wpw3lr2cnqygy5f5rvsad8eq
-
-#EXTINF:-1 tvg-id="414.astro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4xYyLaPDvgSbd_7cryiYvxrE2GIj430teIkGOJOgdMDK90C6AnKExEzU34Pz6kj4l98GhrpE__541njClZEXiI49eAuOkm1sGLOTZx7cj5gjogIrXUtOrKvLlbxOhJblU-80UWSCtXlbeVIjBDlEZNlpmZGCgQCOElPl7xdqFpXVGl4v5WbWsCd5k5wS4/s1600/HBO_Family.png" group-title="Film & Drama",HBO Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-https://dl.dropboxusercontent.com/scl/fi/in4900m4mvd6vocrthhaw/HBO_FAM.m3u8?rlkey=ib8qky6h6oyj8x6d616l5elow
-
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK0SLC0DF7_YTyVNyxhUHSiZ53zCgfpx-l7LZTD_cVt6ExuKn0nZoGB4_MqL4Qvis2k8yGUw2ER6WFOXEAv_uvTqBut-6-JTj3qChea0FlbslrlwAmJlj6W8DK8YRS_hWyde1ukgnYAXIkMOUcRLj3TgLmfhiKkzTO-F-472Tp0KSLN0KFNDzO5-Be-qT_/s1600/HBO_logo.png" group-title="Film & Drama",HBO
-https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
-
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiU2jOZP-sBB6yAbvjjTET_Sgw6MNyQzXsJ4ukRKS_FcgmxNh1YczhoMu_fiCGmZ6akJiwyvVxE1yq0vd7sVSmWXpsIVmBLDSrvihpnGgm8064PHh7N7jCPFLp_DqSaLydlXRXNrwzgc10qkBTJXct0t-O0PZNcakK3JLwoonWIa8onzkY8c0WuCqNsPIu/s1600/HBO_Signature.png" group-title="Film & Drama",HBO Signature
-https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
-
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SdhrqZap7k__gUaKy5_l3NaGYdE9RhyphenhyphenOizOZ52Fzp7zfMwBhSu0uXbjVvW6Ykz2NPtph9rTCu9zKguoBgh1Ui1VdrPYR7gWkONdYe9CqnO6nbIBpNXY9tAjcT7uv197tl1N-RsamcBrLGDkZNmqvlr71hJZYrUgYA2-meTBOe7JiPByBAbPWns_CMVrk/s1600/HBO_Family_logo.png" group-title="Film & Drama",HBO Family
-https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
-
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyqmEc3h6l17pnO4jXSbERLFaXOWx8Xw600kReGoWlSVt9Pdqe4Zrl6KLR_yXgn4cxZVscCTv8QgleZVxyAySsl1rMGpIB23hzuDRJjo8GVVorBLiyRjthBWOwMvjrQ4C61sqKcbAEaUBFpPW-9yiffUHoUbY8zfVvJl2OIvUXwJTstfcyTyH81lsKCD10/s1600/HBOHits-ASIA.png" group-title="Film & Drama",HBO Hits
-https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
-
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMC80G1E9Gxtdj5a2JeS0IIVn2blOHRIaY-T-TvVx5g0OyoQ4HcuvPf-vTTI-oPLqmMlcFFSqXrbq5GeGokYq_CAKhz7EeW4WZ-xEJikPoUPrgQC7qjcla1OUeN8UVsqTwZgFM0KZPkkNJB9ILQWCuZ0tQ6ZMHjG7Mhw844YiUml38UML0nRADs82pl5DD/s1600/HBORed.png" group-title="Film & Drama",Red By HBO
-https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg81UTlDJEWPHLwJcx8JT7pJscrtsUJYgyTJYVZL-Bw8u52MWWmsbevBj6B_r7BW6miBr69G_fGDqlkWLcsdFMQLaYRAvDKLqHq_G2dzqh06N4JDYg9_zMaDeen3VXndOos0gwFmFwG5i8wOKod1hmgywSMZjqubX-AKoadScdHLNJqxTSSBfx7ixiYXQnX/s1600/AlienNation.png" group-title="Film & Drama",Alien Nation
+https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist.m3u8
+#https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist_webvtt.m3u8
+#https://aegis-cloudfront-1.tubi.video/baa32c24-e707-4bf8-9f81-d26eb6baa3dc/playlist_1024x576.m3u8
+#https://aegis-cloudfront-1.tubi.video/baa32c24-e707-4bf8-9f81-d26eb6baa3dc/playlist_webvtt.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGPST8fRg9QY5oDd1IOZ2yLAercd10licPKWM1IoiD8dMJzduZ-c-04bMCTHCqTbrJwInim7HgMLZ9dCyxXypiQ66DkejCS7NliUoDGMwhlFahrvpYAzn_3ljHGnZXOc1HcMOBgWMrr8fiNBaLD3hQltAdDheOOPxzlIKsuk2KfKCgqsnAaCv1rzhOiNiZ/s1600/Warner_Bros._Television_2023_%28Alt%29.png" group-title="Film & Drama",Warner Bross TV
 #https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd_video_1_5_35292333.mp4?m=1725696893
@@ -2004,6 +2010,10 @@ https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8?l1br3date0702andAM
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0zIyvSA-aEGR1lT5ATzh1BU9GVWenK_hkPQb-IipW1Tt6mF6DmISYjoNJv6lu7amFQzuJkbEN-D1OCU6gGA-3nacwIZGHZWbaZKAK0ENWf9CQ1_uwzobfWlDzBpMwblyGGbG20whsRWaCtaFTrw7QDbGSCSQOqB958Gs7hes25LUkdKnaWqfXrw0DvbUc/s1600/moviesforfree.png" group-title="Film & Drama",Movies4Free
 https://movies4free-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJSBFIUjqQQrdMKHwwikx8NgOxaNz1jc2a7lxrsJmtFjZJuT03MywscVZfdCXcmX-n6nmvAcDvmfs5bWlhWa1WnXccfmwSBJWEVFPhd5RcXOT8HAIqoGfkRGXQgnbpnaPuQFtV7RPJUZzedVyBKp2l7hAlsPVTQJPNHGbYTVjoddVTzDwXUltzycwy5v5j/s1600/ACETV.png" group-title="Film & Drama",ACE TV
+#https://streams2.sofast.tv/sofast/acetv/AceTV_1000k.m3u8
+https://streams2.sofast.tv/sofast/acetv/AceTV_2500k.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTuWSQA_hNBBX_RuYSeCfO_T1-VtFHjNzp9dpZV1UFf33E498a50OdrGfjiEq8OWLrILriibG3ZHk05FneIMyNqhqrvuGeVVcIWH8Hm19TpUUkAscLgDEXSOb_z8PfoPPeESCUGvgrhgJcMuh7S6pFwR0BoKQleXAUd-qjzfqiZPg16-mV4D5eULi52Neq/s1600/ion.png" group-title="Film & Drama",Ion
 https://live-manifest.production-public.tubi.io/live/4ed608c9-863e-4ea5-91d1-27549ef1adda/playlist.m3u8
@@ -2050,7 +2060,9 @@ http://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 http://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8 
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvGzr9jq66uNC9ScSqwbz8tGsahcCXYvHmcPacnt0-YCoGyBmswpEcWdJiuqAceCaEnH3kE03H6MY3QL5gM8EIydPh1QQ3KVAeUmuQ4DACDlKK-C3LJdaVvWmXU25qZk9GT134XkaqaJvF8MSx3SAQuOu0GA4B-t-qGHSiNxPu0L0N-ErwSfwEIl01hgst/s1600/Cinemax_logo.png" group-title="Film & Drama",Cinemax
-https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
+#https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
+https://fl31.moveonjoy.com/CINEMAX/index.m3u8
+#https://fl31.moveonjoy.com/CINEMAX/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvGzr9jq66uNC9ScSqwbz8tGsahcCXYvHmcPacnt0-YCoGyBmswpEcWdJiuqAceCaEnH3kE03H6MY3QL5gM8EIydPh1QQ3KVAeUmuQ4DACDlKK-C3LJdaVvWmXU25qZk9GT134XkaqaJvF8MSx3SAQuOu0GA4B-t-qGHSiNxPu0L0N-ErwSfwEIl01hgst/s1600/Cinemax_logo.png" group-title="Film & Drama",Cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -2067,6 +2079,8 @@ https://live.cdn.joj.sk/live/andromeda/wau-720.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsYKcXsSdgz5iCoA2Y_4VWmsN4C3gWWtTg4NN9YeJlXGgcYFn6a77I_wWcTGFCvPmStyo0_mJZBQHYf7vS7AXFZF7cK_JARE4i00W7-rCObibRCwcJhDYWjH3LDG-i9L5TX8ZYXDe_xpYUPQ5Gw8tXzdtg5foVsBDRe2Gati_t-XRvBvmKzyURd0jANjij/s1600/strapline-01.jpg"  group-title="Film & Drama",Discover Film
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUP18cneUCSWbQCqmUtFsHxE7j9UA6NQctLrpFHO-WDTE5-4vEPytUZHr8-VXgVctx0d9lPZpbFi-kC2pJy1n78wU-BiD0nKOw_I03yoGBqSQtkMxvh5o6Y7E-ZXJPzfjZx-rqN_XSQKorAg3A8DVkcT5KdpiETQpOtRU6HJoWR2JIe75CREKD1wJkmNEG/s1600/Action%20Holywood.png" group-title="Film & Drama",Action Holywood Movie
+https://streams2.sofast.tv/sofast/acetv/AceTV_2500k.m3u8
 
 
 
@@ -2890,6 +2904,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
