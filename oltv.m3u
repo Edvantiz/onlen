@@ -1665,6 +1665,10 @@ https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiTeG_bg3rmLiLLoPRu3WR35gTtIK5fe-TUwqVKrRb8TWkCVaONlDSHhS3hEHdHCPkme6Mf1029vR-ZKv6dGm5CRN4PeZKO13Hs3C3gPRIw083s5iW4TdRvwwD0HxR_7fBvvdlokckZLY8qkmZCf7zBaXt4fhLc5r6hjQN0q8aD_8zuWqBeKQ3A9BCSKIC/s1600/CGTN_Documentary_II.png" group-title="International",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvxnn4dajxDk2fIXiCxOrb4sA_WSoesY4H7CIs-kuoscbOeVKPl4nV1cMw4ymF6kPRRdJp-YqRp3V4GoYZ5gNg7vUIbPH1wFdZtj5nCSb-igIgdNdLMPFQbb2T8kpbSVLOecx5UrHogXqBX-yty-f6qLVGVt5uW3B5y3AGrrbglO3AYzil9-lsAHZ6dbqq/s1600/The_History_Channel_logo.png" group-title="International",History TV
+http://104.255.88.155/history/playlist.m3u8
+#http://104.255.88.155/history/tracks-a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7hs3AFzP_DN-XO9OYVBAF1-BLDIAUWGlxySqQPvxGhczXTxwk5LYAtq3_KS25u3f1HJ7KaBv5CB8whU_y4LKZev0i4MsX_aPKvVqVw5_W0-VVIEiDPS6GNflv09qq_FF-X6JATQsEBSw5hVdvHKqwxmY3Sqac77jfIzt7eD1RHrHgjusaXwc30XRqS-2T/s1600/MakkahTV.png" group-title="International",Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w69057261.m3u8
 
@@ -1713,6 +1717,10 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIuTujAMAb6bT0Sh3lbm3cZZQprAv4OpnKjI4kgV0QeXWf3m23ZMbnS2YZBXvL7IZ2jfuQEkdpjAkm80IVpX3kfBEiCN1UQeygkBDH75Z_0KXG5UkDrxlvy-gvxLV_b4ayCIr1mdM49Huh_riGWbaFlDxiflVO5XNiaPWPU6Ax6B_QhT4iL7fAoSvDyeyJ/s1600/gousa_logo_color.png" group-title="International",GoUSA TV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Li5GYyuE8SoJYsEhBsrf
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjybItg1_pkppU9sF2P1Ij857JZ1GcImBYNFyfzjBqK2kBWT0kgP4riN7bCUReKUAee1WRHR6RIXjG0p8Z0jGeB_dYftQyWW1JrCgrdoa9l3-7_9rKN-8sM7B0watgk1GaTuQItvsZp6mZEmxha1CKFxw8pOpxbOb9OoiW68QUk8poeVFEkKh_dj0Ki7kGT/s1600/OAN.png" group-title="International",One America News
+https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
+#https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6xVOQHqcwKWqzkfgBrdu0GbiraEeOGzL25PUwni9BTqbAVU6V8XEwNOHMMGyjQGjjOcJhMJOytRRuwMfKyjEq_ompMXcgGj5q9F97gJMpi_AYPgxqv4FqdSiFLWPOPNGGfu0VvuMywnkdhlVVhFIA9_pACaxikEvTgGfc8UlPs_r0HJaVTKzqgscBEJiv/s1600/Russia-today-logo.svg.png" group-title="International",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
@@ -2184,6 +2192,10 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1I520WkR1a2Cks2rGRCvuNCvk8zlFjGwzlLgR3W1VlUnQVtnj4FVJKKlcE30572Xil9kMxaGWgtLEtNAwUiol5LSAVWAV_uMywwv4sUSK7in_YR749XwHSj5YCDdWzzrCzekHBbHw6O3-TmRECpxTXqbgS_uAaBG0PuV_jrlPUpgbLAgHrznH5J3-cyaQ/s1600/MNX_new_logo.png" group-title="Film & Drama",MNX
 http://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyUz6v9F0ZlVboSi7Kv4RYTNj8HvS728toD7gv3zCJjxez3uKkzARZ4Oah296shoV6ZEJFREM69F8CGTL0hcDJJlKcNe2XpeDrnymVkRqZTKL243mHFZRFLC2wStGTXa3UhddZOVYHfTQ4S7hUO1Js2jhp9M6Dw6gcSLgOJBB1bxubSYR7Qx8gFR9CqRtb/s1600/Tnt_tv_logo_old.svg.png" group-title="Film & Drama",TNT
+http://104.255.88.155/tnt/playlist.m3u8
+#http://104.255.88.155/tnt/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZfR_c-CnT5ggK8uQCw57bxERJ2thSUHo3CxRD7su250vqQqXoh55Xir6mK-9LnQmMnGzzdX2ahxI7IZMpXlY3P2s48K93tsElSQUKfm2BLQM8H0J6-v3ukxpyp6EKpAbd4zi9XJYQGHdk3VJ-pWfJA6Y0NFksPOrsd_SV037KzIzNG9FrDG8UbPOnZmta/s1600/Logo_oneTV_DE_2016.png" group-title="Film & Drama",One TV
 http://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8 
@@ -3595,6 +3607,7 @@ https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 
 #EXTINF:-1 tvg-id="AstroSuperSport5HD" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/841_300.png/revision/latest?cb=20190319023656",819 BeIN Sports MAX HD
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6748
+
 
 
 
