@@ -1333,6 +1333,10 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgojjg8VDGgvkRBnNVkFMLAefIBhxpjFNtnLp_SKU9yvHinqctvDWmaFeBMOKXx-OJGNKOZ5TTkAk9EVqfruZzaSlrzCC1_SNcAlA5_Gd7SJXhU3yKZPLTkeM9ksJzIKPOA28Vp2gREtnD0t95b_nDRE4UhPs0GFqCT0yt9-QumLUPVS10VWSMZhbRExtS3/s1600/Nickelodeon_2023_logo.png" group-title="TV Kids", Nickelodeon
 https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgojjg8VDGgvkRBnNVkFMLAefIBhxpjFNtnLp_SKU9yvHinqctvDWmaFeBMOKXx-OJGNKOZ5TTkAk9EVqfruZzaSlrzCC1_SNcAlA5_Gd7SJXhU3yKZPLTkeM9ksJzIKPOA28Vp2gREtnD0t95b_nDRE4UhPs0GFqCT0yt9-QumLUPVS10VWSMZhbRExtS3/s1600/Nickelodeon_2023_logo.png" group-title="TV Kids", Nickelodeon
+https://fl31.moveonjoy.com/NICKELODEON/index.m3u8
+#https://fl31.moveonjoy.com/NICKELODEON/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgojjg8VDGgvkRBnNVkFMLAefIBhxpjFNtnLp_SKU9yvHinqctvDWmaFeBMOKXx-OJGNKOZ5TTkAk9EVqfruZzaSlrzCC1_SNcAlA5_Gd7SJXhU3yKZPLTkeM9ksJzIKPOA28Vp2gREtnD0t95b_nDRE4UhPs0GFqCT0yt9-QumLUPVS10VWSMZhbRExtS3/s1600/Nickelodeon_2023_logo.png" group-title="TV Kids", Nick@Nite USA
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
@@ -1341,6 +1345,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwgzM8SVzGpK0xMyhyevt9vHg6TC1QL0X4cn5hBHRI1kc8NjZ2uUO1unr4twXfd-2AmFcB1hs33nZYuxy8EanAefF31ApQDe8LIXgSGGANEf680vsJFOU3wuGmQ346YPGDMvuSAQFF0FOB52hy1SpDpnyk-qb08FsOimtARjfXYTvDRwHZGSvmZ3o5f7x0/s1600/Nicktoons_2023_Outlined_Logo.png" group-title="TV Kids", NickToons
 http://143.244.60.30/NICKTOONS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsmC5wiG8PSv5H3S6kdq8B5ok9Uzy1-Wwa5e7toBj9cDD32Don_v3niQ_4PSqLV1UfdfqNEqTvplQu9vIxnWXk8TjJR5KBsPthusM5TEboqdILEVc1U8QIC5eYjPt47W0yDUH-QZewyW6NLXiC6ckZjEwh2rDn6w9n-yG9TerW44uGxTfm7m6Nd3XFv8ju/s1600/Nick_Jr._logo_2023.svg.png" group-title="TV Kids", Nick Jr
+https://fl41.moveonjoy.com/NICK_JR/index.m3u8
+#https://fl41.moveonjoy.com/NICK_JR/tracks-v1a1/mono.ts.m3u
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsmC5wiG8PSv5H3S6kdq8B5ok9Uzy1-Wwa5e7toBj9cDD32Don_v3niQ_4PSqLV1UfdfqNEqTvplQu9vIxnWXk8TjJR5KBsPthusM5TEboqdILEVc1U8QIC5eYjPt47W0yDUH-QZewyW6NLXiC6ckZjEwh2rDn6w9n-yG9TerW44uGxTfm7m6Nd3XFv8ju/s1600/Nick_Jr._logo_2023.svg.png" group-title="TV Kids", Nick Jr (Pluto)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -1403,7 +1411,8 @@ http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWIm9u3fAxjK-4lD-4i_08BhNJn10Vlzi-3rFb9RdtIGdwXbY499WiCx8oERTImjR_UTjv0qW68EdtCwjNcmrpguT2SerIirB2DPmCltJrWPEIfT0bHad7SYno7WqBxjyMgSWuU-pFJ1_pFTPb8bMnOkhkcvZsdamlyCSYKE07Kn-sX8hsTU9q3XZfSx5H/s1600/Cartoon%20Network.png" group-title="TV Kids",Cartoon Network
-http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+#http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+https://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9t2MeAlGHWZZ5OFUeFJ1C-d9pPCeZ1uUMYrTRQ-gQgHVb4atZ0aNaxdEeRKtzQ7JU5eMwcbI5ljmivXqKdDYbVD5wTwZKSquqvFGFgJvQA-n5ZwtvMhpMLRNKix1H4ieFINixa4powa7njyp51dVy-5TN8gFtdfVaxDN_fwOQOIcYTbDHVBGQOiDDL-68/s1600/Dreamworks.jpg" group-title="TV Kids",Dreamworks
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1420,16 +1429,27 @@ http://210.210.155.35/dr9445/h/h144/index10.m3u8
 #https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD
 https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite&chname=ANIPLUS
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinCV61k60yepJFy4mkEGJebGjXt0HJ2OTalQ3Q-KvK8wMJs9GROf8qEYmwTSUPRuqdNaIbxOnwame9vc2TbxXdfXwYSwDq2SP57Dw1QBwaLIrPJOgO1_VXnDGCee7mFZzSFq1ItZUtOIaYofohzVXluqvw9a_SQEa22vC18GBCxTqrvcXG-g-R2D3G1b8s/s1600/Disney-Channel.png" group-title="TV Kids", Disney Channel
+https://fl31.moveonjoy.com/DISNEY/index.m3u8
+#https://fl31.moveonjoy.com/DISNEY/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinCV61k60yepJFy4mkEGJebGjXt0HJ2OTalQ3Q-KvK8wMJs9GROf8qEYmwTSUPRuqdNaIbxOnwame9vc2TbxXdfXwYSwDq2SP57Dw1QBwaLIrPJOgO1_VXnDGCee7mFZzSFq1ItZUtOIaYofohzVXluqvw9a_SQEa22vC18GBCxTqrvcXG-g-R2D3G1b8s/s1600/Disney-Channel.png" group-title="TV Kids", Disney Channel East
 #http://38.96.178.201:80/live/Disney/index.m3u8
 #http://212.102.60.231/DISNEY_CHANNEL/tracks-v1a1/mono.m3u8
 #http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/2303
 https://tvpass.org/live/DisneyChannelEast/hd
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSa5zMnBsEYh1Dt-WdVRWAGqxg5u8otQuRgoTwQw7xP8BS87Szyiwnu5QPijD0Fwjbr7qGh2RxEvN8hZbrajAqsE0bDZqYATRkSAQsL9iEXs4MUyJqaC-Ow1diXxMoELDuI8Eu9852Fd_y-Fin18zf6bIE4ECFm0DATpGXzQr5dvrSOnd7aMC30xxoCGLJ/s1600/Disney-Jr.png" group-title="TV Kids", Disney Jr
+https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSa5zMnBsEYh1Dt-WdVRWAGqxg5u8otQuRgoTwQw7xP8BS87Szyiwnu5QPijD0Fwjbr7qGh2RxEvN8hZbrajAqsE0bDZqYATRkSAQsL9iEXs4MUyJqaC-Ow1diXxMoELDuI8Eu9852Fd_y-Fin18zf6bIE4ECFm0DATpGXzQr5dvrSOnd7aMC30xxoCGLJ/s1600/Disney-Jr.png" group-title="TV Kids", Disney Jr East
 #http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
 #http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8608
 https://tvpass.org/live/DisneyJuniorEast/hd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZIR7HSFvLNYYpVbv8ye733UUhJuH86Uh20Xnuym5QGwvofpBYgKPZpUcmHuaorpcd0EUMOesR7LN6RZ-WbIxS3RffsgrcTSuuFK-fm7sSg2IpUT9t2-KX9Z5KZCu1UF4DZDEhe111vYfjF45y5mdU9716HjUHceFRPuuZn72ceMLoTVWo-qyh49Zvoi89/s1600/Disney-XD.png" group-title="TV Kids", Disney XD
+https://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
+#https://fl7.moveonjoy.com/DISNEY_XD/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZIR7HSFvLNYYpVbv8ye733UUhJuH86Uh20Xnuym5QGwvofpBYgKPZpUcmHuaorpcd0EUMOesR7LN6RZ-WbIxS3RffsgrcTSuuFK-fm7sSg2IpUT9t2-KX9Z5KZCu1UF4DZDEhe111vYfjF45y5mdU9716HjUHceFRPuuZn72ceMLoTVWo-qyh49Zvoi89/s1600/Disney-XD.png" group-title="TV Kids", Disney XD East
 #http://212.102.60.231/DISNEY_XD/tracks-v1a1/mono.m3u8
@@ -1501,6 +1521,10 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnrM2QNZGAuhsaCrwkNZ6PJogC20Ql7A6mxfU-q8if_Qt0KCoZOiaz0pptQ5mzkAETIXjL0ZFCGIvzmajIEPWF-ljbqTdbKNdYoeBa4YntKFE750zu7cLWfhemQ8AqjXknFOE8qatlG-SmCQvTjIHb-88dyIK5AJZuJMo_nF6K7FnueokGvFwTgHLxghyphenhyphenh/s1600/BBC%20World%20News.png" group-title="International",BBC World News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_2000000=11-mp4a_256000_eng=9.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggEH5CepLm_cqbsel6PbejTDnakaEZIHP3IPC8YhXX_nqheuTPWvrIq12Ri8xOsbDjEizPF5aBkriXUthaLbRfDQ6YDBfL_9R5vyQKTjIhZmKF05l7xxPV5Q-zgJO3G7y9ZF1yGIKeJPQcTww2_4AgykTAqtK31dsnfKcuEfPlQTh4zhVuohV9bYvThaQl/s1600/BBC%20America.png" group-title="International",BBC America
+https://fl31.moveonjoy.com/BBC_AMERICA/index.m3u8
+#https://fl31.moveonjoy.com/BBC_AMERICA/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9vPDdyySlJZwnR1Nn-2i07WrJbnX0dCood1eRGOzogk-Y6eofwamsJUZV7Cyy0a2xlEa1i2KU5T4OQw9it6m5_52nW6V2JzF2XcYNcc4aOQCEudhFr0-MSkV6iputC1Rr6F09JV4CCrBrfSqC4-MbsH3H1L4R9feOLkdgMgTb_ymgfX_qxCZdO_HSiHAf/s1600/BBC_Earth_channel.png" group-title="International",BBC Earth
 https://live-manifest.production-public.tubi.io/live/88810cb1-e91e-4f19-870b-513ffc9a39cb/playlist.m3u8
@@ -2903,6 +2927,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
