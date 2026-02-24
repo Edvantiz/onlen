@@ -840,7 +840,7 @@ https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp149IOvoQSQL5pSTAsOLVBfnEiIHyUOhV6EkDN7xuTeb20CQHcyzY-wZEQ4gSvQR5OyJQrjJo5vw5BWQuI662i49KUWF9E39UQYPmch0_QZU7ViLht6LlE_ji9z8SNecCP0AHOyk70AnrSnbLo-0ve11lrIP47KtZb70er3a3SCHzNT6D0ia3DlyIlS1P/s1600/Logo_Salira_TV.png" group-title="TV Lokal", Salira TV
 https://live.salira.tv/p/3870/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibKZRKqVGQREGZYp2YHiaN6q3gyfXYLqtuvkWmffI-1mU0_SLk3uVa9zM75TA_mVvTlcngEnILvSbZIbJCINHamnLTyeH0NFa9gfoGZ1W7r-dMKUITvFHHOZ6TlkaduVVfshneaX2aI1YC43sRW30LXJXK_Bul6odCzhby2EQln7Z2SqdRCAoYgOepdFkN/s1600/NTV.png" group-title="TV Lokal", Nasional Tv
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibKZRKqVGQREGZYp2YHiaN6q3gyfXYLqtuvkWmffI-1mU0_SLk3uVa9zM75TA_mVvTlcngEnILvSbZIbJCINHamnLTyeH0NFa9gfoGZ1W7r-dMKUITvFHHOZ6TlkaduVVfshneaX2aI1YC43sRW30LXJXK_Bul6odCzhby2EQln7Z2SqdRCAoYgOepdFkN/s1600/NTV.png" group-title="TV Lokal", Nasional TV
 https://tv.nasionaltv.com/ntvlive/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjchqfLKfxb-BHLByCfRaxI9N4dB38f__8aicz1AjMA1XhnTClOxOo3NMNl2JVXo0XHBce-i1jTQalE-jviTIV30JARQxCaDx-c2N22EAq3B8vo2Cu17hKo-3pnUjIl8jEoxVwWsSyvwV7r_m2ym86PugAvzLBrl509c_GJXZp8JFxMtUEvNj3w3B0VwF4F/s1600/JayaTV.png" group-title="TV Lokal", Jaya TV
@@ -2890,6 +2890,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
