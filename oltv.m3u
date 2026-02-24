@@ -1177,6 +1177,14 @@ https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRIb4fSyD4iaYhICgFPEeDZKBoNcsoUzMIoxtjHDir8zOPUQREoiAi7xbnIO-6gv-YNgqf77O-t4x9Isua6ZXDo3Z9EzDiKFjc_kC3Gd-BqaIlCphez6KFWcZLPRWCksw5Pl1e0H-d9-XGzLL1wvSXeBgcTj5IANgOaMPpORjAp5qMkh41Jo3_vQ5IXf0l/s1600/NOW_Rock.png" group-title="TV Musik",Now Rock
 https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHnpbKOO__FLMplp9UVm-HxCdIv6dEMIVIxwmz6jbptXWTdUFV-bgPItgkSoR2xhxU2wNZ1VEBIEtjqePjcFbQgeTzKFff77smeA64FkL_xGzfxvG-0FS6VFQWTUeZRYd2asNXf7fhG_AP6gQsR-ECvwlztQLm_fGpErClN2HORrHx9krG-tBSP9ME7Yts/s1600/MTV_Live_2021.png" group-title="TV Musik",MTV
+https://fl61.moveonjoy.com/MTV/index.m3u8
+#https://fl61.moveonjoy.com/MTV/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHnpbKOO__FLMplp9UVm-HxCdIv6dEMIVIxwmz6jbptXWTdUFV-bgPItgkSoR2xhxU2wNZ1VEBIEtjqePjcFbQgeTzKFff77smeA64FkL_xGzfxvG-0FS6VFQWTUeZRYd2asNXf7fhG_AP6gQsR-ECvwlztQLm_fGpErClN2HORrHx9krG-tBSP9ME7Yts/s1600/MTV_Live_2021.png" group-title="TV Musik",MTV 2
+https://fl61.moveonjoy.com/MTV_2/index.m3u8
+#https://fl61.moveonjoy.com/MTV_2/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHnpbKOO__FLMplp9UVm-HxCdIv6dEMIVIxwmz6jbptXWTdUFV-bgPItgkSoR2xhxU2wNZ1VEBIEtjqePjcFbQgeTzKFff77smeA64FkL_xGzfxvG-0FS6VFQWTUeZRYd2asNXf7fhG_AP6gQsR-ECvwlztQLm_fGpErClN2HORrHx9krG-tBSP9ME7Yts/s1600/MTV_Live_2021.png" group-title="TV Musik",MTV Live
 http://190.102.246.93:9005/play/a01p
 
@@ -1712,7 +1720,8 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 https://tvpass.org/live/NationalGeographicEast/hd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj9NZoEzCuaTJmJM2q9ePBcfkB8xxotFqTEfdMLJH4wDpkMyACwJOGLtUZigo3Tst9DA9iojk1XmBbeMIPtwBkE4eQbik680VH37eCXuM_vZFC8ud9q1iEzNe4cQOCy3A070gQluBwMxILhKocRqLGHRBq3HfeSuU-BOu9hkL0fnN2mrfDlfi8bHQzJ75i/s1600/NatGeo.png" group-title="International", National Geographic East
-https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.ts.m3u8
+https://fl31.moveonjoy.com/National_Geographic/index.m3u8
+#https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1kAjQ5o3jxEsaoZa0TIAtZukdA1N9mzGfrOi4T1g24-Qu5aOkdtzBf0wvcvLSfM7_HE1jEn7DGFdmhf7v8ZOm8JyHiSGSz2vW9ACUlBgzdyrORJrNuKG1cfPWTefVgojrPYtAPq-V5z4rqGgr6cK-Ujkk7C14eFLzdV3tRs8bUIHUDCu2N7M6k8Sw8RyI/s1600/Nat_Geo_Wild_Logo_2006.png" group-title="International", NatGeo WILD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1725,7 +1734,25 @@ https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.ts.m3u8
 https://tvpass.org/live/NationalGeographicWildEast/hd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1kAjQ5o3jxEsaoZa0TIAtZukdA1N9mzGfrOi4T1g24-Qu5aOkdtzBf0wvcvLSfM7_HE1jEn7DGFdmhf7v8ZOm8JyHiSGSz2vW9ACUlBgzdyrORJrNuKG1cfPWTefVgojrPYtAPq-V5z4rqGgr6cK-Ujkk7C14eFLzdV3tRs8bUIHUDCu2N7M6k8Sw8RyI/s1600/Nat_Geo_Wild_Logo_2006.png" group-title="International", NatGeo WILD East
-https://fl7.moveonjoy.com/Nat_Geo_Wild/tracks-a1/mono.ts.m3u8
+#https://fl7.moveonjoy.com/Nat_Geo_Wild/tracks-a1/mono.ts.m3u8
+#https://fl31.moveonjoy.com/Nat_Geo_Wild/tracks-v1a1/mono.ts.m3u8
+https://fl31.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3oB0mmsmfrt2eUZQ652Dky5MAcXtAhSdLksJVRaWFXtg-ou9TPzZGzlwNxpT3UJQ9mdi6Y7McvhkILIjLOqIyUcbp_0ItlrXt3iLw-9jlMOQrvRvXMXa3VXqLJkt7R3RrQUqMAOQMMpRTsMrl-MzLLefEqOUZGNEAoGQUJJmpbzPy9q3tzaksPZ2DhYJB/s1600/SHOe.png" group-title="International",Showtime East
+https://fl31.moveonjoy.com/SHOWTIME/index.m3u8
+#https://fl31.moveonjoy.com/SHOWTIME/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGEYT8kb3oY6WcO9Ev0TfPGlFyVUKJyJwEeZyArb6Nd5-fx0-oC-SS_CTPyasHkqG3EWKTiysj-p7xBx4jVlvhZ_DVsDBo8AMjTBtrch_75OWdvFYHwGGPWLblfbkkOh5Of1SIqNyonim7uGOlq4uPL-zriqjeJukrhcj_0B9RjL_R63g9ozhTdP9AYi-I/s1600/SHOw.png" group-title="International",Showtime West
+https://fl31.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#https://fl31.moveonjoy.com/SHOWTIME_WEST/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvZUMepMd9rjuGdEGZzZnR06Ox_hiYrohul4-8iXairriyqW-jVFoiqVhu8cEF5x9Nf6oPK6zzHjyVI6Cqxpkp_tjPSKC_6CgC0-K7AtBpQYyAL2Vsh86dpn-QNbmUDTm7iOZzwwv_wtl1Wu0QOTrZNn3Gh7mC2KPMvf0VX9raxJeuRqn3nUUFWBesPmp_/s1600/SHOExt.png" group-title="International",Showtime Extreme
+https://fl41.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#https://fl41.moveonjoy.com/SHOWTIME_EXTREME/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghRRm9J2-3ENJVoSpvQbABLvYaSkeWTw6BX4cGkW5VCH8jvDZ11dfDG5M4x9n5zWnIGW0U2jWS1B6E9qWN0cH59R34LgRtgIQtEdxRPAsGChQGyj4JBRx4QG2bMdrM0PXdI7CHEh9Eg0-VWVrwoYuIChXMMSqzCu19MhCi0NqntW5AR4aaiuGuGPRzyg_A/s1600/Showtime_Next.png" group-title="International",Showtime Next
+https://fl7.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+https://fl7.moveonjoy.com/SHOWTIME_NEXT/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAS1u6nVBsxCUyL78kPiPptuiqxWRo32NHb84MWiArH0wcph6PCT1q8kMBTgc-zLThVxtPH20dPgj3ThFFA0nwZwVTYEy0SKB_GDHR6kNQG4Exvx8iQGClT_b4YIz8WXGFgXyS5-KI4F4_gm7dIxawxgGCPjOQ4Oom5MeN6Hr3tpxEZV8au2r6ovDgMQ7r/s1600/animal-planet-logo.png" group-title="International",Animal Planet
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1767,6 +1794,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp81GsUehhDXzwynxGD-Dj7Rk0V5RJyw-dCREsSk_2ljEKvaXjEPx9Nd968T774PM3lyWEgT8tjbMcNvx9b_l9m2F6jPqWb5TcWRDTyz7FZF5YzLCZ1d0qr-IFl4fb8Eil68nNT62L_xbzLAgGuMBbIGnoVlJbNgRYqhtKAVhUYYZyGLGRUPo1JRGCWz-K/s1600/Earth%20Touch.png" group-title="International",Earth Touch TV
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJybScgG9cjSapIExrjwKLgwJybzdJxG8W51kwHL_zQ_yXKQcg2Bh6XomDxE_ZdlusRPCioRxiwg1MGrVSXuMcKDHkabxqB1wg1YxNGrrCe9RCqXDLrmD8gUPOdDT_Uqd5fM2Xw2WbK7GQ-Qdf73GQNJSvno9cTY8YTT_f8ZU3iWDFRYgMxSmm-1zstyuN/s1600/OWN.png" group-title="International",Operah Winfrey Network
+https://fl61.moveonjoy.com/OWN/index.m3u8
+#https://fl61.moveonjoy.com/OWN/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpxwt_tgPRHCPWqFiVgnoc4_eOeAHbTncOTBn27iGsokR-TmY06wHZIAD4BZpwOZkrTQO8mnBf-SHxwZAQvqeGIV1fRcCMQb9-EIo5QuzNJeo9BoYqXZrx1Evqo0JKaZ3k1k3oYOS6DlkznCUawQqa3BYIKKOMBiwbEdimf7t11CPE-VBmYx-ct0iL7OPU/s1600/VOALogo.png" group-title="International",VoA
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0480.m3u8
@@ -1833,14 +1864,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMo
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjglResYWOvxYdGLEK7dEV713ykQkhVFt4HydJgYi9DrAXSD2Re_SILJb35iXpkLaSRSXJHToKHpADWEXTcOEqUytUDb5lcJ2LWzcoJ6qORBsw-UJY2AWfKv8rMcbXa9kZPwz_MbgVhZby8pWeBvat8ORipk0h73ZvOh3nyFj9fXA-4acQOupULhja2GHGU/s1600/CinemaWorld.png" group-title="TV Premium",CinemaWorld
 #https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/cinemaworld/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8v8tZNV3tNZc-Z8yC5vDFwJRD-iDbKzfv0EmQkcZZDH2Ux0_leVvoMntZDQs49rRlUCZzqEQIzfSlPR0m5XgMo7yIGknWGuCBpzhmvFTlSVkN_doaP8oLC59Z9aEFlIZwZrVyYleCINeZNfuIFfdtRcuvWitpEchX-q-PXu9flS6Hr8enXY-eXE6gg5T7/s1600/KIX_logo.svg.png" group-title="TV Premium",KIX
-https://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh85RVp1RX1ObgaMxQW8rc2mi3VmEt8cBEfv-YiHq4xFXrzuPACGPig131RSDyXVhJe1wyR8W1q71HDg2igdlVWNA3AlaMlRAOBSh2dxeCLJHbvp5B_zgizxOltvg7T7yAe6RSfO74sofAFVW69Oj1dF84QwWqai4_YuMcLxskfKFR2Y5-EOHu5_z9eXkmx/s1600/K-Plus_%282013%29.png" group-title="TV Premium",K+
-#https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
-#http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
-http://210.210.155.37/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKPYHnLjHC5zoeWw_H2qGDtJKwnc8Xe5pmCRgHakOflxszEGgqcqHposNJj3xU1eS9HS9HSdin-3lhaEuYEoap0Wbg_XirKR0XfX6JfWTbsgGkvwsZpwIOoTBa7MyFqF4VFc0E2-C2BWFBSh9j7WeMG3lI0gCZXz0xiefNyQkf2iBGsrz1PEGZewpJlPLp/s1600/Rock%20Action.png" group-title="TV Premium",Rock Action
 #https://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=lite&chname=ROCK_Action
@@ -1915,6 +1938,31 @@ https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBps46_Uk3oC0M28-YcJrTPa8msGB63mOXPPi6DQEpBrrMqpuhhLfKC2A3jWnekVWPUloiIpUvU3omBiS4M3VOMWIyeNjIIir9SZjQDnqQWGTpNSfsHIHVBcLeYdJ0KKwzK-hocH6LMqpejKWujKM_GvP5GLWun7OnJbK6_Qo2YmObFlEqMfWMJD8ab2UP/s1600/densknow.png" group-title="TV Premium",DENS Knowledge
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
+#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3ILTqqZrv6FJcAbpLpgJ6xN83ywF3wxA8C-a4DqcPmbne3i4FEMENmAMi3_cBkt5RgFeZ_vcXe_neVabjKsY0MGqczpU3Q_M3f9Bb9VKrRfQZU0dUQyZOWc78fvvjFyuwsxhThkvG99kcqOtIa3APwFl_cVcGCsZ1_1sDkihMXhMM4_8AiVfJKXTWgalH/s1600/HBO_v1.png" group-title="TV Premium",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+#KODIPROP:inputstream=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+https://fl41.moveonjoy.com/HBO/index.m3u8
+#https://fl41.moveonjoy.com/HBO/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK0SLC0DF7_YTyVNyxhUHSiZ53zCgfpx-l7LZTD_cVt6ExuKn0nZoGB4_MqL4Qvis2k8yGUw2ER6WFOXEAv_uvTqBut-6-JTj3qChea0FlbslrlwAmJlj6W8DK8YRS_hWyde1ukgnYAXIkMOUcRLj3TgLmfhiKkzTO-F-472Tp0KSLN0KFNDzO5-Be-qT_/s1600/HBO_logo.png" group-title="TV Premium",HBO
+https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk10oLw9s0Im7BB2pfb0h6mEp0q5rr39wMKJH1Fj-aaNnLGBVajXoWAK_54y2b9nnIAY0MdBbQvOLbJIVMY-1zg4Qlbzpb8OdxBtUxA4AS8JGd03GrjPay6SGGqEQd_Rm24FYCWUCNyMusBGZm0xPPp-vls-5WhzR8pZn7wmDiE7W0OTAho6p7yEVQOnTZ/s1600/HBO2%20Black.png" group-title="TV Premium", HBO 2
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=09e84fc7ecb71def143cd7e2771f3b35:1a91f2d315fb0593321ba60aa783ec2c
+#https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO2-HD/default.mpd
+https://fl31.moveonjoy.com/HBO_2/index.m3u8
+#https://fl31.moveonjoy.com/HBO_2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk10oLw9s0Im7BB2pfb0h6mEp0q5rr39wMKJH1Fj-aaNnLGBVajXoWAK_54y2b9nnIAY0MdBbQvOLbJIVMY-1zg4Qlbzpb8OdxBtUxA4AS8JGd03GrjPay6SGGqEQd_Rm24FYCWUCNyMusBGZm0xPPp-vls-5WhzR8pZn7wmDiE7W0OTAho6p7yEVQOnTZ/s1600/HBO2%20Black.png" group-title="TV Premium",HBO 2 FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32930
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0ckiFO4mO-oZnvaGR2rXOGXgyGo8u-ERN2lpIIlP5oA4aVUYATVfQM2iKCi08TV34CO6D_n4iWbqQTOR95dyTPKLDkzC32OpOOWEyT_58WWE0ivN0ZwU3cTVkezS4kvLym-c0vh_Q03K6hy4cVJ18QGgocacuu0VQePMnTy1natprQh2vskkDJBe8Dqt_/s1600/HBO+%20Black.png" group-title="TV Premium", HBO+
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
@@ -1924,16 +1972,6 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0ckiFO4mO-oZnvaGR2rXOGXgyGo8u-ERN2lpIIlP5oA4aVUYATVfQM2iKCi08TV34CO6D_n4iWbqQTOR95dyTPKLDkzC32OpOOWEyT_58WWE0ivN0ZwU3cTVkezS4kvLym-c0vh_Q03K6hy4cVJ18QGgocacuu0VQePMnTy1natprQh2vskkDJBe8Dqt_/s1600/HBO+%20Black.png" group-title="TV Premium",HBO+ FHD
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32934
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk10oLw9s0Im7BB2pfb0h6mEp0q5rr39wMKJH1Fj-aaNnLGBVajXoWAK_54y2b9nnIAY0MdBbQvOLbJIVMY-1zg4Qlbzpb8OdxBtUxA4AS8JGd03GrjPay6SGGqEQd_Rm24FYCWUCNyMusBGZm0xPPp-vls-5WhzR8pZn7wmDiE7W0OTAho6p7yEVQOnTZ/s1600/HBO2%20Black.png" group-title="TV Premium", HBO 2
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=09e84fc7ecb71def143cd7e2771f3b35:1a91f2d315fb0593321ba60aa783ec2c
-https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO2-HD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk10oLw9s0Im7BB2pfb0h6mEp0q5rr39wMKJH1Fj-aaNnLGBVajXoWAK_54y2b9nnIAY0MdBbQvOLbJIVMY-1zg4Qlbzpb8OdxBtUxA4AS8JGd03GrjPay6SGGqEQd_Rm24FYCWUCNyMusBGZm0xPPp-vls-5WhzR8pZn7wmDiE7W0OTAho6p7yEVQOnTZ/s1600/HBO2%20Black.png" group-title="TV Premium",HBO 2 FHD
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/32930
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSe3zEd9brm-MfnXb0aHI5gYoMdPXAO9FYsQrmsqQK4NISncRFAx6ThE-AYMA99itnyvE5KjaGnUMSLDNBCV_VU4bDutef9_8rNBlOrR4DRL9q0KsOm5lnayhr3s7e-aXVXetEg66TSTAGpqho6kQDEtXGfb-8nsbLYU67lBOaIyGy9m0qsFIuKKvvNTYJ/s1600/HBO%20Extreme.jpg" group-title="TV Premium",HBO XTREME
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1958,15 +1996,6 @@ http://212.102.60.231/HBO/index.m3u8
 #EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4xYyLaPDvgSbd_7cryiYvxrE2GIj430teIkGOJOgdMDK90C6AnKExEzU34Pz6kj4l98GhrpE__541njClZEXiI49eAuOkm1sGLOTZx7cj5gjogIrXUtOrKvLlbxOhJblU-80UWSCtXlbeVIjBDlEZNlpmZGCgQCOElPl7xdqFpXVGl4v5WbWsCd5k5wS4/s1600/HBO_Family.png",HBO Fams 🇺🇸
 http://212.102.60.231/HBO_FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-id="411.astro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3ILTqqZrv6FJcAbpLpgJ6xN83ywF3wxA8C-a4DqcPmbne3i4FEMENmAMi3_cBkt5RgFeZ_vcXe_neVabjKsY0MGqczpU3Q_M3f9Bb9VKrRfQZU0dUQyZOWc78fvvjFyuwsxhThkvG99kcqOtIa3APwFl_cVcGCsZ1_1sDkihMXhMM4_8AiVfJKXTWgalH/s1600/HBO_v1.png" group-title="TV Premium",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-https://dl.dropboxusercontent.com/scl/fi/sbw7rk9t36fcv6zz1eltf/HBONEW.m3u8?rlkey=pb1ves3ot5funxgexdmxtoa3g&st=vruhuh1l
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiybBraEuXONWMtCtJSC4ZKWW5rgMqxR-sroICAZ1GKbEcav5xCGndtT9enkt47ar7MUXqE0q2GEmIyZGOQ5p6p6iDXPpHhvV4N4xXMcJ-3m9rOnphe4GaaMF0WNQUPo4g_q4TFuu0uY474faE0CPS1VdxQQtUIf2jMC1092IBBzYRtkdqJTzXR7_wAoi_m/s1600/HBO%20Hits.jpg" group-title="TV Premium",HBO Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:contentlookup=False
@@ -1975,6 +2004,9 @@ https://dl.dropboxusercontent.com/scl/fi/sbw7rk9t36fcv6zz1eltf/HBONEW.m3u8?rlkey
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 https://dl.dropboxusercontent.com/scl/fi/mrhqmp2glr0z9fjrues9r/HBO_HITS.m3u8?rlkey=ea4y7k38ddra7dvyjwav2f5w7
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyqmEc3h6l17pnO4jXSbERLFaXOWx8Xw600kReGoWlSVt9Pdqe4Zrl6KLR_yXgn4cxZVscCTv8QgleZVxyAySsl1rMGpIB23hzuDRJjo8GVVorBLiyRjthBWOwMvjrQ4C61sqKcbAEaUBFpPW-9yiffUHoUbY8zfVvJl2OIvUXwJTstfcyTyH81lsKCD10/s1600/HBOHits-ASIA.png" group-title="TV Premium",HBO Hits
+https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
 
 #EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF_q8w6BXOTKRRJ9VZik8_8VIqt7YYl8C_fPSlx5p-sKOP6939Nm76V4xXoWkpPidZ3vHQPKKr5bjKCCaxgWG3k7GWgRQmaegqTpsQA8W4inSuWoMtZSN_Q-dGxJA_ZdUSSGo9w7AJYPXpxbH1_hDQMaqQv_z8S0AkuVJFhIiTCHBn8qY8gXAhBDtfcyTV/s1600/HBO_Signature_Asia.png", HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -1985,6 +2017,13 @@ https://dl.dropboxusercontent.com/scl/fi/mrhqmp2glr0z9fjrues9r/HBO_HITS.m3u8?rlk
 #EXTVLCOPT--http-reconnect=true
 https://dl.dropboxusercontent.com/scl/fi/4g8v7vxu9nqwz608szt77/HBO_SIG.m3u8?rlkey=0wpw3lr2cnqygy5f5rvsad8eq
 
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiU2jOZP-sBB6yAbvjjTET_Sgw6MNyQzXsJ4ukRKS_FcgmxNh1YczhoMu_fiCGmZ6akJiwyvVxE1yq0vd7sVSmWXpsIVmBLDSrvihpnGgm8064PHh7N7jCPFLp_DqSaLydlXRXNrwzgc10qkBTJXct0t-O0PZNcakK3JLwoonWIa8onzkY8c0WuCqNsPIu/s1600/HBO_Signature.png" group-title="TV Premium",HBO Signature
+https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-QzLBgeRCamBH8uJU8gb5Zlfh3lxj3pMLzbTwIWyWWQrE9LmZRi-rYXgXQ3JuV__3Ge3-VLIgvpLtCB0Eu0U5k2O-IOjH1v5dayDo6rqGNwFMEueBbkCm9grjQp4RVxyK54nOLTzpLSXPBxJRig-qHe8AtDA75j4KLeaK2bWP35w7I_kHAkn5vVUkYzTe/s1600/HBO%20Comedy.png" group-title="TV Premium",HBO Comedy
+https://fl31.moveonjoy.com/HBO_COMEDY/index.m3u8
+#https://fl31.moveonjoy.com/HBO_COMEDY/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="414.astro" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4xYyLaPDvgSbd_7cryiYvxrE2GIj430teIkGOJOgdMDK90C6AnKExEzU34Pz6kj4l98GhrpE__541njClZEXiI49eAuOkm1sGLOTZx7cj5gjogIrXUtOrKvLlbxOhJblU-80UWSCtXlbeVIjBDlEZNlpmZGCgQCOElPl7xdqFpXVGl4v5WbWsCd5k5wS4/s1600/HBO_Family.png" group-title="TV Premium",HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:contentlookup=False
@@ -1992,19 +2031,15 @@ https://dl.dropboxusercontent.com/scl/fi/4g8v7vxu9nqwz608szt77/HBO_SIG.m3u8?rlke
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-https://dl.dropboxusercontent.com/scl/fi/in4900m4mvd6vocrthhaw/HBO_FAM.m3u8?rlkey=ib8qky6h6oyj8x6d616l5elow
-
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK0SLC0DF7_YTyVNyxhUHSiZ53zCgfpx-l7LZTD_cVt6ExuKn0nZoGB4_MqL4Qvis2k8yGUw2ER6WFOXEAv_uvTqBut-6-JTj3qChea0FlbslrlwAmJlj6W8DK8YRS_hWyde1ukgnYAXIkMOUcRLj3TgLmfhiKkzTO-F-472Tp0KSLN0KFNDzO5-Be-qT_/s1600/HBO_logo.png" group-title="TV Premium",HBO
-https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
-
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiU2jOZP-sBB6yAbvjjTET_Sgw6MNyQzXsJ4ukRKS_FcgmxNh1YczhoMu_fiCGmZ6akJiwyvVxE1yq0vd7sVSmWXpsIVmBLDSrvihpnGgm8064PHh7N7jCPFLp_DqSaLydlXRXNrwzgc10qkBTJXct0t-O0PZNcakK3JLwoonWIa8onzkY8c0WuCqNsPIu/s1600/HBO_Signature.png" group-title="TV Premium",HBO Signature
-https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
+https://fl31.moveonjoy.com/HBO_FAMILY/index.m3u8
+#https://fl31.moveonjoy.com/HBO_FAMILY/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_SdhrqZap7k__gUaKy5_l3NaGYdE9RhyphenhyphenOizOZ52Fzp7zfMwBhSu0uXbjVvW6Ykz2NPtph9rTCu9zKguoBgh1Ui1VdrPYR7gWkONdYe9CqnO6nbIBpNXY9tAjcT7uv197tl1N-RsamcBrLGDkZNmqvlr71hJZYrUgYA2-meTBOe7JiPByBAbPWns_CMVrk/s1600/HBO_Family_logo.png" group-title="TV Premium",HBO Family
 https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
 
-#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyqmEc3h6l17pnO4jXSbERLFaXOWx8Xw600kReGoWlSVt9Pdqe4Zrl6KLR_yXgn4cxZVscCTv8QgleZVxyAySsl1rMGpIB23hzuDRJjo8GVVorBLiyRjthBWOwMvjrQ4C61sqKcbAEaUBFpPW-9yiffUHoUbY8zfVvJl2OIvUXwJTstfcyTyH81lsKCD10/s1600/HBOHits-ASIA.png" group-title="TV Premium",HBO Hits
-https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmRp5ZAOcJ614SyuEJ7sHbR4dnNYzVc7Wy1AgIF6eVkBKXKX4htv3uky5GWsWfcVnwn196kVPS56UCpgEQ867UbrYkjPzS-yjsFb0DmVjf_VruPOhiIh29GWJNbm5uUfrCluxNmWq-oVg9FpOzqwZs570Xa339sYxNUmB3SFzhyphenhyphenhbFMcMdXyHngx718Vi-/s1600/HBOJoy.png" group-title="TV Premium",HBO Joy
+https://fl31.moveonjoy.com/HBO_ZONE/index.m3u8
+#https://fl31.moveonjoy.com/HBO_ZONE/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMC80G1E9Gxtdj5a2JeS0IIVn2blOHRIaY-T-TvVx5g0OyoQ4HcuvPf-vTTI-oPLqmMlcFFSqXrbq5GeGokYq_CAKhz7EeW4WZ-xEJikPoUPrgQC7qjcla1OUeN8UVsqTwZgFM0KZPkkNJB9ILQWCuZ0tQ6ZMHjG7Mhw844YiUml38UML0nRADs82pl5DD/s1600/HBORed.png" group-title="TV Premium",Red By HBO
 https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
@@ -2022,6 +2057,26 @@ https://fl31.moveonjoy.com/CINEMAX/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 https://dl.dropboxusercontent.com/scl/fi/j5865bib5wy1i72ppk2hx/cinemax.m3u8?rlkey=qkzwmgpv6lhf8ccuplf39c21n
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7zKHY5zlW2M-rXo1yPSTT1TIO-ujzmpC2PXKThl8rxabItuajI6CrBrTHYfSjlUHgRBxwpjDwr9PO7_AqPGEBT9pNVSeaO46cLKwMJMuvB4-uyJLlHq-RtqXpheY8dal38SYNAT4aAWKlrQhe91KTiC5i-r4yGl0cDRyNxvcGppffz2BDGn9jEqQA3x78/s1600/discovery-channel.png" group-title="TV Premium",Discovery Channel
+https://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUKM1L4o8VR7Hh1Bu18wf5DxqZvaKXSuJ4E4zlSwqji60tLPcqDn6k9j26attLezefCzQlh0ZCsva5O1Qyc0cckuMjcKVxe2JKgMmfFd35EwVNFygP7Yy5NJa9lhLXtSLmQHC9mvCoBSzBxFP7q4oXVTll_IoZmPm0DOU6uWrRTfXcMO2Lwdo5e2YtFwGS/s1600/Discovery_Family_Channel_%28DFC%29.png" group-title="TV Premium",Discovery Family
+https://fl31.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#https://fl31.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbkDLttKZIktrngxXDs4VOftTw1j1d6eM_kAnZiJSKDrsmly60VJBST_X5UuqHTNydEhBVrf42KJTzKXHc7-HZ9IqXlCpBBsQ5QZPhFO0EE6jWpoHdCc-R1QY9BBx-9aOis5znI745e_fpwLWH9w3Fq6TqTefqQXX7vLqo45PF30oHKDrwnYmzBxFfSttM/s1600/discovery-life-tv.png" group-title="TV Premium",Discovery Life
+https://fl31.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#https://fl31.moveonjoy.com/DISCOVERY_LIFE/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbkDLttKZIktrngxXDs4VOftTw1j1d6eM_kAnZiJSKDrsmly60VJBST_X5UuqHTNydEhBVrf42KJTzKXHc7-HZ9IqXlCpBBsQ5QZPhFO0EE6jWpoHdCc-R1QY9BBx-9aOis5znI745e_fpwLWH9w3Fq6TqTefqQXX7vLqo45PF30oHKDrwnYmzBxFfSttM/s1600/discovery-life-tv.png" group-title="TV Premium",Discovery Science
+https://fl41.moveonjoy.com/Discovery_Science/index.m3u8
+#https://fl41.moveonjoy.com/Discovery_Science/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY3DePyNqaJTFEBG2A2-2IgGQO5seBWNBWHdJrBj8yOwr3TjL4XWwJOwJSm7vyiZPIbe17VnckweEJZnlK7CDgdMoUGsM89_1jY36glgDK541tjMpdEZvKUMYqK4Mo_gtexJFuI3oJME4AHpDRyn4mmSG6WtkUxY71H1AY9j9M7iM_G5IgQDKjwkrhU1Zz/s1600/Sony-movie-channel-2017-logo.png" group-title="TV Premium",Sony Movie Channel
+https://fl31.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#https://fl31.moveonjoy.com/Sony_Movie_Channel/tracks-v1a1/mono.ts.m3u8
+
 
 
 
@@ -2041,6 +2096,18 @@ https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGPST8fRg9QY5oDd1IOZ2yLAercd10licPKWM1IoiD8dMJzduZ-c-04bMCTHCqTbrJwInim7HgMLZ9dCyxXypiQ66DkejCS7NliUoDGMwhlFahrvpYAzn_3ljHGnZXOc1HcMOBgWMrr8fiNBaLD3hQltAdDheOOPxzlIKsuk2KfKCgqsnAaCv1rzhOiNiZ/s1600/Warner_Bros._Television_2023_%28Alt%29.png" group-title="Film & Drama",Warner Bross TV
 #https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd_video_1_5_35292333.mp4?m=1725696893
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHo6cgP94b3SYJfoquYR_kYck145xMFTnLyWs80N-72gK6uHxzJCBTQdEh9zp9Q1S4X6tytZ5uO-R2jTMiVk_JDNhYs0RdirokCgyY934lFv-Y8tiaRIMi2IpGhNoLd4K8lrUIWIIvV2jP65X9OKhbA1ykLZ7nbFOtYTMMahydndiHAWe4IfBYvqjdlAmy/s1600/Paramount_Network.png" group-title="Film & Drama",Paramount Network
+https://fl31.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#https://fl31.moveonjoy.com/PARAMOUNT_NETWORK/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNiNk9aToCJ_rez4yXY2o8LTusO2kb0CAoG9q8wSpvjH4NdnVJXSw-FVjOvgzKu5YptQ8ssUFnMItoFfKM2SjW_56eLbdpwIe-3LKXp49s0qt3QIYiS95WSi2pDL_DTBHYRU2sHdhZ-K1fa2UBaH0Ca-GoNG5Ld8ZqaAEqplG-6_rvlA-6FSLHDm_lrrwM/s1600/MGM+_logo.png" group-title="Film & Drama",MGM+
+https://fl31.moveonjoy.com/EPIX/index.m3u8
+#https://fl31.moveonjoy.com/EPIX/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX6DbxkHXDiUrkxj73xJnwWYpXW_WfujECXq43RJLIqlj5pS9LcKOdcEV12bljLcs2OvgMJbDCLAibHb1QgPCOFfnBd-uq9Z_4SyAwQmLZRM31aP9mVtxhpxiP1v8Y4xQveW9ruqv08vGaXTG7Lvgas9fnOi93OD5_PaymhEj5kgiAoAbohv8YzxjNqJ6D/s1600/MGM_Television_logo.png" group-title="Film & Drama",MGM+ (Stream2)
+https://fl31.moveonjoy.com/EPIX_2/index.m3u8
+https://fl31.moveonjoy.com/EPIX_2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD4OJdIMqfYgPFT16w3cq07UWAk1_FZ00Ox1gUWcR1q1KLaoZObVBm4TqgIwiazLL8vP6dDeTrIVMbjMRVP5TnHn7-RQeYXcxBiOpTPxGtkYPzP-5YOWvXQ4pXcCWDz8jxGVboLKXxMIsENv2sPQ3MbX2iHyiOzD646tLJpYBXo0jxZhLZmwbJxF-cFrJV/s1600/Amc_logo.png" group-title="Film & Drama",TWD Universe | Vizio (AMC)
 https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8?l1br3date0702andAMCBinge
@@ -2077,6 +2144,14 @@ https://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8?app_type=web&userid=l
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
 https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8v8tZNV3tNZc-Z8yC5vDFwJRD-iDbKzfv0EmQkcZZDH2Ux0_leVvoMntZDQs49rRlUCZzqEQIzfSlPR0m5XgMo7yIGknWGuCBpzhmvFTlSVkN_doaP8oLC59Z9aEFlIZwZrVyYleCINeZNfuIFfdtRcuvWitpEchX-q-PXu9flS6Hr8enXY-eXE6gg5T7/s1600/KIX_logo.svg.png" group-title="Film & Drama",KIX
+https://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh85RVp1RX1ObgaMxQW8rc2mi3VmEt8cBEfv-YiHq4xFXrzuPACGPig131RSDyXVhJe1wyR8W1q71HDg2igdlVWNA3AlaMlRAOBSh2dxeCLJHbvp5B_zgizxOltvg7T7yAe6RSfO74sofAFVW69Oj1dF84QwWqai4_YuMcLxskfKFR2Y5-EOHu5_z9eXkmx/s1600/K-Plus_%282013%29.png" group-title="Film & Drama",K+
+#https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+#http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
+http://210.210.155.37/uq2663/h/h08/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2kgEMvN3CVJJTrwhFXB6mJky4sh_rPyXtw8ZKB7UzNJHjdILR6_58WL4z1iy0geZJjYtXdzFy96EhoegPStJrgdC6QaWodQeGP_EsV0wZtoKvfW3WZNJE_815T5LZA2FyrZeWu007pODbXtdCSfnkK81J28deKYnUjZnv4m73kB6wO8MTvlK6r29bAFGK/s1600/KTV_logo1.png" group-title="Film & Drama",KTV Korea
 https://hlive.ktv.go.kr/live/klive_h.stream/chunklist_w328775573.m3u8
@@ -2927,6 +3002,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
