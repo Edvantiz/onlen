@@ -1588,6 +1588,7 @@ https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmcznluywlV2Kixi9gi23zO15_VEerqS5TSY9bS3A_O9aDwxssBE4xsrpLLC6oF6nQTbv16E4_kY_DFZ2DwgQHJwz2hLVaIIT79wLS9gq21Cd1X5BL8EGaDhhOnkcPAt61InbDhr2WoPpnUQywGsfFwIKEHB5VY-CIx9o6rCbgT_a6mVhtTD4SqbZPyT9J/s1600/Fox_Business.png" group-title="International",Fox Business
 http://41.205.93.154/FOXBUSINESS/index.m3u8
+#http://41.205.93.154/FOXBUSINESS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP0aniRQ1fSfmXbCHRee097scm8dZYs-gCeDNO5IAtALdsoSKlf6xXjA-dL-GPeBRko2PZq3C2froyiYPk_p3K4ha3e-FwzuNqTkdolFUiPpy_DMZYEu81c5uiI-cgLYYfQzhg9MJwhU7LoGkhyLNJ5b50kaQfNCtJiAkq7UEbHhNfqrfCnaRIrnBeuh6a/s1600/Fox-weather-logo.png" group-title="International",FOX Weather
 #https://247wlive.foxweather.com/stream/index.m3u8
@@ -3017,6 +3018,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
