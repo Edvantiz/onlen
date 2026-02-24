@@ -1906,8 +1906,8 @@ http://210.210.155.66/h/h22/01.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_jzSARwXGnHHBhXYsD-7JY0yByHAvU8Ltwb4iLuZz0Tu8DQXxPwkgAPql5SGIDFkO-_TEVRYsAq1TJ5lNNA5acAxO1u9DitFUXVJt90PKqcFR6dQuMessCGZpd7LwJ3VIewUIaRNfaU_i04qpWFoDBAFzzq5qiCOj7sjk3wdoTtYHTrTWrcEDHy6edR46/s1600/EGG_Network.png" group-title="TV Premium",eGG Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsETfItBHmUjZwrsxqxh3h34CIIiTeNGtlN4sDN4haXUQC6it9OLiJ-hQL2O8LrmR7qzUaaTKG4EVb16Zmkn_cLV4N6nLIgiQpqxsZFFsxNq2VNja1IEWz4dloP7FwQsR85lfwlLHehSwYdiy_VWWTPP-GMeKH14yakJPtpVD8tKqdBS7iZMfMX6Qdv-go/s1600/Gem_TV_logo_2020.png" group-title="TV Premium",GEM
-http://210.210.155.35/uq2663/h/h19/01.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsETfItBHmUjZwrsxqxh3h34CIIiTeNGtlN4sDN4haXUQC6it9OLiJ-hQL2O8LrmR7qzUaaTKG4EVb16Zmkn_cLV4N6nLIgiQpqxsZFFsxNq2VNja1IEWz4dloP7FwQsR85lfwlLHehSwYdiy_VWWTPP-GMeKH14yakJPtpVD8tKqdBS7iZMfMX6Qdv-go/s1600/Gem_TV_logo_2020.png" group-title="TV Premium",GEM Series
+https://glwizhstb50.glwiz.com/GemSeries_HD/GemSeries_High.m3u8?user=sgls76551&session=a232739a5838bbd2ed20d2b0fc15dbe9a4b4116090e07d14bf855d6107ce9bee77e7f3afe66ecaaede2a9a15d4e21705&hlsid=HTTP_ID_1&group_id=76551
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp7Y_2GFJerIWYxBNVx_k-l7NUjWX4nRIn-I52N7nyn78CN5JBAU9eaH-usM16O1uB89XU0dTvZEn_VlAG51q6P7FLBsk096Fhyphenhyphenyg6Cy9a-qwvck0WvX_TVE283DIadMLasEzur2gIHiZ602zgbIV2vyvli0OAVsPWXS4HZfb2kHaNsPwQ91t74fWGMNNX/s1600/AllPlay_Entertainment.png" group-title="TV Premium",AllPlay Ent.
 https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
@@ -3014,6 +3014,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
