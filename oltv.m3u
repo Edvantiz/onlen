@@ -1590,7 +1590,8 @@ https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 http://41.205.93.154/FOXBUSINESS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP0aniRQ1fSfmXbCHRee097scm8dZYs-gCeDNO5IAtALdsoSKlf6xXjA-dL-GPeBRko2PZq3C2froyiYPk_p3K4ha3e-FwzuNqTkdolFUiPpy_DMZYEu81c5uiI-cgLYYfQzhg9MJwhU7LoGkhyLNJ5b50kaQfNCtJiAkq7UEbHhNfqrfCnaRIrnBeuh6a/s1600/Fox-weather-logo.png" group-title="International",FOX Weather
-https://247wlive.foxweather.com/stream/index.m3u8
+#https://247wlive.foxweather.com/stream/index.m3u8
+https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_zCIfRYjmAFUtxyMJ_IZ28S3_gVpEuoZhEeacRhuF5JqhxGEx_PeNRYAm6_HkiOtU-8aiR-1jTtEdSQZRnBtLs8Ot7CrIqQ8ls2ZyyyAATqo0wslOWwaGIgjbspoT0Pk5lbt0VY5fVzg7ExdRsw5ZdwzACZ3-Z_lGMCRNG5nLf82xqH3vpFlVD67YtyTB/s1600/Accu-Weather.png" group-title="International",AccuWeather TV
 https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/ts-us-w2-n1/playlist/amg00684-accuweather-accuweather-plex/cb543d1e786c648d9fd43d64d6ef43a4f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac765bdb80148b61299bce8c37683f03409a5e5afba358b1ebe65f148e6ef0e24f55952847e49f43c8821da689d25ccc5ed770f016cb93f88ad4158b8ff33c93748a98cd5c581fb0a43bfae053b2d5946c2a95705a297437c790e335caa1e43d277debf6cac50897ec0d8d57e64a36b0018a5b8572fb0351caa3932c8a86c1b8684032a5d64f606dc0b7e3e26f5642e8e9a387ce0f0bdce02844810db1b8e2026154b1eec215cbe9149db73191b553d059aa9e689487bb8fe3b1c21fd2758a8fc391334641741742a869e2cb3d957986389fc71d77081604b5cc018dc6f84e206e4ab1855cff1a0ff68ed8d4915d6d8a283072dc4df5174560c53f693cc228fa913325c90502973a30fe1764d01bb2e862a5e98ba5353ab3dfd54bb03abce24481a070dc07566e0bbdf62348560c2c809c012304399215aa83b0a21d6f27e3f8caf2c529482431055d018ea2aa30ac87ce2d1201d211414471031c820bc663bc511d50cea8a7497ca512e8a80a7fcdaa92e5a4f85b8b79214b0c/140/848x480_1985360/index.m3u8
@@ -3016,6 +3017,7 @@ https://archive.org/download/nsd_20251114/NADAMURNI%20-%20Sepohon%20Kayu.mp4
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://archive.org/download/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
 
 
 
