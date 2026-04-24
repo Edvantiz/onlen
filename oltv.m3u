@@ -3032,8 +3032,11 @@ https://archive.org/download/fly-away_202511/fly-away_202511_archive.torrent
 ======Mp3======
    
   
-#EXTINF:-1 group-title="Mp3 Collection" tvg-logo="https://archive.org/download/oi-1910/1910.jpg", Iwan Fals 1910
-https://archive.org/download/oi-1910/oi-1910_vbr.m3u
+#EXTINF:-1 group-title="Mp3 Collection" tvg-logo="https://archive.org/download/oi-1910/1910.jpg", Iwan Fals 1910 (Archive)
+https://archive.org/download/oi-1910_202604/oi-1910.m3u
+
+#EXTINF:-1 group-title="Mp3 Collection" tvg-logo="https://archive.org/download/oi-1910/1910.jpg", Iwan Fals 1910 (Github)
+https://raw.githack.com/Edvantiz/onlen/main/oi-1910.m3u
 
 ======Album======
    
