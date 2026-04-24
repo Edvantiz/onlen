@@ -3035,7 +3035,29 @@ https://archive.org/download/fly-away_202511/fly-away_202511_archive.torrent
 #EXTINF:-1 group-title="Mp3 Collection" tvg-logo="https://archive.org/download/oi-1910/1910.jpg", Iwan Fals 1910
 https://archive.org/download/oi-1910/oi-1910_vbr.m3u
 
-
+======Album======
+   
+  
+#EXTINF:288 group-title="Iwan Fals 1910" tvg-logo="https://archive.org/download/oi-1910/1910.jpg",Buku Ini Aku Pinjam
+https://ia800104.us.archive.org/13/items/oi-1910/01. Buku Ini Aku Pinjam.mp3
+#EXTINF:276 group-title="Iwan Fals 1910" tvg-logo="https://archive.org/download/oi-1910/1910.jpg",Ada Lagi Yang Mati
+https://ia800104.us.archive.org/13/items/oi-1910/02. Ada Lagi Yang Mati.mp3
+#EXTINF:180 group-title="Iwan Fals 1910" tvg-logo="https://archive.org/download/oi-1910/1910.jpg",Ibu
+https://ia800104.us.archive.org/13/items/oi-1910/03. Ibu.mp3
+#EXTINF:258 group-title="Iwan Fals 1910" tvg-logo="https://archive.org/download/oi-1910/1910.jpg",Mimpi Yang Terbeli
+https://ia800104.us.archive.org/13/items/oi-1910/04. Mimpi Yang Terbeli.mp3
+#EXTINF:217 group-title="Iwan Fals 1910" tvg-logo="https://archive.org/download/oi-1910/1910.jpg",Balada Orang Pedalaman
+https://ia800104.us.archive.org/13/items/oi-1910/05. Balada Orang Pedalaman.mp3
+#EXTINF:272 group-title="Iwan Fals 1910" tvg-logo="https://archive.org/download/oi-1910/1910.jpg",Nak (Versi 2)
+https://ia800104.us.archive.org/13/items/oi-1910/06. Nak (Versi 2).mp3
+#EXTINF:224 group-title="Iwan Fals 1910" tvg-logo="https://archive.org/download/oi-1910/1910.jpg",Semoga Saja Kau Benar
+https://ia800104.us.archive.org/13/items/oi-1910/07. Semoga Saja Kau Benar.mp3
+#EXTINF:300 group-title="Iwan Fals 1910" tvg-logo="https://archive.org/download/oi-1910/1910.jpg",Engkau Tetap Sahabatku
+https://ia800104.us.archive.org/13/items/oi-1910/08. Engkau Tetap Sahabatku.mp3
+#EXTINF:293 group-title="Iwan Fals 1910" tvg-logo="https://archive.org/download/oi-1910/1910.jpg",Pesawat Tempurku
+https://ia800104.us.archive.org/13/items/oi-1910/09. Pesawat Tempurku.mp3
+#EXTINF:353 group-title="Iwan Fals 1910" tvg-logo="https://archive.org/download/oi-1910/1910.jpg",1910
+https://ia800104.us.archive.org/13/items/oi-1910/10. 1910.mp3
 
 
 ======Nasyid======
