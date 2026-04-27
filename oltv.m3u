@@ -779,7 +779,8 @@ http://122.248.43.138:1935/ch3/myStream/playlist.m3u8
 http://122.248.43.138:1935/ch4/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCeZAMUx3BhR94RXEAzWlwgdjI1_vRV5EyS9rHQcSFECISO5tomPbVy2icmZHagxb5ybCjM-Ulu5gkIwl4bJxu_9Z2Q4DCDiKAvzhTeTowYVMMfiq1FtnicTJ47rGmhP_duMps1os25pQ7q9GjB0bWqZnwu4oMTdMSbBBJaE6a4rDW5PHyxaDe45JzHPTu/s1600/Batam_TV.png" group-title="TV Lokal",Batam TV
-http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
+#http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
+http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcKHs34Oj7oTCojEJ9FtkR1Clj0TlVYIRwfNW1XlDBkddmqxUlRRU1nPFZscNfoOZRxPn-g42Rv8TXgZL7bQ4UC2ex4RDgI_3OKJkX-YrqKLgWpVhD-5Se7oAf-7ekQc3R101KC-RbPc9wvQfWkiRifDsPlKeqaNQYE-wJAy_FRqHLC5Km2N_nHKa-383x/s1600/Logo_Celebes_TV_2020.png" group-title="TV Lokal",Celebes TV (Makasar)
 https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
@@ -866,6 +867,7 @@ https://live.efarinatv.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge8uz9zwsEVl-KFoEhZhmQEfh_G5wPfPs5MfaM7kaGRcQBVRecJgyTys4BaQSVqDibrWhTyfPmsKwaKhe4rb2_WXKbA2niRYDgZfO_DOQxFQWz_6tCUQ91xS7HPFgHpMmE5ea2BVvIHrlBE4CTwUALecuDriE0wkA-ENlW6icEdl9_CrX-RtzBQEVGOPD1/s1600/BMSTV_2016.png" group-title="TV Lokal",Banyumas TV
 https://5bf7b725107e5.streamlock.net:443/bmstv/bmstv/playlist.m3u8
+#https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinBU6R4-J14l7rkSAXKbqf_4J7w56v3iQl3tXal6AZzJaAuSmnXfcaX8VLs4XA_HfdovpCfJpam4YtoWaNcoGuJRddCFM3S4P-BJxDI57nnuigK3KdtX_wK57rsiwpdxyYNYPQ2shbUYGeRvESNYEGhehpk5Cif6vpHr5UpO2HLnLUvQm5zsm-1YWoObfi/s1600/FicomTV.png" group-title="TV Lokal",Ficom Channel
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
@@ -884,6 +886,19 @@ https://primatv.siar.us/primatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhfu5_93uo96pmPt5N9Y6wTdMDNpQWsGTtA88E_bkYhdvkIhg9_vw9GMpvKT_Jnp0iGldxDC9-OeqYuvp3ZltKUtS55dOM7c80ARGQDVJ73sZVgbpCQNZgvvknH_siQexiEJomtVkAe9JkxY-sIVshV7lKex1k8oPfbyPPxdGH9hLY3UNUl5n6rGTxky5v/s1600/Logo_Agropolitan_TV_2022.png" group-title="TV Lokal",ATV
 https://cdn10jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="logo" group-title="TV Lokal",Astha TV
+https://hgmtv.com:19360/asthatv/asthatv.m3u8
+
+#EXTINF:-1 tvg-logo="logo" group-title="TV Lokal",Astro Blitar TV
+#EXTVLCOPT:http-referrer=https://abtelevisi.com/
+https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="logo" group-title="TV Lokal",Atambua TV
+#EXTVLCOPT:http-referrer=https://abtelevisi.com/
+http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
+
+
 
 
 
@@ -1003,7 +1018,8 @@ https://streaming.radiosalamjambi.com/izzahtv.m3u8
 https://surautv.siar.us/live/surautv.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHnKtqB34cNmntk0oEdD7Yv3PhsnesT0ljf3lUCTFZr6LUOqcQgO3WrADKUqMQjCpyZMj0cDPaPVjkMFBJLSJ-52h49CHcUC8XMxcTr6L1xizqd2Oq_CR4r9jejodevLhWMsM9HWfXFUT5jdYmyALVcoszoyd4ZkBbqZiCvDTYYmL6kSqODr5LrSGXazyU/s1600/AshiilTV.png" group-title="TV Religi",AshillTV
-https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
+#https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
+https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZAzuSoJ2q1wqv24NmXB7SycawqR45c77b0U1DYN3lBDZnHaMD4KyMxIn8kZIOqvfaJcswUmh35Gn0jLekROfndO8_9NNSIdiUhM2Kdkr0Fb-iqO5G4Tk8WlPL0NZaymDuswjTxuGKNNSh8lDi9QakYWrFUc6rwQnKpv1rfa3ncdOMvTdj4hd_zUnLAFF7/s1600/Wesal_TV.png" group-title="TV Religi",Wesal TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
@@ -1047,7 +1063,8 @@ https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSOyJANDz_mQJUHTY9VLpDW-bg-ZFMSK0Aoq3dHndn1YCSrZSQwpChAGoZfNeOtrakwhusDBOPU1ovLMt27o4JcfgfWVCLQ6N5lzbTlcFIoL4rKoEGRo0r-m9k8D6DJCtbG7ySr0k7mb5jxi79eoFMLMGJQ1Vw9Y1Fr8Nh9TL6Leu9I4ZlSvdbZRDwxAjV/s1600/TawafTV.png" group-title="TV Religi", TAWAF TV
 #https://cdngb196.indihometv.com/atm/DASH/tawaftv/manifest.mpd
-https://streaming.indihometv.com/atm/DASH/tawaftv/manifest.mpd
+#https://streaming.indihometv.com/atm/DASH/tawaftv/manifest.mpd
+https://tvstreamcast.com/tawaftv.m3u8
 
 #EXTINF:-1 tvg-logo="logo" group-title="TV Religi", Al-Bahjah TV
 http://202.150.161.117:8000/play/AlBahjahTV
