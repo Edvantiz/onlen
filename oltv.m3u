@@ -661,6 +661,10 @@ http://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_mid.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilv4fzBqk1BrOsLQh8-KLjWZsaLHnKyPbGksllMl-2oUFKQUQ0vurtIPkZ020tudD47Vr8VQKsKVqMWCUYHiomRmFEpB2wGooEkG7nRf32B49TNXEg8W6qOjbdXVD7Jl-usVaLPN6rqJ1uRnSMkUUqT7cTLupxbjsNAZw0VuAmo_FqUtTjyqC2nmx7VEpZ/s1600/UGTV_Indonesia.png" group-title="TV Indonesia",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+#https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+
+#EXTINF:-1 tvg-logo="Logo" group-title="TV Indonesia",UBTV
+https://ubmedcom.siar.us/live/ubmedcom.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZWwWo-dlo3AlN9aOJdwzTCRi-CZkpkBz2mVjbvHn_n-FdkX_pcn5qjAz60Kg0EsG-x5-EhJIhwI4sSs0udoj9s7xEQeVBNmqb2ucmasUOG-3QRhl9JRgO8v7fVsphrW3b1Z5w54Ikdf0arnEeke7_AcpGcqoNKMawy-DMACqEYq1p7sC_5pQaKmGodrGU/s1600/TVR_Parlemen.png" group-title="TV Indonesia",TV Parlemen
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8   
@@ -1867,7 +1871,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=l
 https://op-group1-swiftservehd-1.dens.tv/h/h194/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZFshzsMEeJBdSVvqkW6qJmYUMPBJHigc23vqNzKDkaxM03-XGeyFBZvHmGTT0SWAB7ocEjMH00jm0scjP4Ypf6HBRhgJ5gMefy154Fpte-mkqfg9uYUO3zvtzNJnsFkt6skvsGpSK_qNjB10B5rmV7RYavcS4ooTzovP4IiyIwaHM27KNe4Ok8CV9JUd5/s1600/MY%20CINEMA%20Kidz.png" group-title="TV Premium",My Kidz 
-https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=lite&chname=My_Kidz_HD
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCJ8T4yIMml_XKGzrF2hLP-5vNTD0jjgKM7tLsC1CAGmdzgOKYG0GfxWIAPLCVCeQiW6GWIehnBR-taSxOiz290FXDgiCkUeQWq5rXNzZQhQMfgBV5NmJ1aytwsDmJ2tq7ePQUXA39UonxbDhSv4pSFzr-lrsysAdPLnl7rjQCeKxbPBoVFJF8hWDuOqe4/s1600/MCE.png" group-title="TV Premium",My Cinema Europe
 https://op-group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
@@ -2469,6 +2473,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h128/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=lite&chname=My_Kidz_HD
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOb19NaL45BythMaNq0nt9ikk-Lm6_pVCwYWP6L_mmCXXv2D5u66iOsNADAhc8nYmnP5mrNHfZ7ao974h-wDDWGP9BKf89W7yXmitPXL87pnBtBtnOoPyQIND_H_yii0wzYMPMq_bAa-89CtdmsxvHIPkgtdwBt93NsZsxuuutuK07XWQHyFL7-5zlQrLy/s1600/MY%20CINEMA%20ASIA.png" group-title="TV DENS",My Cinema Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
