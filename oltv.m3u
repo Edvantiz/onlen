@@ -830,7 +830,9 @@ https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 https://63b2dc7196c38.streamlock.net/KAWANUATV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO7n3ulX6slnpBS-GkUZGQ6hbdsAKAHZO4r_ukEkLtgq_S1Xk9HkO7SFKuWNMQiBWkh4mkmmjMKZthvBavZFUEpcNemb7B1Int1xKRBwdzzU6JdwfAZHQfFzZ6vo_21Wks8C6BBlqg__b2acpB0NkWZAHX-IspnD-42lK1UnJkJhiXOchoORDSXm8FdkJQ/s1600/Jambi_TV.png" group-title="TV Lokal",Jambi TV
-http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://jambitv.co.id/live-tv/
+#http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
+https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtLgJVxH7GBkfMcwTmZjPOnt0UbS_1LbCII-Xe9VlqrFHKHUh9lhjWOjHQK506jOAGZhDB1q_Yl3KS_0uCyKrJ9A9DMtPVdiHC6cvDUpWdyxUNlNjcjNMvhVrihon4McJL_Y5XbsbDWivQUrKOZ05zWSQFHZw6DkWccBxMrxYOA-znzSWjLuiJWAcwsTlw/s1600/Logo_SMTV_Sumedang.png" group-title="TV Lokal",SMTV (Sumedang)
 http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
