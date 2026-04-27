@@ -557,7 +557,8 @@ https://btv.secureswiftcontent.com/han/btv/btv10005r/srtoutput/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1Q3Om8vfRuC9ywGZ0xc8dNxAu9m4iK836MWOH2-qtlBanDFQoxuawlYJ2WxZXO6A54aMIRkxe7L55w4U55QfqzOgmZGD1KQLnb5amSGRpr2BLCZbqN81qQKbEHUzMRGpzqoYURmcFz-c2eaFBkzXAr2H9GOOErw-OOFW10C9cyRm83g2V0m3YmNHpVNAz/s1600/Rajawali_Televisi.svg.png"  group-title="TV Indonesia",RTV (Rajawali)
 #EXTVLCOPT:http-referrer=http://175.158.57.130:8888/
-http://175.158.57.130:8888/stream/channelid/412436804
+#http://175.158.57.130:8888/stream/channelid/412436804
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKI8ABfW7f6IQa5yAcrYEcpwbTTlS_Abe5YdnzNbiN6Lk-taFGuCzYZESsHSbkQCToce0cCfmzVI-07fGIqmIzRmYELwHMaMDh1D5BIPxUCOuEPZ0lJlcZIfwXdBtLor5yZju7vh0UZV6W6iKPrV-vTYyuKB97MOZW04f_Ncf2ERTD4K86GqLQJlPqSCzO/s1600/CNN_Indonesia_logo.svg.png"  group-title="TV Indonesia",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
