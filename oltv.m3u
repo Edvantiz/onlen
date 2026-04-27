@@ -519,8 +519,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyW9DMBbp-fbnwF911h5GB1GjBdeEQZu8L4RIttjqxfj4TaNTMZxOly7Ds35v4ETImLxIMV2Ob9aG0iBjrZkAKFK9ry2XKu7LRLckGcKvi5l_wjro0vDG9sw6XunpabfSXOmCG1C5ObzanYD6111Vw6hB27HSOJog9piu7FMkq7s0YouNn9gQuAksxfrYU/s1600/RCTI-gif.gif" group-title="TV Indonesia",RCTI
-http://allcutv.rctiplus.id/rcti2023.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-
+#http://allcutv.rctiplus.id/rcti2023.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+http://103.66.62.83:8000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVKLWtx90rx2wFsYdHzZBOCsK_pyvy5sXKRRW4ZY512dV1_aKUu-LQHZW2PhMZ33o1QnadLb3SL5QR-SRf1-mnirFpzfdU4Q1FpVaymU2v7O5_2abRiKdJQNE3g2ybHuidOnoPKXFTkJEbOXlODxpimzgn1v3TG0MCirsZGFQn2v0gG8MlWABTFTr-vi0w/s1600/Gtv-gif.gif" group-title="TV Indonesia",GlobalTV
 #https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGZ3R2JTJGaW5ld3NpZCZoZWlnaHQ9MTAwJTI1JndpZHRoPTEwMCUyNQ==
@@ -648,6 +648,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKXm02R7yZeNWgq11dZNDybWPoBdpwQnZQwHDKnr52pREMI2FiM6Y3uN7TzhIK3zOWdRwRAhEvhLjMgIaVj42SP9RmZ2pw5fyRPr_gOg53XT_aJbj-28ziA_kIlXVpkUyTX6o99FP6KD_O7edLqKcxGi4_7QXDuvMl48XiugW7nx0d6NUCqXtUBZyHfhHw/s1600/MDTV_logo.svg.png"  group-title="TV Indonesia",MDTV
 #http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDJRF7u05B0l-aNiT4PUjOgxYer3xBmXo5wJkcVD-tRBr_kGOPNYzJzYzgOYose7hp7Kjp1q2FawFXxQuPAxla0vLc2KJMXVLIYYyZJhQGQPbfelvyWBFKQcqZ03ekftqi99Ge0AMT0ATKa7cLYhtH6qzd3Av2rocOLdS3K_qf0qzeFWfdT-Tnf5V6cW1/s1600/logo_oxygen_new_site.png" group-title="TV Indonesia",Oxygen.id
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
