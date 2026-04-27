@@ -556,7 +556,8 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 https://btv.secureswiftcontent.com/han/btv/btv10005r/srtoutput/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1Q3Om8vfRuC9ywGZ0xc8dNxAu9m4iK836MWOH2-qtlBanDFQoxuawlYJ2WxZXO6A54aMIRkxe7L55w4U55QfqzOgmZGD1KQLnb5amSGRpr2BLCZbqN81qQKbEHUzMRGpzqoYURmcFz-c2eaFBkzXAr2H9GOOErw-OOFW10C9cyRm83g2V0m3YmNHpVNAz/s1600/Rajawali_Televisi.svg.png"  group-title="TV Indonesia",RTV (Rajawali)
-https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+#EXTVLCOPT:http-referrer=http://175.158.57.130:8888/
+http://175.158.57.130:8888/stream/channelid/412436804
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKI8ABfW7f6IQa5yAcrYEcpwbTTlS_Abe5YdnzNbiN6Lk-taFGuCzYZESsHSbkQCToce0cCfmzVI-07fGIqmIzRmYELwHMaMDh1D5BIPxUCOuEPZ0lJlcZIfwXdBtLor5yZju7vh0UZV6W6iKPrV-vTYyuKB97MOZW04f_Ncf2ERTD4K86GqLQJlPqSCzO/s1600/CNN_Indonesia_logo.svg.png"  group-title="TV Indonesia",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
@@ -2470,6 +2471,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHIjes0Nl3NlawlK-gE45mFR6pGqthY84Fa_kwC27G0AE1FDU0n-qDqAi5aH3I6M9z3Qh9QpGbAOp5VnOTMnTJDh_8CyEGjmL-_A9E7zGXVo5hvoHUMSXc64CPLTELUecZyIHge3Wj39snJ189BpnNYn6RawjeUzmLRW7ZsbXtxxcyy8wt1b9nJANn5jfO/s1600/MetroTV_2000.png" group-title="TV DENS",MetroTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
