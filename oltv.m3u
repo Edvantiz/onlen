@@ -587,7 +587,11 @@ https://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2ESoONFfJcb6_nd68nar6sumHJTcCr0d7Wh207v5H0JFPTdCyVDnWfDTbWevf6E3k0okRUKaopMBiMth2tgZlEP4UelT7nKEBlfgreCBTeLB-Q_G6DbOwULFtr1XThDqhz2pagk0qgOBysLl95zHSCtzBAQVZMwKJT61RcFj_VAILqwWa_bzPsvUb551E/s1600/BN_Channel.png"  group-title="TV Indonesia",BN Channel
-http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch112.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2ESoONFfJcb6_nd68nar6sumHJTcCr0d7Wh207v5H0JFPTdCyVDnWfDTbWevf6E3k0okRUKaopMBiMth2tgZlEP4UelT7nKEBlfgreCBTeLB-Q_G6DbOwULFtr1XThDqhz2pagk0qgOBysLl95zHSCtzBAQVZMwKJT61RcFj_VAILqwWa_bzPsvUb551E/s1600/BN_Channel.png"  group-title="TV Indonesia",BN Channel
+http://175.158.57.130:8888/stream/channelid/1402218159
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh034jeaLXELEFEMA2_rOqCspTwNv201-T1gWKOxcmgkRpHk9OkWEANf7xWwaQdp9nFc615K0p-s8tadwS4DiZZTVCzJmhjH8hNpApcWswZcV6PebOswkQw7vf0o51-05TP78B2AAsyjNvkd6ctbuG3vPcTRHk6Z8x1e8lCbtyBvGRAhlUg5ia0vcNljWzS/s1600/Magnatv.gif"  group-title="TV Indonesia",MAGNA Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
@@ -2554,6 +2558,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 http://op-group1-swiftservehd-1.dens.tv/h/h39/index.m3u8
+#http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgey0WD8nRVpji7Rvg0Q4LYxPspfTatHYaAc1YTmEKzL-KwYd1_3R8Xl1gsOP7JrNuQvuDc-LJVfhEse2ZMBSeqT_N5NmiBEZS84CBBVe_eGgzwU_fb6k4NS-schmynG5fFTr0sxNqgjdB1R4SKyN7V5mF5StZP1rnVxNpEeZ-2WxCBCYwirwHAeZ8E6UgL/s1600/TvOne_logo_2012.png" group-title="TV DENS",TVOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
