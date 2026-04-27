@@ -762,6 +762,12 @@ https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 #https://63b2dc7196c38.streamlock.net/JTVSURABAYA/_definst_/myStream/chunklist_w1234382599.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnnBjEpryz5OwmmqN4Y3rWKo-n4X2P48MgM6fE2_H7b71tr2UiXqzSRt5WQ_O0_jy79apSgGraHyQ2KNdxC4hjnSutSzqQ8sK5Vq_6zJ7ALGW18O_gHgVRpIdiE6q-0p6GBPWcJhBOc4kwkuCE6o_woRo_f3SwTP2vuHA0N-tzor0u-NMPpQ1tz8iHvyTO/s1600/JTV_%28Indonesian_TV_channel%29_2022.png" group-title="TV Lokal",JTV Malang
+http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnnBjEpryz5OwmmqN4Y3rWKo-n4X2P48MgM6fE2_H7b71tr2UiXqzSRt5WQ_O0_jy79apSgGraHyQ2KNdxC4hjnSutSzqQ8sK5Vq_6zJ7ALGW18O_gHgVRpIdiE6q-0p6GBPWcJhBOc4kwkuCE6o_woRo_f3SwTP2vuHA0N-tzor0u-NMPpQ1tz8iHvyTO/s1600/JTV_%28Indonesian_TV_channel%29_2022.png" group-title="TV Lokal",JTV Madiun
+http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicHcrDri7SIASeSEbke7mbPqtj7o1EkFLsFtWswU1ts72m4zkM34T9HO3boDrxRbWCg65ujt6gVQtR7ogOXPuqobwQ79FyxP-EXkpZ_j3Sa1-i3IkxaEci3cKNTjHdhcwMUXqcVeD-WMSj9mTPWQl9RoOyop2Eup99AEG9v0T8El38ob9JAv-SkVJ3Vqs/s1600/Logo_Madu_TV_2021.png" group-title="TV Lokal",Madu TV (Tulungagung Jatim)
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
@@ -851,7 +857,10 @@ http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtLgJVxH7GBkfMcwTmZjPOnt0UbS_1LbCII-Xe9VlqrFHKHUh9lhjWOjHQK506jOAGZhDB1q_Yl3KS_0uCyKrJ9A9DMtPVdiHC6cvDUpWdyxUNlNjcjNMvhVrihon4McJL_Y5XbsbDWivQUrKOZ05zWSQFHZw6DkWccBxMrxYOA-znzSWjLuiJWAcwsTlw/s1600/Logo_SMTV_Sumedang.png" group-title="TV Lokal",SMTV (Sumedang)
-http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
+#http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
+#http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://smtv.digital/
+https://e.siar.us/live/smtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimMD6OLrikcbt69W-zVLY6VjGypy65aPlVBmhyav_SMHWjr7WMCPwiJaFvc2f5CmYcLrBVgBwckofEgmIypo8uE1mcRwTHdHHcJ96Nkv7FUbrPcfYwFvLIlLUHcSti-ST-IwiY024vyzE7pwcUVpvzJ7BQrGiHoKoBrBKLWCvF1uR3pYuZFYBVabgFM2z4/s1600/DayakTV.png" group-title="TV Lokal",Dayak TV
 http://122.248.43.138:1935/ch26/myStream/playlist.m3u8
