@@ -863,7 +863,9 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 https://e.siar.us/live/surabayatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitOMNlkBqDMhXrmHOGqV5xYHMX50rxqMgCamMbOvvED5cgtImAFmKRq7FP7SUEMdvIm9jppwIMTqz03qnBS5c4rHt7UJO782nOOIfFu0T-7YBxY7eEFESBgWmGYl_6EHPeI53jjU_8uFc4Wh7Q_314XBsBA7EzTh6jMFU96HWa-UK91o0DpMB9ffi0hl2Y/s1600/Logo_Efarina_TV.png" group-title="TV Lokal",Efarina TV
-https://live.efarinatv.net/hls/stream.m3u8
+#EXTVLCOPT:http-referrer=https://live.efarinatv.net/
+https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
+#https://live.efarinatv.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge8uz9zwsEVl-KFoEhZhmQEfh_G5wPfPs5MfaM7kaGRcQBVRecJgyTys4BaQSVqDibrWhTyfPmsKwaKhe4rb2_WXKbA2niRYDgZfO_DOQxFQWz_6tCUQ91xS7HPFgHpMmE5ea2BVvIHrlBE4CTwUALecuDriE0wkA-ENlW6icEdl9_CrX-RtzBQEVGOPD1/s1600/BMSTV_2016.png" group-title="TV Lokal",Banyumas TV
 https://5bf7b725107e5.streamlock.net:443/bmstv/bmstv/playlist.m3u8
@@ -898,6 +900,8 @@ https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://abtelevisi.com/
 http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="logo" group-title="TV Lokal",Fajar TV
+http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8
 
 
 
