@@ -517,7 +517,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyW9DMBbp-fbnwF911h5GB1GjBdeEQZu8L4RIttjqxfj4TaNTMZxOly7Ds35v4ETImLxIMV2Ob9aG0iBjrZkAKFK9ry2XKu7LRLckGcKvi5l_wjro0vDG9sw6XunpabfSXOmCG1C5ObzanYD6111Vw6hB27HSOJog9piu7FMkq7s0YouNn9gQuAksxfrYU/s1600/RCTI-gif.gif" group-title="TV Indonesia",RCTI
 #http://allcutv.rctiplus.id/rcti2023.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://103.66.62.83:8000/play/a00v/index.m3u8
+#http://103.66.62.83:8000/play/a00v/index.m3u8
+https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVKLWtx90rx2wFsYdHzZBOCsK_pyvy5sXKRRW4ZY512dV1_aKUu-LQHZW2PhMZ33o1QnadLb3SL5QR-SRf1-mnirFpzfdU4Q1FpVaymU2v7O5_2abRiKdJQNE3g2ybHuidOnoPKXFTkJEbOXlODxpimzgn1v3TG0MCirsZGFQn2v0gG8MlWABTFTr-vi0w/s1600/Gtv-gif.gif" group-title="TV Indonesia",GlobalTV
 #https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGZ3R2JTJGaW5ld3NpZCZoZWlnaHQ9MTAwJTI1JndpZHRoPTEwMCUyNQ==
