@@ -1016,41 +1016,41 @@ https://rinjanitv.cloud/hls/tvkabel.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWfCR4-24BmMW0hQGma_SVCJgCTg0zAD-r4Rc5t3ZycNP2s-wozvQJcIWeAciOk6DE8V-e0E5ILeZ-djbDmoUyoH8XxYRhzYHe3Lnt001FnpxxYQa8iJ4c78n39r7FUzcdek2h-fF7HZr_oDzVhSafIk4EGHw_Bp8Yp33NH4Vm7iK0W2QYrkSZ0EQEWk0E/s1600/SalamTV.png" group-title="TV Lokal",Salam TV (1080p)
 https://salamtv.siar.us/live/salamtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5zFp9pxaAcHe2UXbai0UsYoxh_HO8GzQKJFp5XiN9WMjWCVZW0WJdHe_RdTurAwOsUBNOTnqytSYSnlcTxKLrAhQry4Df7R9Ie_j95aAazpnWlucvy4TeTVAJKcS-g9Pq_gXrTkwgnxUQdLdO50kbE6RFp3U-jOJQcjw6cRkXhI9Z0y5rE1GisWpZQUH1/s1600/SampitTV.png" group-title="TV Lokal",Sampit TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5zFp9pxaAcHe2UXbai0UsYoxh_HO8GzQKJFp5XiN9WMjWCVZW0WJdHe_RdTurAwOsUBNOTnqytSYSnlcTxKLrAhQry4Df7R9Ie_j95aAazpnWlucvy4TeTVAJKcS-g9Pq_gXrTkwgnxUQdLdO50kbE6RFp3U-jOJQcjw6cRkXhI9Z0y5rE1GisWpZQUH1/s1600/SampitTV.png" group-title="TV Lokal",Sampit TV
 https://sampit-tv.siar.us/live/sampit-tv.m3u8
 
 #EXTINF:-1 tvg-logo="logo" group-title="TV Lokal",Selaparang TV (720p)
 #EXTVLCOPT:http-referrer=https://selaparangtv.net
 https://selaparangtv.siar.us/live/selaparangtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijVphVFYmtymHXYIefwbangFBAB6Z0xesnyIIYNjzIVNpYr-mSLaGfRwXeWEhiO_3slE0t0br0pLV6dKn3ksZ9JUrANkC8xhAgESMD6xvGq5q4VKl7Rnic43GBJhvGC1bYfih6vkJr8UuKGstrs2l4IvcSIxQ6rQD8h0Ka5ylFbfU9RbEaPNeflKyZOd58/s1600/Stara_TV_Sumedang_fix.png" group-title="TV Lokal",Stara TV (720p)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijVphVFYmtymHXYIefwbangFBAB6Z0xesnyIIYNjzIVNpYr-mSLaGfRwXeWEhiO_3slE0t0br0pLV6dKn3ksZ9JUrANkC8xhAgESMD6xvGq5q4VKl7Rnic43GBJhvGC1bYfih6vkJr8UuKGstrs2l4IvcSIxQ6rQD8h0Ka5ylFbfU9RbEaPNeflKyZOd58/s1600/Stara_TV_Sumedang_fix.png" group-title="TV Lokal",Stara TV (Sumedang)
 #EXTVLCOPT:http-referrer=https://stream.staratv.id/
 https://stream.staratv.id/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijVphVFYmtymHXYIefwbangFBAB6Z0xesnyIIYNjzIVNpYr-mSLaGfRwXeWEhiO_3slE0t0br0pLV6dKn3ksZ9JUrANkC8xhAgESMD6xvGq5q4VKl7Rnic43GBJhvGC1bYfih6vkJr8UuKGstrs2l4IvcSIxQ6rQD8h0Ka5ylFbfU9RbEaPNeflKyZOd58/s1600/Stara_TV_Sumedang_fix.png" group-title="TV Lokal",Stara TV Bandung (1080p)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijVphVFYmtymHXYIefwbangFBAB6Z0xesnyIIYNjzIVNpYr-mSLaGfRwXeWEhiO_3slE0t0br0pLV6dKn3ksZ9JUrANkC8xhAgESMD6xvGq5q4VKl7Rnic43GBJhvGC1bYfih6vkJr8UuKGstrs2l4IvcSIxQ6rQD8h0Ka5ylFbfU9RbEaPNeflKyZOd58/s1600/Stara_TV_Sumedang_fix.png" group-title="TV Lokal",Stara TV Bandung
 #EXTVLCOPT:http-referrer=https://bandung.staratv.id/
 https://bandung.staratv.id/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijVphVFYmtymHXYIefwbangFBAB6Z0xesnyIIYNjzIVNpYr-mSLaGfRwXeWEhiO_3slE0t0br0pLV6dKn3ksZ9JUrANkC8xhAgESMD6xvGq5q4VKl7Rnic43GBJhvGC1bYfih6vkJr8UuKGstrs2l4IvcSIxQ6rQD8h0Ka5ylFbfU9RbEaPNeflKyZOd58/s1600/Stara_TV_Sumedang_fix.png" group-title="TV Lokal",Stara TV Cianjur (720p)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijVphVFYmtymHXYIefwbangFBAB6Z0xesnyIIYNjzIVNpYr-mSLaGfRwXeWEhiO_3slE0t0br0pLV6dKn3ksZ9JUrANkC8xhAgESMD6xvGq5q4VKl7Rnic43GBJhvGC1bYfih6vkJr8UuKGstrs2l4IvcSIxQ6rQD8h0Ka5ylFbfU9RbEaPNeflKyZOd58/s1600/Stara_TV_Sumedang_fix.png" group-title="TV Lokal",Stara TV Cianjur
 #EXTVLCOPT:http-referrer=https://cianjur.staratv.id/
 https://cianjur.staratv.id/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijVphVFYmtymHXYIefwbangFBAB6Z0xesnyIIYNjzIVNpYr-mSLaGfRwXeWEhiO_3slE0t0br0pLV6dKn3ksZ9JUrANkC8xhAgESMD6xvGq5q4VKl7Rnic43GBJhvGC1bYfih6vkJr8UuKGstrs2l4IvcSIxQ6rQD8h0Ka5ylFbfU9RbEaPNeflKyZOd58/s1600/Stara_TV_Sumedang_fix.png" group-title="TV Lokal",Stara TV Jakarta (1080p)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijVphVFYmtymHXYIefwbangFBAB6Z0xesnyIIYNjzIVNpYr-mSLaGfRwXeWEhiO_3slE0t0br0pLV6dKn3ksZ9JUrANkC8xhAgESMD6xvGq5q4VKl7Rnic43GBJhvGC1bYfih6vkJr8UuKGstrs2l4IvcSIxQ6rQD8h0Ka5ylFbfU9RbEaPNeflKyZOd58/s1600/Stara_TV_Sumedang_fix.png" group-title="TV Lokal",Stara TV Jakarta
 #EXTVLCOPT:http-referrer=https://jakarta.staratv.id/
 https://jakarta.staratv.id/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijVphVFYmtymHXYIefwbangFBAB6Z0xesnyIIYNjzIVNpYr-mSLaGfRwXeWEhiO_3slE0t0br0pLV6dKn3ksZ9JUrANkC8xhAgESMD6xvGq5q4VKl7Rnic43GBJhvGC1bYfih6vkJr8UuKGstrs2l4IvcSIxQ6rQD8h0Ka5ylFbfU9RbEaPNeflKyZOd58/s1600/Stara_TV_Sumedang_fix.png" group-title="TV Lokal",Stara TV Malang (1080p)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijVphVFYmtymHXYIefwbangFBAB6Z0xesnyIIYNjzIVNpYr-mSLaGfRwXeWEhiO_3slE0t0br0pLV6dKn3ksZ9JUrANkC8xhAgESMD6xvGq5q4VKl7Rnic43GBJhvGC1bYfih6vkJr8UuKGstrs2l4IvcSIxQ6rQD8h0Ka5ylFbfU9RbEaPNeflKyZOd58/s1600/Stara_TV_Sumedang_fix.png" group-title="TV Lokal",Stara TV Malang
 #EXTVLCOPT:http-referrer=https://malang.staratv.id/
 https://malang.staratv.id/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijVphVFYmtymHXYIefwbangFBAB6Z0xesnyIIYNjzIVNpYr-mSLaGfRwXeWEhiO_3slE0t0br0pLV6dKn3ksZ9JUrANkC8xhAgESMD6xvGq5q4VKl7Rnic43GBJhvGC1bYfih6vkJr8UuKGstrs2l4IvcSIxQ6rQD8h0Ka5ylFbfU9RbEaPNeflKyZOd58/s1600/Stara_TV_Sumedang_fix.png" group-title="TV Lokal",Stara TV Parahyangan (720p)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijVphVFYmtymHXYIefwbangFBAB6Z0xesnyIIYNjzIVNpYr-mSLaGfRwXeWEhiO_3slE0t0br0pLV6dKn3ksZ9JUrANkC8xhAgESMD6xvGq5q4VKl7Rnic43GBJhvGC1bYfih6vkJr8UuKGstrs2l4IvcSIxQ6rQD8h0Ka5ylFbfU9RbEaPNeflKyZOd58/s1600/Stara_TV_Sumedang_fix.png" group-title="TV Lokal",Stara TV Parahyangan
 #EXTVLCOPT:http-referrer=https://parahyangan.staratv.id/
 https://parahyangan.staratv.id/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7DImPMo04ya-shDZK3CcyfVIrZHF3_E4WQNWYdHWwbhD30chKhj5sZ8KN3hRG1gs0xzuBdl3o3wQNRxW4BKBVrB-v2Ijx6MdtRnGQUAKak0CRRigFPbwg0dFkKceG121v_LzXPkjvUF7ruVdfonCVs2txcJ4eYyExJZKia4kVb8G1LQKH2sSyZHYU1v1w/s1600/STV.png" group-title="TV Lokal",STV (Samarinda)
 http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMKzpMJkqPnkLdPodfi6U5zVfuP0Uj7nicKpFddTgENK_QMBIKxxdjkoJTwPVkx-yYoHlikwURBnqnrdjPCgFhT7v9hjlXHFjz3p9CVwDMqXVxHKqY_guehAxnG2FSN88IaNntRjLakur6xrfP6sHxsgLuwfiZU7D6A-OceG3uNlC2eDfMDpiZTo1dLow-/s1600/SultraTV.png" group-title="TV Lokal",Sultra TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMKzpMJkqPnkLdPodfi6U5zVfuP0Uj7nicKpFddTgENK_QMBIKxxdjkoJTwPVkx-yYoHlikwURBnqnrdjPCgFhT7v9hjlXHFjz3p9CVwDMqXVxHKqY_guehAxnG2FSN88IaNntRjLakur6xrfP6sHxsgLuwfiZU7D6A-OceG3uNlC2eDfMDpiZTo1dLow-/s1600/SultraTV.png" group-title="TV Lokal",Sultra TV
 http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
 
 
