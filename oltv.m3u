@@ -1213,7 +1213,8 @@ https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u83u8   
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip9Ta6Ag0Ji1urVaZZRCcjNy0XaZydzLHN5VBhsVBcrpYRcdkomuCJ1mbtmtFw0Sr3dTi5pVGZXQcCZXLldkRt18a_f7wZz1pzm1g4S4tU6WfMF39LJahRObiwKWw5VSomKLTq676t3MZP-ZK1npRzWO8CzpmASZjhGWmFPjJY68Qa5kBdzYJvii5yueN2/s1600/DMITV.png" group-title="TV Religi",DMI TV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000002/1024.m3u8
+#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000002/1024.m3u8
+https://tvstreamcast.com/tawaftv.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHTDdE6E2gm4yO5kfEW0Q1ChJ6MJKapvdp9RWhcro4ZiStSxG6CgPu4o340dDIa6L28wtknu5GTqc3IX24Wcklii2dV0nLxwaNDeZEgAOaLoIMq8shUfdIb8148sKTJ8TaoonWcJl9g5hmBZrP6KmGyzy3Gf2gP3zvq1hypLu_mN9UdPRTmD3Oo7xDwhpg/s1600/MUItv.png" group-title="TV Religi",TV MUI
 #https://mui.siar.us/mui/live/playlist.m3u8
@@ -1228,8 +1229,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSOyJANDz_mQJUHTY9VLpDW-bg-ZFMSK0Aoq3dHndn1YCSrZSQwpChAGoZfNeOtrakwhusDBOPU1ovLMt27o4JcfgfWVCLQ6N5lzbTlcFIoL4rKoEGRo0r-m9k8D6DJCtbG7ySr0k7mb5jxi79eoFMLMGJQ1Vw9Y1Fr8Nh9TL6Leu9I4ZlSvdbZRDwxAjV/s1600/TawafTV.png" group-title="TV Religi", TAWAF TV
 #https://cdngb196.indihometv.com/atm/DASH/tawaftv/manifest.mpd
-#https://streaming.indihometv.com/atm/DASH/tawaftv/manifest.mpd
-https://tvstreamcast.com/tawaftv.m3u8
+https://streaming.indihometv.com/atm/DASH/tawaftv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="logo" group-title="TV Religi", Al-Bahjah TV
 http://202.150.161.117:8000/play/AlBahjahTV
