@@ -651,6 +651,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJjTquhyphenhyphenT4h6AG1IUqhb2w5ImVUl4nYZWWLRFVy81M6Pd8kPtftURbo2lFLckJnhLQxaiI4s8qEGmSqsmpfSWXuNtSfcXQ1dtNkYrgtKE_b5XQYBzbvE51vlMjkVevhB1LBJPvaeDa5rJ_53DzuHYEzCyYTJzO6xJ-cofNMNxRHmM4mkdnb0IVlpt5G2-o/s1600/Logo_Astha_TV.png" group-title="TV Indonesia",Astha TV
+https://hgmtv.com:19360/asthatv/asthatv.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDJRF7u05B0l-aNiT4PUjOgxYer3xBmXo5wJkcVD-tRBr_kGOPNYzJzYzgOYose7hp7Kjp1q2FawFXxQuPAxla0vLc2KJMXVLIYYyZJhQGQPbfelvyWBFKQcqZ03ekftqi99Ge0AMT0ATKa7cLYhtH6qzd3Av2rocOLdS3K_qf0qzeFWfdT-Tnf5V6cW1/s1600/logo_oxygen_new_site.png" group-title="TV Indonesia",Oxygen.id
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 
@@ -709,22 +712,21 @@ http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuk1ykVZTfeSYD4abyCvzyWooATLb6bS0XhMw8GkVzhlwEvS6-uk5jrLAbOKBszONWXt4vqctIjNjBSI8h8bodyq6Im4m5vzRP_bJY3UzxpHBaqIg2vhIsP0b51rtEl5UuRnXHMkYaFrlQj6sti0-II6TekRcQJuiG1TZKGhAPw0eW8gcwLShDjDYkeKYu/s1600/MyTV_Logo.png" group-title="TV Indonesia",MyTV
 http://210.210.155.35/qwr9ew/s/s46/01.m3u8
 
-#EXTINF:-1 tvg-logo="logo" group-title="TV Indonesia",Online TV Nusantara
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDwif11gAtzJuq1_2A2LhnPLO0DPPFaJ1g6us3Ce67tT7HlrMaV_d-VGY307AAaqyHTNRol-x_qAFD0f2EGtCY3qcIGlTAaA-6VihMnrk7lv61-qrGorXVJugRJMGHmNgXonSQVJnLrH9KYcT-xz4H5i6EGJ6NBpBMEAjX5M3jvOYMjuecZNudAxTp4DrC/s1600/OnlineTVNusantara.jpg" group-title="TV Indonesia",Online TV Nusantara
 https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="logo" group-title="TV Indonesia",I Am Channel
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifJH_hVBiM_SMhnLFOvrjvV-frr4tQ185PlzzDl3GIHGa6GXt3553FoGa7zegYphwPIOspHY8BvEQtaK7b9b7l3N9OMAWthBkYJPnnXhfnK5KqoyaGy5TQxvmEr1sTpOScQllGlHkydiQRgKkFz_cjMLWRq5enByTx4mXmr7XIVfnajEsruz0AAscIDMNA/s1600/IamTV.png" group-title="TV Indonesia",I Am Channel
 #EXTVLCOPT:http-referrer=https://iamchannel.org/
 https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="logo" group-title="TV Indonesia",IDTV
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
-#EXTINF:-1 tvg-logo="logo" group-title="TV Indonesia",KTV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLeffjykOp_W3BpbCcyj2gptS5_eYFQrnUVv0zZsJbPUpSmQj9biwI4aAbh8edGVibOAqn7Y6-9SU_8-5PVghRXQoELMJ7tUrD0whzeHJJXIQt35j4rjNuYbWWDxZfp99cb3KahCKp-8-k3x-4Fh7b1rLWFWM40j-HTZBHKGR94dgrhugTJ3zreGpW8Lcr/s1600/KTV.png" group-title="TV Indonesia",KTV
 #EXTVLCOPT:http-referrer=https://youtv.live/
+#http://103.66.62.83:8000/play/a04s/index.m3u8
 https://flv.intechmedia.net/live/ch118.m3u8
 
-#EXTINF:-1 tvg-logo="logo" group-title="TV Indonesia",KTV
-http://103.66.62.83:8000/play/a04s/index.m3u8
 
 
 
@@ -942,9 +944,6 @@ https://primatv.siar.us/primatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhfu5_93uo96pmPt5N9Y6wTdMDNpQWsGTtA88E_bkYhdvkIhg9_vw9GMpvKT_Jnp0iGldxDC9-OeqYuvp3ZltKUtS55dOM7c80ARGQDVJ73sZVgbpCQNZgvvknH_siQexiEJomtVkAe9JkxY-sIVshV7lKex1k8oPfbyPPxdGH9hLY3UNUl5n6rGTxky5v/s1600/Logo_Agropolitan_TV_2022.png" group-title="TV Lokal",ATV
 https://cdn10jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJjTquhyphenhyphenT4h6AG1IUqhb2w5ImVUl4nYZWWLRFVy81M6Pd8kPtftURbo2lFLckJnhLQxaiI4s8qEGmSqsmpfSWXuNtSfcXQ1dtNkYrgtKE_b5XQYBzbvE51vlMjkVevhB1LBJPvaeDa5rJ_53DzuHYEzCyYTJzO6xJ-cofNMNxRHmM4mkdnb0IVlpt5G2-o/s1600/Logo_Astha_TV.png" group-title="TV Lokal",Astha TV
-https://hgmtv.com:19360/asthatv/asthatv.m3u8
 
 #EXTINF:-1 tvg-logo="logo" group-title="TV Lokal",Astro Blitar TV
 #EXTVLCOPT:http-referrer=https://abtelevisi.com/
