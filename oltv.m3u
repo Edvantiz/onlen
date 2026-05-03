@@ -864,7 +864,7 @@ http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
 #https://aps13.playlist.ttvnw.net/v1/playlist/CqsGhPgj347sQkwmWAMc0QnRxNi2j9xJZ47P1Ht_uTMYpAd-VQUYai40RrIqO_76MZQvlLUUZ9h2VzYkQBhqtGNRDRjAzguK88ZSeONOEldoi75bwxuz4y5Gpaaih6mDFY8Wp8B9iEn6yi6e3qrtc1i_piFOmZddt-Vbmo2rCU9pzXSytpjRgv74wOHUEEdONTPtE8jq-ByjU05xHLH30G0QVar0Bt8vAreCg5xYD15L8VJoFNYAyRIvXz3Kv9hb4gCX2M7n5aCA-ah4rDYGWqOLd2DDuWFxH-cc5PTUhj57SkTShcRlwLYDfYhaUD3k12F1yIZijY5CDC8l7UMcpaA2Ym2LA6Pce8Iy4tVUtFNeUsq67ifef13N68wPTOWYtfB_X4NYefqrduBv7ZkwmYCVzOGKeV-SWoeEZ65-mJ-UFUvTcBE5yrYTbQun1YmbJa9XhK6e0Pje66XcGCJwY54-kGqixnkq9rIjcOjnw38ZzmrsMXgGr4Qccj1yHqN1M3w5scAgG1T1iGhC49MPCbZiJxuxgRQpfWWl3i-63Eu63ZnyZ2ftoi3TxwLGd5-2VhlcKxICB858alwgS0M_el351nfTyTaCky081zff3cnJ7AemZ8FFnHhUIaD6ngUjt1lzierpUd97CQ1ziiElaM07-AS5Mfpp8HLc7G9M48SaBUzkkkVSlZycEFmbo7uOO92WVMCR0M-RvPRKRYzKNKiSKI69RWNBXM7p5x9a0r3YkWBoQr0RdkGGPryk7yMP1MfKjrvXFqdu1N4U64txINzwEwbBxs-9yX6FeGyzLmCusL5JiSHtX18zSXBtudvTm2v9-qqpE2LPb1Zc9W-kza71yBJkdb3BWmw45hc0eX-NjPq-fWcE5apAhwfLxh490mYJhMi-Qco0Xdo7V4XEV67o51Vayu93NU7KeIEBF2Qa1UuioQSH36i-Xc6vvbD9FDTSws5wiHGj3Z6GJRpHKqNG-JrvWl-Y2ImP5dii8u4RCGjqgXNH_n5ojhwd637mr-IENk8V9Wus__XTt2Z0rcivuHOR_UPB6l6vI2pI3CREA5FuCvPKTG3CbbRYkBoM_Lo5veJ4N5KompfIIAEqCXVzLXdlc3QtMjCgDQ.m3u8
 http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhqkk-TXuuRK7Pi6va3IADq1TEQb-Ee7suEL49Cquns1pZxfPFT7AuKXK8xAV47OUW8dqRy-OW-NJyY_QWEZtdSFrN1xR_HAzgWqXQwMulWwMuPc8jBS47E3Lui7EqYu-MCBW-1Xawqlpj0-MsoqnnHmWchuwkdQtkqgaeCOTDZ1JIPjufDXSJUfng3nfv/s1600/Logo_Radar_Tasikmalaya_TV.png" group-title="TV Lokal",Radar TV (Lampung)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdW-AU2H1RoMoQ-gT5htDtEplfZejM4nYKngnbGUTIDzhIUnFdbK-by8Hzct1W7yW-6HQ0vgpFWZy13H_poOtCCsdworZ5b0chnpxpUwtOJeA5iMYS8GYyez0j-qHhNIBSrk-uw8dwZNXgAUwXNnTcLfz3Jr6l4T14gMO6ZEUj_Ph2wLnbndK07wWEn1CY/s1600/Logo_RadarTV_Lampung.png" group-title="TV Lokal",Radar TV (Lampung)
 #EXTVLCOPT:http-referrer=https://radartvnews.com/live-streaming/
 https://www.streaming.radartv.co.id/hls/test.m3u8
 
@@ -941,11 +941,11 @@ https://primatv.siar.us/primatv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhfu5_93uo96pmPt5N9Y6wTdMDNpQWsGTtA88E_bkYhdvkIhg9_vw9GMpvKT_Jnp0iGldxDC9-OeqYuvp3ZltKUtS55dOM7c80ARGQDVJ73sZVgbpCQNZgvvknH_siQexiEJomtVkAe9JkxY-sIVshV7lKex1k8oPfbyPPxdGH9hLY3UNUl5n6rGTxky5v/s1600/Logo_Agropolitan_TV_2022.png" group-title="TV Lokal",ATV
 https://cdn10jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="logo" group-title="TV Lokal",Astro Blitar TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPVh30yTnCurL1pYZTqyb8cwfIiBniHjqAPa6z3yWlnri2PAiH6MZteEregyiSsU7x6qo__XgW-r1d9hQHsdobvLbdXoP-5F9pq-1QocRASYVmPPCTFgx52Cn78gDZv584X70_NhZpvjqI-8dHtHpU2wyrnpZlvY1ZRmaJ_ELDiEzRfRVwMslcQpa4I0Xl/s1600/AstroBlitar.png" group-title="TV Lokal",Astro Blitar TV
 #EXTVLCOPT:http-referrer=https://abtelevisi.com/
 https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="logo" group-title="TV Lokal",Atambua TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2cGP3j-WwDFyHHHay637L0RuRaJ92duGkUEt7yAtiK8weuVt_7fHPi6XPDQWOQgbls2tDrez4tKA6js4bJF9txOJSPyj8LBiI85YI5ANP3Ir-Of6FxQiNCcmH7VvjefDhJX-0j9DOVSThxTI82fG39DEaVBpDmswSNAgQsgSWOdLOKGc6YnoURE9kERA9/s1600/Atambua_TV.png" group-title="TV Lokal",Atambua TV
 #EXTVLCOPT:http-referrer=https://abtelevisi.com/
 http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
 
