@@ -1231,10 +1231,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
 #https://cdngb196.indihometv.com/atm/DASH/tawaftv/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/tawaftv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="logo" group-title="TV Religi", Al-Bahjah TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b0/Al-bahjah_tv.png" group-title="TV Religi", Al-Bahjah TV
 http://202.150.161.117:8000/play/AlBahjahTV
 
-#EXTINF:-1 tvg-logo="logo" group-title="TV Religi", Nabawi TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5A5tzBStaiOVUTULbqRdho_Dwi6Dw3CgGN_j5Qhd8WPZyLbTv51YwrTT86q2nYtKUkHpFKxBYakpm_dopn3PGozFQl76LrRCjfbFTOlWO2zlrZ6KWrXu9CzdltMTYz0zQdvJ0qXyDfShc30o-hGDHFUlOxC5JcRgFYMQyEoxARauKsCOsuSn1Ncpm9wnX/s1600/NabawiTV.png" group-title="TV Religi", Nabawi TV
 http://202.150.161.117:8000/play/NabawiTV
 
 
