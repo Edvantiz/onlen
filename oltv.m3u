@@ -2424,7 +2424,8 @@ https://movies4free-lg.amagi.tv/playlist.m3u8
 https://live-manifest.production-public.tubi.io/live/4ed608c9-863e-4ea5-91d1-27549ef1adda/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0KYdGQipv4FIWFxKMv8I_-Jc0KGAtAQ3axQSHnxTIpjgRVBlwcsPTEAdH5GIGwJN1ZC-OQ-udQmxcFFEk-tvqKAyhqYzDzmRaV3BdUMx3UAQkdDL_30Rv0fdKkKz6Esh-WUmR9ZofB96H9g8F946atoNEi0y2aDrPPEuuvUgEjeSE6Xbjtok07Ouv_GMB/s1600/Miramax_Television.png" group-title="Film & Drama",Miramax
-https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
+#https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
+https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist_webvtt.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhExAuWaXDPXjBKq1yhnpav7RFLUhHcCvANtt5L7nMnJd4qxozEcUwnudEpbW9EqA94LVlsT2Dnr_58DfTTTUsDanAnSilcS8jLnYjLnDnB-QhZrIfXQtyCU3560VYG-EcUFxgyVUld1Jv-B-0l9sP194sSv0aGgc5YFBKgEbh5XC6gxWrYLFMXitfWMihn/s1600/moviesphere-large-logo.png" group-title="Film & Drama",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
