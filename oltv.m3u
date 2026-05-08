@@ -1792,22 +1792,23 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1J9dcbgiqWW6ut4z0kz0ENd4S3B2RIHN-8hid4Gt-dJdnDmWzlNTHKUlMBAITqkd0Enj1mLkx9hDL_nL4aqz4WoDG9rjW_u-ZP8DqLjgMQVclG9hQJuY3fnFRKGrjOcELHMZSVH-mWMTHxBAHsTpstzvGQlV_oKQLIdmXCS3LVS10xvPx4_B1z3-1Atu/s1600/NBC_News.png" group-title="International",NBC News
 #https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
-https://d4ybyqrhce41r.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/71aa169c-7af2-4a7e-bfbd-b8a61babf6a2/1.m3u8
-https://d4ybyqrhce41r.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/71aa169c-7af2-4a7e-bfbd-b8a61babf6a2/6.m3u8
+#https://d4ybyqrhce41r.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/71aa169c-7af2-4a7e-bfbd-b8a61babf6a2/1.m3u8
+#https://d4ybyqrhce41r.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/71aa169c-7af2-4a7e-bfbd-b8a61babf6a2/6.m3u8
+https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZmTSEGYpuvqPFFT4oj_i59_81ejN4A5kHFBdOBsQvdXrYADMJfs4asAGyH8bEL3tLvFfRJ3EYi8sG6756Tj3p5-lB4C6CRpqgWGldFSfJSa7jwrtDwn-V1tAYYH9_tXy9RZOb8N9pqQTP7Co9g11X_CXAsRJ2W-0aDtPkxPkuWHDXZxzIGTz-g-9Z5MGg/s1600/CNBC-Logo.wine.png" group-title="International",CNBC Live
 #https://fl7.moveonjoy.com/CNBC/tracks-v1a1/mono.ts.m3u8
 #https://fl31.moveonjoy.com/CNBC/tracks-v1a1/mono.m3u8
 #http://41.205.93.154/CNBC/index.m3u8
-https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_caption.m3u8
+#https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_caption.m3u8
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist540_p.m3u8
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZmTSEGYpuvqPFFT4oj_i59_81ejN4A5kHFBdOBsQvdXrYADMJfs4asAGyH8bEL3tLvFfRJ3EYi8sG6756Tj3p5-lB4C6CRpqgWGldFSfJSa7jwrtDwn-V1tAYYH9_tXy9RZOb8N9pqQTP7Co9g11X_CXAsRJ2W-0aDtPkxPkuWHDXZxzIGTz-g-9Z5MGg/s1600/CNBC-Logo.wine.png" group-title="International",CNBC Live
 http://rezofoot.tv/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOA3vSOIkccliYpb3cSI-y5ICvZ9zlfUU3gk770S3YdC37DIqLmeTMU_EOVsvWpq1eSR1IZ0wfGtjKZIiYnh-nzzTeG2IkwQNLPrGGdqNlF1W4dhlmpubmS4Hz43QFuScnbr2Tktho4E7eGuvS2rEqIQdffPPFhyphenhyphen7i59c6-dytmefFmQ_PJ2rnBcSZpwjO/s1600/msnbc-logo-png-1920.png" group-title="International",MSNBC
-#http://41.205.93.154/MSNBC/index.m3u8
+http://41.205.93.154/MSNBC/index.m3u8
 #https://fl31.moveonjoy.com/MSNBC/tracks-v1a1/mono.ts.m3u8
-https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgln_-h5XifQk0K3mmBHW03mgTWaIf10-YSuL7yA431nFX_-6w4oUHgEBdiYJ1Z4-UdP6obvhIIdtK350LzhbrOAyaBRav66Uh8OUTehyphenhyphenD3aOmdc6wM29mpLcbObioyQktxgghv1TaeFWMJGRMF0di39OcGHvc0G6Ktmmrpadp7SH1ozoHwE0IooEvOOHWM/s1600/LiveNOW_from_FOX.png" group-title="International",Live Now FOX
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
@@ -2461,7 +2462,20 @@ https://live.cdn.joj.sk/live/andromeda/wau-720.m3u8
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUP18cneUCSWbQCqmUtFsHxE7j9UA6NQctLrpFHO-WDTE5-4vEPytUZHr8-VXgVctx0d9lPZpbFi-kC2pJy1n78wU-BiD0nKOw_I03yoGBqSQtkMxvh5o6Y7E-ZXJPzfjZx-rqN_XSQKorAg3A8DVkcT5KdpiETQpOtRU6HJoWR2JIe75CREKD1wJkmNEG/s1600/Action%20Holywood.png" group-title="Film & Drama",Action Holywood Movie
-https://streams2.sofast.tv/sofast/acetv/AceTV_2500k.m3u8
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-actionhollywood-samsungnz/cb553d167e6c64899ed43d66d9ef41a9dd243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27752cc9e0a957f378bbdbe306f2c180680585ee2be5da5edf55c118b39a9e04841887c43e7805fc8d54abb9ddd5ac8159b7ff346ce9aa188d518d08fc001c66d925ca4e47007fbb852d1af76b9c9957f36ee0042243b60966f17632c46e062564ef7efcec50b97f52ad957e95038bf15924a923fc00bf84fcf6929d180283171552d81e4221ad99eac0bdaae1579d243eeb0e6cd7633bbf3187f55c869dd18e659faf2e61b9eca199ab76cd0fa395d70f7984b9f92a590af9eb90acd758497afd80a4b40355059c645f4ce249b08cd68a4cb24245e664db9d50097d1970d662207ada86af93f57f9d78288da4e1ccf631055a120fa531763c131232db574b7ca723cc7764ab6343bfa4a3ccf17afef62a6f1a9906c5182d7c946f078fcf55b82846587597c0852fda2561c2f2a5adfe161013503b366ecc1c5ec72494dacc0c4f0c45c2f147b70760998e9f37f8b84a3784f462132e2f0efb871a728ec16750acd511cb385e7733f3553/120/848x480_1249600/index.m3u
+
+#EXTINF:-1 tvg-logo="logo" group-title="Film & Drama",Nostalgia Movie
+https://rpn.bozztv.com/gusa/gusa-nostalgia/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="logo" group-title="Film & Drama",Western Movie
+https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
+#https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-logo="logo" group-title="Film & Drama",Universal Western
+https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master_1.m3u8
+
+#EXTINF:-1 tvg-logo="logo" group-title="Film & Drama",Movie Classics
+https://30a-tv.com/feeds/720p/52.m3u8
 
 
 
