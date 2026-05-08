@@ -1811,7 +1811,8 @@ http://41.205.93.154/MSNBC/index.m3u8
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO-u6ZGMpeR1rCxojobcJu4hLNJZViVMU8exyH2qwodWYDFbMpwHf3dNKTavcHSNcLzXi7Wo-Sf2BJSbarBFiAGoPN-bKaEwzOhH_R8xu2Ptd4V0ZPKaDxbpPWJfJ_wfO_f2a9HQEjrq0j2bqtHiRFGr_Pu32Ez7HJzC__NiE4bX72TiJvtLiDhyjEH9S_/s1600/Fox_News_Channel_logo.png" group-title="International",FOX News Channel
-https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+#https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+https://stream.livenewsplay.com:9555/hls/foxnewssd/index.m3u8?token=df97bee9ecc39c145d1c1dabebbb5b4b&expires=1776172260&sig=39fd12617e5217979f49d0b762fc7ccb94bd421c5605f29bd2ab81433755a3e0
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmcznluywlV2Kixi9gi23zO15_VEerqS5TSY9bS3A_O9aDwxssBE4xsrpLLC6oF6nQTbv16E4_kY_DFZ2DwgQHJwz2hLVaIIT79wLS9gq21Cd1X5BL8EGaDhhOnkcPAt61InbDhr2WoPpnUQywGsfFwIKEHB5VY-CIx9o6rCbgT_a6mVhtTD4SqbZPyT9J/s1600/Fox_Business.png" group-title="International",Fox Business
 #http://41.205.93.154/FOXBUSINESS/index.m3u8
