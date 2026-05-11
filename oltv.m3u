@@ -524,6 +524,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyW9DMBbp-fbnwF911h5GB1GjBdeEQZu8L4RIttjqxfj4TaNTMZxOly7Ds35v4ETImLxIMV2Ob9aG0iBjrZkAKFK9ry2XKu7LRLckGcKvi5l_wjro0vDG9sw6XunpabfSXOmCG1C5ObzanYD6111Vw6hB27HSOJog9piu7FMkq7s0YouNn9gQuAksxfrYU/s1600/RCTI-gif.gif" group-title="TV Indonesia",RCTI+
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVKLWtx90rx2wFsYdHzZBOCsK_pyvy5sXKRRW4ZY512dV1_aKUu-LQHZW2PhMZ33o1QnadLb3SL5QR-SRf1-mnirFpzfdU4Q1FpVaymU2v7O5_2abRiKdJQNE3g2ybHuidOnoPKXFTkJEbOXlODxpimzgn1v3TG0MCirsZGFQn2v0gG8MlWABTFTr-vi0w/s1600/Gtv-gif.gif" group-title="TV Indonesia",GlobalTV
 #https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGZ3R2JTJGaW5ld3NpZCZoZWlnaHQ9MTAwJTI1JndpZHRoPTEwMCUyNQ==
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
@@ -2644,10 +2647,12 @@ http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
 http://202.169.224.202:8800/udp/239.9.1.29:1234
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIDDUbXYzsmK5N5jfjNJ0BRmtvkPsoFRRYxA2UUgY06UzoMwoNDlAvMeEsadK96Hq8Qjnv9DW3WzRJOdm7oQDyGhPF-ewLA6gMR1-T2X9SjJgNb4yAz11Ghwn2eGqVWR98N9Bh7uTml4wTiZ9eCEnSO1ggA0xM7zXx8jftWJ_nh-OeUpl_Xj9P0cCJn5g/s700/MNCSportsTV.jpg" group-title="TV Olahraga",MNC TV Sports
-http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505855.ts
+#http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505855.ts
+http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165910.ts
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPyPi-6dDg4Y8sZ0QqX95r4FKNZfhvd-vmZyHNEPwFDUY7XtS_9c6ZwIvcCk5mdiKzD1v9e-nTmzY60pCTZ0EML2TwVpK7wR_Canr0XTtKFS1USYc37zNpHm_q0KFw-CK6ZcDBxJrjK_6F8WupuEpL-HrVgMzFH0C0syvRjIxhsbE1UiXHhXyqIpRB4CM/s700/BRI%20Super%20League%202.jpg" group-title="TV Olahraga",BRI Super League
-https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
+#https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
+http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGUpnDNapRqDPfMoMaG_kTQ0yS0xq62nKhLeT1r7jKAEMmEGc5zuNFH5tdiFKl2ZxDubmvkiFWAEe8TVX3zTGDk0Eq06yn_w34AZSCjcnO2oqmk4R9yyQOmJFAupiir8lR0gbG3RUst9wspuVyM98eGjg_TZlCNyNmwIikMKHDE9gcNeX29VLvBybKlWE/s700/iNewsSportsTV.jpg" group-title="TV Olahraga",iNews Sports
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
