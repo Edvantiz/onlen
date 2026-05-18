@@ -478,7 +478,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip0sQvwCIUzXhFEnJZIGyrzTJCWsfibd3zK6qyA5yJdA2-0LeXm5igt6eImEDw01FJPFaHYjsN7WCrK4HlyDOoFpvlAizmfQob-VDf9QYrMpcnV1SoJGTEmIqi-ZDtcbD_BDn56ejWDvgiddFfnRFfZfZuMfOsGmI2bRuJin5bYo5W4_izHQIS8Qr2O59r/s1600/TVRI_Sport_2017.png"  group-title="TV Indonesia",TVRI Sport HD
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHxT3EkDyR0061WWolSPshyJNnqOmw1bFJmVPvY7jJ_hF34zITqAkUCh0Lb70pTMwLC5qi7nNzqsmZhHk6IF8vQ9Ap_cE6uDGWG5PVjE1NBrGb1w-CU5f83r6a4FW0w2IiiZo-lQzrVKq_HMKHTiuNe469jNusjd2-m06dbXAdizGiCRLiebhMMzY9oIay/s1600/Antara1.png"  group-title="TV Indonesia",Antara TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy0rJi-XM9g9E0p_oMBVxEsH4elDkXAto5igMv7JhDYQFidEVP4UtAfMogNKgElte-Wld6beg0ruhbFDNUZu8piOvUFjoUX6v7FjHIZEPYHHIbuteppKuVq1F6DBbiqW2vudcsmWu92v1lDLtjisbrK3w8lOVfub8Np1IBjdTdjZYT5ECzjO8SHgLMSZIb/s1600/logo-antara-news.jpg"  group-title="TV Indonesia",Antara TV
 https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnWmq6qsFvJgPFBZTAMGdmqxzLPyckEM9Iv3gKkH_P69ocpinxQ5zGB_Gcs7Ejek8bXSR-eJc3UuVOVYiq_3fjtig0BLeNTffFd3apoCSOMhfUvOb2h5afH9fxQFPPb_pFEpZIBVqk3XNXHiZ6M9uUi5YW8ZLa1M0-U5d29quw_khKnaoH9M4PhZ6Ohzbu/s1600/Logo_RRI_NET_2023.png"  group-title="TV Indonesia",RRI Net
@@ -514,6 +514,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKjNdeprFp7JZ66hOgKBfWQ5qcnkkGej4IVnU6BbyCfP6q4SBfc6pnWfqpxlMyzn-yVXI5w3ygw_IxbQ1iLWO0AzC5bUjQV__xGIbd5oy3gsTdgZibr4-qgJgsSRmJQCwPnB5JKEKvgdgxqDjuoJD4kkS08ctTju6GcXMoFhQ47X_RIWzNC9kQbDlDnr2E/s1600/SCTV_Indonesia_2003.png" group-title="TV Indonesia",SCTV 2
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKjNdeprFp7JZ66hOgKBfWQ5qcnkkGej4IVnU6BbyCfP6q4SBfc6pnWfqpxlMyzn-yVXI5w3ygw_IxbQ1iLWO0AzC5bUjQV__xGIbd5oy3gsTdgZibr4-qgJgsSRmJQCwPnB5JKEKvgdgxqDjuoJD4kkS08ctTju6GcXMoFhQ47X_RIWzNC9kQbDlDnr2E/s1600/SCTV_Indonesia_2003.png" group-title="TV Indonesia",SCTV 3
+http://202.169.224.202:8800/udp/239.9.1.29:1234
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyW9DMBbp-fbnwF911h5GB1GjBdeEQZu8L4RIttjqxfj4TaNTMZxOly7Ds35v4ETImLxIMV2Ob9aG0iBjrZkAKFK9ry2XKu7LRLckGcKvi5l_wjro0vDG9sw6XunpabfSXOmCG1C5ObzanYD6111Vw6hB27HSOJog9piu7FMkq7s0YouNn9gQuAksxfrYU/s1600/RCTI-gif.gif" group-title="TV Indonesia",RCTI
 #https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGcmN0aSUyRmluZXdzaWQmaGVpZ2h0PTEwMCUyNSZ3aWR0aD0xMDAlMjU=
@@ -558,6 +561,12 @@ https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 #https://cdnjktbpid26.cubmu.com/riutx01-e312a224c5119cd47f2cb64bf8c8c286edd3e1214dcc663e33db130cf6b3833b/dash/QU5UVg/manifest.mpd?signature=ZmYxZDUxMzdjZDZlYTAxMWQwMzViZTMwZGRhZTA1ZDI=&time=15177322257
 http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKnjVprDM4I-4niOy-X11N81jjEBFyluG6CfRNmRaWT0axLAwICUQmwyJjhu4GsSsZl-QFVt3HwjREqDCyUlZzk6LDymhjDK4OLKgZ9ba8eZFCgULyma2Tsiam-luFtb2L12rCNiP0sdebpfo5tWX_Fpn7sbR-z_l7b3HpeRc-yF0iyTFdSqAbgQ04HzLO/s1600/Antv_logo%282009%29.png" group-title="TV Indonesia",ANTV
+http://103.58.160.157:8278/720-ANTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKnjVprDM4I-4niOy-X11N81jjEBFyluG6CfRNmRaWT0axLAwICUQmwyJjhu4GsSsZl-QFVt3HwjREqDCyUlZzk6LDymhjDK4OLKgZ9ba8eZFCgULyma2Tsiam-luFtb2L12rCNiP0sdebpfo5tWX_Fpn7sbR-z_l7b3HpeRc-yF0iyTFdSqAbgQ04HzLO/s1600/Antv_logo%282009%29.png" group-title="TV Indonesia",ANTVᴴᴰ
+http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=1058862&extension=ts&play_token=XMOx1ovd3r
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzgBL2tcpzeojuJoNu0B6mo7fNK-sfKxwpFiBoiLwYyEvUIs9aIe2duBK5xK-sfjvnEprNDrJrFBRxD5zSXscIbEB6513NABR-zkni3-QBR8fTsJlF1jTz6WqLsZCBxLDJtJ5zZooqSoQoMcY8frX9hBKVChMtq8k7CkqfyjqOXgWKD1-7rZYoxACRyPoD/s1600/BTV_%28Indonesia%29_logo_%282025%29.png" group-title="TV Indonesia",BTV
 https://btv.secureswiftcontent.com/han/btv/btv10005r/srtoutput/manifest.m3u8
 
@@ -584,10 +593,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
 https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzHT5BRv5CsyT7-_fFKwcosmyLQdHj3JsB1v3o_4CYrWsJlpe9MMeFuXiwXO3CyEjXixeX0INNax7rg1G_YeXsLK2hU5BVfcshwSkzVwBpi93kBbRso3BBUubLse_8XAFOp2vzWC_JN_-MwV0Lzs9YLWdXI5pCW6AligVNiiAYEtnchaJB-E6KgLYhN-Sp/s1600/Kompas_TV_%282011%29_logo.png" group-title="TV Indonesia",KompasTV 2
-https://op-group1-swiftservehd-1.dens.tv/s/s104/01.m3u8
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHIjes0Nl3NlawlK-gE45mFR6pGqthY84Fa_kwC27G0AE1FDU0n-qDqAi5aH3I6M9z3Qh9QpGbAOp5VnOTMnTJDh_8CyEGjmL-_A9E7zGXVo5hvoHUMSXc64CPLTELUecZyIHge3Wj39snJ189BpnNYn6RawjeUzmLRW7ZsbXtxxcyy8wt1b9nJANn5jfO/s1600/MetroTV_2000.png"  group-title="TV Indonesia",Metro TV
-https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/21
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2ESoONFfJcb6_nd68nar6sumHJTcCr0d7Wh207v5H0JFPTdCyVDnWfDTbWevf6E3k0okRUKaopMBiMth2tgZlEP4UelT7nKEBlfgreCBTeLB-Q_G6DbOwULFtr1XThDqhz2pagk0qgOBysLl95zHSCtzBAQVZMwKJT61RcFj_VAILqwWa_bzPsvUb551E/s1600/BN_Channel.png"  group-title="TV Indonesia",BN Channel
 #EXTVLCOPT:http-referrer=https://youtv.live/
@@ -650,7 +659,8 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCA3ts7Pw3bpw1u6Jl1N_FS0NW8BbsAezVk-Uid90ng4f5tvyCNovvxPxOe_tjFYNitWQFvLIjf1ltdzg2QY-_xkPG13RBjW0rRGoRRT9kgVyf6nbHlygRvx1Mq-A0JZ_h9dR_B6L0KD9kXOUxh9DrornMpU4Dk7MNbAtof4nVrGUaHMRia1djj6BPgoh4/s1600/Moji_blue.png"  group-title="TV Indonesia",Moji TV
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+https://wahyu1ptv.pages.dev/Moji-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKXm02R7yZeNWgq11dZNDybWPoBdpwQnZQwHDKnr52pREMI2FiM6Y3uN7TzhIK3zOWdRwRAhEvhLjMgIaVj42SP9RmZ2pw5fyRPr_gOg53XT_aJbj-28ziA_kIlXVpkUyTX6o99FP6KD_O7edLqKcxGi4_7QXDuvMl48XiugW7nx0d6NUCqXtUBZyHfhHw/s1600/MDTV_logo.svg.png"  group-title="TV Indonesia",MDTV
 #http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
@@ -668,9 +678,8 @@ https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 https://app.viloud.tv/hls/channel/631ffbd301331b3156250098cc22ff46.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVJIv1V4fPPsVzELisMuzttOLeZ1-tRC3LcXZiXIy3hN8QYbjLUSy2quK-VlCn6jMA3kGiRcCVan_LMAKbhO8p03Jdo5hXokYHmD7pi3rDyDGd9FvAwmLE2bl6oSOaB-LO_jmfkeqrijQ1vKSzG3xlr9iyDQ2o8GvLfg57pqnNVI9XObR17H0rCZPtA2Cj/s1600/Mentari_TV.png"  group-title="TV Indonesia",Mentari TV
-#https://popmi.my.id/tes.m3u8?id=8237
+https://popmi.my.id/tes.m3u8?id=8237
 #https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=8237&type=hls
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0gyIeSCQMMPZN3JtujLbUbIW4ZfA_Ri9A-3KGTlj_yNArUfawfeyStaXl4UNLynw-5Cupu2lPnWr8GEUzjlWpmLLXGq5uOAnu_9py4jLXKxknYgI5GLrMmAPdacXRbfBQkmhk0CuMGzoxG5JYSCgEM4OdsZL7uf78CJeEzEpJAoLO2tbP4L-PVRqhw_tC/s1600/VTV_Indonesia_red.png"  group-title="TV Indonesia",VTV
 #EXTVLCOPT:http-referrer=https://youtv.live/
@@ -1059,6 +1068,9 @@ http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMKzpMJkqPnkLdPodfi6U5zVfuP0Uj7nicKpFddTgENK_QMBIKxxdjkoJTwPVkx-yYoHlikwURBnqnrdjPCgFhT7v9hjlXHFjz3p9CVwDMqXVxHKqY_guehAxnG2FSN88IaNntRjLakur6xrfP6sHxsgLuwfiZU7D6A-OceG3uNlC2eDfMDpiZTo1dLow-/s1600/SultraTV.png" group-title="TV Lokal",Sultra TV
 http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq7-hde4OyKcKX_jYXUfuyTNsRqPvXKNzeoyHQ_JO4NTvUoCru8XnS2MUDA51mE6PsL-FYHNzYGBtwxxbLc6R93M9lXlmbXxjwqN2xaXUr6xJ1yRqr4cYc9Qh-rLdvCEiQbAIg2K-IG2MFWa6hY73zuAOLpDXEqRTpMpPiGRU6xIw4Ss8epm96G6fiSjVr/s700/ABTV%20BLITAR.png" group-title="TV Lokal",ABTV (Blitar)
+https://5bf7b725107e5.streamlock.net/abtv/abtv/chunklist_w1913721130.m3u8
 
 
 
@@ -2659,8 +2671,8 @@ http://202.169.224.202:8800/udp/239.9.1.29:1234
 http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/1165910.ts
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPyPi-6dDg4Y8sZ0QqX95r4FKNZfhvd-vmZyHNEPwFDUY7XtS_9c6ZwIvcCk5mdiKzD1v9e-nTmzY60pCTZ0EML2TwVpK7wR_Canr0XTtKFS1USYc37zNpHm_q0KFw-CK6ZcDBxJrjK_6F8WupuEpL-HrVgMzFH0C0syvRjIxhsbE1UiXHhXyqIpRB4CM/s700/BRI%20Super%20League%202.jpg" group-title="TV Olahraga",BRI Super League
-#https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
-http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
+https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
+#http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGUpnDNapRqDPfMoMaG_kTQ0yS0xq62nKhLeT1r7jKAEMmEGc5zuNFH5tdiFKl2ZxDubmvkiFWAEe8TVX3zTGDk0Eq06yn_w34AZSCjcnO2oqmk4R9yyQOmJFAupiir8lR0gbG3RUst9wspuVyM98eGjg_TZlCNyNmwIikMKHDE9gcNeX29VLvBybKlWE/s700/iNewsSportsTV.jpg" group-title="TV Olahraga",iNews Sports
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
@@ -3128,6 +3140,12 @@ https://cdn10jtedge.indihometv.com/joss/DASH/daaitv/manifest.mpd
 https://streaming.indihometv.com/atm/hlsv3/indikids/playlist.m3u8?enc=noPkQ8oOvzoMnoq5P-pl_Q&exp=1728583431&encp=DucAi5pGDP_JHVoNBWRFHA&expp=1728593931
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",FunPlanet TV 
 https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG423TfMUEmFr8MTpAxkjq6o6z-swkvVB5wXpTMEQUoZ5OMCrK6hVk4bxISqvgSY2JtbTl4_HZSIKgkbW3xrd2ju991KAoZuMxBYvW6WqO33w2Bnn7IzH6hC9peNW2PXHvipFVM53hxU7aTnzbGitFiR8XOTk1Xa24NOciExoFNPmogs-Y1TqCcUlZ9QU/s750/GTV.png",GTVᴴᴰ
+https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",iNews TV 
+https://streaming.indihometv.com/atm/hlsv3/inews/playlist.m3u8?enc=md_GHQ2hGgDPn5lXTNVv1A&exp=1728582949&encp=twVm4IEDrkZpc98EHK081g&expp=1728593449
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",iNews TV 
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",Indonesiana TV
 https://streaming.indihometv.com/atm/hlsv3/indonesiana/playlist.m3u8?enc=iUUixj1v1aDkZXDfVSNChQ&exp=1728583311&encp=s4QqsaAJ80fyQtDUmUSmUA&expp=1728593811
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",Indonesiana TV
@@ -3164,6 +3182,8 @@ https://cdn10jtedge.indihometv.com/joss/DASH/maxstream/manifest.mpd
 https://streaming.indihometv.com/atm/hlsv3/METRO_TV/playlist.m3u8?enc=NvOc4dxPc-AaTYomKk8wtQ&exp=1728583507&encp=0ZfHuwiIlueb8lgeCiZs_Q&expp=1728594007
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",Metro TV
 https://cdn10jtedge.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqFfGFGJU6o9ViyB8hBd8doyC83zYkVvesuwx1e9Rdkg819se6Z8e0jdFE7fS0tgrVofADMaFR_fylrNM2KxmuloQcLKyi3J80VUtkVUIbtALBx2BQw0rdG3s9EbUd1jenmSyDYWzXbboMesCFWxiP4g5Z7CiV8s2BBtmM8HJh9jarJwSNcZsFO4p88YL9/s700/MNC%20TV.png",MNC TVᴴᴰ
+https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",Nusantara TV
 https://streaming.indihometv.com/atm/hlsv3/nusantaratv/playlist.m3u8?enc=9widr7bepNwAhFQ_cAntKQ&exp=1728583238&encp=G_Wk7uT0Ba0LYWtNgBXVlg&expp=1728593738
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",Nusantara TV
@@ -3176,6 +3196,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/RRI_NET_HD/manifest.mpd
 https://streaming.indihometv.com/atm/hlsv3/RAJAWALI_TV/playlist.m3u8?enc=-esh18CU-1exP0nz2Oy0fA&exp=1728583010&encp=t39pza4u4v0wYSo-UYXcHA&expp=1728593510
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",Rajawali TV
 https://cdn10jtedge.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtOswYxSurFYD6yBWgqPA2FszUp8JYFH0VTxzEFzB4OF_mhSZgZpi6IpMZ_BsQvkrlWcVUskAyP-oMBdiqjFhmLnPVOrGfAb32-nwI0fmudX4Wnr3vgfpjtvif1OlJaSnLEvr_5E8F9nORtUPcn7L4tcnBuNQh6LxGxGbdRM-oyJL_K49UT7HLolzRAVC4/s700/RCTI.png",RCTI
+https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",SCTV
 https://streaming.indihometv.com/atm/hlsv3/sctv/playlist.m3u8?enc=XlxV-qA2eRvXeBbEN0wyfw&exp=1728582790&encp=bbyTJ7Ynv5ct2lUpWr7rlw&expp=1728593290
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",SCTV HD
@@ -3216,10 +3238,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd
 https://streaming.indihometv.com/atm/hlsv3/zbioskop/playlist.m3u8?enc=TheCu5fYefai0ST0a9zb_w&exp=1728583603&encp=t58MOhg7vqWpCcibmKAdDA&expp=1728594103
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",ZBioskop
 https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
-#EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",iNews TV 
-https://streaming.indihometv.com/atm/hlsv3/inews/playlist.m3u8?enc=md_GHQ2hGgDPn5lXTNVv1A&exp=1728582949&encp=twVm4IEDrkZpc98EHK081g&expp=1728593449
-#EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",iNews TV 
-https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 
 
 
