@@ -789,7 +789,9 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLeffjykOp_W3BpbCcyj2gptS5_eYFQrnUVv0zZsJbPUpSmQj9biwI4aAbh8edGVibOAqn7Y6-9SU_8-5PVghRXQoELMJ7tUrD0whzeHJJXIQt35j4rjNuYbWWDxZfp99cb3KahCKp-8-k3x-4Fh7b1rLWFWM40j-HTZBHKGR94dgrhugTJ3zreGpW8Lcr/s1600/KTV.png" group-title="TV Indonesia",KTV
 #EXTVLCOPT:http-referrer=https://youtv.live/
 #http://103.66.62.83:8000/play/a04s/index.m3u8
-https://flv.intechmedia.net/live/ch118.m3u8
+#https://flv.intechmedia.net/live/ch118.m3u8
+#https://gooo.blog/opix/genx.m3u8?id=ktv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+https://flv.intechmedia.net/live/ch118.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfowK7iwZzw8WCJDn7f4Bhqs2AtvxbOA_qukPM63nGhfxpX5hHfJGM8-nNaqn4c5wiCbHok7skBxBHuIp55QlRvjkH4CAye0x4JPvDGZA7pP9Gsu1vxGAkYcUVvDJwut2vE_PPAg49puQ7g2yuDx-M4SzyOpz9uE0sZ7FXwFhSjSyRnmvUsiBSOetEBhct/s1600/MBGTV.png" group-title="TV Indonesia",MBG TV
 https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
