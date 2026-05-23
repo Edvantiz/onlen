@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/371/409/png-clipart-smpte-color-bars-color-television-television-show-tv-miscellaneous-television-thumbnail.png"  group-title="Test",Channel Test
-https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/playlist.m3u8
+https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8
 
 ======📖|MUROTTAL AL-QURAN======
    
@@ -1776,7 +1776,8 @@ https://tvpass.org/live/DisneyXDEast/hd
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7elPqNgemqVVMVtvh5dzIO62v3KIdK96-aHHiHYWyieKQ9yn2tsFwymuBprdapkpWRT8-xQam7VMC9yWH6emBRS95gZclSlbHrKHsWmym_eCLR3mViVBTsK-JKFEi8ZbFbxMIwD2NeOFqOAdW41P0HnxakotrM66ixbbgdmj-6Wmhe3QkBFkX2VbbP4tn/s1600/Tiny_Pop_2011_logo.png" group-title="TV Kids",Tiny Pop
-https://live-pop-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-tinypop-live-amagi/playlist.m3u8
+#https://live-pop-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-tinypop-live-amagi/playlist.m3u8
+https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVQbwFBQMRQmGxUBa8nCmKMuB4JeJytTM0DTcFJmriAdPOyuFwNnklhsA_bZ6Zm0f8TZ8kAz2cOT4wUSi2ARXnFkULZTxNoRHXIlKVT86A2VGl-lsnaqjdUTmgiko7XDCtfzUyhlA7QySlM1pv2dcIbI2CRDbyovjLf-05gmiKUD724O-iKbtCAVCMAM-b/s1600/Pop-up-logo-2024.png" group-title="TV Kids",Pop Up
 https://narrative-fast-popup-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-popup-live-amagi/playlist.m3u8
