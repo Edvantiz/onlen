@@ -1,7 +1,18 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/371/409/png-clipart-smpte-color-bars-color-television-television-show-tv-miscellaneous-television-thumbnail.png"  group-title="Test",Channel Test
-https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.m3u8
+https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/371/409/png-clipart-smpte-color-bars-color-television-television-show-tv-miscellaneous-television-thumbnail.png"  group-title="Test",Channel Test
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/371/409/png-clipart-smpte-color-bars-color-television-television-show-tv-miscellaneous-television-thumbnail.png"  group-title="Test",Channel Test
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/371/409/png-clipart-smpte-color-bars-color-television-television-show-tv-miscellaneous-television-thumbnail.png"  group-title="Test",Channel Test
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+
+
 
 
 ======📖|MUROTTAL AL-QURAN======
