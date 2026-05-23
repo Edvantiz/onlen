@@ -16,15 +16,6 @@ https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/371/409/png-clipart-smpte-color-bars-color-television-television-show-tv-miscellaneous-television-thumbnail.png"  group-title="Test",Yahoo! Finance
 https://yahoo-roku-us.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/371/409/png-clipart-smpte-color-bars-color-television-television-show-tv-miscellaneous-television-thumbnail.png"  group-title="Test",AWE
-https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/371/409/png-clipart-smpte-color-bars-color-television-television-show-tv-miscellaneous-television-thumbnail.png"  group-title="Test",CMC
-https://cmc-kowdtv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/371/409/png-clipart-smpte-color-bars-color-television-television-show-tv-miscellaneous-television-thumbnail.png"  group-title="Test",AWE+
-https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/371/409/png-clipart-smpte-color-bars-color-television-television-show-tv-miscellaneous-television-thumbnail.png"  group-title="Test",???
 https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 
@@ -1537,10 +1528,12 @@ https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://a-cdn.klowdtv.com/live2/countrytv_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE9SsKDSh73V_VGwY5xOxTVqGeohqliRZlGSuXVATA6Xc_D-fUa_G6V0uDXY8HoaJFzV7cd2yfXOTkIeMXYcDccTYbnptnHzcu2u8mZFo0cPbvxQo4n-IcczWikxobBcaYUr4xUkDk2ZVAjQK5Z8TGcfuUzSNsP8s68Tg4K_0wndkZBWjNkllUtReoJ3d2/s1600/California_Music_Channel_Logo.png" group-title="TV Musik",California Music Channel
-https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
+#https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
+https://cmc-kowdtv.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmcm-knowdtv/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE9SsKDSh73V_VGwY5xOxTVqGeohqliRZlGSuXVATA6Xc_D-fUa_G6V0uDXY8HoaJFzV7cd2yfXOTkIeMXYcDccTYbnptnHzcu2u8mZFo0cPbvxQo4n-IcczWikxobBcaYUr4xUkDk2ZVAjQK5Z8TGcfuUzSNsP8s68Tg4K_0wndkZBWjNkllUtReoJ3d2/s1600/California_Music_Channel_Logo.png" group-title="TV Musik",California Music Channel
-https://cmc-ono.amagi.tv/playlist.m3u8
+#https://cmc-ono.amagi.tv/playlist.m3u8
+https://cmc-kowdtv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE9SsKDSh73V_VGwY5xOxTVqGeohqliRZlGSuXVATA6Xc_D-fUa_G6V0uDXY8HoaJFzV7cd2yfXOTkIeMXYcDccTYbnptnHzcu2u8mZFo0cPbvxQo4n-IcczWikxobBcaYUr4xUkDk2ZVAjQK5Z8TGcfuUzSNsP8s68Tg4K_0wndkZBWjNkllUtReoJ3d2/s1600/California_Music_Channel_Logo.png" group-title="TV Musik",California Music Channel USA
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
@@ -2190,11 +2183,13 @@ https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_
 #EXTVLCOPT:http-referrer=https://www.distro.tv/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/f9df390f-1207-4bc5-b2cf-0e97ccac135d/0.m3u8
+#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/f9df390f-1207-4bc5-b2cf-0e97ccac135d/0.m3u8
+https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE0jhW1tePiegCAN6qnIbTb6m8XjE9J-h0y6XbBp_qPgyofnbYSHzfu53Ma4am3-urJRt_LUIBDf4SrqDPXMXTRBoraAi4CqDLEyPoHf9aGsSZdbXhOyBc6hmyUoroFKpCJbGNhIWfYXzwnm_L0DPuoAqmrEq4mb3A5YbbYMFH6gGuhURxJ0lplLAA7QV2/s1600/AWEPlus.png" group-title="International",AWE+
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/playlist.m3u8?ads.vf=eVE5nru-EHa
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/78d000da-a35e-4394-bd1c-42c7a6dacadc/0.m3u8
+#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/78d000da-a35e-4394-bd1c-42c7a6dacadc/0.m3u8
+https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp81GsUehhDXzwynxGD-Dj7Rk0V5RJyw-dCREsSk_2ljEKvaXjEPx9Nd968T774PM3lyWEgT8tjbMcNvx9b_l9m2F6jPqWb5TcWRDTyz7FZF5YzLCZ1d0qr-IFl4fb8Eil68nNT62L_xbzLAgGuMBbIGnoVlJbNgRYqhtKAVhUYYZyGLGRUPo1JRGCWz-K/s1600/Earth%20Touch.png" group-title="International",Earth Touch TV
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
