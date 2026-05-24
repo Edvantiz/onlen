@@ -3712,6 +3712,28 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
+======Great Moment======
+   
+  
+#EXTINF:-1 group-title="Boxing Archive" tvg-logo="https://cdn-images.dzcdn.net/images/cover/872d1cfe7566c9b589bce4b46ea80886/0x1900-000000-80-0-0.jpg", Test 1
+https://archive.org/download/rb-1_20251008/RB1.mp4
+
+
+======Great Moment======
+   
+  
+#EXTINF:-1 group-title="World Cup Archive" tvg-logo="https://cdn-images.dzcdn.net/images/cover/872d1cfe7566c9b589bce4b46ea80886/0x1900-000000-80-0-0.jpg", Test 1
+https://archive.org/download/rb-1_20251008/RB1.mp4
+
+
+======History======
+   
+  
+#EXTINF:-1 group-title="Sejarah" tvg-logo="https://cdn-images.dzcdn.net/images/cover/872d1cfe7566c9b589bce4b46ea80886/0x1900-000000-80-0-0.jpg", Test 1
+https://archive.org/download/rb-1_20251008/RB1.mp4
+
+
+
 
 
 ======📖|MUSIK Mp4======
