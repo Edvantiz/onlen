@@ -1871,6 +1871,10 @@ https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifJ2oy7UFpuZPVXdOMgRd81_wvgKA0k2fAwGgkyXT32ZtQzUKBz0jO2xhGwZrho6ZEsji8YePjxrk6EfOHMjKcIsZAqILfVZjO2fOPyWcwxq2jz3plXjVZ0L7fK5NCPxVOg2fni-hcags73ToJUl4yNRwNoFdIGvPlKnuCI59t4qVjZy6fHSipfr5Qy5rv/s1600/SEA%20Today.png" group-title="International",SEA Today
 https://cdn10jtedge.indihometv.com/atm/DASH/seatoday/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DCntyzt/reuterstv.png" group-title="International",Reuters TV
+#https://d2kjqd7acfrwt3.cloudfront.net/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMgZu-YqDco1Iy83_THeSj2tLBONdfPmI4KY9YHurrQsaaHi5lQi3tg7pFEGnhLpzEZgev3pyIgi1wVK2Jz01oaal-jiTVByQsaT5Ld2vOGFR1fZ1HAj6KYjl969-tJhvbivRceM-6Haz9tFd7cbWHvbOviFvC5uvTLQ6izeeFHaRWSEGZgdJjAxJs5ow6/s1600/abc.png" group-title="International",ABC News Live
 #http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265962-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d
 http://41.205.93.154/ABC/index.m3u8
@@ -2086,7 +2090,10 @@ https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lig
 #https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #http://104.255.88.155/cnn/tracks-v1a1/mono.ts.m3u8
 #http://cempedak-live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+https://d1vnr7amzbx49s.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="NEWS",CNN INT
+https://jmp2.uk/stvp-CHBD800001D0
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK1obBZJ2lWHA4_Wh7jYvXbiGZPhFzxUbMAXM_jd2vfVBYC240aY-744YqXK-oaN4q0il3cA2Z8G4zWgiYJKbSv18qzt1ozaEA7CZNHppHPHvXla8E2Iq8KSEsy-hf79Wu8jJsq6O3J-wkUQ6G3gHhXRGgdkLmvENjl6SqJjgYM_-UYQr_fBprExojkTh8/s1600/cnngo.png" group-title="International",CNN Go
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
