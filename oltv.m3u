@@ -2090,8 +2090,7 @@ https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lig
 #https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #http://104.255.88.155/cnn/tracks-v1a1/mono.ts.m3u8
 #http://cempedak-live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
-https://d1vnr7amzbx49s.cloudfront.net/playlist.m3u8
-#https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mediampd/CNNIntHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mediampd/CNNIntHD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="International",CNN
 https://jmp2.uk/stvp-CHBD800001D0
@@ -2197,7 +2196,6 @@ https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="logo",Voyages+
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc6VtPHyD5aMBG-2ItjMqOs1a-NghNdfzFNrzuvKK_F1KxtQ8u9FOv2oBftV1x5zo76kX2FnhU-CWpUM4p9mBxMGIwQ9QJb28ATwZwPgd74pIbMMtamHAAFCWrg2Q6Cnz-vaChQOeBp1txr5FVhD-w1Ic3Ix89wcgzCGWuXtbkedz-QauDItShj6IKGQXu/s1600/Outdoor.png" group-title="International",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
