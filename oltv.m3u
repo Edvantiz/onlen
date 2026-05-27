@@ -2324,7 +2324,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=lite&
 https://cdnjktbpidfrmjkt4.transvision.co.id/live/master/4/4028c68587f789fe0188421264d560f5/manifest.mpd?sign=d76c198da95d7d6f45699d5e8ad44ac6&time=1771922034
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjpOBWblqwD2zucWJIgi6VmsS2KpilwksDsE8z9_Keoo33h7Y38nhm_14b0In8YFinm0LjcoE7loSa8dzJo5P9LD68tbyU9SnTurxbJ0s-fGkHn8mL2kVAF-oA1LylQLN2EVTJ4B-FTNKIaG_ZiEq8tPqzTKa4H4STY9Hp2bctwmV0zuPKp9DxwHXlxLpm/s1600/AXN.png" group-title="TV Premium",AXN
-http://210.210.155.66/h/h141/01.m3u8
+#http://210.210.155.66/h/h141/01.m3u8
+https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1nysm9ecv9RFxOmLcRmaLQrq8iebgpG38W2b1rSSvaEYL-PvAbmgFv4DlZ9Ducr-dUXMH8oh2BwP1QjI8TD5V8hKeMddwJSdh8Dbehc9vgD6HGkaBkj0U69KZAEXl0DWBjucJstIloVW3aIWNnTHNY3oyimtCVEM-LKBS5Wvs5Kx0BuSlDrabJs614qV0/s1600/hits.png" group-title="TV Premium",HITS
 https://op-group1-swiftservehd-1.dens.tv/h/h205/01.m3u8
