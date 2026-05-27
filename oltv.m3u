@@ -3372,15 +3372,21 @@ http://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",AllPlay Ent TV 
 https://streaming.indihometv.com/atm/hlsv3/useeprime/playlist.m3u8?enc=0ieltO0RhN_3LzKuf31fTQ&exp=1728582894&encp=u_dacfjJYS7flsiq5bV5sQ&expp=1728593394
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",AllPlay Ent TV 
-https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd
+
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGv1OY74-3sTht2LwE597uodHsPrJyDZK2F-Raf6wvI_wCKuAPv1-dZgMualjIdCg-DymO7rNXZqZ7FVq5z7VSjBj7CRxPJl1uMMUWn1t7xRhGbV5zoWHbtnXSMZ4LuPwHUdT06h2mrHi1_iYbEshOfRHozGnk8KfmrgNf_QBKptJ5NAVxq-EBx4P3wnPg/s700/AL%20JAZEERA%20ENGLISH.png",Al Jazeera English
 https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaKDrUV-rE7KkBo7zVPpO4felyJwl-06uCXfisVJ_vAqV5MJeOjDR2R3Jqt2MGDApB-eZZP9xpizZ4m9QykeIz8OcJp6Kl_k5o1Fhtv-2PUhWJ0WGYW5FKn-hP5IgEnCNaOUw8v7iSu3Pvq7EuMoG3K93fn7tMQBlZvfm9nloiM6R2TASwBDnjx-eAkOXd/s700/ANIMAL%20PLANET.png",Animal Planet
 #https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/animalplanet/manifest.mpd
+
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="logo", ANTV HD
 https://streaming.indihometv.com/atm/hlsv3/ANTV/playlist.m3u8?enc=94IguEEN63prrxo20gZb6g&exp=1728583666&encp=KCyGcxTIJ2VpHn7VfQa7Lg&expp=1728594166
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="logo", ANTV HD
-https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/antv/manifest.mpd
+
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="logo", Antara TV 
 https://streaming.indihometv.com/atm/hlsv3/antara/playlist.m3u8?enc=wS3sLglmcacqG0NxnthTcQ&exp=1728583265&encp=20n0plvcOwGTPcJ25PDsQw&expp=1728593765
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="logo", Antara TV 
