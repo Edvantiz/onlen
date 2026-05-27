@@ -2084,7 +2084,9 @@ https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lig
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEfPnojxXwGqNoSHqeIbdgWpl4nn3r4G6-n2pAFbA_8fi9oJ3fpq8izqyLFZiJas9AgWRKNoMR8SO1cs-KVDlXbK8BRewHCk57b4r2jBTeeLZF0IBvxVfzAmWiOj6arTH9Wu23FElhyphenhyphenwsmemFcpT2JU8wZHLN86JUoJdM_ytd2b-RWiUOXfY333y67Q6e-/s1600/Cnn_logo_red_background.png" group-title="International",CNN International
 #https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
-http://104.255.88.155/cnn/tracks-v1a1/mono.ts.m3u8
+#http://104.255.88.155/cnn/tracks-v1a1/mono.ts.m3u8
+#http://cempedak-live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK1obBZJ2lWHA4_Wh7jYvXbiGZPhFzxUbMAXM_jd2vfVBYC240aY-744YqXK-oaN4q0il3cA2Z8G4zWgiYJKbSv18qzt1ozaEA7CZNHppHPHvXla8E2Iq8KSEsy-hf79Wu8jJsq6O3J-wkUQ6G3gHhXRGgdkLmvENjl6SqJjgYM_-UYQr_fBprExojkTh8/s1600/cnngo.png" group-title="International",CNN Go
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
