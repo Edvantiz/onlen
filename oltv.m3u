@@ -1,26 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="https://e7.pngegg.com/pngimages/371/409/png-clipart-smpte-color-bars-color-television-television-show-tv-miscellaneous-television-thumbnail.png",Voyage+
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="https://e7.pngegg.com/pngimages/371/409/png-clipart-smpte-color-bars-color-television-television-show-tv-miscellaneous-television-thumbnail.png",XTrem Sports
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="https://e7.pngegg.com/pngimages/371/409/png-clipart-smpte-color-bars-color-television-television-show-tv-miscellaneous-television-thumbnail.png",Billiards+
-https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="https://e7.pngegg.com/pngimages/371/409/png-clipart-smpte-color-bars-color-television-television-show-tv-miscellaneous-television-thumbnail.png",Yahoo! Finance
-https://yahoo-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="https://e7.pngegg.com/pngimages/371/409/png-clipart-smpte-color-bars-color-television-television-show-tv-miscellaneous-television-thumbnail.png",Yahoo! Finance
-https://yahoo-roku-us.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="https://e7.pngegg.com/pngimages/371/409/png-clipart-smpte-color-bars-color-television-television-show-tv-miscellaneous-television-thumbnail.png",???
-https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 
 #EXTINF:-1 group-title="⚙️|Test" tvg-logo="https://mimipipi22.github.io/logo/nasional/rcti.jpg",RCTI
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/playlist.m3u8
 #https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #EXT-X-VERSION:3
@@ -1571,6 +1554,10 @@ https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgurhsft2PKcMfaz1oI_fwbz0IWts7Q3Iugw8bYW8FUELCrMzf8iG7gH_6CjOj81GQTmPnD7M6gJbEenyJVjkG2mwY-0lLhz46b8q2ZpE9CmaF0Rzy8Qb3dLrpoxiupeZGoN50f0qieJoG3LrteLeIFV06OjKq90juhTNoZ2JIs7-mGO3H-tGTLun4qQ5Uk/s1600/VEVO%20Retro%20Rock.png" group-title="TV Musik",Vevo Retro Rock
 https://jmp2.uk/sam-USBD3000145P.m3u8
 
+#EXTINF:-1 group-title="TV Musik" tvg-logo="https://e7.pngegg.com/pngimages/371/409/png-clipart-smpte-color-bars-color-television-television-show-tv-miscellaneous-television-thumbnail.png",???
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+
+
 #EXTINF: -1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxBalUd3Vw5-K_oIm1vcW6k3K-6fPWe3K5wEPgrO2FSx_dLJdMWUJPfVtjNjL_pc7w_WCPZ8ez736n1qmEloSeowOzT-AbqgXwVIbZOroBPqJFPfA-VozBnxwUA_wkxydFiEozDqnqk0FD7AlUytFON3aa3T7PczJFm3hpM6uZqu1_C5V9Di6M4N2WdAEn/s1600/MetalTV.png" group-title="TV Musik",MetalTV
 https://wahyu1ptv.pages.dev/MetalTV.m3u8
 
@@ -2198,6 +2185,10 @@ https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEe6cJmvBBev3HUgZE58tgiQggKrDn-_sQ5lt8BuKTVah5RWWIDjyk0VVkNb-YPce4OUI_MM_Ksmp6HVG1DMgu4WUsNXUU2AGa2N7TLdziFgoG3MiR7l3LGLInEOTSRb3IjSw_AZM76c6X_Q5NCzK59tDQCdlTqHLgFKADCRdF7iDjSHpkibKrMZP0ema8/s1600/Real_Wild.jpg" group-title="International",Real Wild
 https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="International" tvg-logo="logo",Voyage+
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc6VtPHyD5aMBG-2ItjMqOs1a-NghNdfzFNrzuvKK_F1KxtQ8u9FOv2oBftV1x5zo76kX2FnhU-CWpUM4p9mBxMGIwQ9QJb28ATwZwPgd74pIbMMtamHAAFCWrg2Q6Cnz-vaChQOeBp1txr5FVhD-w1Ic3Ix89wcgzCGWuXtbkedz-QauDItShj6IKGQXu/s1600/Outdoor.png" group-title="International",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
@@ -2227,8 +2218,15 @@ https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
 http://104.255.88.155/own/playlist.m3u8
 #http://104.255.88.155/own/tracks-a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="logo" group-title="International",Yahoo Finance
+#EXTINF:-1 tvg-logo="logo" group-title="International",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="International" tvg-logo="logo",Yahoo! Finance (SS)
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="International" tvg-logo="logo",Yahoo! Finance (Roku)
+https://yahoo-roku-us.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpxwt_tgPRHCPWqFiVgnoc4_eOeAHbTncOTBn27iGsokR-TmY06wHZIAD4BZpwOZkrTQO8mnBf-SHxwZAQvqeGIV1fRcCMQb9-EIo5QuzNJeo9BoYqXZrx1Evqo0JKaZ3k1k3oYOS6DlkznCUawQqa3BYIKKOMBiwbEdimf7t11CPE-VBmYx-ct0iL7OPU/s1600/VOALogo.png" group-title="International",VoA
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0480.m3u8
@@ -2727,6 +2725,13 @@ https://e3.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjKxeMvXSAqcghuQMWvOErCAqCBvTSVsZngkYh8bJMau8ld3Flc3VzmT_X1GhQiF-CQOZ_Ctvt6G1SwtGwao1rvH1hi3ay-O5SBEYC7xwneze9Xs5xRs_i4a3Axq4UrSxIYJK9k0fvWh-kP1naYYcaNAV1v0AjI2CAdGFm0bwGTiY5H3exVQR1XNpXPYAe/s1600/Major_League_Baseball_logo.png" group-title="TV Olahraga",Baseball TV
 #https://live-manifest.production-public.tubi.io/live/94ef022e-59ad-486a-81bb-f817613e3df1/playlist.m3u8?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJ5IjoiVVMiLCJkZXZpY2VfaWQiOiJhOTViNzg2Mi0wMmUwLTRjNmYtOWUyOS0zZjZjNzQyYTEzZDYiLCJleHAiOjE3NjAzMTk3ODMsImlzcyI6ImxpdmVfbmV3c19tYW5pZmVzdCIsInBsYXRmb3JtIjoiV0VCIiwicnNzIjoiYXA6bWxiMi1SUjBOQ0oiLCJ1c2VyX2lkIjowfQ.N36-9uUa0pjBfHUDxvUSqxPZe60za4kX75AEVCRLlnGdwOLlDilmFjlUyt3CYfFqlqT5zMunWhR3nJ7C6xQgqg&tb.sid=d241e21c-891d-4fef-babb-f009dc9c572b&ap-fb=aHR0cHM6Ly9saXZlLW1hbmlmZXN0LnByb2R1Y3Rpb24tcHVibGljLnR1YmkuaW8vbGl2ZS85NGVmMDIyZS01OWFkLTQ4NmEtODFiYi1mODE3NjEzZTNkZjEvcGxheWxpc3QubTN1OD90b2tlbj1leUpoYkdjaU9pSklVelV4TWlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamIzVnVkSEo1SWpvaVZWTWlMQ0prWlhacFkyVmZhV1FpT2lKaE9UVmlOemcyTWkwd01tVXdMVFJqTm1ZdE9XVXlPUzB6Wmpaak56UXlZVEV6WkRZaUxDSmxlSEFpT2pFM05qQXpNVGszT0RNc0ltbHpjeUk2SW14cGRtVmZibVYzYzE5dFlXNXBabVZ6ZENJc0luQnNZWFJtYjNKdElqb2lWMFZDSWl3aWNuTnpJam9pY21NNmFIUjBjSE02THk5aFpXZHBjeTFqYkc5MVpHWnliMjUwTFRFdWRIVmlhUzUyYVdSbGJ5ODRZakpqWVROaVlTMWlabVptTFRRM09USXRPRFZpTkMxbU56VmpZekZpT1RBNE5qZ3ZjR3hoZVd4cGMzUXViVE4xT0NJc0luVnpaWEpmYVdRaU9qQjkuQjV2c2M4djRwZG5sVTcxTWpuSGowVE54WHYzVEpVT3k5amt6MFdXVWJtZVVMRG1xMDBFd2t3QTlqTl9XYVZNcHg1RTRFVlBzbHBnWjJMNlM1cUg1VFEmdGIuc2lkPTZlY2NjODQ5LTNhNjEtNDZlNy04NWNmLTZkOTg4OGI5NjVjYQ&app_id=tubitv&app_mode=DEFAULT_MODE&content_id=613765&content_type=mp4&device_id=a95b7862-02e0-4c6f-9e29-3f6c742a13d6&language=en&now_pos=0&pub_id=48adc00351a349678d624ddb788c11ce&vpaid_enabled=false&origin=search&platform=WEB&ap.pt=2&ap.furl=0
 https://apollo.production-public.tubi.io/live/mlb2-RR0NCJ/1024x576.m3u8
+
+#EXTINF:-1 group-title="TV Olahraga" tvg-logo="logo",XTrem Sports
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+
+#EXTINF:-1 group-title="TV Olahraga" tvg-logo="logo",Billiards+
+https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimNIW7i3Gqb1FNAhek0xu2msa7HZmN7u103zfNBQkG-wcA7wHDBFwX2c533gATnD4RW51Esso_xsN6e5hekFB6b2rERh_VoaKvr_o6TgiD_YlDUbsciBu5eM9yYz0oufNhUZSUunOTAJoRzuaFfF1izYcSHmQ-ZgrCX8M4jOL6Ov3lUZZ5yl157UtjtOhd/s1600/tennis-channel-logo.png" group-title="TV Olahraga",Tennis+
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
