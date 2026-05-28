@@ -3444,26 +3444,50 @@ https://indihuy.streamized.net/atm/DASH/beritasatu/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/balitv/manifest.mpd
 
-#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",Al Quran 
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",Bioskop Indonesia
 https://indihuy.streamized.net/atm/DASH/bioskopindonesia/manifest.mpd
-
-#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMBOocFuESu6S13QMoV2ARjAbZ-PClEag3vSRqmgnn0Ouuz4lYg2O_JmGDdMdTPTY0dDOrcgchL_s8NMRZBVe50ha6Yd06F9NhXlArpu5-JvIcgKrTycMFad5hDea5Fy2XPYrCCkKzEWvavq2pJ-OYFyMpP8H4aWZqI3pBnVicZfICaIgH9w0SkAxYJ-Ju/s700/CGTN%20DOCUMENTARY.png",CGTN Documentary
-#https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
-https://indihuy.streamized.net/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
 
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhImZRDZAUk6kKajjMZgQQVaCTuZAxaMmBFGN831QMtely5_YLlDDU6TSKKMiyfzyKrK22_-XoP8eTIKupA6xyeL84iaV6eeCmskhcWEpFF9zasFAMlkV6k7E8OrPMw5xXykoEZQ-y39fDrSKboo4wPbzegIDgisieoBJiLggqqcQMEhkUrwNE5jnpEZiTR/s700/BLOOMBERG.png",Bloomberg
 #https://cdn10jtedge.indihometv.com/atm/DASH/BLOOMBERG_AT/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/BLOOMBERG_AT/manifest.mpd
 
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",Cartoon Network
+https://indihuy.streamized.net/atm/DASH/cartoonnetwork/manifest.mpd
+
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_celestialmovie_small.png",Celestial Movie
+https://indihuy.streamized.net/atm/DASH/celestialmovie/manifest.mpd
+
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMBOocFuESu6S13QMoV2ARjAbZ-PClEag3vSRqmgnn0Ouuz4lYg2O_JmGDdMdTPTY0dDOrcgchL_s8NMRZBVe50ha6Yd06F9NhXlArpu5-JvIcgKrTycMFad5hDea5Fy2XPYrCCkKzEWvavq2pJ-OYFyMpP8H4aWZqI3pBnVicZfICaIgH9w0SkAxYJ-Ju/s700/CGTN%20DOCUMENTARY.png",CGTN Documentary
+#https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
+
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_cinemaworldnew_small.png",Cinema World
+https://indihuy.streamized.net/atm/DASH/cinemaworld/manifest.mpd
+
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_citradangdut_ver1.png",Citra Dangdut
+https://indihuy.streamized.net/atm/DASH/citradangdut/manifest.mpd
+
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png",Citra Drama
+https://indihuy.streamized.net/atm/DASH/cdrama/manifest.mpd
+
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwplWB_T6jTauJij8vL_XkEiogRFTYQnBSi8lHAW7P7jCfNEYNoKtSfBhMErkjGRgFrgxeSyJ2SDhBCtKQsQDgkt6RsO0qUGFcwfEUHrnj8zPr6NvjdZsqQq_QkfeSEAWxnmLXFZZgrDGGsv1YtfbuW5j7yPurjuhJJFPODgsiRLcn_8B0duZ_KMPlJggK/s700/CNA.png",Channel News Asia
 #https://cdn10jtedge.indihometv.com/atm/DASH/newsasia/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/newsasia/manifest.mpd
+
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_cnninternational_ver1.png",CNN International
+https://indihuy.streamized.net/atm/DASH/cnninternational_dash/manifest.mpd
+
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png",CNBC Indonesia
+https://indihuy.streamized.net/atm/DASH/cnbcindonesia_dash/manifest.mpd
+
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_crimeinvest_small.png",Crime Investigation
+https://indihuy.streamized.net/atm/DASH/crimeinvestigation/manifest.mpd
 
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQfeA8CmMxnS9UTBU7OD_g5kjgtWEraw5uJsyxqej8chRcrMWQadOZJOEcc98tGMRmRsrjUcC9CwAmgbEP39_dirT80ZVVHEi_32KIHMjHhCdBXUKQtwFYrwOoektw09ThsFErpXhuGnuu2opLjajxe8NEdOxl-EK4ZuLnJH3av8drGiw7aSXvl5gHipVI/s700/DW%20NEWS.png",DW English
 #https://cdn10jtedge.indihometv.com/atm/DASH/DWTV/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/DWTV/manifest.mpd
 
-#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI6L_cbGTTZwb3DVTIcCJRHGDp70zflqThSpDpRbAt9IHD99JP59Q0xOr2X-4X0hUUzJivjvT5XW8uSlb8ZDUpHJI-BCCLVZtwpu01JKAoHbG9A3pRSM60bETCqD9IZJOEKGOlZgSdWp5HcesKu0zjZgiQX5MUQ-VmvhfjlU8L4WYpsX_2gbCAGS1kYMyz/s700/DISCOVERY%20CHANNEL.png",Discovery Channel
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_disco_ver1.png,Discovery Channel
 https://cdn10jtedge.indihometv.com/atm/DASH/disco/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/disco/manifest.mpd
 
@@ -3471,13 +3495,40 @@ https://indihuy.streamized.net/atm/DASH/disco/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/discoveryasia/manifest.mpd
 
-#EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",FunPlanet TV 
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_dunialain_small.png?v=2.0.0.13",Dunia Lain
+https://indihuy.streamized.net/atm/DASH/dunialain/manifest.mpd
+
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_eatgo_small1.png?v=2.0.0.13",Eat & Go
+https://indihuy.streamized.net/atm/DASH/eatgo/manifest.mpd
+
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_euronews_ver1.png",EuroNews
+https://indihuy.streamized.net/atm/DASH/euronews/manifest.mpd
+
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_fightsport_ver1.png",Fight Sport
+https://indihuy.streamized.net/atm/DASH/fightsport/manifest.mpd
+
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_flik_ver2.png",Flik
+https://indihuy.streamized.net/atm/DASH/flik/manifest.mpd
+
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FunPlanet TV 
 #https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/indikids/manifest.mpd
+
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_galaxy_small.png",Galaxy
+https://indihuy.streamized.net/atm/DASH/galaxy/manifest.mpd
+
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png",Galaxy Premium
+https://indihuy.streamized.net/atm/DASH/galaxypremium/manifest.mpd
 
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG423TfMUEmFr8MTpAxkjq6o6z-swkvVB5wXpTMEQUoZ5OMCrK6hVk4bxISqvgSY2JtbTl4_HZSIKgkbW3xrd2ju991KAoZuMxBYvW6WqO33w2Bnn7IzH6hC9peNW2PXHvipFVM53hxU7aTnzbGitFiR8XOTk1Xa24NOciExoFNPmogs-Y1TqCcUlZ9QU/s750/GTV.png",GTVᴴᴰ
 #https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/globaltv/manifest.mpd
+
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_history_ver3.png",History
+https://indihuy.streamized.net/atm/DASH/history/manifest.mpd
+
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",Hits Now
+https://indihuy.streamized.net/atm/DASH/hitsnow/manifest.mpd
 
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjXrwEUvG3G4NpQ1XCJdZcZTAciP6pkk1yq2GAs5mdf17RLyrV2jAywp1C1Aotj74KFy-2AU5jpqOmJ0ibzM_Y8sqKKdqK_ZRpFWJGaUWXL0iPI_gKZYJjX9eN0peqqxkHzg_dTQ5bdbUm7Q3rpIWPLpxX-5dWnmBl9QmUAZOwsQIrfPLSh1MkyZl9kzNC/s700/HITS%20MOVIES.png",HITS Movies
 #https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/manifest.mpd
@@ -3503,6 +3554,12 @@ https://indihuy.streamized.net/atm/DASH/hbosignature/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/cinemax/manifest.mpd
 
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_horee_ver1.png",Horee
+https://indihuy.streamized.net/atm/DASH/horee/manifest.mpd
+
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_imc_small.png",IMC
+https://indihuy.streamized.net/atm/DASH/imc/manifest.mpd
+
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",iNews TV 
 #https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/inews/manifest.mpd
@@ -3514,6 +3571,9 @@ https://indihuy.streamized.net/atm/DASH/indonesiana/manifest.mpd
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",Indosiar
 #https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/indosiar/manifest.mpd
+
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_insert_small1.png?v=2.0.0.13",Insert
+https://indihuy.streamized.net/atm/DASH/insert/manifest.mpd
 
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",JTV
 #https://cdn10jtedge.indihometv.com/atm/DASH/jtv/manifest.mpd
@@ -3531,7 +3591,7 @@ https://indihuy.streamized.net/atm/DASH/jawapos/manifest.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/kplus/manifest.mpd
 
-#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM2cDp5r0DOMsOvutBF3_ni_jGKooDEcctbkxdZSGD3dhFIQECtwXwUtlCUxYjSu3I586ZLCfR3bJ4LOAse1yVuUqXT_jzjBAr30Uvwja6Lbf-zVXv86cfoYn8nziMbqIZZbs4aH1dDMnCsxuCD1e09aZi5UQ5U6u-xnSP2Ey05GLbJIVreE1g44WUdCIR/s700/KIX.png", Kix
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_kix_ver1.png", Kix
 #https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/kix/manifest.mpd
 
@@ -3550,6 +3610,9 @@ https://indihuy.streamized.net/atm/DASH/METRO_TV/manifest.mpd
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqFfGFGJU6o9ViyB8hBd8doyC83zYkVvesuwx1e9Rdkg819se6Z8e0jdFE7fS0tgrVofADMaFR_fylrNM2KxmuloQcLKyi3J80VUtkVUIbtALBx2BQw0rdG3s9EbUd1jenmSyDYWzXbboMesCFWxiP4g5Z7CiV8s2BBtmM8HJh9jarJwSNcZsFO4p88YL9/s700/MNC%20TV.png",MNC TVᴴᴰ
 #https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/mnctv/manifest.mpd
+
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_mycinema_ver1.png",My Cinema
+https://indihuy.streamized.net/atm/DASH/mycinema/manifest.mpd
 
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyGa59QzxXZV-2KoHHPqB7PJitYDC54dshAS8CdgManEgm0jikLf3Y2LdIztSZ4eHodqSahYx29N08xLC1mv1hB5KETubqZyzjjYH-KHCZp0edLjg7d5oZvVJN8cqc3Ct6mVnvf52Xkbzd-pp7fRxDy4KmN2D82lgr6XtCSmV4I5rWIJMUQrLGCEl_2K3G/s700/NATIONAL%20GEOGRAPHIC.png",National Geographic
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
@@ -3614,6 +3677,12 @@ https://indihuy.streamized.net/atm/DASH/thrill/manifest.mpd
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",TV One
 #https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/tvone/manifest.mpd
+
+EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png",TVN
+https://indihuy.streamized.net/atm/DASH/tvn/manifest.mpd
+
+EXTINF:-1 group-title="TV Indihome" tvg-logo="hhttps://images.indihometv.com/logo_tvnmovies_ver1.png",TVN Movies
+https://indihuy.streamized.net/atm/DASH/tvmovies/manifest.mpd
 
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",TVRI TV 
 #https://cdn10jtedge.indihometv.com/atm/DASH/TVRI/manifest.mpd
