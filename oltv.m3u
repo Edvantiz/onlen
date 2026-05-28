@@ -3398,6 +3398,11 @@ http://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
 
 ####### Indhomie ########
 
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_alquran_small1.png",Al Quran 
+https://indihuy.streamized.net/atm/DASH/alquran/manifest.mpd
+
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",Asian Food Channe
+https://indihuy.streamized.net/atm/DASH/afc/manifest.mpd
 
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",AllPlay Ent TV 
 #https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
@@ -3411,7 +3416,7 @@ https://indihuy.streamized.net/atm/DASH/aljazeera/manifest.mpd
 #https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/animalplanet/manifest.mpd
 
-#EXTINF:-1 group-title="TV Indihome" tvg-logo="logo", ANTV HD
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_antvnew_small.png", ANTV HD
 #https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/ANTV/manifest.mpd
 
@@ -3438,6 +3443,9 @@ https://indihuy.streamized.net/atm/DASH/beritasatu/manifest.mpd
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",Bali TV
 #https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/balitv/manifest.mpd
+
+#EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",Al Quran 
+https://indihuy.streamized.net/atm/DASH/bioskopindonesia/manifest.mpd
 
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMBOocFuESu6S13QMoV2ARjAbZ-PClEag3vSRqmgnn0Ouuz4lYg2O_JmGDdMdTPTY0dDOrcgchL_s8NMRZBVe50ha6Yd06F9NhXlArpu5-JvIcgKrTycMFad5hDea5Fy2XPYrCCkKzEWvavq2pJ-OYFyMpP8H4aWZqI3pBnVicZfICaIgH9w0SkAxYJ-Ju/s700/CGTN%20DOCUMENTARY.png",CGTN Documentary
 #https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd
