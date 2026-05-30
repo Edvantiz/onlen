@@ -1528,9 +1528,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8SKZgDcgGbnJuXWsDBrHChXDDtDS2-hlqIjPNmoOXXnaY9j08MKikq8kO2xBlDUL2CDGW5GEC4U3P0qMqMjvhT7U3fE4lUG8JsaiebTuI7JcfhYUmfDF3C-4wBGZTZpwGRfO0780e26ykE-Kh-9VCv7EXAX4qC01lxvMEsFwL4Hv59nKKnp9q4HgtDKCP/s1600/MTV_Classic_2021.pn" group-title="TV Musik",MTV classic (Pluto)
 https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnIUxUOvUSkkDs8PcRIpaYxm5poMf3BKJ_wqj0XQqrXH-yfFABzHa8n8DkFrWeWtQMNTXiQaE4CPey6tP6tw6PNhyM5IJv-Vi7ixRrdyS6ZiRefqCPthP2Ycua_DeMpTa8fYYjAhK-C-_dXawLcpLiTbiJnhItXhKo5ANTfOr3xpea4uIEB71UgB-ulyOd/s1600/CARAC1_logo_2023.svg.png" group-title="TV Musik",Carac1 (Rouge TV)
-http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzbnLeO1ltIOtebiUpTgxurKg2a-Us9HItJl5oizqppOSNrXb-_8oY_azlCgOrSLjaQt1QIyVvetsHj9hW27XiFH4kE9rufebFXoNvhwt3m5Mj74xT8sJHE4juHL5Og8U0nyX_CCPtCJh8dOLq8P4OhuYDa6L7mORnuZnqYMCLgEU2OLe3qeK_smSgF8a1/s1600/Retro_Music_TV_logo.png" group-title="TV Musik",RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
@@ -2639,6 +2636,9 @@ https://fl31.moveonjoy.com/EPIX_2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD4OJdIMqfYgPFT16w3cq07UWAk1_FZ00Ox1gUWcR1q1KLaoZObVBm4TqgIwiazLL8vP6dDeTrIVMbjMRVP5TnHn7-RQeYXcxBiOpTPxGtkYPzP-5YOWvXQ4pXcCWDz8jxGVboLKXxMIsENv2sPQ3MbX2iHyiOzD646tLJpYBXo0jxZhLZmwbJxF-cFrJV/s1600/Amc_logo.png" group-title="Film & Drama",TWD Universe | Vizio (AMC)
 https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8?l1br3date0702andAMCBinge
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnIUxUOvUSkkDs8PcRIpaYxm5poMf3BKJ_wqj0XQqrXH-yfFABzHa8n8DkFrWeWtQMNTXiQaE4CPey6tP6tw6PNhyM5IJv-Vi7ixRrdyS6ZiRefqCPthP2Ycua_DeMpTa8fYYjAhK-C-_dXawLcpLiTbiJnhItXhKo5ANTfOr3xpea4uIEB71UgB-ulyOd/s1600/CARAC1_logo_2023.svg.png" group-title="Film & Drama",Carac1 (Rouge TV)
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0zIyvSA-aEGR1lT5ATzh1BU9GVWenK_hkPQb-IipW1Tt6mF6DmISYjoNJv6lu7amFQzuJkbEN-D1OCU6gGA-3nacwIZGHZWbaZKAK0ENWf9CQ1_uwzobfWlDzBpMwblyGGbG20whsRWaCtaFTrw7QDbGSCSQOqB958Gs7hes25LUkdKnaWqfXrw0DvbUc/s1600/moviesforfree.png" group-title="Film & Drama",Movies4Free
 https://movies4free-lg.amagi.tv/playlist.m3u8
