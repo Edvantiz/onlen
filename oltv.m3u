@@ -561,11 +561,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8?token=82023bfe00ca28f233
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQETeJn1I2xz_w_a1Tsg4BfaNsDhV-WnFOjp0aG4Hdmy037cDenzG0ORvZQ5wl86L6ony0zLfjbMAsPwAI6KEHV7H9bTD3Nnj93Iey_BRqDmYyOCUpzIbLcdgdMfvIwEzB_NQPWTCmgeBQihgnfno-Up4Mb7JkZhI-WvJ8xe8l5_2Afu5WJA7OPU72L6Uy/s1600/Indosiar_Karya_Media.png" group-title="TV Indonesia",Indosiar (Dens2)
 https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaywH6ZzEQUgYHQK6E48r_kLbOXXk9RbboKv-Iyd1QBPwezxCx4QKXNsC5H6b8Vp81UxI2HhmhsZp2Q3kFoNHp1-PwuYfumg_9KRCCkGGqsYRBP5O2oqvpGq9fBe8VCaE7QQT2NkllIJKDezmW6h6X_0_bGlYCJ1KeVED5TPdOKoT2mnoOS3pN56VV7GNx/s1600/SCTV_Logo.png" group-title="TV Indonesia",SCTV (Dens1)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaywH6ZzEQUgYHQK6E48r_kLbOXXk9RbboKv-Iyd1QBPwezxCx4QKXNsC5H6b8Vp81UxI2HhmhsZp2Q3kFoNHp1-PwuYfumg_9KRCCkGGqsYRBP5O2oqvpGq9fBe8VCaE7QQT2NkllIJKDezmW6h6X_0_bGlYCJ1KeVED5TPdOKoT2mnoOS3pN56VV7GNx/s1600/SCTV_Logo.png" group-title="TV Indonesia",SCTV (Dens)
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKjNdeprFp7JZ66hOgKBfWQ5qcnkkGej4IVnU6BbyCfP6q4SBfc6pnWfqpxlMyzn-yVXI5w3ygw_IxbQ1iLWO0AzC5bUjQV__xGIbd5oy3gsTdgZibr4-qgJgsSRmJQCwPnB5JKEKvgdgxqDjuoJD4kkS08ctTju6GcXMoFhQ47X_RIWzNC9kQbDlDnr2E/s1600/SCTV_Indonesia_2003.png" group-title="TV Indonesia",SCTV (Dens2)
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKjNdeprFp7JZ66hOgKBfWQ5qcnkkGej4IVnU6BbyCfP6q4SBfc6pnWfqpxlMyzn-yVXI5w3ygw_IxbQ1iLWO0AzC5bUjQV__xGIbd5oy3gsTdgZibr4-qgJgsSRmJQCwPnB5JKEKvgdgxqDjuoJD4kkS08ctTju6GcXMoFhQ47X_RIWzNC9kQbDlDnr2E/s1600/SCTV_Indonesia_2003.png" group-title="TV Indonesia",SCTV
 http://202.169.224.202:8800/udp/239.9.1.29:1234
@@ -1554,11 +1551,21 @@ https://cmc-kowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE9SsKDSh73V_VGwY5xOxTVqGeohqliRZlGSuXVATA6Xc_D-fUa_G6V0uDXY8HoaJFzV7cd2yfXOTkIeMXYcDccTYbnptnHzcu2u8mZFo0cPbvxQo4n-IcczWikxobBcaYUr4xUkDk2ZVAjQK5Z8TGcfuUzSNsP8s68Tg4K_0wndkZBWjNkllUtReoJ3d2/s1600/California_Music_Channel_Logo.png" group-title="TV Musik",California Music Channel USA
 https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8
 
-#EXTINF:-1 group-title="TV Musik" tvg-logo="logo",VEVO Hip Hop
-https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8
+#EXTINF:-1 group-title="TV Musik" tvg-logo="logo",VEVO 70s & 80s (GB)
+https://d38e11bvtr8xdq.cloudfront.net/Vevo70sand80s_GB.m3u8
+
+#EXTINF:-1 group-title="TV Musik" tvg-logo="logo",VEVO 90s & 00s (GB)
+https://d1cj21il6keqa2.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Musik" tvg-logo="logo",VEVO Hip Hop (GB)
+#https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8
+https://d7i20u8nlyf1b.cloudfront.net/VevoHipHopRB_GB.m3u8
 
 #EXTINF:-1 group-title="TV Musik" tvg-logo="logo",VEVO Latino
 https://d1vgg34wqvwdqj.cloudfront.net/Vevo_Latino.m3u8
+
+#EXTINF:-1 group-title="TV Musik" tvg-logo="logo",VEVO Pop (UK)
+https://d2n3779oy6efpi.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIaSa99ugC241fkMb97acV0d_5giCRl8C5Sho4ulQWGUeZnaR2cf0UuVpURUxoKkk1A3lMMe2kjRSx_-GwT8QCcwlOZfDqWKpXhv5TLXqieAPoyu8AdpARmfFAIUBHs6X2YC4ADel1cRKIxqYPGAwSUV4AQd0AgDOTu3ik1qQ7QzLttRD8YDcH-fo4w2wB/s1600/VevoPop.png" group-title="TV Musik",VEVO Pop
 https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
@@ -1677,6 +1684,12 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizke
 #https://cdnjktbpid26.cubmu.com/riutx01-e312a224c5119cd47f2cb64bf8c8c286edd3e1214dcc663e33db130cf6b3833b/dash/RHVuaWEgQW5haw/manifest.mpd?signature=ZDcxM2I5NGEzODVmNmY2NmE1ZGRhZjRiNzE0MmMwOTk=&time=15177321626
 https://indihuy.streamized.net/atm/DASH/duniaanak/manifest.mpd
 
+#EXTINF:-1 tvg-logo="logo" group-title="TV Kids", Barbie and Friends
+https://d1xqdnwy1bo05f.cloudfront.net/barb.m3u8
+
+#EXTINF:-1 tvg-logo="logo" group-title="TV Kids",The LEGO Channel
+https://dltiqboxjw21d.cloudfront.net/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyD8vpjIHgD1cjZ5YdBxGUZmKSLF4YSWdk3NdLkxuLQU4I6CKeRq6qnzo1yv07-HEfqrIjKVLIiDVCycr8n1TKDtGRrB4BoeygDsjWthvJWSwWirbcYq8wjr351FoF-X6sMXsPmOCKi_UinoCwVMR7sF9n3LwyKI2_WxbY9cnu3FLUW0VngM8WN95bjesn/s1600/Logo_Kids_TV.png" group-title="TV Kids", Kids TV
 #https://cdn10jtedge.indihometv.com/atm/DASH/kidstv/manifest.mpd
 #http://origin5.mediacdn.ru/live/kidstv/index.m3u8
@@ -1757,11 +1770,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d765786aad587cf4d0e2b
 #EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjXabs-f9ab-zlmMouBmmW-vvND8lpZqzoqmnWs6CS_A6JZz9QTlVqmlYVcbrh0c_PdOgLfz6KbwV_V2QuXlayC5WmXuftwJUxXTqHaKNSycMgXj44H3_iV6r2njO7xArDKXgwTilXwUM0jxN6X1llYY44WVfqJh1XMfhR8Ik88Dfbd1c4QYFroXM6r8Rn/s1600/Moonbug2ndLogo.png" group-title="TV Kids",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqSzSrqKxH1FJb-_GUpqLAYF4-TxsxpjW8a9m-MRSDprWC4wdefnVNQ6M3dsvQ2w8f7AYw-DRwLGe_KqSfHq4q2ir0qmsi8eD4r0c0JDfeSQe8Gr_ZkR2VfVdet1SND-ISwP3TWexeKkt5mUa3mNVgaNuC_x1i2pC067f8FKufzSJTcaMNXg9vN5JpCgDk/s1600/Toon%20Goggles.png" group-title="TV Kids",Toon Goggles ID36
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqSzSrqKxH1FJb-_GUpqLAYF4-TxsxpjW8a9m-MRSDprWC4wdefnVNQ6M3dsvQ2w8f7AYw-DRwLGe_KqSfHq4q2ir0qmsi8eD4r0c0JDfeSQe8Gr_ZkR2VfVdet1SND-ISwP3TWexeKkt5mUa3mNVgaNuC_x1i2pC067f8FKufzSJTcaMNXg9vN5JpCgDk/s1600/Toon%20Goggles.png" group-title="TV Kids",Toon Goggles ID36 (Jr)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
+#https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqSzSrqKxH1FJb-_GUpqLAYF4-TxsxpjW8a9m-MRSDprWC4wdefnVNQ6M3dsvQ2w8f7AYw-DRwLGe_KqSfHq4q2ir0qmsi8eD4r0c0JDfeSQe8Gr_ZkR2VfVdet1SND-ISwP3TWexeKkt5mUa3mNVgaNuC_x1i2pC067f8FKufzSJTcaMNXg9vN5JpCgDk/s1600/Toon%20Goggles.png" group-title="TV Kids",Toon Goggles ID37
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
+#https://d1eg24xrsfr6kv.cloudfront.net/tg/tg/tg.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPYjI9b28l7tpwoji6QtKhgpxTJNPYtDKtbZTAlVkdt9XetxzJw3CcrMKrScRrSdzgrDX7zLvnL8H4U5VZGddroJVrxGY890yHDaV_bOejo2Zaw8-oOZIOLLoZZ_-VLXRfVCdvS5guQb7EZmWED1FW1XEz4fz8hrxMpZRtzd97jeuhVhVBmlPdpsoWjacD/s1600/Toonami_aftermath_logo.png" group-title="TV Kids",Toonami Aftermath East
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
@@ -1839,7 +1854,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a0
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7elPqNgemqVVMVtvh5dzIO62v3KIdK96-aHHiHYWyieKQ9yn2tsFwymuBprdapkpWRT8-xQam7VMC9yWH6emBRS95gZclSlbHrKHsWmym_eCLR3mViVBTsK-JKFEi8ZbFbxMIwD2NeOFqOAdW41P0HnxakotrM66ixbbgdmj-6Wmhe3QkBFkX2VbbP4tn/s1600/Tiny_Pop_2011_logo.png" group-title="TV Kids",Tiny Pop
 #https://live-pop-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-tinypop-live-amagi/playlist.m3u8
-https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/playlist.m3u8
+#https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/playlist.m3u8
+https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVQbwFBQMRQmGxUBa8nCmKMuB4JeJytTM0DTcFJmriAdPOyuFwNnklhsA_bZ6Zm0f8TZ8kAz2cOT4wUSi2ARXnFkULZTxNoRHXIlKVT86A2VGl-lsnaqjdUTmgiko7XDCtfzUyhlA7QySlM1pv2dcIbI2CRDbyovjLf-05gmiKUD724O-iKbtCAVCMAM-b/s1600/Pop-up-logo-2024.png" group-title="TV Kids",Pop Up
 https://narrative-fast-popup-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-popup-live-amagi/playlist.m3u8
@@ -1857,15 +1873,37 @@ https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG3d_8i3ZucVq0vN5HC9ocgUop3hF8kOYVABX5WGJy52yGRnlZFsRu6i4yJ708JcRUWz8r0dQF6bti6z0qwh9XIfx3wMOHwGHO0b1m724PiKF6QqdZIhvq5igK02gJ8X1BKcPFD7G7aQ6NWz9m5OVt1AP-mkdLk8wP_CZg_QinkZcpsEyDgVxII0fBlbMO/s1600/Tom&Jerry.png" group-title="TV Kids",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="logo" group-title="TV Kids",Smurf TV
+https://d144py1prrd7ns.cloudfront.net/smrfe.m3u8
+
+#EXTINF:-1 tvg-logo="logo" group-title="TV Kids",Sonic the Hedgehog
+https://d2f1o3sb3u36tf.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-logo="logo" group-title="TV Kids",Teletubbies
+https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8
+#https://dv8lsrd8fecw9.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-logo="logo" group-title="TV Kids",Naruto
+https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="logo" group-title="TV Kids",Pokēmon GB
+https://docpe51mdltl5.cloudfront.net/Pokemon_GB.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJPoELlmyiACWO3yxHhPjZ5eyhFS9jMZiAaXLAhqA70ZglTo6CxTLJS-RxlnqlfLdUAeSeWB_IvqROu-SfkNM0s_Ieofb-BDWnzRrUfdNgwNU4JUMBIfDuuEQIWRZkdZ07lznOuwVEE76ueCtlor_n3ZjLJ9Y37xOSbRAcSC6ndkyrlgcwJd4XOtFCOQsb/s1600/BabyFirstTV_Logo_2019.png" group-title="TV Kids",Baby First TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="logo" group-title="TV Kids",All Babies Channel
+https://d390zi2w1jc4t4.cloudfront.net/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoPkr_UdklcDsTHQyyNln9pAgMickhs6ISMbtuXyCiDPxnDNaFvLwPJeEE9_YjI31gtN_ygc9mTif58Z6ML0sTL-WJLIZ3Ut0zCK9zP8AH0gJzbFhySjst4GNbNioOP0tEtWjp4g-R2Az4vhH-VDYjf5PrLply1zLL9WzVlrbRVIiiU9Onn3Q0Hky-Bang/s1600/DaVinci.png" group-title="TV Kids",Da Vinci
 #https://cdn10jtedge.indihometv.com/atm/DASH/davinci/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/davinci/manifest.mpd
 
-#EXTINF:-1 tvg-logo="logo" group-title="TV Kids",BabyTV
+#EXTINF:-1 tvg-logo="logo" group-title="TV Kids",Baby TV
 http://41.205.93.154/BABY-TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="logo" group-title="TV Kids",Happy Kids
+https://dil9xdvretp0f.cloudfront.net/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtVjXBlqQAZS3p3ha_x6qwk3EhsaHXjjqgNWYhoCIdyeQkQKBY_Gws6_422fDlJBLL-cLOmgt0vhDmHO15GVDC8EKRAifRFWOhfE24ioM_zbTWtPhG3GGaBOpOocSnKlpCvPPxoXKgVKqqQ34bnUgCr5K0vVbz70zp3XX9Z66tCjxL0fzzdKcyRXM-zBs/s700/MtkMudah.jpg" group-title="TV Kids", Matematika TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
