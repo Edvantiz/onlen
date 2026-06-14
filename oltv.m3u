@@ -1521,15 +1521,25 @@ https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
 https://lightning-now90s-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHnpbKOO__FLMplp9UVm-HxCdIv6dEMIVIxwmz6jbptXWTdUFV-bgPItgkSoR2xhxU2wNZ1VEBIEtjqePjcFbQgeTzKFff77smeA64FkL_xGzfxvG-0FS6VFQWTUeZRYd2asNXf7fhG_AP6gQsR-ECvwlztQLm_fGpErClN2HORrHx9krG-tBSP9ME7Yts/s1600/MTV_Live_2021.png" group-title="TV Musik",MTV
-https://fl61.moveonjoy.com/MTV/index.m3u8
+#https://fl61.moveonjoy.com/MTV/index.m3u8
 #https://fl61.moveonjoy.com/MTV/tracks-v1a1/mono.ts.m3u8
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#http://198.58.104.90:8989/mtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHnpbKOO__FLMplp9UVm-HxCdIv6dEMIVIxwmz6jbptXWTdUFV-bgPItgkSoR2xhxU2wNZ1VEBIEtjqePjcFbQgeTzKFff77smeA64FkL_xGzfxvG-0FS6VFQWTUeZRYd2asNXf7fhG_AP6gQsR-ECvwlztQLm_fGpErClN2HORrHx9krG-tBSP9ME7Yts/s1600/MTV_Live_2021.png" group-title="TV Musik",MTV
+http://84.17.50.102/mtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHnpbKOO__FLMplp9UVm-HxCdIv6dEMIVIxwmz6jbptXWTdUFV-bgPItgkSoR2xhxU2wNZ1VEBIEtjqePjcFbQgeTzKFff77smeA64FkL_xGzfxvG-0FS6VFQWTUeZRYd2asNXf7fhG_AP6gQsR-ECvwlztQLm_fGpErClN2HORrHx9krG-tBSP9ME7Yts/s1600/MTV_Live_2021.png" group-title="TV Musik",MTV 2
-https://fl61.moveonjoy.com/MTV_2/index.m3u8
+#https://fl61.moveonjoy.com/MTV_2/index.m3u8
 #https://fl61.moveonjoy.com/MTV_2/tracks-v1a1/mono.ts.m3u8
+http://198.58.104.90:8989/mtv2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/music/mtv90.jpg" group-title="TV Musik",MTV Classic
+https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mediampd/MTV90sHD.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHnpbKOO__FLMplp9UVm-HxCdIv6dEMIVIxwmz6jbptXWTdUFV-bgPItgkSoR2xhxU2wNZ1VEBIEtjqePjcFbQgeTzKFff77smeA64FkL_xGzfxvG-0FS6VFQWTUeZRYd2asNXf7fhG_AP6gQsR-ECvwlztQLm_fGpErClN2HORrHx9krG-tBSP9ME7Yts/s1600/MTV_Live_2021.png" group-title="TV Musik",MTV Live
-http://190.102.246.93:9005/play/a01p
+#http://190.102.246.93:9005/play/a01p
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfMtP832eBCV8gZB4FPWJaqPVC7zxQTRJHqUI2T4glr8vdId8oELukhGH1JYtIeweMxAV7LjSaaUMaCkqELOKHAy1yerq5SuK1wlJ1cfbvxVCVa8pm_R0aPeiHzO-OjRyWn8ZoBecvA2oir3ydtwC3pEud9QF-z4QCbpQP6UulQ4Cno1qEoX9hAg33MR9J/s1600/MTV_Hits_2021.png" group-title="TV Musik",MTV Hits Europe
 http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
