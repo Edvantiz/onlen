@@ -1530,10 +1530,7 @@ http://23.237.104.106:8080/USA_MTV/index.m3u8
 http://84.17.50.102/mtv/index.m3u8
 #http://85.14.32.26:8800/udp/239.100.10.67:5000
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaphC-Hb8QJwCYPUMPeazbUmOWM5rKSCGMvw&s" group-title="TV Musik",MTV Pride
-http://193.239.187.102/MTV/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHnpbKOO__FLMplp9UVm-HxCdIv6dEMIVIxwmz6jbptXWTdUFV-bgPItgkSoR2xhxU2wNZ1VEBIEtjqePjcFbQgeTzKFff77smeA64FkL_xGzfxvG-0FS6VFQWTUeZRYd2asNXf7fhG_AP6gQsR-ECvwlztQLm_fGpErClN2HORrHx9krG-tBSP9ME7Yts/s1600/MTV_Live_2021.png" group-title="TV Musik",MTV 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaphC-Hb8QJwCYPUMPeazbUmOWM5rKSCGMvw&s" group-title="TV Musik",MTV 2
 #https://fl61.moveonjoy.com/MTV_2/index.m3u8
 #https://fl61.moveonjoy.com/MTV_2/tracks-v1a1/mono.ts.m3u8
 http://198.58.104.90:8989/mtv2/index.m3u8
@@ -1568,9 +1565,6 @@ https://132544.edgevideo.ru/streams/132544_713325/132544480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnAojA00AYYhPXN9Aa6RH8OnEvdwEqa1_npzsl2De5skg3TYRzgL3n5F49XJ6rzgp1ryhcAgp93VO0eI3j3bc_yrLlCStTv-KUwxnH0hNVaMxyTS5bBfW1WLkqxXYW6kUbtt7546TJ8PZoVosvlUQCpV_hMxaBBbLYdtY71fcYVJPuHA55zzLc74w4B1Zk/s1600/BluesTV.png" group-title="TV Musik",Blues TV Network
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQgqfBgI7wx4TIUOekqEGvAv5lfop2BikIfRoOXfwqpuvJi3M-lRcPA74FY7ZeIaTgU0Kh9ZaCVHP9l653ajBdr9a0oLvphc7o8wcbLDSy1YtFJgKprGsvCAQlWQjKsgAzuM8h1fWYGAabSgnAGnRu_PDsEtB2ywLBOpq8ncjCBe-hjMKhdYevNdT9eyyM/s1600/New%20K-Pop.png" group-title="TV Musik",New K-POP
-https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg57b2zC7e56RdI5FuRD-NVFg6yVE1pJO_OAeL21h6dg5hry9YWOM_C0V-CWDSDskBtJ1IftwitPuRlNLxHG4Xp1duuQ4jEYtgSnqf9ZUY3POE45qT_t3Of0hxs4qgjxSqveH3kP0ZLH9K8yaYPMfkCq9J-v3vi2zbUPSUt7eEHP2U0PFt9c9YVzYDXjVdb/s1600/The_Country_Network_Logo.png" group-title="TV Musik",The Country Network
 https://a-cdn.klowdtv.com/live2/countrytv_720p/playlist.m3u8
@@ -1620,7 +1614,8 @@ https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 https://wahyu1ptv.pages.dev/MetalTV.m3u8
 
 #EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJIgKP_8LuXxNzu5fjF0y-CIwSj22bh6lHFVs6PBahYIY1mUrfFhSy4URUn9SVnKY9BC_1gR_El47jKfpgoOr8tIhzKbflQ68Z0ziPXqPmyuQgdLvVWtLfwgGVPkLtjSqLuRacrtCCMuDvjivieUpvuEYhzLFI0psb9dO3Lz2azL4C7shrhSf00c0lY2Ld/s1600/New%20KPop.jpg",New KPOP
-https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/76da8a34-9b9c-4920-b86f-934fbdaa2fcf/2.m3u8
+#https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/76da8a34-9b9c-4920-b86f-934fbdaa2fcf/2.m3u8
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRE78MWm38Kw1H3ZgF42qZBSSIVcRnVi21xeuANab_NWOUcWiizbX0dEvQQRtHMsthtF0Rnacq0WMzQujx7bqkLQDbTf3y4t995R_jcH5zVUaPm1e7sf0Z5hUAHoHOvpkuyyhK2S4F3aLPy9A82ef8KGU9PLwU4HxncqOxaq7gUoMVkYnajBuNOf3OJjJ7/s1600/DanceTV.png",Dance TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
