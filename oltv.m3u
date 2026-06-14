@@ -2864,31 +2864,38 @@ http://84.17.50.102/espn/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_Jbhrhdk0wRkisyYBmcU7TvfYv0TaL1Ck0Jo0cMRYpO2CcmPLumk8-YHwBIqOSw2DDnvgNQbU8VJ2T_hFx2ww9luEWigfnClmJDk2irQsosjLwFBpKm5zpXosuRXp2OdBC_dePMHiawZW8RSDYLKN2Qeny0WCNbWYjecPfVjgu8hYMg9UQ5Nv0aYuM9g/s700/ESPN1.png" group-title="TV Olahraga",ESPN 1
 #http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22002.ts
 http://179.60.51.134:8888/ESPN/index.m3u8
+#http://193.239.186.231/ESPN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvM3ifD92fb_qJdBy9-nk3eWeU62Lnql6_cdZ3Hfht1ezPfmZYoN46qSFzfm80OnNdRBL2ZJfoCeuZexnnq3suU7TKTarsbx63tQ841_zqOYCrB8zqEGW-JDE1soAhAT6AwDOghaY-oLFJrJkMoebdnCWoRKYjohbnIQODjmCZIiAErdCEOQ7JngZfCxw/s700/ESPN2.png" group-title="TV Olahraga",ESPN 2
 #http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22005.ts
 http://179.60.51.134:8888/ESPN2/index.m3u8
+#http://193.239.186.231/ESPN2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcg0g2qDb9hAmaizFC-o8kN9Ga-XRpuoVRXNsnEEyJmAYRlrrLHfQODAabGw0iCC_uXPeOl9pbBa8JPZDaU4kx8BvlJwXEwAPsKKjpzYllSQaOKZ7VrqLZwiuAEB3SsNRTaBDvmxqttMe-2qbkx9y36bgYJf_GQHCiZO1PFKR-jV8r2JdEXED3RFsGKsU/s700/ESPN3.png" group-title="TV Olahraga",ESPN 3
 #http://46.151.196.223:14444/
 http://179.60.51.134:8888/ESPN3/index.m3u8
+#http://193.239.186.231/ESPN3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiutt4QvScOLcl5UNytYyNcEEBgOKCvld49o2r5eEdq3lFi-oBzaCYLc__lPAgdV2UB1i2SQxK2JUnlNYt_CCNP3CYGhk85TjpzlbZXvSCFnGbw322zFzBB-BuZFa75Qk1jE0BfnDOQZRPmorCXZJDoRBeqrmKd774qJq-UgnlhcjuEDFAssL9ywQhpOXA/s700/ESPN4.png" group-title="TV Olahraga",ESPN 4
 #http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22011.ts
 http://179.60.51.134:8888/ESPN4/index.m3u8
+#http://193.239.186.231/ESPN4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVyxemXn3WY1xRMvFQkIpXzUwDiBd0lj9WgidJcK_RBOJ04XXCuxxxE8drr9daAWDCXMEKO3Ju7VjJ_nmHekwYUDMSekwUgmziB3GNRUNfu9O9aD4OdBUi_o_Nbnik7XwutCD_HmJmcsJGvhtBIfj8QPr6sWAOaYaegpYXkxaIyElyxlkk7thbtkWf8CY/s700/ESPN5.png" group-title="TV Olahraga",ESPN 5
 #http://sinalprivado.info:80/live/632035/GqGcFV4ntu/22014.ts
-
+http://179.60.51.134:8888/ESPN2/index.m3u8
+#http://193.239.186.231/ESPN5/index.m3u8
 
 EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIIuGv1oLm75WZJ0K04qpbGwlaNCrJO8IXH3yZk1RaEeJG6E8HMeFRubH_P6f6aPQBjDePhi8IbMH_RZflNbLZfh2MuMcIElKSyVUgPp_ih3ppYdffNlAXu_U2VbwkbdCJuoMY9G7COfdX2K02LbpEcbl7IK_5NsVF4_sTZBuIzw0tBtd_CcAN90jIBtGW/s1600/ESPNews.png" group-title="TV Olahraga",ESPNews
 #https://fl31.moveonjoy.com/ESPN_NEWS/tracks-v1a1/2025/11/12/07/03/36-05005.ts
-https://fl31.moveonjoy.com/ESPN_NEWS/tracks-v1a1/mono.ts.m3u8
+#https://fl31.moveonjoy.com/ESPN_NEWS/tracks-v1a1/mono.ts.m3u8
+http://185.246.209.113/ESPN_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihI0NJlECvl6StpjcERmjlB4o_aRVmlxfv6FA1BNDBawsw1gD5fUlV6YBZXwpwjchu6KmFNwhmbW3m8Yid1mpguMybAEPBr1JcueRV-ijf5buZFXmyg2YIAHrXgiKJ_ffgQeM0j0b5IxiHi6VsI_rMJlL4wHKeaEHxWqwlTVpxTLC1zExmyYs3x65v7w6T/s1600/ESPNU.png" group-title="TV Olahraga",ESPN U
 #https://fl31.moveonjoy.com/ESPN_U/tracks-v1a1/2025/11/12/07/02/24-06156.ts
 #https://fl31.moveonjoy.com/ESPN_U/tracks-v1a1/mono.ts.m3u8
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+http://185.246.209.113/ESPNU/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYuqy9YQrnKmyThkHuB0w3kY97m2elr0WdmFk3yUevun2LHTZVHJ7N313Byy7UXLG3aluOSrZRFVP2dVv8gGy9icLf-ze5qvuASehUIzkFYPSUsWRD4JoPym_tZYBURFCtSfEAXclrirsrvwjdoPOTM7mYMqlUw_Tg1icwe0peUPOm5ufTeLPYykxCkref/s1600/ESPN_Deportes.png" group-title="TV Olahraga",ESPN Deportes
 #https://e3.thetvapp.to/hls/espn-deportes/tracks-v1a1/2025/11/12/07/01/08-04171.ts
