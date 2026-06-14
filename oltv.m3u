@@ -2887,11 +2887,15 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg090CRO_Bnjb4snCQ1Br5Rr2ZO3IVWSPSGJibMllsXwZZbGvtY8Z_98pMStvry5rK1eTtrxfzD7ioV_D5Mr22j_vH889ijuIxUWBPbzHNdNgvYLcAiWuGe9wnluPUNPCpkPeOAMkPoQC9Y6LgcugYQha6-yhgBp6_l5-YVtgTIkBuP9SLJD_KWIiyL1cvO/s1600/NHL_Network_2009.png" group-title="TV Olahraga",NHL
 https://nhl-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWXsASR-STL_oWcObtByBxSe8B-qqIAItgGxaw87-xvdLA9tSJ8sH3RbBVN06iVeMeKXSN5aRJEQwdzRc5PHGTa7nV7VWtz9mjLWaezXByqDl_q_O1ruKTHgCcyyaFJ5N5xk0_kQWf080CpugwbWRrkxm6HpzbdVKI8_JS5mAFT_MA-IukmmUCbZt7TwYx/s700/NBA%20PHILIPPINES.png" group-title="TV Olahraga",NBA TV
+
+#EXTINF:-1 tvg-logo="https://clipground.com/images/nba-tv-logo-png-1.png" group-title="TV Olahraga",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-icy-metadata=1
-https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyMTBZ3g-3oL3_2Yqc2UMEuI/.m3u8
+#https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyMTBZ3g-3oL3_2Yqc2UMEuI/.m3u8
+#http://23.237.104.106:8080/USA_NBA/index.m3u8
+#http://198.58.104.90:8989/nba/index.m3u8
+http://84.17.50.102/nbatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqNkauAdA79lBsGseQJ3bmVPIQW7zLmS3ge7hsW_wcNI4RWTLtK0WZp-eFhQqBo4DXuRrXp0FD42apdy1H4UtAhTI9_t7lMxuiNDIcp8AyI8IeehqKTwsmgDkaXNOgJcfRi4Gs0cHPYvCw81iorWhwgf4dDqvvy3DRRXRozudTezUtrlie_NmRlk4nUbQH/s1600/UFC.png" group-title="TV Olahraga",UFC
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
