@@ -4237,8 +4237,13 @@ https://streams2.sofast.tv/ptnr-yupptv/title-BEST_THRILLER_YUPPTV/v1/master/611d
 ======Great Moment======
    
   
-#EXTINF:-1 group-title="Boxing Archive" tvg-logo="https://cdn-images.dzcdn.net/images/cover/872d1cfe7566c9b589bce4b46ea80886/0x1900-000000-80-0-0.jpg", Test 1
-https://archive.org/download/rb-1_20251008/RB1.mp4
+#EXTINF:-1 group-title="Boxing Archive" tvg-logo="https://archive.org/download/GeorgeForemanVsMohammedAli/__ia_thumb.jpg", Ali VS Foreman
+https://archive.org/download/GeorgeForemanVsMohammedAli/George%20Foreman%20vs%20Mohammed%20Ali.mp4
+
+#EXTINF:-1 group-title="Boxing Archive" tvg-logo="https://archive.org/download/the-foreman-vs-ali-fight-1988-uk-vhs/__ia_thumb.jpg", Ali VS Foreman
+https://archive.org/download/the-foreman-vs-ali-fight-1988-uk-vhs/The%20Foreman%20VS%20Ali%20Fight%20%281988%20UK%20VHS%29.mp4
+
+
 
 
 ======Great Moment======
