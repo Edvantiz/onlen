@@ -717,6 +717,10 @@ https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #https://indihuy.streamized.net/atm/DASH/sinpotv/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="logo",Republika TV
+https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc010/telewizjarepublikaraw/telewizjarepublikaraw.m3u8
+#https://lowa8026-cmyk.github.io/iptv/stream/republika
+
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfzBs9k2vFkUqNijWq3X3i9rawJlNrpmRFgx8L3hhQH7nl2N5PifNc6-uCviCBzcUEazmlDpRSJ_iT-2aF2XzUAwbxmvE7YsldlAD1zUE_otkO2eVvaucu1Z_D7c0ZHbAPntpfQ4SeCsyLz00OgV_6K_sjb6jRYv-9B1kxnqpHXgw52tAGoLuk81P9ecG8/s1600/Logo_GarudaTV_Primer_Flat_2025.png",GARUDA TV
 #https://cdn.garuda.tv/garudatvlivestreaming/720p.m3u8
 #https://flv.intechmedia.net/live/ch62.m3u8
