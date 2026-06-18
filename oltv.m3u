@@ -26,11 +26,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2t
 #KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
 
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="https://mimipipi22.github.io/logo/nasional/rcti.jpg",VNL 2026 1
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/hZqsMQ1A/live.isml/.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="https://mimipipi22.github.io/logo/nasional/rcti.jpg",VNL 2026 2
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/uSryQu60/live.isml/.m3u8
 
 
 
@@ -1779,6 +1774,14 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizke
 #https://cdn10jtedge.indihometv.com/atm/DASH/duniaanak/manifest.mpd
 #https://cdnjktbpid26.cubmu.com/riutx01-e312a224c5119cd47f2cb64bf8c8c286edd3e1214dcc663e33db130cf6b3833b/dash/RHVuaWEgQW5haw/manifest.mpd?signature=ZDcxM2I5NGEzODVmNmY2NmE1ZGRhZjRiNzE0MmMwOTk=&time=15177321626
 https://indihuy.streamized.net/atm/DASH/duniaanak/manifest.mpd
+
+#EXTINF:-1 tvg-logo="logo" group-title="TV Kids", Allegro
+#EXTVLCOPT:http-referrer=https://allegrotelkomvision.renderforestsites.com/
+https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/master.m3u8
+
+#EXTINF:-1 tvg-logo="logo" group-title="TV Kids", Ananda
+#EXTVLCOPT:http-referrer=https://anandatelkomvision.renderforestsites.com/
+https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8
 
 #EXTINF:-1 tvg-logo="logo" group-title="TV Kids", Barbie and Friends
 https://d1xqdnwy1bo05f.cloudfront.net/barb.m3u8
