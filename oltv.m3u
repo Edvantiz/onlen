@@ -1069,6 +1069,9 @@ https://indihuy.streamized.net/atm/DASH/atv/manifest.mpd
 #EXTVLCOPT:http-referrer=https://abtelevisi.com/
 https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
 
+#EXTINF:-1 group-title="TV Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNDg0SOmo-nyEMf81Ih6x33y0zLmFHfe2xUr78LQRlG31UrLTU4ulIkJdn3xqQZu1BddRd-4qOKaKDYwaDbesyepE_OWpzDWjJyrqJEz3D_gpaFlxvshrWcFjOMk_YvzCw-tCiOehA2e5Ebv4LrYxTpFknAhP9fpyK1e81YZzn6bLJUtR8cfVkFn-AboeB/s1600/LOGO-ABTV.png",ABTV (Blitar)
+https://5bf7b725107e5.streamlock.net/abtv/abtv/chunklist_w1913721130.m3u8
+
 #EXTINF:-1 group-title="TV Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2cGP3j-WwDFyHHHay637L0RuRaJ92duGkUEt7yAtiK8weuVt_7fHPi6XPDQWOQgbls2tDrez4tKA6js4bJF9txOJSPyj8LBiI85YI5ANP3Ir-Of6FxQiNCcmH7VvjefDhJX-0j9DOVSThxTI82fG39DEaVBpDmswSNAgQsgSWOdLOKGc6YnoURE9kERA9/s1600/Atambua_TV.png",Atambua TV (Belu)
 #EXTVLCOPT:http-referrer=https://abtelevisi.com/
 http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
@@ -1161,9 +1164,6 @@ http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMKzpMJkqPnkLdPodfi6U5zVfuP0Uj7nicKpFddTgENK_QMBIKxxdjkoJTwPVkx-yYoHlikwURBnqnrdjPCgFhT7v9hjlXHFjz3p9CVwDMqXVxHKqY_guehAxnG2FSN88IaNntRjLakur6xrfP6sHxsgLuwfiZU7D6A-OceG3uNlC2eDfMDpiZTo1dLow-/s1600/SultraTV.png",Sultra TV
 http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="TV Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNDg0SOmo-nyEMf81Ih6x33y0zLmFHfe2xUr78LQRlG31UrLTU4ulIkJdn3xqQZu1BddRd-4qOKaKDYwaDbesyepE_OWpzDWjJyrqJEz3D_gpaFlxvshrWcFjOMk_YvzCw-tCiOehA2e5Ebv4LrYxTpFknAhP9fpyK1e81YZzn6bLJUtR8cfVkFn-AboeB/s1600/LOGO-ABTV.png",ABTV (Blitar)
-https://5bf7b725107e5.streamlock.net/abtv/abtv/chunklist_w1913721130.m3u8
 
 #EXTINF:-1 group-title="TV Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidv-7xPv_JpSJx0tXyfIcdnWJLThv6bvxvuvBOwlnPEA9Gan40YBSv4FwSlCF0BdWsJzNbQOBLLo5ER2TSmV2XZzLBSWkGpcxk06rCC77aN63C_xYOSUdjQ2a1qhbB9tzOrzXDzePdToVbkb8K3CM0zipTzbgEHFhutkjjMvJStwc6BX5Ms6NFtLjQ-aTn/s1600/Logo_Hayat_TV_Sampit.png",Hayat TV (Sampit)
 https://flv.intechmedia.net/live/ch60.m3u8
