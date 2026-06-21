@@ -895,8 +895,10 @@ https://www.streaming.radartv.co.id/hls/test.m3u8
 #https://paltv.siar.us/live/paltv.m3u8
 #https://v3.siar.us/paltv/live/playlist.m3u8
 #https://e.siar.us/live/paltv.m3u8
-https://paltv.siar.us/paltv/live/playlist.m3u8
+#https://paltv.siar.us/paltv/live/playlist.m3u8
 #https://re1.siar.us/paltv/hd720/playlist.m3u8
+https://list.iptvcat.com/my_list/s/a126931ed0a92f0c6d83ccc0c74cff88.m3u8
+#https://list.iptvcat.com/my_list/s/4dd9a6dae04c472c331f35476ac2976d.m3u8
 
 #EXTINF:-1 group-title="TV Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiozDvcowxfAU7wJi6xHOagmfA-xTUCw19LVAduo2PrzXUPsEvbcYIoCC3kxQQsiUssmz20WAvKSy_fwEyGk4L4VN4mU69AIWq4QAGbesZ0SLBkRV4oChIifCQXQmADfQY-HkaJimkeZzQpKbfEsEnZV1rmKcgswMfbezEXWvsK61zjTTS7sV27PZVsqhTM/s1600/Sriwijaya_tv_logo_2006.png",Sriwijaya TV
 https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
