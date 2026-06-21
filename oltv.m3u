@@ -1597,6 +1597,7 @@ https://132544.edgevideo.ru/streams/132544_713325/132544480/index.m3u8
 
 #EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnAojA00AYYhPXN9Aa6RH8OnEvdwEqa1_npzsl2De5skg3TYRzgL3n5F49XJ6rzgp1ryhcAgp93VO0eI3j3bc_yrLlCStTv-KUwxnH0hNVaMxyTS5bBfW1WLkqxXYW6kUbtt7546TJ8PZoVosvlUQCpV_hMxaBBbLYdtY71fcYVJPuHA55zzLc74w4B1Zk/s1600/BluesTV.png",Blues TV Network
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/chunklist.m3u8
+#https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg57b2zC7e56RdI5FuRD-NVFg6yVE1pJO_OAeL21h6dg5hry9YWOM_C0V-CWDSDskBtJ1IftwitPuRlNLxHG4Xp1duuQ4jEYtgSnqf9ZUY3POE45qT_t3Of0hxs4qgjxSqveH3kP0ZLH9K8yaYPMfkCq9J-v3vi2zbUPSUt7eEHP2U0PFt9c9YVzYDXjVdb/s1600/The_Country_Network_Logo.png",The Country Network
 https://a-cdn.klowdtv.com/live2/countrytv_720p/playlist.m3u8
@@ -1751,6 +1752,9 @@ https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
 https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
 #https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
 
+#EXTINF:-1 group-title="TV Musik" tvg-logo="logo",Stingray Greatest Holiday Hits
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8
+
 
 
 
@@ -1818,6 +1822,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5
 #https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
 #https://tvpass.org/live/NickelodeonEast/sd
 http://79.127.207.193/Nickelodeon/playlist.m3u8
+#http://198.58.104.90:8989/nickelodeon/index.m3u8
 
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgojjg8VDGgvkRBnNVkFMLAefIBhxpjFNtnLp_SKU9yvHinqctvDWmaFeBMOKXx-OJGNKOZ5TTkAk9EVqfruZzaSlrzCC1_SNcAlA5_Gd7SJXhU3yKZPLTkeM9ksJzIKPOA28Vp2gREtnD0t95b_nDRE4UhPs0GFqCT0yt9-QumLUPVS10VWSMZhbRExtS3/s1600/Nickelodeon_2023_logo.png", Nickelodeon
 http://202.169.224.202:8800/udp/239.9.1.17:1234
@@ -1835,10 +1840,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwgzM8SVzGpK0xMyhyevt9vHg6TC1QL0X4cn5hBHRI1kc8NjZ2uUO1unr4twXfd-2AmFcB1hs33nZYuxy8EanAefF31ApQDe8LIXgSGGANEf680vsJFOU3wuGmQ346YPGDMvuSAQFF0FOB52hy1SpDpnyk-qb08FsOimtARjfXYTvDRwHZGSvmZ3o5f7x0/s1600/Nicktoons_2023_Outlined_Logo.png", NickToons
 #http://143.244.60.30/NICKTOONS/index.m3u8
 http://84.17.50.102/nicktoons/index.m3u8
+#http://41.205.93.154/NICKTOONS/index.m3u8
 
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsmC5wiG8PSv5H3S6kdq8B5ok9Uzy1-Wwa5e7toBj9cDD32Don_v3niQ_4PSqLV1UfdfqNEqTvplQu9vIxnWXk8TjJR5KBsPthusM5TEboqdILEVc1U8QIC5eYjPt47W0yDUH-QZewyW6NLXiC6ckZjEwh2rDn6w9n-yG9TerW44uGxTfm7m6Nd3XFv8ju/s1600/Nick_Jr._logo_2023.svg.png", Nick Jr
 https://fl41.moveonjoy.com/NICK_JR/index.m3u8
 #https://fl41.moveonjoy.com/NICK_JR/tracks-v1a1/mono.ts.m3u
+http://84.17.50.102/nickjr/index.m3u8
 
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsmC5wiG8PSv5H3S6kdq8B5ok9Uzy1-Wwa5e7toBj9cDD32Don_v3niQ_4PSqLV1UfdfqNEqTvplQu9vIxnWXk8TjJR5KBsPthusM5TEboqdILEVc1U8QIC5eYjPt47W0yDUH-QZewyW6NLXiC6ckZjEwh2rDn6w9n-yG9TerW44uGxTfm7m6Nd3XFv8ju/s1600/Nick_Jr._logo_2023.svg.png", Nick Jr (Pluto)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -1909,6 +1916,9 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 http://84.17.50.102/cartoonnetwork/index.m3u8
 #http://103.58.160.157:8278/720-CARTOONNETWORK/playlist.m3u8
 
+#EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9t2MeAlGHWZZ5OFUeFJ1C-d9pPCeZ1uUMYrTRQ-gQgHVb4atZ0aNaxdEeRKtzQ7JU5eMwcbI5ljmivXqKdDYbVD5wTwZKSquqvFGFgJvQA-n5ZwtvMhpMLRNKix1H4ieFINixa4powa7njyp51dVy-5TN8gFtdfVaxDN_fwOQOIcYTbDHVBGQOiDDL-68/s1600/Dreamworks.jpg",Dreamworks Latin
+http://138.121.15.230:9002/DREAMWORKS/index.m3u8
+
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9t2MeAlGHWZZ5OFUeFJ1C-d9pPCeZ1uUMYrTRQ-gQgHVb4atZ0aNaxdEeRKtzQ7JU5eMwcbI5ljmivXqKdDYbVD5wTwZKSquqvFGFgJvQA-n5ZwtvMhpMLRNKix1H4ieFINixa4powa7njyp51dVy-5TN8gFtdfVaxDN_fwOQOIcYTbDHVBGQOiDDL-68/s1600/Dreamworks.jpg",Dreamworks
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1927,6 +1937,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinCV61k60yepJFy4mkEGJebGjXt0HJ2OTalQ3Q-KvK8wMJs9GROf8qEYmwTSUPRuqdNaIbxOnwame9vc2TbxXdfXwYSwDq2SP57Dw1QBwaLIrPJOgO1_VXnDGCee7mFZzSFq1ItZUtOIaYofohzVXluqvw9a_SQEa22vC18GBCxTqrvcXG-g-R2D3G1b8s/s1600/Disney-Channel.png", Disney Channel
 https://fl31.moveonjoy.com/DISNEY/index.m3u8
 #https://fl31.moveonjoy.com/DISNEY/tracks-v1a1/mono.ts.m3u8
+#http://212.5.144.156:8080/disney/index.m3u8
 
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinCV61k60yepJFy4mkEGJebGjXt0HJ2OTalQ3Q-KvK8wMJs9GROf8qEYmwTSUPRuqdNaIbxOnwame9vc2TbxXdfXwYSwDq2SP57Dw1QBwaLIrPJOgO1_VXnDGCee7mFZzSFq1ItZUtOIaYofohzVXluqvw9a_SQEa22vC18GBCxTqrvcXG-g-R2D3G1b8s/s1600/Disney-Channel.png", Disney Channel
 #http://104.255.88.155/disney/playlist.m3u8
@@ -1941,8 +1952,9 @@ https://tvpass.org/live/DisneyChannelEast/hd
 
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSa5zMnBsEYh1Dt-WdVRWAGqxg5u8otQuRgoTwQw7xP8BS87Szyiwnu5QPijD0Fwjbr7qGh2RxEvN8hZbrajAqsE0bDZqYATRkSAQsL9iEXs4MUyJqaC-Ow1diXxMoELDuI8Eu9852Fd_y-Fin18zf6bIE4ECFm0DATpGXzQr5dvrSOnd7aMC30xxoCGLJ/s1600/Disney-Jr.png", Disney Jr
 #https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
-#http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
-http://84.17.50.102/disneyjunior/index.m3u8
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+#http://84.17.50.102/disneyjunior/index.m3u8
+#http://212.5.144.156:8080/disneyjr/index.m3u8
 
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSa5zMnBsEYh1Dt-WdVRWAGqxg5u8otQuRgoTwQw7xP8BS87Szyiwnu5QPijD0Fwjbr7qGh2RxEvN8hZbrajAqsE0bDZqYATRkSAQsL9iEXs4MUyJqaC-Ow1diXxMoELDuI8Eu9852Fd_y-Fin18zf6bIE4ECFm0DATpGXzQr5dvrSOnd7aMC30xxoCGLJ/s1600/Disney-Jr.png", Disney Jr East
 #http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
@@ -1952,8 +1964,8 @@ https://tvpass.org/live/DisneyJuniorEast/hd
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZIR7HSFvLNYYpVbv8ye733UUhJuH86Uh20Xnuym5QGwvofpBYgKPZpUcmHuaorpcd0EUMOesR7LN6RZ-WbIxS3RffsgrcTSuuFK-fm7sSg2IpUT9t2-KX9Z5KZCu1UF4DZDEhe111vYfjF45y5mdU9716HjUHceFRPuuZn72ceMLoTVWo-qyh49Zvoi89/s1600/Disney-XD.png", Disney XD
 #https://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
 #https://fl7.moveonjoy.com/DISNEY_XD/tracks-v1a1/mono.ts.m3u8
-#http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-http://84.17.50.102/disneyxd/index.m3u8
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#http://84.17.50.102/disneyxd/index.m3u8
 #http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/57420.ts
 
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZIR7HSFvLNYYpVbv8ye733UUhJuH86Uh20Xnuym5QGwvofpBYgKPZpUcmHuaorpcd0EUMOesR7LN6RZ-WbIxS3RffsgrcTSuuFK-fm7sSg2IpUT9t2-KX9Z5KZCu1UF4DZDEhe111vYfjF45y5mdU9716HjUHceFRPuuZn72ceMLoTVWo-qyh49Zvoi89/s1600/Disney-XD.png", Disney XD East
@@ -2081,6 +2093,7 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_2000000=11-mp4
 #https://fl31.moveonjoy.com/BBC_AMERICA/index.m3u8
 #https://fl31.moveonjoy.com/BBC_AMERICA/tracks-v1a1/mono.ts.m3u8
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+#http://23.239.31.26:8989/bbcamerica/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9vPDdyySlJZwnR1Nn-2i07WrJbnX0dCood1eRGOzogk-Y6eofwamsJUZV7Cyy0a2xlEa1i2KU5T4OQw9it6m5_52nW6V2JzF2XcYNcc4aOQCEudhFr0-MSkV6iputC1Rr6F09JV4CCrBrfSqC4-MbsH3H1L4R9feOLkdgMgTb_ymgfX_qxCZdO_HSiHAf/s1600/BBC_Earth_channel.png",BBC Earth
 https://live-manifest.production-public.tubi.io/live/88810cb1-e91e-4f19-870b-513ffc9a39cb/playlist.m3u8
@@ -2150,6 +2163,8 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO-u6ZGMpeR1rCxojobcJu4hLNJZViVMU8exyH2qwodWYDFbMpwHf3dNKTavcHSNcLzXi7Wo-Sf2BJSbarBFiAGoPN-bKaEwzOhH_R8xu2Ptd4V0ZPKaDxbpPWJfJ_wfO_f2a9HQEjrq0j2bqtHiRFGr_Pu32Ez7HJzC__NiE4bX72TiJvtLiDhyjEH9S_/s1600/Fox_News_Channel_logo.png",FOX News Channel
 #https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 https://stream.livenewsplay.com:9555/hls/foxnewssd/index.m3u8?token=df97bee9ecc39c145d1c1dabebbb5b4b&expires=1776172260&sig=39fd12617e5217979f49d0b762fc7ccb94bd421c5605f29bd2ab81433755a3e0
+#http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmcznluywlV2Kixi9gi23zO15_VEerqS5TSY9bS3A_O9aDwxssBE4xsrpLLC6oF6nQTbv16E4_kY_DFZ2DwgQHJwz2hLVaIIT79wLS9gq21Cd1X5BL8EGaDhhOnkcPAt61InbDhr2WoPpnUQywGsfFwIKEHB5VY-CIx9o6rCbgT_a6mVhtTD4SqbZPyT9J/s1600/Fox_Business.png",Fox Business
 #http://41.205.93.154/FOXBUSINESS/index.m3u8
@@ -2232,6 +2247,9 @@ https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 #http://104.255.88.155/history/tracks-a1/mono.ts.m3u8
 http://84.17.50.102/history/index.m3u8
 
+#EXTINF:-1 group-title="International" tvg-logo="logo",Atlas TV
+https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
+
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7hs3AFzP_DN-XO9OYVBAF1-BLDIAUWGlxySqQPvxGhczXTxwk5LYAtq3_KS25u3f1HJ7KaBv5CB8whU_y4LKZev0i4MsX_aPKvVqVw5_W0-VVIEiDPS6GNflv09qq_FF-X6JATQsEBSw5hVdvHKqwxmY3Sqac77jfIzt7eD1RHrHgjusaXwc30XRqS-2T/s1600/MakkahTV.png",Makkah TV
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w69057261.m3u8
 
@@ -2260,6 +2278,9 @@ https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiO
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibDIAw-3nnu45XclZcjqdF4ccdIwgEFSTUWVlbsSKOUrZjQsvYFQNzEIQYawzTUgCY-8GTHaPzqBbh6n9O5uPvmjMnMWAtaXwt2XQzRSBU9_4AgkE8E2Pjj4jzwYJb-UKLGMBPfeqgwdgMPBkHPg8B7RdkGfxcBXaI0kr7YcsVwKXXsF0zK4rRjW5570wY/s1600/Logo_of_RAI_%282016%29.png",Rai Italia
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/events(1000)/RAIItaliaAustralia-video=1200000.m3u8
+
+#EXTINF:-1 group-title="International" tvg-logo="logo",Iran National Revolution TV
+https://hls.irannrtv.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjOzPhV9lsDC6ILvcZ-fxmnvRhEQtsSi0l_rqX_-S0lZxRe6TSTgr9e22kATt7K-9cAqh-73PDf4qNtu_RuqgCfYlFfg_2hN0c91A-lJwSGQeojYjo8rKLiJCb5ArdCKwbRRIKnd9jWHRLfGmjmEHkucoePzKietbGtdOoFOe44gVbqG55SIN7BCNphbra/s1600/Iran_International.png",Iran International
 #https://live.playstop.me/1816184091/chunklist_b1196000.m3u8
@@ -2294,6 +2315,12 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60a9d105d162
 #https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
 https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjybItg1_pkppU9sF2P1Ij857JZ1GcImBYNFyfzjBqK2kBWT0kgP4riN7bCUReKUAee1WRHR6RIXjG0p8Z0jGeB_dYftQyWW1JrCgrdoa9l3-7_9rKN-8sM7B0watgk1GaTuQItvsZp6mZEmxha1CKFxw8pOpxbOb9OoiW68QUk8poeVFEkKh_dj0Ki7kGT/s1600/OAN.png",OAN Encore
+https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
+
+#EXTINF:-1 group-title="International" tvg-logo="logo",CBN News Channel
+https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiL
+
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6xVOQHqcwKWqzkfgBrdu0GbiraEeOGzL25PUwni9BTqbAVU6V8XEwNOHMMGyjQGjjOcJhMJOytRRuwMfKyjEq_ompMXcgGj5q9F97gJMpi_AYPgxqv4FqdSiFLWPOPNGGfu0VvuMywnkdhlVVhFIA9_pACaxikEvTgGfc8UlPs_r0HJaVTKzqgscBEJiv/s1600/Russia-today-logo.svg.png",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 
@@ -2314,7 +2341,8 @@ http://151.80.18.177:86/National_Geo_HD/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj9NZoEzCuaTJmJM2q9ePBcfkB8xxotFqTEfdMLJH4wDpkMyACwJOGLtUZigo3Tst9DA9iojk1XmBbeMIPtwBkE4eQbik680VH37eCXuM_vZFC8ud9q1iEzNe4cQOCy3A070gQluBwMxILhKocRqLGHRBq3HfeSuU-BOu9hkL0fnN2mrfDlfi8bHQzJ75i/s1600/NatGeo.png", National Geographic East
 #https://fl31.moveonjoy.com/National_Geographic/index.m3u8
-https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.ts.m3u8
+#https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.ts.m3u8
+http://198.58.104.90:8989/natgeo/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1kAjQ5o3jxEsaoZa0TIAtZukdA1N9mzGfrOi4T1g24-Qu5aOkdtzBf0wvcvLSfM7_HE1jEn7DGFdmhf7v8ZOm8JyHiSGSz2vW9ACUlBgzdyrORJrNuKG1cfPWTefVgojrPYtAPq-V5z4rqGgr6cK-Ujkk7C14eFLzdV3tRs8bUIHUDCu2N7M6k8Sw8RyI/s1600/Nat_Geo_Wild_Logo_2006.png", NatGeo WILD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2324,13 +2352,17 @@ https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.ts.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 #https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
-#https://tvpass.org/live/NationalGeographicWildEast/hd
 http://84.17.50.102/natgeowild/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1kAjQ5o3jxEsaoZa0TIAtZukdA1N9mzGfrOi4T1g24-Qu5aOkdtzBf0wvcvLSfM7_HE1jEn7DGFdmhf7v8ZOm8JyHiSGSz2vW9ACUlBgzdyrORJrNuKG1cfPWTefVgojrPYtAPq-V5z4rqGgr6cK-Ujkk7C14eFLzdV3tRs8bUIHUDCu2N7M6k8Sw8RyI/s1600/Nat_Geo_Wild_Logo_2006.png", NatGeo WILD East
 #https://fl7.moveonjoy.com/Nat_Geo_Wild/tracks-a1/mono.ts.m3u8
-https://fl31.moveonjoy.com/Nat_Geo_Wild/tracks-v1a1/mono.ts.m3u8
+#https://fl31.moveonjoy.com/Nat_Geo_Wild/tracks-v1a1/mono.ts.m3u8
 #https://fl31.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#https://tvpass.org/live/NationalGeographicWildEast/hd
+http://198.58.104.90:8989/natgeowild/index.m3u8
+
+#EXTINF:-1 group-title="International" tvg-logo="logo",Showtime
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3oB0mmsmfrt2eUZQ652Dky5MAcXtAhSdLksJVRaWFXtg-ou9TPzZGzlwNxpT3UJQ9mdi6Y7McvhkILIjLOqIyUcbp_0ItlrXt3iLw-9jlMOQrvRvXMXa3VXqLJkt7R3RrQUqMAOQMMpRTsMrl-MzLLefEqOUZGNEAoGQUJJmpbzPy9q3tzaksPZ2DhYJB/s1600/SHOe.png",Showtime East
 https://fl31.moveonjoy.com/SHOWTIME/index.m3u8
@@ -2371,6 +2403,12 @@ http://41.205.93.154/DISCOVERY/index.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih6FjO7jDp_iAOeujaORzyCH9po7dKfP7Cxe2GjvIRg-usBesInBJnZQWHK-ZSIPjyQp3456KPFjXFw1-ZyKJVIXve7kgFIYpcbzRXTPV-p5Ok6Soct1xcQEk5T5PgXHoI_gaB9wPMzRLufgxe2zeoZlbKIHcxJvsMEeb0Obknv86niIayhd9oA-ZjZENo/s1600/discovery-channel1.png",Discovery Channel
 http://84.17.50.102/discovery/index.m3u8
 
+#EXTINF:-1 group-title="International" tvg-logo="logo",Documentary+ International
+https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="International" tvg-logo="logo",Documentary+
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOKZ2tNKk3JhKEZ_KNDQ08Tgjk7vyQIrlhx1tzBaEYuk02SPsMfv-TisEd5hA5yKScnmisp4ZpR_S5m_I00izEh8gwoVGvl6hpbP__rdO8bJX3_UcQMS4-Pv5ymI8d24NEcTM2TXNFdA2WqIp-OmCjEU_fHft4ZBnCLYXhPxyQGsEEpQLyF7pLXRJPuawD/s1600/Adventure-Earth.jpg",Adventure Earth
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 
@@ -2396,7 +2434,8 @@ https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
 #https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/f9df390f-1207-4bc5-b2cf-0e97ccac135d/0.m3u8
-https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+#https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE0jhW1tePiegCAN6qnIbTb6m8XjE9J-h0y6XbBp_qPgyofnbYSHzfu53Ma4am3-urJRt_LUIBDf4SrqDPXMXTRBoraAi4CqDLEyPoHf9aGsSZdbXhOyBc6hmyUoroFKpCJbGNhIWfYXzwnm_L0DPuoAqmrEq4mb3A5YbbYMFH6gGuhURxJ0lplLAA7QV2/s1600/AWEPlus.png",AWE+
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/playlist.m3u8?ads.vf=eVE5nru-EHa
@@ -2421,6 +2460,8 @@ https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="logo",Yahoo! Finance (Roku)
 https://yahoo-roku-us.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="International" tvg-logo="logo",World Channel
+https://world.lls.pbs.org/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpxwt_tgPRHCPWqFiVgnoc4_eOeAHbTncOTBn27iGsokR-TmY06wHZIAD4BZpwOZkrTQO8mnBf-SHxwZAQvqeGIV1fRcCMQb9-EIo5QuzNJeo9BoYqXZrx1Evqo0JKaZ3k1k3oYOS6DlkznCUawQqa3BYIKKOMBiwbEdimf7t11CPE-VBmYx-ct0iL7OPU/s1600/VOALogo.png",VoA
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_0480.m3u8
@@ -2553,7 +2594,11 @@ http://210.210.155.35/uq2663/h/h01/01.m3u8
 #EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNJ91qztPLP9_XFqxm0bIxaVy2YJ-gjF8h5Y014pLKdM09HZtgBSA8wwBZwLVDZxQzUhjxW-xe45V3Jl3_9BYUYMfrb6rW5qf2FjLrdM7cUqh01vL2QeSpnGCV9itfAleHAvUfp2GX6BsHM3Ef5eUbNB4q1E9ipgbI2snpOA3A3x8Re2ia2m7y_Ld21RII/s1600/Lifetime.png",Lifetime
 #https://cdn10jtedge.indihometv.com/atm/DASH/lifetime/manifest.mpd
 #https://indihuy.streamized.net/atm/DASH/lifetime/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/lifetime/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/lifetime/manifest.mpd
+http://rezofoot.tv/LIFETIME/index.m3u8
+
+#EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNJ91qztPLP9_XFqxm0bIxaVy2YJ-gjF8h5Y014pLKdM09HZtgBSA8wwBZwLVDZxQzUhjxW-xe45V3Jl3_9BYUYMfrb6rW5qf2FjLrdM7cUqh01vL2QeSpnGCV9itfAleHAvUfp2GX6BsHM3Ef5eUbNB4q1E9ipgbI2snpOA3A3x8Re2ia2m7y_Ld21RII/s1600/Lifetime.png",Lifetime
+http://23.237.104.106:8080/USA_LMN/index.m3u8
 
 #EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpbUOo1G9sribwQzjrc3DnPEmibC5R1hUGtWtMlu5CxIeAQ8k_dkDNCDkxjf3BexWX8gnbsrHvhCGZyzMvitBVMzkeaGlBXopPBB-wFnfFXmtm75ztVGH7bannISdNQRqDTh1yC0DaKQqQl5PBwjT1CyruQ_Z4FNqIhN1eAxadeGHVz5XQpgXk5U5tPhzm/s1600/WEDO_MOVIES_ROUND_RED.png",WedoTVMovies
 https://amg00735-amg00735c46-denstv-apac-7617.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00735-videosolutionsagfast-wedomoviesasia-denstvapac/cb573e1e796c648b92d43c61cef64882847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9764cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fee15f42df39a0b90140c07d40fa83439fd401e987dc5e8347d373a3459f9bf1dfd546848cb9599106f224365623709cf215f9a366b7ca8a56379d7c2d7b44298cc986ed712c944e555dfbe6b9d10f9328db9a1a91723ead019b56b96af601c008b7f171a2b8b5db4e444bcaae375a26b0f59f88ee3b37b163c6f885b711758c84721223f264cd1f7156fa9ec71990b172fcd31889b97d2062aefb269f94b6f188dae871982ccefaaef657214a6d1070e137c7a169d53de022dfa47b285a4c7bb98345c1f4b23459594680814acd031e8481f9e9ba0d34da701a28810abe600663dc246d41bf4193f8356ffb4060e10e34f8656fee289fad3ef9d5bc8f6300a0cccb7fa52d85d80bc2e63dba79334b078ce73e53373d17bfd5671d2046d051ebc1cfde621b0cd1ad8194b25037092d125c18b4eeee669e9dd43b1817cc21500a002b14990ac26cd114760c27df1bc0b81b71840b1c7794cd5a5a5f6284cdc3e8edb1f143b071c1cac06341513a64ad23774104b68d8a49ed05110e1039870b7451cf6f3024d192cdf58bbd348ef608ad3c72065cc6ff19520c5c67117af1fe53d05af28122ba94c44fc9e1992f1ff356c406008eefcf65fc9feaad263497ba4726749ed71a9f0747a11ed03f91c275aada3f6e2735445cdb9e51c26db7b5e9af875e28d72d2a5aa8119292e7bcd86345ee90385c596b74240f99f2b16ec2bef477097a96d14f199ee2993283435f322d53dfc071367d2b736efe1f551ac28aca80acd81711800ea637a10172f3d8550bc61e404afa6ca303cd17813af9fcc76da8a889cee6d7c1276c1f6d0a56a0355a5ad73cf9800be0e24832bfc9c3d2d360937af526fbaa826eb56cee9be74e999993a8af2c57460c03b581d6ea04d7b93d40b950d259624dcfddaaa733bb92972f4cc771acc50b67a53b3e7acca8f00b816b9bee2b25ea82260881247c91aeaf684c8817a626336ff882d43d6c819059e138f1ffc00642880709f7070f31de1bd4b3ff383fafec69433b8b2c08837088cda32c7a7abc9d6b206a404c2200df44533bf77c0d811fa1eff6be782aed50df57dfde922e2af1c1c419357f56aaaa12b529e2fde11a9db4/158/1280x720_3329040/index.m3u8
@@ -2775,8 +2820,9 @@ https://cdnbal1.indihometv.com/atm/DASH/warner/manifest.mpd
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHo6cgP94b3SYJfoquYR_kYck145xMFTnLyWs80N-72gK6uHxzJCBTQdEh9zp9Q1S4X6tytZ5uO-R2jTMiVk_JDNhYs0RdirokCgyY934lFv-Y8tiaRIMi2IpGhNoLd4K8lrUIWIIvV2jP65X9OKhbA1ykLZ7nbFOtYTMMahydndiHAWe4IfBYvqjdlAmy/s1600/Paramount_Network.png",Paramount Network
 #https://fl31.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #https://fl31.moveonjoy.com/PARAMOUNT_NETWORK/tracks-v1a1/mono.ts.m3u8
-http://104.255.88.155/paramount/playlist.m3u8
+#http://104.255.88.155/paramount/playlist.m3u8
 #http://104.255.88.155/paramount/tracks-v1a1/mono.ts.m3u8
+http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNiNk9aToCJ_rez4yXY2o8LTusO2kb0CAoG9q8wSpvjH4NdnVJXSw-FVjOvgzKu5YptQ8ssUFnMItoFfKM2SjW_56eLbdpwIe-3LKXp49s0qt3QIYiS95WSi2pDL_DTBHYRU2sHdhZ-K1fa2UBaH0Ca-GoNG5Ld8ZqaAEqplG-6_rvlA-6FSLHDm_lrrwM/s1600/MGM+_logo.png",MGM+
 https://fl31.moveonjoy.com/EPIX/index.m3u8
@@ -2785,6 +2831,9 @@ https://fl31.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX6DbxkHXDiUrkxj73xJnwWYpXW_WfujECXq43RJLIqlj5pS9LcKOdcEV12bljLcs2OvgMJbDCLAibHb1QgPCOFfnBd-uq9Z_4SyAwQmLZRM31aP9mVtxhpxiP1v8Y4xQveW9ruqv08vGaXTG7Lvgas9fnOi93OD5_PaymhEj5kgiAoAbohv8YzxjNqJ6D/s1600/MGM_Television_logo.png",MGM+ (Stream2)
 https://fl31.moveonjoy.com/EPIX_2/index.m3u8
 https://fl31.moveonjoy.com/EPIX_2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD4OJdIMqfYgPFT16w3cq07UWAk1_FZ00Ox1gUWcR1q1KLaoZObVBm4TqgIwiazLL8vP6dDeTrIVMbjMRVP5TnHn7-RQeYXcxBiOpTPxGtkYPzP-5YOWvXQ4pXcCWDz8jxGVboLKXxMIsENv2sPQ3MbX2iHyiOzD646tLJpYBXo0jxZhLZmwbJxF-cFrJV/s1600/Amc_logo.png",AMC
+http://23.239.31.26:8989/amc/index.m3u8
 
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD4OJdIMqfYgPFT16w3cq07UWAk1_FZ00Ox1gUWcR1q1KLaoZObVBm4TqgIwiazLL8vP6dDeTrIVMbjMRVP5TnHn7-RQeYXcxBiOpTPxGtkYPzP-5YOWvXQ4pXcCWDz8jxGVboLKXxMIsENv2sPQ3MbX2iHyiOzD646tLJpYBXo0jxZhLZmwbJxF-cFrJV/s1600/Amc_logo.png",TWD Universe | Vizio (AMC)
 https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8?l1br3date0702andAMCBinge
@@ -2795,8 +2844,15 @@ http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0zIyvSA-aEGR1lT5ATzh1BU9GVWenK_hkPQb-IipW1Tt6mF6DmISYjoNJv6lu7amFQzuJkbEN-D1OCU6gGA-3nacwIZGHZWbaZKAK0ENWf9CQ1_uwzobfWlDzBpMwblyGGbG20whsRWaCtaFTrw7QDbGSCSQOqB958Gs7hes25LUkdKnaWqfXrw0DvbUc/s1600/moviesforfree.png",Movies4Free
 https://movies4free-lg.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="Film & Drama" tvg-logo="logo",WeTV
+https://streamer1.nexgen.bz/WE_TV/index.m3u8
+
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTuWSQA_hNBBX_RuYSeCfO_T1-VtFHjNzp9dpZV1UFf33E498a50OdrGfjiEq8OWLrILriibG3ZHk05FneIMyNqhqrvuGeVVcIWH8Hm19TpUUkAscLgDEXSOb_z8PfoPPeESCUGvgrhgJcMuh7S6pFwR0BoKQleXAUd-qjzfqiZPg16-mV4D5eULi52Neq/s1600/ion.png",Ion
-https://live-manifest.production-public.tubi.io/live/4ed608c9-863e-4ea5-91d1-27549ef1adda/playlist.m3u8
+#https://live-manifest.production-public.tubi.io/live/4ed608c9-863e-4ea5-91d1-27549ef1adda/playlist.m3u8
+http://23.237.104.106:8080/USA_ION/index.m3u8
+
+#EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTuWSQA_hNBBX_RuYSeCfO_T1-VtFHjNzp9dpZV1UFf33E498a50OdrGfjiEq8OWLrILriibG3ZHk05FneIMyNqhqrvuGeVVcIWH8Hm19TpUUkAscLgDEXSOb_z8PfoPPeESCUGvgrhgJcMuh7S6pFwR0BoKQleXAUd-qjzfqiZPg16-mV4D5eULi52Neq/s1600/ion.png",Ion Plus
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0KYdGQipv4FIWFxKMv8I_-Jc0KGAtAQ3axQSHnxTIpjgRVBlwcsPTEAdH5GIGwJN1ZC-OQ-udQmxcFFEk-tvqKAyhqYzDzmRaV3BdUMx3UAQkdDL_30Rv0fdKkKz6Esh-WUmR9ZofB96H9g8F946atoNEi0y2aDrPPEuuvUgEjeSE6Xbjtok07Ouv_GMB/s1600/Miramax_Television.png",Miramax
 #https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
@@ -2889,6 +2945,18 @@ http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/17775.ts
 
 
 
+####### SHOW TV #######
+
+
+#EXTINF:-1 group-title="Show N Entertain" tvg-logo="logo",Just for Laugh Gags
+https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
+
+
+
+
+
+
+
 ####### SPORT TV #######
 
 
@@ -2898,6 +2966,7 @@ https://aed54faf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYX
 
 #EXTINF:-1 group-title="TV Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkaj-3U6LUVwAYcsFpf-OhpWYx2xgn7kbffLie6v00fea_pd2FddW1FcU1XQ35VQ0YkpQad16Ynuc9LVG5mj5N7AaB0j8tUoEBmcj27gPMAc2oF8nE42QYKlULLKsSkrCHJ8UJYIUQqOCr_hvycGbLqjkjvvrb72DMpBpSHQPG_dlLTjeKO03tbHJamPKk/s1600/BeIN_Sports_logo_%282017%29.png",BeiN Sport Xtra
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+#https://bein-xtra-bein.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkaj-3U6LUVwAYcsFpf-OhpWYx2xgn7kbffLie6v00fea_pd2FddW1FcU1XQ35VQ0YkpQad16Ynuc9LVG5mj5N7AaB0j8tUoEBmcj27gPMAc2oF8nE42QYKlULLKsSkrCHJ8UJYIUQqOCr_hvycGbLqjkjvvrb72DMpBpSHQPG_dlLTjeKO03tbHJamPKk/s1600/BeIN_Sports_logo_%282017%29.png",BeiN Sport Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
