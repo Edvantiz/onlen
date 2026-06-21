@@ -2126,7 +2126,9 @@ https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 
 #EXTINF:0 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV5zNhec8Uuvxrm9JpQAndm5lqYr3Q9jHzvc1hi_wS7r9h4PddKNpQbNLNiFmeG06SPqTCY3rf74fL0IHPUviLG-g7AA1MIkirXKc070oYgtaPJWZnm4fBUbdU1BtgxLdz6XSVlZtO_8_DftOk2k46QZOiXxQRPOKY9pCHxJ65QLm43O2NSLC8L4vJnWFX/s1600/CBS.png",CBS 24/7 News
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36903a12-54e9-4279-a247-c026f64396a8
+#http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36903a12-54e9-4279-a247-c026f64396a8
+https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8
+#https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:0 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV5zNhec8Uuvxrm9JpQAndm5lqYr3Q9jHzvc1hi_wS7r9h4PddKNpQbNLNiFmeG06SPqTCY3rf74fL0IHPUviLG-g7AA1MIkirXKc070oYgtaPJWZnm4fBUbdU1BtgxLdz6XSVlZtO_8_DftOk2k46QZOiXxQRPOKY9pCHxJ65QLm43O2NSLC8L4vJnWFX/s1600/CBS.png",CBS News
 https://dai.google.com/linear/hls/pb/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/8d15232b-2b3d-4c2d-bff9-f2c9a78abc5b:TPE2/variant/d97af4c27467beea3da650488b681b9e/bandwidth/1083000.m3u8
