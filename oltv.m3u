@@ -1792,18 +1792,18 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizke
 #https://indihuy.streamized.net/atm/DASH/duniaanak/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/duniaanak/manifest.mpd
 
-#EXTINF:-1 group-title="TV Kids" tvg-logo="logo", Allegro
+#EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqt-5NymtuKZa-vX39Ilg0E9n_n8fowxaFpMZFs0mO0XsEFvEnVOHG26CD6df87yMmndRstskdBD4oDsC3EXqOE6Z-o3smgpIu1KWw-rIj82-KWnlwmEuq5PbhjPOVI4ASIpNDA9yiRdPZADd8NzGHsXMh0HpFQxE0aiQqZLU6OPRO_HaCYX78IOB06HeW/s1600/Allegro.png", Allegro
 #EXTVLCOPT:http-referrer=https://allegrotelkomvision.renderforestsites.com/
 https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/master.m3u8
 
-#EXTINF:-1 group-title="TV Kids" tvg-logo="logo", Ananda
+#EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqLWy3YT_VTyjqL1OTJLEV5Dka1zqIlCrGnGuS3SFwU8rGlT88SreHlrSto9tuwv4lfPK82ctjB34GgA7arnUZy_icjqcSnAlM-XkxXJZVZRrYoJit4EVtqhN6E3pJmR7u_WXHYzgMOAwroCqbquLPmJiIIqEsB4EWt69DpefYhiboFSnmlE-kuEtAxo9_/s1600/Ananda2.png", Ananda
 #EXTVLCOPT:http-referrer=https://anandatelkomvision.renderforestsites.com/
 https://vodcdn.bamboo-cloud.com/livehls/68ef86320630444b1f796875/master.m3u8
 
-#EXTINF:-1 group-title="TV Kids" tvg-logo="logo", Barbie and Friends
+#EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXg0q2Rvxf5k9a9ZAKSWteByhI-n8R9aaMUO3Z_sPLphfz3UfEnKjKgkTpj8S4lC0d3NItO_TyU9HaMFZOWmOLZoHfS-JXKpUPKwzy3Y3VfHZUR29wXOYE2zKkvSCfRouWonNWmmZEG3tayN2yJgiWNQOcHu-7AVIXjyervd6eELn5WpN2_5MVtUFI333Q/s1600/Barbie3.png", Barbie and Friends
 https://d1xqdnwy1bo05f.cloudfront.net/barb.m3u8
 
-#EXTINF:-1 group-title="TV Kids" tvg-logo="logo",The LEGO Channel
+#EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifmEAd9OamO7tH56Maa2nvhxqJO-uZOuj_Ze6vClzHKr5PtM5zvj8dNY9S_9-X3Ri_S0iTh2tYJTOGoL1VqLvrBJKnVy7tLj-LuAmYUTW_hzWyZmiFsg-60934pY-2jbvWl82PS7d2eW4rERJg4E5V4t6hGF6ivp1YSyEkezbHtqVlFHG8pCu0gagE_Jvn/s1600/Lego.png",The LEGO Channel
 https://dltiqboxjw21d.cloudfront.net/index.m3u8
 
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyD8vpjIHgD1cjZ5YdBxGUZmKSLF4YSWdk3NdLkxuLQU4I6CKeRq6qnzo1yv07-HEfqrIjKVLIiDVCycr8n1TKDtGRrB4BoeygDsjWthvJWSwWirbcYq8wjr351FoF-X6sMXsPmOCKi_UinoCwVMR7sF9n3LwyKI2_WxbY9cnu3FLUW0VngM8WN95bjesn/s1600/Logo_Kids_TV.png", Kids TV
