@@ -2368,25 +2368,6 @@ http://84.17.50.102/natgeowild/index.m3u8
 #https://tvpass.org/live/NationalGeographicWildEast/hd
 http://198.58.104.90:8989/natgeowild/index.m3u8
 
-#EXTINF:-1 group-title="International" tvg-logo="logo",Showtime
-http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
-
-#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3oB0mmsmfrt2eUZQ652Dky5MAcXtAhSdLksJVRaWFXtg-ou9TPzZGzlwNxpT3UJQ9mdi6Y7McvhkILIjLOqIyUcbp_0ItlrXt3iLw-9jlMOQrvRvXMXa3VXqLJkt7R3RrQUqMAOQMMpRTsMrl-MzLLefEqOUZGNEAoGQUJJmpbzPy9q3tzaksPZ2DhYJB/s1600/SHOe.png",Showtime East
-https://fl31.moveonjoy.com/SHOWTIME/index.m3u8
-#https://fl31.moveonjoy.com/SHOWTIME/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGEYT8kb3oY6WcO9Ev0TfPGlFyVUKJyJwEeZyArb6Nd5-fx0-oC-SS_CTPyasHkqG3EWKTiysj-p7xBx4jVlvhZ_DVsDBo8AMjTBtrch_75OWdvFYHwGGPWLblfbkkOh5Of1SIqNyonim7uGOlq4uPL-zriqjeJukrhcj_0B9RjL_R63g9ozhTdP9AYi-I/s1600/SHOw.png",Showtime West
-https://fl31.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-#https://fl31.moveonjoy.com/SHOWTIME_WEST/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvZUMepMd9rjuGdEGZzZnR06Ox_hiYrohul4-8iXairriyqW-jVFoiqVhu8cEF5x9Nf6oPK6zzHjyVI6Cqxpkp_tjPSKC_6CgC0-K7AtBpQYyAL2Vsh86dpn-QNbmUDTm7iOZzwwv_wtl1Wu0QOTrZNn3Gh7mC2KPMvf0VX9raxJeuRqn3nUUFWBesPmp_/s1600/SHOExt.png",Showtime Extreme
-https://fl41.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#https://fl41.moveonjoy.com/SHOWTIME_EXTREME/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghRRm9J2-3ENJVoSpvQbABLvYaSkeWTw6BX4cGkW5VCH8jvDZ11dfDG5M4x9n5zWnIGW0U2jWS1B6E9qWN0cH59R34LgRtgIQtEdxRPAsGChQGyj4JBRx4QG2bMdrM0PXdI7CHEh9Eg0-VWVrwoYuIChXMMSqzCu19MhCi0NqntW5AR4aaiuGuGPRzyg_A/s1600/Showtime_Next.png",Showtime Next
-https://fl7.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-https://fl7.moveonjoy.com/SHOWTIME_NEXT/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAS1u6nVBsxCUyL78kPiPptuiqxWRo32NHb84MWiArH0wcph6PCT1q8kMBTgc-zLThVxtPH20dPgj3ThFFA0nwZwVTYEy0SKB_GDHR6kNQG4Exvx8iQGClT_b4YIz8WXGFgXyS5-KI4F4_gm7dIxawxgGCPjOQ4Oom5MeN6Hr3tpxEZV8au2r6ovDgMQ7r/s1600/animal-planet-logo.png",Animal Planet
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2838,6 +2819,28 @@ https://fl31.moveonjoy.com/EPIX/index.m3u8
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX6DbxkHXDiUrkxj73xJnwWYpXW_WfujECXq43RJLIqlj5pS9LcKOdcEV12bljLcs2OvgMJbDCLAibHb1QgPCOFfnBd-uq9Z_4SyAwQmLZRM31aP9mVtxhpxiP1v8Y4xQveW9ruqv08vGaXTG7Lvgas9fnOi93OD5_PaymhEj5kgiAoAbohv8YzxjNqJ6D/s1600/MGM_Television_logo.png",MGM+ (Stream2)
 https://fl31.moveonjoy.com/EPIX_2/index.m3u8
 https://fl31.moveonjoy.com/EPIX_2/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPkb1wPO00gP42LLNLtw6Eh4AfVDvjDskFNkTtta4-D7i2hN-xfKdKniVJWS9aaKHhZMHitsn-AO1VF9ywjUzeM-C7xSMk2QTGziKDg1HeV9qHqNYb90vq8TyboRWS-x2hzJC4k2XidqJzuJ-NL8YBc-99jFcpWjwhmPxIX1RZgA0OuqtCwV0UcFBhozst/s1600/Showtime.png",Showtime
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+
+#EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx6qJHI-K8XKEGaPSY3Kj41HUY8rNZ6rJ8-FtPL3qAUTHvlMtQabKJZRD3b_B9yN07flIqgqP-ZopAyMk2UdCOCZnq5Yiz8uXbCqQOocpNZbMGv9DK9ALo6ZTS7mlxxmneczvgj_z8qsdlKkYvTKBFwxjSx9tSxxX10PffSfyYG5BkM0CIe-LXxYMGavmj/s1600/ShoFamily.png",Showtime Family
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+
+#EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3oB0mmsmfrt2eUZQ652Dky5MAcXtAhSdLksJVRaWFXtg-ou9TPzZGzlwNxpT3UJQ9mdi6Y7McvhkILIjLOqIyUcbp_0ItlrXt3iLw-9jlMOQrvRvXMXa3VXqLJkt7R3RrQUqMAOQMMpRTsMrl-MzLLefEqOUZGNEAoGQUJJmpbzPy9q3tzaksPZ2DhYJB/s1600/SHOe.png",Showtime East
+https://fl31.moveonjoy.com/SHOWTIME/index.m3u8
+#https://fl31.moveonjoy.com/SHOWTIME/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGEYT8kb3oY6WcO9Ev0TfPGlFyVUKJyJwEeZyArb6Nd5-fx0-oC-SS_CTPyasHkqG3EWKTiysj-p7xBx4jVlvhZ_DVsDBo8AMjTBtrch_75OWdvFYHwGGPWLblfbkkOh5Of1SIqNyonim7uGOlq4uPL-zriqjeJukrhcj_0B9RjL_R63g9ozhTdP9AYi-I/s1600/SHOw.png",Showtime West
+https://fl31.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#https://fl31.moveonjoy.com/SHOWTIME_WEST/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvZUMepMd9rjuGdEGZzZnR06Ox_hiYrohul4-8iXairriyqW-jVFoiqVhu8cEF5x9Nf6oPK6zzHjyVI6Cqxpkp_tjPSKC_6CgC0-K7AtBpQYyAL2Vsh86dpn-QNbmUDTm7iOZzwwv_wtl1Wu0QOTrZNn3Gh7mC2KPMvf0VX9raxJeuRqn3nUUFWBesPmp_/s1600/SHOExt.png",Showtime Extreme
+https://fl41.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#https://fl41.moveonjoy.com/SHOWTIME_EXTREME/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghRRm9J2-3ENJVoSpvQbABLvYaSkeWTw6BX4cGkW5VCH8jvDZ11dfDG5M4x9n5zWnIGW0U2jWS1B6E9qWN0cH59R34LgRtgIQtEdxRPAsGChQGyj4JBRx4QG2bMdrM0PXdI7CHEh9Eg0-VWVrwoYuIChXMMSqzCu19MhCi0NqntW5AR4aaiuGuGPRzyg_A/s1600/Showtime_Next.png",Showtime Next
+https://fl7.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+https://fl7.moveonjoy.com/SHOWTIME_NEXT/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD4OJdIMqfYgPFT16w3cq07UWAk1_FZ00Ox1gUWcR1q1KLaoZObVBm4TqgIwiazLL8vP6dDeTrIVMbjMRVP5TnHn7-RQeYXcxBiOpTPxGtkYPzP-5YOWvXQ4pXcCWDz8jxGVboLKXxMIsENv2sPQ3MbX2iHyiOzD646tLJpYBXo0jxZhLZmwbJxF-cFrJV/s1600/Amc_logo.png",AMC
 http://23.239.31.26:8989/amc/index.m3u8
