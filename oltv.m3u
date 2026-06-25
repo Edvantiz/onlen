@@ -2065,7 +2065,7 @@ https://c.mjh.nz/abc-me.m3u8
 #https://indihuy.streamized.net/atm/DASH/seatoday/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/seatoday/manifest.mpd
 
-#EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/DCntyzt/reuterstv.png" group-title="International",Reuters TV
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD_pgY8QSpIAS-40WmJM11gNJXxIxJMnIoBFPidH74gN0DAS4QC9YMeQovaawE9wUhqDAGBwkU8WY0_Zqv8XgNCCKHkR32QeiceiNhLFN6Vkmd4DNr1rdclI-xivJ2vf5aZ8F_hEKBD0tIQoChTHmftsln70k1Bky9bawYoMbk7gvR0gjzkWbNsbHasRWa/s1600/reuterstv.png" group-title="International",Reuters TV
 #https://d2kjqd7acfrwt3.cloudfront.net/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
 
@@ -2101,7 +2101,7 @@ http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9vPDdyySlJZwnR1Nn-2i07WrJbnX0dCood1eRGOzogk-Y6eofwamsJUZV7Cyy0a2xlEa1i2KU5T4OQw9it6m5_52nW6V2JzF2XcYNcc4aOQCEudhFr0-MSkV6iputC1Rr6F09JV4CCrBrfSqC4-MbsH3H1L4R9feOLkdgMgTb_ymgfX_qxCZdO_HSiHAf/s1600/BBC_Earth_channel.png",BBC Earth
 https://live-manifest.production-public.tubi.io/live/88810cb1-e91e-4f19-870b-513ffc9a39cb/playlist.m3u8
 
-#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxuFUp1fo8MW75tih56pA1r9lm44tsXvEJbDvFj16j3ypQaem1uHfg0PzK2cBUUYP2TjkA9mw1IxBr0bH1vc9zsv9u54qRbY4Pf_I-iPh6dLqeahhfDVAmQIG2p0y9-P0jWg1-IAgLLW4_iPBdmQlFStgmN6AikdR4x848sqx_TSaj-qLctHBtTzipnh94/s1600/Bloomberg_Logo.png",Bloomberg TV Original
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY9BkXJh9qijQdcJ1vJqAvwyvD8YJITl-ucQ5wEf464zMAokBQCc3S_hPNPN41rQwJan6-aoNEl5ci3eg6aotM4KLC7P22aZDaPzFtE_lluKr5ngwOR-Zgm5otkV3t-_qtwZ43lvtw_l_Xd38ip4AazZYs6WsfUBV1e27uOc0weHY1FqJtaocEJhkECQ3G/s1600/Bloomberg%20Ori.png",Bloomberg TV Original
 #EXTVLCOPT:http-referrer=https://www.bloomberg.com/originals
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
 https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
@@ -2128,15 +2128,15 @@ https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:0 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSn2dfjjUjPHd2H_anFeTy9kXgL6NEnv-auhGvOQVV8IOS7zFWo3fJmBFbzmQ-RzqdLHc-J22k_2CrtL6Aq7K7c9D5PirQm4lgBCbeZEtIhb7aML3vMa8cE3lZVc_M3oaPd7yloGe7vUQpTuRwfRrYxMdtyKAhy-YlEUSdKux4SgaTNbrvMb2tbOpUSU7Y/s1600/Bloomberg%20Asia.png",Bloomberg Asia Event
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 
-#EXTINF:0 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV5zNhec8Uuvxrm9JpQAndm5lqYr3Q9jHzvc1hi_wS7r9h4PddKNpQbNLNiFmeG06SPqTCY3rf74fL0IHPUviLG-g7AA1MIkirXKc070oYgtaPJWZnm4fBUbdU1BtgxLdz6XSVlZtO_8_DftOk2k46QZOiXxQRPOKY9pCHxJ65QLm43O2NSLC8L4vJnWFX/s1600/CBS.png",CBS 24/7 News
+#EXTINF:0 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDpgTpuF4yEFvAI70img4bYZt0BDfzzIOJx0jhdEN8OAj-WYtZoQnFj40XaFtinyaq6GBU9TGGbloih71T2-k1BR5huXFdbRulDWoO-2ZEWzAboC5ivmA-nL1DYe-7k30hY_aOlE4D2P8fzvKTywvaMoCKvaff7cD1Vfx_lY_PRiqRm_cmzFX_Awa7R4Hf/s1600/CBS24-7.png",CBS 24/7 News
 #http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36903a12-54e9-4279-a247-c026f64396a8
 https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf1619/master.m3u8
 #https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:0 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV5zNhec8Uuvxrm9JpQAndm5lqYr3Q9jHzvc1hi_wS7r9h4PddKNpQbNLNiFmeG06SPqTCY3rf74fL0IHPUviLG-g7AA1MIkirXKc070oYgtaPJWZnm4fBUbdU1BtgxLdz6XSVlZtO_8_DftOk2k46QZOiXxQRPOKY9pCHxJ65QLm43O2NSLC8L4vJnWFX/s1600/CBS.png",CBS News
+#EXTINF:0 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh31CDhfYDv6hjAuPyY80pTNktK89XVOQWsJNHDltKuoBNdkKs1DgZFGKwU9ZMjGOPwqwGKRnXUIgqanE5RTl6HeBmfDfni_yK_PuvfyLOaUEILnttgImPw6_t1Rz4UwhSv-YXPKm98COMG9KWaYKHicw1_87KfyonTD9PlcqFh3V4JOHcSlYetOlJhfSGA/s1600/cbs-news.png",CBS News
 https://dai.google.com/linear/hls/pb/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/268de6c7-536a-4f5d-a0f1-00f0d0741eab:SIN2/variant/d97af4c27467beea3da650488b681b9e/bandwidth/1083000.m3u8
 
-#EXTINF:0 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV5zNhec8Uuvxrm9JpQAndm5lqYr3Q9jHzvc1hi_wS7r9h4PddKNpQbNLNiFmeG06SPqTCY3rf74fL0IHPUviLG-g7AA1MIkirXKc070oYgtaPJWZnm4fBUbdU1BtgxLdz6XSVlZtO_8_DftOk2k46QZOiXxQRPOKY9pCHxJ65QLm43O2NSLC8L4vJnWFX/s1600/CBS.png",CBS National
+#EXTINF:0 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6si8huDRuKGPIQmHTvvPEBSU2-RBNgDLwHnMVh_ti0bxsvHev1KFNJlQqGGlFR4U2joizWop2Jt6R_fUoyvhrD4_lh7gydJSAZ1LMwWA8eWB1SxcAIWvDdgE7uxs6zS84rpQ7kMUBEC7eaOc0SyxWXC2oLB1aZTpIyUMMxFrGK_TS50QZpfWwgNI9zZJ8/s1600/CBS.png",CBS National
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
 
 #EXTINF:0 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1J9dcbgiqWW6ut4z0kz0ENd4S3B2RIHN-8hid4Gt-dJdnDmWzlNTHKUlMBAITqkd0Enj1mLkx9hDL_nL4aqz4WoDG9rjW_u-ZP8DqLjgMQVclG9hQJuY3fnFRKGrjOcELHMZSVH-mWMTHxBAHsTpstzvGQlV_oKQLIdmXCS3LVS10xvPx4_B1z3-1Atu/s1600/NBC_News.png",NBC News Now
@@ -2148,17 +2148,17 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:0 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1J9dcbgiqWW6ut4z0kz0ENd4S3B2RIHN-8hid4Gt-dJdnDmWzlNTHKUlMBAITqkd0Enj1mLkx9hDL_nL4aqz4WoDG9rjW_u-ZP8DqLjgMQVclG9hQJuY3fnFRKGrjOcELHMZSVH-mWMTHxBAHsTpstzvGQlV_oKQLIdmXCS3LVS10xvPx4_B1z3-1Atu/s1600/NBC_News.png",NBC News Livestream
 https://d4ybyqrhce41r.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/ea7d8fbf-1dc0-4865-a0b7-161b4671cd6b/1.m3u8
 
-#EXTINF:0 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZmTSEGYpuvqPFFT4oj_i59_81ejN4A5kHFBdOBsQvdXrYADMJfs4asAGyH8bEL3tLvFfRJ3EYi8sG6756Tj3p5-lB4C6CRpqgWGldFSfJSa7jwrtDwn-V1tAYYH9_tXy9RZOb8N9pqQTP7Co9g11X_CXAsRJ2W-0aDtPkxPkuWHDXZxzIGTz-g-9Z5MGg/s1600/CNBC-Logo.wine.png",CNBC Live
+#EXTINF:0 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7uPkag3lzLYqK8tVjpdbACya2e1dr4890bnaqL_OK0Qv3Qp4WV8eF22Ql4pb4dzWCt1XtxukIy8dGAx_-yprdm33iYuxWDcUAAl_EK784d-rJ42mMSoqHXnsAIMqAKnfVdwVbF85WNu5L4f1n7q4nIefm5_0RE64Aw1urUnBeHTi01vbn7TQSyDxcU8dW/s1600/CNBC1.png",CNBC Live
 #https://fl7.moveonjoy.com/CNBC/tracks-v1a1/mono.ts.m3u8
 #https://fl31.moveonjoy.com/CNBC/tracks-v1a1/mono.m3u8
 #http://41.205.93.154/CNBC/index.m3u8
 #https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_caption.m3u8
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist540_p.m3u8
 
-#EXTINF:0 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZmTSEGYpuvqPFFT4oj_i59_81ejN4A5kHFBdOBsQvdXrYADMJfs4asAGyH8bEL3tLvFfRJ3EYi8sG6756Tj3p5-lB4C6CRpqgWGldFSfJSa7jwrtDwn-V1tAYYH9_tXy9RZOb8N9pqQTP7Co9g11X_CXAsRJ2W-0aDtPkxPkuWHDXZxzIGTz-g-9Z5MGg/s1600/CNBC-Logo.wine.png",CNBC Live
+#EXTINF:0 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7uPkag3lzLYqK8tVjpdbACya2e1dr4890bnaqL_OK0Qv3Qp4WV8eF22Ql4pb4dzWCt1XtxukIy8dGAx_-yprdm33iYuxWDcUAAl_EK784d-rJ42mMSoqHXnsAIMqAKnfVdwVbF85WNu5L4f1n7q4nIefm5_0RE64Aw1urUnBeHTi01vbn7TQSyDxcU8dW/s1600/CNBC1.png",CNBC Live
 http://rezofoot.tv/CNBC/index.m3u8
 
-#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOA3vSOIkccliYpb3cSI-y5ICvZ9zlfUU3gk770S3YdC37DIqLmeTMU_EOVsvWpq1eSR1IZ0wfGtjKZIiYnh-nzzTeG2IkwQNLPrGGdqNlF1W4dhlmpubmS4Hz43QFuScnbr2Tktho4E7eGuvS2rEqIQdffPPFhyphenhyphen7i59c6-dytmefFmQ_PJ2rnBcSZpwjO/s1600/msnbc-logo-png-1920.png",MSNBC
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzQgejT8Roy0IA9f7YB1FegZ6T7ntNbt8qagtzHGSzr6xe2vP4auvLqWYPxjejxRxCShgJuog5q3iaUbpObCPoudLGS8lOL5Y9QHH41IsNqX0lriI5CWgPt4oMWdIiDxXZ9Do_hbK6e8lLljbzm0cREAxjR3npPG7G5wy0CpMzh9hXoB0RnlXd7zWA25w2/s1600/MS_NOW_logo.png",MSNBC
 http://41.205.93.154/MSNBC/index.m3u8
 #https://fl31.moveonjoy.com/MSNBC/tracks-v1a1/mono.ts.m3u8
 
@@ -2252,7 +2252,7 @@ https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 #http://104.255.88.155/history/tracks-a1/mono.ts.m3u8
 http://84.17.50.102/history/index.m3u8
 
-#EXTINF:-1 group-title="International" tvg-logo="logo",Atlas TV
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg48SqYl4B-zw_-dj9ycqIDzWZCw45cW7amIPhBhStW7C557qesBlGtrcU_6JOAO4ORD28lGiGAaGLJVOaZIfgQxT1TYSy3d2AvQztK8NR_f0G93Wge1pL12sN_qc_J2rxIrjkdfOOCecwh2BUP0eLlZAxm25U8czUJrNOhdcLN60ZhI4IaM1om_Mg1xNaG/s1600/AtlasTV.png",Atlas TV
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7hs3AFzP_DN-XO9OYVBAF1-BLDIAUWGlxySqQPvxGhczXTxwk5LYAtq3_KS25u3f1HJ7KaBv5CB8whU_y4LKZev0i4MsX_aPKvVqVw5_W0-VVIEiDPS6GNflv09qq_FF-X6JATQsEBSw5hVdvHKqwxmY3Sqac77jfIzt7eD1RHrHgjusaXwc30XRqS-2T/s1600/MakkahTV.png",Makkah TV
@@ -2285,9 +2285,6 @@ https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiO
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibDIAw-3nnu45XclZcjqdF4ccdIwgEFSTUWVlbsSKOUrZjQsvYFQNzEIQYawzTUgCY-8GTHaPzqBbh6n9O5uPvmjMnMWAtaXwt2XQzRSBU9_4AgkE8E2Pjj4jzwYJb-UKLGMBPfeqgwdgMPBkHPg8B7RdkGfxcBXaI0kr7YcsVwKXXsF0zK4rRjW5570wY/s1600/Logo_of_RAI_%282016%29.png",Rai Italia
 https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/events(1000)/RAIItaliaAustralia-video=1200000.m3u8
 
-#EXTINF:-1 group-title="International" tvg-logo="logo",Iran National Revolution TV
-https://hls.irannrtv.live/hls/stream.m3u8
-
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjOzPhV9lsDC6ILvcZ-fxmnvRhEQtsSi0l_rqX_-S0lZxRe6TSTgr9e22kATt7K-9cAqh-73PDf4qNtu_RuqgCfYlFfg_2hN0c91A-lJwSGQeojYjo8rKLiJCb5ArdCKwbRRIKnd9jWHRLfGmjmEHkucoePzKietbGtdOoFOe44gVbqG55SIN7BCNphbra/s1600/Iran_International.png",Iran International
 #https://live.playstop.me/1816184091/chunklist_b1196000.m3u8
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
@@ -2306,7 +2303,7 @@ https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lig
 https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mediampd/CNNIntHD.mpd
 http://trs1.aynaott.com/cnn/index.m3u8
 
-#EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="International",CNN Original
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFTg4gJD0IXbHuIheWKJj1gzEQFqqelv7tRDxuPA8S5293Z-3CErOLFA64EhRSw3WV637Rq5dF3glBYVhrwOTEbynC8JycKV4xw7rlZvXqVI1aY2vJ-FPHLFEWPgQUpkLV4NeGSVAMHQ6f-mEtAjGISugNIzNehPXTQv-HwkMZwrI-oZwLmzMrpFSpTURB/s1600/cnn.png" group-title="International",CNN Original
 https://jmp2.uk/stvp-CHBD800001D0
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK1obBZJ2lWHA4_Wh7jYvXbiGZPhFzxUbMAXM_jd2vfVBYC240aY-744YqXK-oaN4q0il3cA2Z8G4zWgiYJKbSv18qzt1ozaEA7CZNHppHPHvXla8E2Iq8KSEsy-hf79Wu8jJsq6O3J-wkUQ6G3gHhXRGgdkLmvENjl6SqJjgYM_-UYQr_fBprExojkTh8/s1600/cnngo.png",CNN Go
@@ -2325,7 +2322,7 @@ https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjybItg1_pkppU9sF2P1Ij857JZ1GcImBYNFyfzjBqK2kBWT0kgP4riN7bCUReKUAee1WRHR6RIXjG0p8Z0jGeB_dYftQyWW1JrCgrdoa9l3-7_9rKN-8sM7B0watgk1GaTuQItvsZp6mZEmxha1CKFxw8pOpxbOb9OoiW68QUk8poeVFEkKh_dj0Ki7kGT/s1600/OAN.png",OAN Encore
 https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
 
-#EXTINF:-1 group-title="International" tvg-logo="logo",CBN News Channel
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzbluAu-v4LRcIh2XqW26-U7pUAinDRJenACylMM-1a2wab7CZZgna_6-Qx2P7YLBoXoSooZ4914YtEuy_Zo38sD5sBvDWqY1awjzDUcdxyHOUqhpxSjOgR1Ttie6xzfgD_6v9xhGbhxxfsz9wj3jXWpPTurM2W3rWGa1hR2NZbCW93kNrPesf6_FOv9ka/s1600/CBNNews.png",CBN News Channel
 https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiL
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6xVOQHqcwKWqzkfgBrdu0GbiraEeOGzL25PUwni9BTqbAVU6V8XEwNOHMMGyjQGjjOcJhMJOytRRuwMfKyjEq_ompMXcgGj5q9F97gJMpi_AYPgxqv4FqdSiFLWPOPNGGfu0VvuMywnkdhlVVhFIA9_pACaxikEvTgGfc8UlPs_r0HJaVTKzqgscBEJiv/s1600/Russia-today-logo.svg.png",RT News
@@ -2391,10 +2388,10 @@ http://41.205.93.154/DISCOVERY/index.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih6FjO7jDp_iAOeujaORzyCH9po7dKfP7Cxe2GjvIRg-usBesInBJnZQWHK-ZSIPjyQp3456KPFjXFw1-ZyKJVIXve7kgFIYpcbzRXTPV-p5Ok6Soct1xcQEk5T5PgXHoI_gaB9wPMzRLufgxe2zeoZlbKIHcxJvsMEeb0Obknv86niIayhd9oA-ZjZENo/s1600/discovery-channel1.png",Discovery Channel
 http://84.17.50.102/discovery/index.m3u8
 
-#EXTINF:-1 group-title="International" tvg-logo="logo",Documentary+ International
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgFmH4VoOBKp2YdDZqyCh3oIwNs_mkswSUi1Gi4f_tJOwmC_FgU9jGYI7m8PlxUPZLTQjH2ovFlaUwDjzrJ4H0WJRyAPTVk7I5PirKfQ95nZ6N24YhyHEeT7AcGvrAEaIFxM_ftLnRnW88Y7HlabSaFVScq_jch6Bm5nR5eZkVeXHxcB6Ft4c5z8D0cnFG/s1600/Documentary+.png",Documentary+ International
 https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="International" tvg-logo="logo",Documentary+
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4LwLq19NW7YQjsUjYCyyyN3A_waLAvqpYu7GiZWwmx-44VlU5nJAqcSXY4pwGdT37JCpPDo1lh5RoNAcKCl2q9oR8gsZZsR80eXNKWENqscB35zxdiPW-Wjp9vl-Yv8_j5vnLEHn_CBp6dy66M4iae6IE9FnG9M8MeJm0kM0W9cM4Sxg8AkzMrJmpEdsF/s1600/Documentary+1.png",Documentary+
 https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOKZ2tNKk3JhKEZ_KNDQ08Tgjk7vyQIrlhx1tzBaEYuk02SPsMfv-TisEd5hA5yKScnmisp4ZpR_S5m_I00izEh8gwoVGvl6hpbP__rdO8bJX3_UcQMS4-Pv5ymI8d24NEcTM2TXNFdA2WqIp-OmCjEU_fHft4ZBnCLYXhPxyQGsEEpQLyF7pLXRJPuawD/s1600/Adventure-Earth.jpg",Adventure Earth
@@ -2406,7 +2403,7 @@ https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEe6cJmvBBev3HUgZE58tgiQggKrDn-_sQ5lt8BuKTVah5RWWIDjyk0VVkNb-YPce4OUI_MM_Ksmp6HVG1DMgu4WUsNXUU2AGa2N7TLdziFgoG3MiR7l3LGLInEOTSRb3IjSw_AZM76c6X_Q5NCzK59tDQCdlTqHLgFKADCRdF7iDjSHpkibKrMZP0ema8/s1600/Real_Wild.jpg",Real Wild
 https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="International" group-title="International" tvg-logo="logo",Voyages+
+#EXTINF:-1 group-title="International" group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9eFz7dvn1unmEw8RkrHuWMOC1xjCRq-bXuvsnH_1qXfOPbFIlOgRnSoUPTP_lFe-Rm4mozXwPcB93axyAB-wG0cW5680sFGIfP2jxWFqKcXbKbg4J03c4qh-4EWreB-bcDgyjRDimUYWbeSF3rUzM0hEb90eFc522LI3YiQzYqdGIiRH4ApRaJqOgehJ8/s1600/Voyage+1.png",Voyages+
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc6VtPHyD5aMBG-2ItjMqOs1a-NghNdfzFNrzuvKK_F1KxtQ8u9FOv2oBftV1x5zo76kX2FnhU-CWpUM4p9mBxMGIwQ9QJb28ATwZwPgd74pIbMMtamHAAFCWrg2Q6Cnz-vaChQOeBp1txr5FVhD-w1Ic3Ix89wcgzCGWuXtbkedz-QauDItShj6IKGQXu/s1600/Outdoor.png",Outdoor Channel
@@ -2439,16 +2436,16 @@ https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
 http://104.255.88.155/own/playlist.m3u8
 #http://104.255.88.155/own/tracks-a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="International" tvg-logo="logo" group-title="International",Yahoo! Finance
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHCnveJrIWLf9JosHwFtDJ5nef2DebGErSlHWKtJt0fTuj98VCXioOR5_ZB3_Fq7SzpsUTW5c8TMk0C9YQ765HkGRVkxYe8uGCLqPHTclyzM9ySPqQ44W44ZhLIFTuKj0F5UlYlxxjFmzz0stC91HG1qbqa7p9jT1T8mt-wVXWTxl5zjSHDW4d7aNpDSqU/s1600/YahooFinance.png" group-title="International",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 group-title="International" group-title="International" tvg-logo="logo",Yahoo! Finance (SS)
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMPO1moEp8JS9FKMDF_fJvMnJcKFdbJNNQaK9gEhmM2xVq_jT6iEfaWkb4B9jOLIUnSiApBlJDQXOIIdRNErUuHQ4h-ffIZ9jqBxfJpf7xXPWvJO9g9auFS0cBqPxYaKkhKXXcP5F-ErNtgsxsPVHW4LSP0NP5OtyE_ZoWK7D3tz-Qj5UHUsR68NlAAc5J/s1600/Yahoo!_Finance_logo_2021.png",Yahoo! Finance (SS)
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="International" tvg-logo="logo",Yahoo! Finance (Roku)
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMPO1moEp8JS9FKMDF_fJvMnJcKFdbJNNQaK9gEhmM2xVq_jT6iEfaWkb4B9jOLIUnSiApBlJDQXOIIdRNErUuHQ4h-ffIZ9jqBxfJpf7xXPWvJO9g9auFS0cBqPxYaKkhKXXcP5F-ErNtgsxsPVHW4LSP0NP5OtyE_ZoWK7D3tz-Qj5UHUsR68NlAAc5J/s1600/Yahoo!_Finance_logo_2021.png",Yahoo! Finance (Roku)
 https://yahoo-roku-us.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="International" tvg-logo="logo",World Channel
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPHoDLZ_MtRWZcIt8y5O-Z6D6Dxp5narqHmX05QB95Q6QDbY9xIXFAeiQung4CKnRgvxFTeiuDVGc5hP0QapeWqMLQI0tvwmT_97Q6vbM9SgNDej4ZzANi40LYidy2lofAsSWQwAQmODqdF6BP41uwmElH3dhuCxfyR4uoUXyA7cyQOgiueNHLHi7aYvPR/s1600/WorldChannel1.png",World Channel
 https://world.lls.pbs.org/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpxwt_tgPRHCPWqFiVgnoc4_eOeAHbTncOTBn27iGsokR-TmY06wHZIAD4BZpwOZkrTQO8mnBf-SHxwZAQvqeGIV1fRcCMQb9-EIo5QuzNJeo9BoYqXZrx1Evqo0JKaZ3k1k3oYOS6DlkznCUawQqa3BYIKKOMBiwbEdimf7t11CPE-VBmYx-ct0iL7OPU/s1600/VOALogo.png",VoA
