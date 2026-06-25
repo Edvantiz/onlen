@@ -2383,8 +2383,8 @@ http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 #http://104.255.88.155/discovery/playlist.m3u8
 #http://104.255.88.155/discovery/tracks-v1a1/mono.ts.m3u8
-#http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-http://41.205.93.154/DISCOVERY/index.m3u8
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#http://41.205.93.154/DISCOVERY/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih6FjO7jDp_iAOeujaORzyCH9po7dKfP7Cxe2GjvIRg-usBesInBJnZQWHK-ZSIPjyQp3456KPFjXFw1-ZyKJVIXve7kgFIYpcbzRXTPV-p5Ok6Soct1xcQEk5T5PgXHoI_gaB9wPMzRLufgxe2zeoZlbKIHcxJvsMEeb0Obknv86niIayhd9oA-ZjZENo/s1600/discovery-channel1.png",Discovery Channel
 http://84.17.50.102/discovery/index.m3u8
