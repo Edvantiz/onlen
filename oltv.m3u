@@ -1841,6 +1841,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSPLd228mThb0Br3R8uAfTrpRT_lOz0705vm_MLxev6QATe4nzAbbzqiFVqwAuEHrjq8pqgaXVXEWMqAh-46SKqrgQiqJUFztFFIxrLcsRK8PD6-zyHqDfQc6DEOh_Ocehy20XVpvsdBA54y8p1bRWdR6okKVEJo72jwmpd12TbHeQmGFYOH9FT3RNUyGO/s1600/Nickelodeon%20TOTALLY%20TURTLES.png",Nickelodeon TOTALLY TURTLES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="TV Kids" tvg-logo="logo",Cartoonito
+http://179.60.51.134:8888/CARTOONITO/index.m3u8
+
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUcXRhNbeuNATJ3zjj9PrPfrtsZAzjZS7QiVgJMH_tGP6U9Zy0LkNbGMYAnaoG6AsgzggE73ON4TVTf3pHx0UnZRYmKhvvEBU01ECYidlRlOpzvVFSNR3pcn1NwLY78vyrtlEUSnnbsLVzYnip3OaLFRI-v4Bo2opxocsdEeUUwLg6A7qxu1LSZCsM-8ox/s1600/Pluto%20TV%20After%20School%20Cartoons.png",After School Cartoons (Pluto)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -2380,11 +2383,14 @@ http://23.239.31.26:8989/animalplanet/index.m3u8
 #http://104.255.88.155/discovery/playlist.m3u8
 #http://104.255.88.155/discovery/tracks-v1a1/mono.ts.m3u8
 #http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-http://41.205.93.154/DISCOVERY/index.m3u8
-#http://151.80.18.177:86/Discovery_HD/index.m3u8
+#http://41.205.93.154/DISCOVERY/index.m3u8
+http://151.80.18.177:86/Discovery_HD/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj16Bg_fuLeaSB7VGex6C26jXaJWfH360fV_FeCDFn2n_A5LgkVKOBSzJUXYOmUBEtbd_m9C2l3xnoTpTStkko6SUV5tblVMCx0pfhiyRcR_WaRmD7xZ-LzJjfc7aa6rttexIHierbSjaNckwh-5D80r2K3Rnl0OJ41v517D8rJuOVEJLuRHx7IA4FHjD_A/s1600/discoverych.png",Discovery Channel
 http://84.17.50.102/discovery/index.m3u8
+
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfEF0rPAS7ZANIPHAVBmXb8zdAxX-1bH5Z9WeUM5OxPBGiL21aadz_8t2fYQyWZRIsdY5U0KMsG48byp-WVQSxQ20l5VCaHmjA7RI1b0M9rXwevlvKC8HIho3UTypkBezVXL2_hvxCsN8W02fcEu8vxHzTejH7FUHmAwehEjp00-1NHX-6hoArQdcDV-sw/s1600/Discovery-Channel.png",Discovery Channel
+http://179.60.51.134:8888/DISCOVERY-CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgFmH4VoOBKp2YdDZqyCh3oIwNs_mkswSUi1Gi4f_tJOwmC_FgU9jGYI7m8PlxUPZLTQjH2ovFlaUwDjzrJ4H0WJRyAPTVk7I5PirKfQ95nZ6N24YhyHEeT7AcGvrAEaIFxM_ftLnRnW88Y7HlabSaFVScq_jch6Bm5nR5eZkVeXHxcB6Ft4c5z8D0cnFG/s1600/Documentary+.png",Documentary+ International
 https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
@@ -2667,8 +2673,9 @@ https://cdnbal1.indihometv.com/atm/DASH/red/manifest.mpd
 
 #EXTINF:1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvGzr9jq66uNC9ScSqwbz8tGsahcCXYvHmcPacnt0-YCoGyBmswpEcWdJiuqAceCaEnH3kE03H6MY3QL5gM8EIydPh1QQ3KVAeUmuQ4DACDlKK-C3LJdaVvWmXU25qZk9GT134XkaqaJvF8MSx3SAQuOu0GA4B-t-qGHSiNxPu0L0N-ErwSfwEIl01hgst/s1600/Cinemax_logo.png",Cinemax
 #https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
-https://fl31.moveonjoy.com/CINEMAX/index.m3u8
+#https://fl31.moveonjoy.com/CINEMAX/index.m3u8
 #https://fl31.moveonjoy.com/CINEMAX/tracks-v1a1/mono.ts.m3u8
+http://179.60.51.134:8888/CINEMAX/index.m3u8
 
 #EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzobcnKMkiLCKzx0N9sfTPHE5rfm-P7LMX0cwyJx4yBFgiJx-PvQPq-82sta863WYTMc2Qt6cGFg30yVj_pjbHmBvHjayG2T819TIU_mxgDmJOquMGlqDN-jIKu_NqArEMs_mP0njbl00BGuWhlsP29-k64UnO-lPnBw5D1d8jaKs-x7AsB9e4xZJm1SQZ/s1600/cinemax.png",Cinemaxᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
