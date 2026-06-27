@@ -1806,10 +1806,11 @@ https://cdnbal1.indihometv.com/atm/DASH/cbeebies/manifest.mpd
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
 
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgojjg8VDGgvkRBnNVkFMLAefIBhxpjFNtnLp_SKU9yvHinqctvDWmaFeBMOKXx-OJGNKOZ5TTkAk9EVqfruZzaSlrzCC1_SNcAlA5_Gd7SJXhU3yKZPLTkeM9ksJzIKPOA28Vp2gREtnD0t95b_nDRE4UhPs0GFqCT0yt9-QumLUPVS10VWSMZhbRExtS3/s1600/Nickelodeon_2023_logo.png", Nickelodeon
-#https://cdn10jtedge.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/nickelodeon/manifest.mpd
 #https://tvpass.org/live/NickelodeonEast/sd
-http://79.127.207.193/Nickelodeon/playlist.m3u8
+#http://79.127.207.193/Nickelodeon/playlist.m3u8
 #http://198.58.104.90:8989/nickelodeon/index.m3u8
+http://84.17.50.102/nickelodeon/index.m3u8
 
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgojjg8VDGgvkRBnNVkFMLAefIBhxpjFNtnLp_SKU9yvHinqctvDWmaFeBMOKXx-OJGNKOZ5TTkAk9EVqfruZzaSlrzCC1_SNcAlA5_Gd7SJXhU3yKZPLTkeM9ksJzIKPOA28Vp2gREtnD0t95b_nDRE4UhPs0GFqCT0yt9-QumLUPVS10VWSMZhbRExtS3/s1600/Nickelodeon_2023_logo.png", Nickelodeon
 http://202.169.224.202:8800/udp/239.9.1.17:1234
@@ -1830,7 +1831,7 @@ http://84.17.50.102/nicktoons/index.m3u8
 #http://41.205.93.154/NICKTOONS/index.m3u8
 
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsmC5wiG8PSv5H3S6kdq8B5ok9Uzy1-Wwa5e7toBj9cDD32Don_v3niQ_4PSqLV1UfdfqNEqTvplQu9vIxnWXk8TjJR5KBsPthusM5TEboqdILEVc1U8QIC5eYjPt47W0yDUH-QZewyW6NLXiC6ckZjEwh2rDn6w9n-yG9TerW44uGxTfm7m6Nd3XFv8ju/s1600/Nick_Jr._logo_2023.svg.png", Nick Jr
-https://fl41.moveonjoy.com/NICK_JR/index.m3u8
+#https://fl41.moveonjoy.com/NICK_JR/index.m3u8
 #https://fl41.moveonjoy.com/NICK_JR/tracks-v1a1/mono.ts.m3u
 http://84.17.50.102/nickjr/index.m3u8
 
@@ -1922,15 +1923,15 @@ http://210.210.155.35/dr9445/h/h144/index10.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite&chname=ANIPLUS
 
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinCV61k60yepJFy4mkEGJebGjXt0HJ2OTalQ3Q-KvK8wMJs9GROf8qEYmwTSUPRuqdNaIbxOnwame9vc2TbxXdfXwYSwDq2SP57Dw1QBwaLIrPJOgO1_VXnDGCee7mFZzSFq1ItZUtOIaYofohzVXluqvw9a_SQEa22vC18GBCxTqrvcXG-g-R2D3G1b8s/s1600/Disney-Channel.png", Disney Channel
-https://fl31.moveonjoy.com/DISNEY/index.m3u8
+#https://fl31.moveonjoy.com/DISNEY/index.m3u8
 #https://fl31.moveonjoy.com/DISNEY/tracks-v1a1/mono.ts.m3u8
 #http://212.5.144.156:8080/disney/index.m3u8
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinCV61k60yepJFy4mkEGJebGjXt0HJ2OTalQ3Q-KvK8wMJs9GROf8qEYmwTSUPRuqdNaIbxOnwame9vc2TbxXdfXwYSwDq2SP57Dw1QBwaLIrPJOgO1_VXnDGCee7mFZzSFq1ItZUtOIaYofohzVXluqvw9a_SQEa22vC18GBCxTqrvcXG-g-R2D3G1b8s/s1600/Disney-Channel.png", Disney Channel
 #http://104.255.88.155/disney/playlist.m3u8
 #http://104.255.88.155/disney/tracks-a1/mono.ts.m3u8
 http://84.17.50.102/disneychannel/index.m3u8
-http://84.17.50.102/disney/index.m3u8
 
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinCV61k60yepJFy4mkEGJebGjXt0HJ2OTalQ3Q-KvK8wMJs9GROf8qEYmwTSUPRuqdNaIbxOnwame9vc2TbxXdfXwYSwDq2SP57Dw1QBwaLIrPJOgO1_VXnDGCee7mFZzSFq1ItZUtOIaYofohzVXluqvw9a_SQEa22vC18GBCxTqrvcXG-g-R2D3G1b8s/s1600/Disney-Channel.png", Disney Channel East
 #http://38.96.178.201:80/live/Disney/index.m3u8
@@ -1947,7 +1948,8 @@ http://84.17.50.102/disneyjunior/index.m3u8
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSa5zMnBsEYh1Dt-WdVRWAGqxg5u8otQuRgoTwQw7xP8BS87Szyiwnu5QPijD0Fwjbr7qGh2RxEvN8hZbrajAqsE0bDZqYATRkSAQsL9iEXs4MUyJqaC-Ow1diXxMoELDuI8Eu9852Fd_y-Fin18zf6bIE4ECFm0DATpGXzQr5dvrSOnd7aMC30xxoCGLJ/s1600/Disney-Jr.png", Disney Jr East
 #http://212.102.60.231/DISNEY_JR/tracks-v1a1/mono.m3u8
 #http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8608
-https://tvpass.org/live/DisneyJuniorEast/hd
+#https://tvpass.org/live/DisneyJuniorEast/hd
+http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZIR7HSFvLNYYpVbv8ye733UUhJuH86Uh20Xnuym5QGwvofpBYgKPZpUcmHuaorpcd0EUMOesR7LN6RZ-WbIxS3RffsgrcTSuuFK-fm7sSg2IpUT9t2-KX9Z5KZCu1UF4DZDEhe111vYfjF45y5mdU9716HjUHceFRPuuZn72ceMLoTVWo-qyh49Zvoi89/s1600/Disney-XD.png", Disney XD
 #https://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
@@ -2193,7 +2195,7 @@ https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge2/cdnedge/HicYJzEAB5E/c
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiufyzPd33M4YZun7Ymdv1dKKYgW_MbDM4sogP4dMTxmGH8tlZliezVtRAbvHh1w2A2q_mKjHHxAWero_Kwsi948VFlL0IgvuLPHYNMTdd3MInsnsjqhLS6tD3R_BiXWORWJzYqZ6LbDaJYvu0ioLY6B_U-6vodBW4dS2DXoG8h8zUABlXBKUSwpSj3ZBYY/s1600/NHK.png",NHK World
 #https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
-https://op-group1-swiftservehd-1.dens.tv/h/h23/01.m3u8
+http://84.17.50.102/nhkworld/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia-A-fe9OaZV-6d12CQa42e0DWfugXPmYObxXvoCKlNEhUPYKdTxdTQnTPoZ_8FwglrHvM5jGYLMnamikXYo4juS49dpz4nwGPr9FghOqQudoC7dRjo8dEwVAGoqK6mN6_WixhNPRKInwzCSoWURh4R9TcIKL0ELhlc-_t2y7RDjsovbdy-_iuJZhnZXaP/s1600/TRT_World_logo.png",TRT World
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
@@ -2337,6 +2339,7 @@ http://151.80.18.177:86/National_Geo_HD/index.m3u8
 #https://fl31.moveonjoy.com/National_Geographic/index.m3u8
 #https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.ts.m3u8
 http://198.58.104.90:8989/natgeo/index.m3u8
+#http://84.17.50.102/nationalgeographic/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1kAjQ5o3jxEsaoZa0TIAtZukdA1N9mzGfrOi4T1g24-Qu5aOkdtzBf0wvcvLSfM7_HE1jEn7DGFdmhf7v8ZOm8JyHiSGSz2vW9ACUlBgzdyrORJrNuKG1cfPWTefVgojrPYtAPq-V5z4rqGgr6cK-Ujkk7C14eFLzdV3tRs8bUIHUDCu2N7M6k8Sw8RyI/s1600/Nat_Geo_Wild_Logo_2006.png", NatGeo WILD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2373,8 +2376,9 @@ http://23.239.31.26:8989/animalplanet/index.m3u8
 #https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
 #http://104.255.88.155/discovery/playlist.m3u8
 #http://104.255.88.155/discovery/tracks-v1a1/mono.ts.m3u8
-http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-#http://41.205.93.154/DISCOVERY/index.m3u8
+#http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+http://41.205.93.154/DISCOVERY/index.m3u8
+#http://151.80.18.177:86/Discovery_HD/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih6FjO7jDp_iAOeujaORzyCH9po7dKfP7Cxe2GjvIRg-usBesInBJnZQWHK-ZSIPjyQp3456KPFjXFw1-ZyKJVIXve7kgFIYpcbzRXTPV-p5Ok6Soct1xcQEk5T5PgXHoI_gaB9wPMzRLufgxe2zeoZlbKIHcxJvsMEeb0Obknv86niIayhd9oA-ZjZENo/s1600/discovery-channel1.png",Discovery Channel
 http://84.17.50.102/discovery/index.m3u8
@@ -2864,15 +2868,7 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwNQorINLvagGWxEIeFcyOuxwJ4jdUvwLm7FVx0VlMmRllkm8WbRRMBzvClFiUEUGk-EGNw_9Bb0IZco__zstn24tZTd0LAAuf75bjD-SrDWTWp4LDmlvohdHBGshnfKcVaQm4eU4MLzZ6pa5vcVZKziDEhBk_vVjn2kc7i8EgqpcVKzpShObLYV5tcjX2/s1600/KBSKorea.png",KBS Korea
 https://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&userid=lite&chname=KBS_Korea
 
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-#EXTINF:-1 group-title="Film & Drama" tvg-id="" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwNQorINLvagGWxEIeFcyOuxwJ4jdUvwLm7FVx0VlMmRllkm8WbRRMBzvClFiUEUGk-EGNw_9Bb0IZco__zstn24tZTd0LAAuf75bjD-SrDWTWp4LDmlvohdHBGshnfKcVaQm4eU4MLzZ6pa5vcVZKziDEhBk_vVjn2kc7i8EgqpcVKzpShObLYV5tcjX2/s1600/KBSKorea.png",KBS Korea
-https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
-
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB7ZF4E6aMEBphbI_I74t6kEYl5F3G36YnwWOlq3jzr7-s74COX47oZT0Tjsv6jnivBNVWSIS9v2unvYluY3Hyecba316W2kCsm4NwGhy-_U-8l-XR_1Aa52jkmeNltxZtwaK33yG4QyGRYFUNSp_p8VkvFcxmrCA_rCevt_syrAZ3Ly0SLCvqEjFRfsIU/s1600/KBSWorld.png",KBS World
-https://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8?app_type=web&userid=lite&chname=KBS_World
-
-#EXTINF:-1 group-title="Film & Drama" tvg-id="KBSWorld.kr" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB7ZF4E6aMEBphbI_I74t6kEYl5F3G36YnwWOlq3jzr7-s74COX47oZT0Tjsv6jnivBNVWSIS9v2unvYluY3Hyecba316W2kCsm4NwGhy-_U-8l-XR_1Aa52jkmeNltxZtwaK33yG4QyGRYFUNSp_p8VkvFcxmrCA_rCevt_syrAZ3Ly0SLCvqEjFRfsIU/s1600/KBSWorld.png",KBS World
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
@@ -2901,9 +2897,13 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1I520WkR1a2Cks2rGRCvuNCvk8zlFjGwzlLgR3W1VlUnQVtnj4FVJKKlcE30572Xil9kMxaGWgtLEtNAwUiol5LSAVWAV_uMywwv4sUSK7in_YR749XwHSj5YCDdWzzrCzekHBbHw6O3-TmRECpxTXqbgS_uAaBG0PuV_jrlPUpgbLAgHrznH5J3-cyaQ/s1600/MNX_new_logo.png",MNX
 http://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 
+#EXTINF:-1 group-title="Film & Drama" tvg-logo="logo",TLC
+http://84.17.50.102/tlc/index.m3u8
+
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyUz6v9F0ZlVboSi7Kv4RYTNj8HvS728toD7gv3zCJjxez3uKkzARZ4Oah296shoV6ZEJFREM69F8CGTL0hcDJJlKcNe2XpeDrnymVkRqZTKL243mHFZRFLC2wStGTXa3UhddZOVYHfTQ4S7hUO1Js2jhp9M6Dw6gcSLgOJBB1bxubSYR7Qx8gFR9CqRtb/s1600/Tnt_tv_logo_old.svg.png",TNT
-http://104.255.88.155/tnt/playlist.m3u8
+#http://104.255.88.155/tnt/playlist.m3u8
 #http://104.255.88.155/tnt/tracks-v1a1/mono.ts.m3u8
+http://84.17.50.102/tnt/index.m3u8
 
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZfR_c-CnT5ggK8uQCw57bxERJ2thSUHo3CxRD7su250vqQqXoh55Xir6mK-9LnQmMnGzzdX2ahxI7IZMpXlY3P2s48K93tsElSQUKfm2BLQM8H0J6-v3ukxpyp6EKpAbd4zi9XJYQGHdk3VJ-pWfJA6Y0NFksPOrsd_SV037KzIzNG9FrDG8UbPOnZmta/s1600/Logo_oneTV_DE_2016.png",One TV
 http://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8 
@@ -2933,14 +2933,7 @@ https://30a-tv.com/feeds/720p/52.m3u8
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="logo",Movie Classics
 https://30a-tv.com/feeds/720p/52.m3u8
 
-#EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjED7xyDejiQA-gAhQM-5x0deYw8SAC3DQs1w_1ypHnUVI_yMvBsvp5qdI3V-vVXewsPyqb1P2B3DUWWi_vuhXTUJsLOiDnptYV4Ky_gfLxImdzqtifLTu788L8qNvjoTPAZ116K_YokJZI6JsqY0DVnwcGadcFyyNC8KOsVac1oRIoLvCq3bDJkLGLusI/s700/20251207_001343.jpg",AMC Thrillers
-http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/66243.ts
 
-#EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8ijMMf5ILJGvd3tLp1kxB09s3mhkWXlrWS3EY44-6qoQsatbbBrBuIkp9r_3pmsvEEKcy8DA5ZIQXQQipmiVskQ1YQKLcqCc1RiAvk7-fwRpgQn8Usjog1fvH0rqXtExqf4bqPII1RPocJ0EYst9qV_2AYHaSq8C19aLQbukFbSxx6xWfL2b94bo4qOo/s700/20251207_001541.jpg", Sony Movie
-http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/2214.ts
-
-#EXTINF:-1 group-title="Film & Drama" tvg-id="Starz Cinema" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrb8QsV7fCQqnlryKZ1Ka83zDwl5xoN8nvcsuwHziqO33jRIW8b6MpdaCqYDArJ_LZvYaAkedqFlHY9fr6JnJ2gbJZFcjTJ6pVERUdnakTQeWI69xT29na-1r4Ew-diXLdllkDVRVPdLrx0IQ9TQTO1Xgn8RrJpBBW0SmBo-cqKgIDO6Yl_UbMAOlgl-E/s700/20251207_001506.jpg",Starz Cinema
-http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/17775.ts
 
 
 
