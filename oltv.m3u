@@ -2701,20 +2701,31 @@ http://179.60.51.134:8888/CINEMAX/index.m3u8
 #https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
-#EXTINF:1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7zKHY5zlW2M-rXo1yPSTT1TIO-ujzmpC2PXKThl8rxabItuajI6CrBrTHYfSjlUHgRBxwpjDwr9PO7_AqPGEBT9pNVSeaO46cLKwMJMuvB4-uyJLlHq-RtqXpheY8dal38SYNAT4aAWKlrQhe91KTiC5i-r4yGl0cDRyNxvcGppffz2BDGn9jEqQA3x78/s1600/discovery-channel.png",Discovery Channel
-https://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
+#EXTINF:1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7zKHY5zlW2M-rXo1yPSTT1TIO-ujzmpC2PXKThl8rxabItuajI6CrBrTHYfSjlUHgRBxwpjDwr9PO7_AqPGEBT9pNVSeaO46cLKwMJMuvB4-uyJLlHq-RtqXpheY8dal38SYNAT4aAWKlrQhe91KTiC5i-r4yGl0cDRyNxvcGppffz2BDGn9jEqQA3x78/s1600/discovery-channel.png",Discovery HD
+#https://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
+http://sm-monirul.top/ultra_restream/play/discovery_hd.m3u8
 
 #EXTINF:1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUKM1L4o8VR7Hh1Bu18wf5DxqZvaKXSuJ4E4zlSwqji60tLPcqDn6k9j26attLezefCzQlh0ZCsva5O1Qyc0cckuMjcKVxe2JKgMmfFd35EwVNFygP7Yy5NJa9lhLXtSLmQHC9mvCoBSzBxFP7q4oXVTll_IoZmPm0DOU6uWrRTfXcMO2Lwdo5e2YtFwGS/s1600/Discovery_Family_Channel_%28DFC%29.png",Discovery Family
 https://fl31.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #https://fl31.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:1 group-title="TV Premium" tvg-logo="logo",Discovery Kids
+http://sm-monirul.top/ultra_restream/play/discovery_kids.m3u8
 
 #EXTINF:1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbkDLttKZIktrngxXDs4VOftTw1j1d6eM_kAnZiJSKDrsmly60VJBST_X5UuqHTNydEhBVrf42KJTzKXHc7-HZ9IqXlCpBBsQ5QZPhFO0EE6jWpoHdCc-R1QY9BBx-9aOis5znI745e_fpwLWH9w3Fq6TqTefqQXX7vLqo45PF30oHKDrwnYmzBxFfSttM/s1600/discovery-life-tv.png",Discovery Life
 https://fl31.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 #https://fl31.moveonjoy.com/DISCOVERY_LIFE/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3E22cR1PsaRvKHmergCAr_l53DQNofCfoy9wAqGxrnWlabitYrvwk3ygG4a2bU8-oDJ3sYjWhZhSX9dxsBIlTrTsuopt3Oml3QXNIol7w3IvD9AUJS0X-GkaMbfIysAJ9ojVWu04wWRbtpDpZ55OIuEXSt_5Wqrh0XFSY2dWfPRDSCKRE6cKAO7mJRKr8/s1600/Discovery-science-old.png",Discovery Science
-https://fl41.moveonjoy.com/Discovery_Science/index.m3u8
+#https://fl41.moveonjoy.com/Discovery_Science/index.m3u8
 #https://fl41.moveonjoy.com/Discovery_Science/tracks-v1a1/mono.ts.m3u8
+http://sm-monirul.top/ultra_restream/play/discovery_science.m3u8
+
+#EXTINF:1 group-title="TV Premium" tvg-logo="logo",Discovery Turbo
+http://sm-monirul.top/ultra_restream/play/discovery_turbo.m3u8
+
+#EXTINF:1 group-title="TV Premium" tvg-logo="logo",Discovery Invesigation
+http://sm-monirul.top/ultra_restream/play/discovary_investigation_hd.m3u8
 
 #EXTINF:1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY3DePyNqaJTFEBG2A2-2IgGQO5seBWNBWHdJrBj8yOwr3TjL4XWwJOwJSm7vyiZPIbe17VnckweEJZnlK7CDgdMoUGsM89_1jY36glgDK541tjMpdEZvKUMYqK4Mo_gtexJFuI3oJME4AHpDRyn4mmSG6WtkUxY71H1AY9j9M7iM_G5IgQDKjwkrhU1Zz/s1600/Sony-movie-channel-2017-logo.png",Sony Movie Channel
 https://fl31.moveonjoy.com/Sony_Movie_Channel/index.m3u8
