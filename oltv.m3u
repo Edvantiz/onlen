@@ -27,17 +27,18 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", World Cup 2026 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", World Cup 2026 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
+http://103.148.44.38:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", World Cup 2026 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
+https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
 
 #EXTINF: -1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", World Cup 2026 6
 https://wahyu1ptv.pages.dev/MetalTV.m3u8
