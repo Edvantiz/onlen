@@ -7,41 +7,58 @@
 #https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 https://raw.githubusercontent.com/ph03y3nk/dentovi/refs/heads/main/JadwalKlasifikasi.mp4
 
-#EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", World Cup (RTB)
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 1 (RTB)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
 #https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", World Cup 2026 1
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 2 (RTB2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
 #https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", World Cup 2026 2
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 3 (CazeTV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", World Cup 2026 3
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 4 (Berati)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 
-#EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", World Cup 2026 4
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 5 (TVRISport)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
 http://103.148.44.38:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", World Cup 2026 5
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 6 (Bein1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
 #https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
-https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
+#https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
+https://mflixott.com/tv/dd/live.php?id=966
 
-#EXTINF: -1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", World Cup 2026 6
+#EXTINF: -1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 7 (FS1)
+http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
+
+#EXTINF: -1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 8 (FS2)
+https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
+
+#EXTINF: -1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 9 (DDSport)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF: -1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 10 (FoxSport)
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+
+#EXTINF: -1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 11 (CTSport)
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF: -1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 12 (Russia)
 https://wahyu1ptv.pages.dev/MetalTV.m3u8
+
 
 
 
