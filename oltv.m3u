@@ -2,12 +2,10 @@
 
 
 
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png", Worls Cup (RTB)
+#EXTINF:-1 group-title="⚙️|Test" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png", Jadwal WC26
 #https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png", Worls Cup (RTB)a
-http://103.58.160.157:8278/720-RCTI/playlist.m3u8
+#https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+https://raw.githubusercontent.com/ph03y3nk/dentovi/refs/heads/main/JadwalKlasifikasi.mp4
 
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", World Cup (RTB)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
