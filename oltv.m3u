@@ -1874,7 +1874,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSPLd228mThb0Br3R8uAfTrpRT_lOz0705vm_MLxev6QATe4nzAbbzqiFVqwAuEHrjq8pqgaXVXEWMqAh-46SKqrgQiqJUFztFFIxrLcsRK8PD6-zyHqDfQc6DEOh_Ocehy20XVpvsdBA54y8p1bRWdR6okKVEJo72jwmpd12TbHeQmGFYOH9FT3RNUyGO/s1600/Nickelodeon%20TOTALLY%20TURTLES.png",Nickelodeon TOTALLY TURTLES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="TV Kids" tvg-logo="logo",Cartoonito
+#EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjJ88KfrJbX1Q0F_ATVd_3h-8Ft-vLnglMWXmwh5WsCrN6ejdneq24tpFUqQ7Z8A6nvaNBp6oiW931VYv2x_NSH22xP-HF-7k7mwaV5CEbaHhsS6EeRCpIsANjFl7idJiBFWGDHUI-D7ddOPfJ-UV2V2IGKPmHHY_0n0gG94Avj3ULVBBg1KeX3bYAg3_x/s1600/Cartoonito.png",Cartoonito
 http://179.60.51.134:8888/CARTOONITO/index.m3u8
 
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUcXRhNbeuNATJ3zjj9PrPfrtsZAzjZS7QiVgJMH_tGP6U9Zy0LkNbGMYAnaoG6AsgzggE73ON4TVTf3pHx0UnZRYmKhvvEBU01ECYidlRlOpzvVFSNR3pcn1NwLY78vyrtlEUSnnbsLVzYnip3OaLFRI-v4Bo2opxocsdEeUUwLg6A7qxu1LSZCsM-8ox/s1600/Pluto%20TV%20After%20School%20Cartoons.png",After School Cartoons (Pluto)
@@ -1933,7 +1933,7 @@ http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPYjI9b28l7tpwoji6QtKhgpxTJNPYtDKtbZTAlVkdt9XetxzJw3CcrMKrScRrSdzgrDX7zLvnL8H4U5VZGddroJVrxGY890yHDaV_bOejo2Zaw8-oOZIOLLoZZ_-VLXRfVCdvS5guQb7EZmWED1FW1XEz4fz8hrxMpZRtzd97jeuhVhVBmlPdpsoWjacD/s1600/Toonami_aftermath_logo.png",Toonami Aftermath Movie
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 
-#EXTINF:-1 group-title="TV Kids" tvg-logo="lhttps://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpoGhYrCWY4bzX2DXQ0nHLig6r_L_cZW81XKHwhJXuJTxj-Y7BicdCtDCic5T2DuyENgheYYSuS4ResulCf1VMG2Rko7MtEa9uK06bfiBMk4KMFIXPgwv4_Kl6UZkgCnVVeIUF7v0qCl8BpouQj4zb7ax3R3T9ekXkeX6d4KCyW85awf4GV3trLPy2fWoz/s1600/CN.png",Cartoon Network
+#EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpoGhYrCWY4bzX2DXQ0nHLig6r_L_cZW81XKHwhJXuJTxj-Y7BicdCtDCic5T2DuyENgheYYSuS4ResulCf1VMG2Rko7MtEa9uK06bfiBMk4KMFIXPgwv4_Kl6UZkgCnVVeIUF7v0qCl8BpouQj4zb7ax3R3T9ekXkeX6d4KCyW85awf4GV3trLPy2fWoz/s1600/CN.png",Cartoon Network
 http://179.60.51.134:8888/CARTOON-NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWIm9u3fAxjK-4lD-4i_08BhNJn10Vlzi-3rFb9RdtIGdwXbY499WiCx8oERTImjR_UTjv0qW68EdtCwjNcmrpguT2SerIirB2DPmCltJrWPEIfT0bHad7SYno7WqBxjyMgSWuU-pFJ1_pFTPb8bMnOkhkcvZsdamlyCSYKE07Kn-sX8hsTU9q3XZfSx5H/s1600/Cartoon%20Network.png",Cartoon Network
@@ -2277,12 +2277,12 @@ https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiTeG_bg3rmLiLLoPRu3WR35gTtIK5fe-TUwqVKrRb8TWkCVaONlDSHhS3hEHdHCPkme6Mf1029vR-ZKv6dGm5CRN4PeZKO13Hs3C3gPRIw083s5iW4TdRvwwD0HxR_7fBvvdlokckZLY8qkmZCf7zBaXt4fhLc5r6hjQN0q8aD_8zuWqBeKQ3A9BCSKIC/s1600/CGTN_Documentary_II.png",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
-#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvxnn4dajxDk2fIXiCxOrb4sA_WSoesY4H7CIs-kuoscbOeVKPl4nV1cMw4ymF6kPRRdJp-YqRp3V4GoYZ5gNg7vUIbPH1wFdZtj5nCSb-igIgdNdLMPFQbb2T8kpbSVLOecx5UrHogXqBX-yty-f6qLVGVt5uW3B5y3AGrrbglO3AYzil9-lsAHZ6dbqq/s1600/The_History_Channel_logo.png",History TV
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-DZJJ-UqdacEnCGXKdnTceMiINfI0VY_sMGsCB5YL808ijtuI103HHMQN87fZXO3Uit5chDh_V20xxwQV7MhlEXZm1uX0za9QG3HQncjyuN4msV2BYul2EdYhFxeZyCmo7p5q8R1XPplMBK-nGj6i7f-rxWWqf1NvCJRjuJQjP1-_NM_4lpsfn6rDyQUV/s1600/History.png",History TV
 #http://104.255.88.155/history/playlist.m3u8
 #http://104.255.88.155/history/tracks-a1/mono.ts.m3u8
 http://84.17.50.102/history/index.m3u8
 
-#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg48SqYl4B-zw_-dj9ycqIDzWZCw45cW7amIPhBhStW7C557qesBlGtrcU_6JOAO4ORD28lGiGAaGLJVOaZIfgQxT1TYSy3d2AvQztK8NR_f0G93Wge1pL12sN_qc_J2rxIrjkdfOOCecwh2BUP0eLlZAxm25U8czUJrNOhdcLN60ZhI4IaM1om_Mg1xNaG/s1600/AtlasTV.png",Atlas TV
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijgeTiGpL8_85vb8WdbNhlRdkH4E1Tob3s6hlS7T9974AdtEBLb80k3r_gkOK9MnfH6fZHyBZO-mfPMQz-bkTkqt2kHoSGpqaAGFOsyvzQYatULgRvBbXdgncTvJIgRIap8Vq7MOLgBHcIPiH91DfhBGVmqw-xNZwRwTtoqXlG8luiuR8fjAeJdLfKooio/s1600/AtlasTV.png",Atlas TV
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7hs3AFzP_DN-XO9OYVBAF1-BLDIAUWGlxySqQPvxGhczXTxwk5LYAtq3_KS25u3f1HJ7KaBv5CB8whU_y4LKZev0i4MsX_aPKvVqVw5_W0-VVIEiDPS6GNflv09qq_FF-X6JATQsEBSw5hVdvHKqwxmY3Sqac77jfIzt7eD1RHrHgjusaXwc30XRqS-2T/s1600/MakkahTV.png",Makkah TV
