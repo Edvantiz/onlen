@@ -724,8 +724,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2ESoONFfJcb6_nd68nar6sumHJTcCr0d7Wh207v5H0JFPTdCyVDnWfDTbWevf6E3k0okRUKaopMBiMth2tgZlEP4UelT7nKEBlfgreCBTeLB-Q_G6DbOwULFtr1XThDqhz2pagk0qgOBysLl95zHSCtzBAQVZMwKJT61RcFj_VAILqwWa_bzPsvUb551E/s1600/BN_Channel.png",BN Channel
 #EXTVLCOPT:http-referrer=https://youtv.live/
-https://flv.intechmedia.net/live/ch112.m3u8
-#https://flv.intechmedia.net/live/ch112.m3u8|user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#https://flv.intechmedia.net/live/ch112.m3u8
+https://flv.intechmedia.net/live/ch112.m3u8|user-agent=Mozilla/5.0
 #http://103.58.160.157:8278/720-BN/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh034jeaLXELEFEMA2_rOqCspTwNv201-T1gWKOxcmgkRpHk9OkWEANf7xWwaQdp9nFc615K0p-s8tadwS4DiZZTVCzJmhjH8hNpApcWswZcV6PebOswkQw7vf0o51-05TP78B2AAsyjNvkd6ctbuG3vPcTRHk6Z8x1e8lCbtyBvGRAhlUg5ia0vcNljWzS/s1600/Magnatv.gif",MAGNA Channel
