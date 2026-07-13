@@ -5,38 +5,6 @@
 #EXTINF:-1 group-title="⚙️|Test" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png", Jadwal WC 2026
 #https://raw.githubusercontent.com/ph03y3nk/dentovi/refs/heads/main/JadwalKlasifikasi.mp4
 
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 11
-https://op-flashcon-digdayahd-1.dens.tv/h/h11/01.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 1
-https://op-flashcon-digdayahd-1.dens.tv/h/h01/01.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 2
-https://op-flashcon-digdayahd-1.dens.tv/h/h02/01.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 3
-https://op-flashcon-digdayahd-1.dens.tv/h/h03/01.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 4
-https://op-flashcon-digdayahd-1.dens.tv/h/h04/01.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 5
-https://op-flashcon-digdayahd-1.dens.tv/h/h05/01.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 6
-https://op-flashcon-digdayahd-1.dens.tv/h/h06/01.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 7
-https://op-flashcon-digdayahd-1.dens.tv/h/h07/01.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 8
-https://op-flashcon-digdayahd-1.dens.tv/h/h08/01.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 9
-https://op-flashcon-digdayahd-1.dens.tv/h/h09/01.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 10
-https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8
 
 
 
@@ -3409,12 +3377,34 @@ https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.
 ###### DENS #####
 
 
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",001
+https://op-flashcon-digdayahd-1.dens.tv/h/h01/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",002
+https://op-flashcon-digdayahd-1.dens.tv/h/h02/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",003
+https://op-flashcon-digdayahd-1.dens.tv/h/h03/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",004
+https://op-flashcon-digdayahd-1.dens.tv/h/h04/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",005
+https://op-flashcon-digdayahd-1.dens.tv/h/h05/index.m3u8
+
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR4qKQUcjpfuw9hdYpiXIpK1lpSffZ__a1JYuvEYCRF_tCf-l02gI8asjmzP9I1r9mhf2icD-HeyX4ZfAae1HAxzps1ul_d2XXNhObUrlFjC-iFmmeuW_YhOhawzUDqb7Opx2PFdtS2_ZHv5KtHJaPjbxj3jaVwZz5l2A0X5jbJwDbYrba3g3oEWnJpsf2/s1600/MDTV.png",MDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h06/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",007
+https://op-flashcon-digdayahd-1.dens.tv/h/h07/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",008
+https://op-flashcon-digdayahd-1.dens.tv/h/h08/index.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="hhttps://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2GDtrLN4ZBNfjekz1RtaErt_bbfL9Nz47oK7H2j8W8SY4y9s6S-c8SbVnboCO_e7Gyiq_R-AMqbmCgpCvYYEJM3E5omrLCq3XKeQCVc4Efud2DmwqdZSJ6EIA9WkmBAgED1ecUDIE7bEqGptYm81V1OLF1k3T_QEiIjwBaRMzrrXyJET456ZeOdWkRiY8/s1600/MotorVision+.png",Motorvision
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -3430,6 +3420,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h09/index.m3u8
 #http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 #https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",011
+https://op-flashcon-digdayahd-1.dens.tv/h/h11/index.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHIjes0Nl3NlawlK-gE45mFR6pGqthY84Fa_kwC27G0AE1FDU0n-qDqAi5aH3I6M9z3Qh9QpGbAOp5VnOTMnTJDh_8CyEGjmL-_A9E7zGXVo5hvoHUMSXc64CPLTELUecZyIHge3Wj39snJ189BpnNYn6RawjeUzmLRW7ZsbXtxxcyy8wt1b9nJANn5jfO/s1600/MetroTV_2000.png",MetroTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
