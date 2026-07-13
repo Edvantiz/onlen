@@ -1454,7 +1454,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 group-title="TV Jiran" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBEqI-tRAWkzE2MgHPcKldqPh0DoSFJCvsophjXeGX1VVzvqYWPcHRNj34XWCVi_-74h_3S0zPQ6zNrnsF-uQNvA80giSUBtaoOXeBIQoBjfUejZGlIzoVkA01BXD-BWWuRn7WcmQjO3seIHrkwq7azKjxoVp3zuSTlxOX9WXlhsf8_HLo9yhJJenQDJ4C/s1600/TV3_%28Malaysia%29.png",TV3 (Malaysia)
 #http://bestp55.xyz:80/A7FC77529786/519C32219872/1052628
 #https://d25tgymtnqzu8s.cloudfront.net/smil:tv3/manifest.mpd
-https://2bfd741e.b-cdn.net/streamer/Pdn8o8htKSthyska5KM8zk.m3u8?expires=1782365015&token=6faDzl6yegyErHdF8UICmGuxRo0DVddW-lGk42LvyjA
+#https://2bfd741e.b-cdn.net/streamer/Pdn8o8htKSthyska5KM8zk.m3u8?expires=1782365015&token=6faDzl6yegyErHdF8UICmGuxRo0DVddW-lGk42LvyjA
+https://2bfd741e.b-cdn.net/streamer/Pdn8o8htKSthyska5KM8zk.m3u8?expires=1783935531&token=RN5W4mPltiho7rL27MhnPi9Vf3eMa53fikzuJwDmhH4
 
 #EXTINF:-1 group-title="TV Jiran" tvg-id="TV6" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw4I0GXyrO7GysAjNORU7-FrDbSZzR7GMcAiJxvhEBHac9KtJtTwgzj5UqG1AzD6pldTKMrFl5q6kEckQbPkgM-pMNpt96SH50a-X1FhA-WJNuDYD97QOOpMyOn-2l9wr4PoDUj3fRDIVeflxHTAIt0iEOQPz2oSzpCxCPFaPXFajMliEtRQPncRZN6tTR/s1600/TV6.png",TV 6 (Malaysia)
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
@@ -2125,7 +2126,8 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/04.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDIshV1EvFFg_ypEbzc8q_ynorr9wWNn0x4BDh-s36Ej3u9wqNoNjcO9ArfOw0VLgWjknM535qNfMgH85U_W8U0VUVthPDLqJeAOjomooEOhQuNHquSw_ZBtObk4okd1OewJjdHVmqWtFgAtbErdh-FVjiVAlLbAJrnK67vc-o4xifBZS35uM3WWSONUdN/s1600/bbc-news-logo.png",BBC News Live
 #https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
+#https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
+http://206.212.244.63/14/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnrM2QNZGAuhsaCrwkNZ6PJogC20Ql7A6mxfU-q8if_Qt0KCoZOiaz0pptQ5mzkAETIXjL0ZFCGIvzmajIEPWF-ljbqTdbKNdYoeBa4YntKFE750zu7cLWfhemQ8AqjXknFOE8qatlG-SmCQvTjIHb-88dyIK5AJZuJMo_nF6K7FnueokGvFwTgHLxghyphenhyphenh/s1600/BBC%20World%20News.png",BBC World News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
@@ -2254,19 +2256,15 @@ https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuIdjt41KuJVQwAQl2Z9nqMvWoDWtk1dUJkZQuvbDZ8VV1j4c5MEmqLguFyxrAcqACt9SwPUQNDgoAGSRD5fGUk11lI19_NcfNW9ABsCyxe-YouG2FPKq06j09DBCvgdsipn2rzjB9sdrkvB2ROmV6y0R98VcEw2yAskBTWwoe8i6BTnvT_WaT6GtPfThQ/s1600/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_UATV.png",UATV
 #https://freedom.cdn-03.cosmonova.net.ua/mobile-app/main/freedom/FreeDom_video_mid_.m3u8
-https://op-group1-swiftservehd-1.dens.tv/h/h101/S4/mnf.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h101/S4/mnf.m3u8
+https://live-freedom.cosmonova-broadcast.tv/live/master.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAyEQVP1SfIFVCPkLIyada6DRXXxsBu1e2LwRVtL8_XnQDkYo8CQXuksrE1xUdCUVf2sObQCJHKY4bUrnm11f0mZedymCtDV81IrRy0g5SfSHk9jUECvFzZ9XQ6Mrndz3oybp_ulWGLJL1RRy0m2I1acDBehF1S_si79dRRfbI7FyvNt0U0xY5z2KahuLo/s1600/CCTV-1_Logo.png",CCTV 1
 https://ldncctvwbcdcnchw.v.cdn20.com/ldncctvwbcd/cdrmldcctv1_1_576P/playlist.m3u8?wsApp=HLS
 
-#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVzbXD707rFHrjhNdgcAN0ZHqqMzUr-nfbSrH_2CrzjLbwIYCUPgEBa6aPw5kYF7vFPAoCqT_FQjbt0HmjV9BLyBFRxJab1JZdtxEbCZCyskixsWUNQWcmFxwgfa1QS9TZTF4zMaCd8rGmUYb6afGW60kwx02PIda_pp8yoLtbo9SD6zP1yAC6GEGt5VVS/s1600/cctv_4_logo.png",CCTV 4
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBTAoP8D0RZIzF_lhW7aqp0ZVzmefpY6zhCF8DkmFMNRNflv7vTJ4zuoPa6po_OhDeYmoTQja7q-efSo6YAyM294-6d7OXYXK_MqcrtIY2MPU2l-wYHX_59HJM7_5a_l7RpNq6hzoGMFbALlg6e9D4DxQT3M34loBeILxoujmR4ZGys9HeDRSdJiUngS5l/s1600/CCTV4.png",CCTV 4
 #https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
 https://op-group1-swiftservesd-1.dens.tv/s/s19/01.m3u8
-
-#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBTAoP8D0RZIzF_lhW7aqp0ZVzmefpY6zhCF8DkmFMNRNflv7vTJ4zuoPa6po_OhDeYmoTQja7q-efSo6YAyM294-6d7OXYXK_MqcrtIY2MPU2l-wYHX_59HJM7_5a_l7RpNq6hzoGMFbALlg6e9D4DxQT3M34loBeILxoujmR4ZGys9HeDRSdJiUngS5l/s1600/CCTV4.png",CCTV 4
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCTV-4
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYQOVAN3oSB0BusB-xW3M9XYxABzIxmv4VGDfVcSiZG4-Ext8WmFoO8yoPaGWX8ZmToFYkcusigAURErDo_1d1tyfcn-WmWoE0OnV4j3pvYtym3YBzXbhHZTDh92ruVPdVTJsJZFvxbJ5U1Pmso9lkaM84bI8pOwoPu0N8fshFSkAv2CBmhobl01UXwkA3/s1600/CCTV+.png",CCTV+
 http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
@@ -2349,7 +2347,7 @@ https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lig
 #https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
 #http://104.255.88.155/cnn/tracks-v1a1/mono.ts.m3u8
 #http://cempedak-live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mediampd/CNNIntHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mediampd/CNNIntHD.mpd
 http://trs1.aynaott.com/cnn/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFTg4gJD0IXbHuIheWKJj1gzEQFqqelv7tRDxuPA8S5293Z-3CErOLFA64EhRSw3WV637Rq5dF3glBYVhrwOTEbynC8JycKV4xw7rlZvXqVI1aY2vJ-FPHLFEWPgQUpkLV4NeGSVAMHQ6f-mEtAjGISugNIzNehPXTQv-HwkMZwrI-oZwLmzMrpFSpTURB/s1600/cnn.png" group-title="International",CNN Original
@@ -2361,7 +2359,8 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIuTujAMAb6bT0Sh3lbm3cZZQprAv4OpnKjI4kgV0QeXWf3m23ZMbnS2YZBXvL7IZ2jfuQEkdpjAkm80IVpX3kfBEiCN1UQeygkBDH75Z_0KXG5UkDrxlvy-gvxLV_b4ayCIr1mdM49Huh_riGWbaFlDxiflVO5XNiaPWPU6Ax6B_QhT4iL7fAoSvDyeyJ/s1600/gousa_logo_color.png",GoUSA TV
 #https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Li5GYyuE8SoJYsEhBsrf
 #https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c/variant.m3u8?x-plex-token=f9Vx_5ntCy4xdxwwPR9A&x-plex-advertising-identifier=&x-plex-client-identifier=b1863eb6-ffb4-4d5b-b0e6-d2495b21c7bc&x-plex-playback-id=p_379ac76e-6020-43bb-bfb7-7a715880a8bf&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=144.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1771924976&url=afbb9fb8637aec8ac31e90d0c4f350c4-c1237e28693f9055b4df37a6fa1b81e71df8df05cff7582023b15a3ddb0be91c92b738acaed24bfb440d96e2cbe7adeea3c0739e07e5cc1b675f84c29ef1244729411a63883819c4056ad91833b191c73aebc28eb7d9cf4fdc9250df1eb0745fb9e637e65c2376aec765be5fba0ac7c0a2e298f50b2e6e576d415f96c8a1ac8222ba1bcc7ed18a2171889199ccad83689f3fb7ae1295b82563ec738af0b443053017823964b33ed6ef666db9bfff65be73bf3f67f381d5347458106f315d840e2805b22f6c969fc5e8dbe0671a818028
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c/variant.m3u8?x-plex-token=KNK-WDJyUyphQ2u89hyj&x-plex-advertising-identifier=&x-plex-client-identifier=b1863eb6-ffb4-4d5b-b0e6-d2495b21c7bc&x-plex-playback-id=p_73d09108-ea78-4525-a963-edeaa795eaf9&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=147.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1778231774&url=6d5eba61249865ca1731aa0d90c378ec-0d93cc33a7486d6e6e58f3b22f5f9d9505fc3e18ae865dc61ca0a1dab6641a1688fe6d501f628b002ad5692f63161bbcc1bf446e638d6e2608c7564a76119ffcb836481581977d5a3eef9aff9f826f4310873599087460a3fdcff27ab43dbe6e67f44f37f8f3198994160c769548d64dbdcd5f649b825a4a273bf45276ccdd32c56a2b6af9d500e926df6b8b2fbb7ae1775ae80d188cefb113d48f4f04e7578fa4fb7a9407234b77469f7b8de23654a347a255d846e51810037b91dea74120fc19807fcb39c65d878b2a5c3997e235e7
+#https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c/variant.m3u8?x-plex-token=KNK-WDJyUyphQ2u89hyj&x-plex-advertising-identifier=&x-plex-client-identifier=b1863eb6-ffb4-4d5b-b0e6-d2495b21c7bc&x-plex-playback-id=p_73d09108-ea78-4525-a963-edeaa795eaf9&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=147.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1778231774&url=6d5eba61249865ca1731aa0d90c378ec-0d93cc33a7486d6e6e58f3b22f5f9d9505fc3e18ae865dc61ca0a1dab6641a1688fe6d501f628b002ad5692f63161bbcc1bf446e638d6e2608c7564a76119ffcb836481581977d5a3eef9aff9f826f4310873599087460a3fdcff27ab43dbe6e67f44f37f8f3198994160c769548d64dbdcd5f649b825a4a273bf45276ccdd32c56a2b6af9d500e926df6b8b2fbb7ae1775ae80d188cefb113d48f4f04e7578fa4fb7a9407234b77469f7b8de23654a347a255d846e51810037b91dea74120fc19807fcb39c65d878b2a5c3997e235e7
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c/variant.m3u8?x-plex-token=ehbqHAxyQawur-v4zi9Z&x-plex-advertising-identifier=&x-plex-client-identifier=b1863eb6-ffb4-4d5b-b0e6-d2495b21c7bc&x-plex-playback-id=p_d903d2f0-379a-40e6-ae5c-390d58ea9c29&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=150.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1783933656&url=0232844093fadeba19b9716cff34670b-d8bd1c9c90f016919714d45d40651767c0ce34cddc0c92c800a45061b23801357d6a3369465b4ef1b296c4c5e83e666babf993a5c68eb21941533169b275f77aba737bef076ceffa320e1237ec1a402d8faf5d445a717261c6c69351c2ee82cd99eccdf71d2f22feff1a2ab32874e86d9731d1edd8998ed58bebae1ea0cf936eeb122dee6d474ebeed683f5d779af60be74b75c263975ad022f17f1018d9dff72bce8c8bb4e9b849cdd0502527ef2e3e79e5adca17f2346d17c3c3c3a56367655765276980926ee88152e77bcdfc269a
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjybItg1_pkppU9sF2P1Ij857JZ1GcImBYNFyfzjBqK2kBWT0kgP4riN7bCUReKUAee1WRHR6RIXjG0p8Z0jGeB_dYftQyWW1JrCgrdoa9l3-7_9rKN-8sM7B0watgk1GaTuQItvsZp6mZEmxha1CKFxw8pOpxbOb9OoiW68QUk8poeVFEkKh_dj0Ki7kGT/s1600/OAN.png",One America News
 #https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
