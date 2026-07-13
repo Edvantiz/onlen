@@ -587,7 +587,8 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #https://indihuy.streamized.net/atm/DASH/transtv/manifest.mpd
 #http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
 #https://cdnbal1.indihometv.com/atm/DASH/transtv/manifest.mpd
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+https://cdnjktidc01.transvision.co.id/riutx01-3deed9c15b255ab8efc77fb047303bec/dash/VHJhbnNUVg/manifest.mpd?signature=OWQxZjVhNzRlMzNmNTFhNGM2YTI1YTY0NmRlNGMyNTA=&time=15225131624
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgaJGZumMtpd1GqC9M4hWnCMi2zOvY86V8df7R8CN_HsbQz4c1bbtcu2A3v7WRjNWD-gOsdTFyuP3_cyt8ZRaqfb9ezQbl8v0rf6HffdQCp_mtMLa0ZwvFrCvByuzEqh0hMo_JkBnydEOLhJP_2k-RTd6YrkSSHwiv41a1_GfvoP-pINUaJTHt78TYgdPS/s1600/INDOSIAR_Logo_5.png",Indosiar
 #https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8?token=82023bfe00ca28f2339a420de887506ff27d8c8f919fbb07e53e39bb884fe224
