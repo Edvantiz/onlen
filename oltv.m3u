@@ -2270,7 +2270,8 @@ https://ldncctvwbcdcnchw.v.cdn20.com/ldncctvwbcd/cdrmldcctv1_1_576P/playlist.m3u
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBTAoP8D0RZIzF_lhW7aqp0ZVzmefpY6zhCF8DkmFMNRNflv7vTJ4zuoPa6po_OhDeYmoTQja7q-efSo6YAyM294-6d7OXYXK_MqcrtIY2MPU2l-wYHX_59HJM7_5a_l7RpNq6hzoGMFbALlg6e9D4DxQT3M34loBeILxoujmR4ZGys9HeDRSdJiUngS5l/s1600/CCTV4.png",CCTV 4
 #https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
-https://op-group1-swiftservesd-1.dens.tv/s/s19/01.m3u8
+#https://op-group1-swiftservesd-1.dens.tv/s/s19/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/s/s19/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYQOVAN3oSB0BusB-xW3M9XYxABzIxmv4VGDfVcSiZG4-Ext8WmFoO8yoPaGWX8ZmToFYkcusigAURErDo_1d1tyfcn-WmWoE0OnV4j3pvYtym3YBzXbhHZTDh92ruVPdVTJsJZFvxbJ5U1Pmso9lkaM84bI8pOwoPu0N8fshFSkAv2CBmhobl01UXwkA3/s1600/CCTV+.png",CCTV+
 http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
@@ -2284,6 +2285,7 @@ https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgE1-KANa4PANWNcMr5dXUQo0Wymg8jmiNY4d1fg7ZKozzKSqqP8UmFviXbQZZVn2-WmnSaA1jtGRarMs07rxGJH0RSbhOWOkfa1QwVbycMihfqQL6ATkaqZ22fzgI8DAaXvTN24BSDyG1Fz4oBkzuhn3gMR6RNbeyroW3VNH4fP0gUSOkjA27YC3CI0PC/s1600/TV5Monde_Logo.svg.png",TV5MONDE
 #https://ott.tv5monde.com/Content/HLS/Live/channel(info)/04.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h312/01.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h312/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_ehkqFATSYxcjou21poS7ewU9OSnVsB673O0gpQUvhpKDXBiJbxlYjcv8gL_933hEZjeFAOv-Y68bXl3xjbAfs18oz0LK90o5pc-sLNbruxdDuOMu5jNJX4iF6oz_PY3Q-3EA0dmduapZNzz2RQEe2oUgB-xpmDjgoLoMwOcyquldkRdWqCUdSaeXBZZR/s1600/DW_%28TV%29_Logo_2012.png",DW TV
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
