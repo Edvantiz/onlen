@@ -3378,19 +3378,19 @@ https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.
 
 
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",001
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H01
 https://op-flashcon-digdayahd-1.dens.tv/h/h01/index.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",002
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H02
 https://op-flashcon-digdayahd-1.dens.tv/h/h02/index.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",003
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H03
 https://op-flashcon-digdayahd-1.dens.tv/h/h03/index.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",004
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H04
 https://op-flashcon-digdayahd-1.dens.tv/h/h04/index.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",005
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H05
 https://op-flashcon-digdayahd-1.dens.tv/h/h05/index.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR4qKQUcjpfuw9hdYpiXIpK1lpSffZ__a1JYuvEYCRF_tCf-l02gI8asjmzP9I1r9mhf2icD-HeyX4ZfAae1HAxzps1ul_d2XXNhObUrlFjC-iFmmeuW_YhOhawzUDqb7Opx2PFdtS2_ZHv5KtHJaPjbxj3jaVwZz5l2A0X5jbJwDbYrba3g3oEWnJpsf2/s1600/MDTV.png",MDTV
@@ -3400,10 +3400,10 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h05/index.m3u8
 #https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h06/index.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",007
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H07
 https://op-flashcon-digdayahd-1.dens.tv/h/h07/index.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",008
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H08
 https://op-flashcon-digdayahd-1.dens.tv/h/h08/index.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="hhttps://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2GDtrLN4ZBNfjekz1RtaErt_bbfL9Nz47oK7H2j8W8SY4y9s6S-c8SbVnboCO_e7Gyiq_R-AMqbmCgpCvYYEJM3E5omrLCq3XKeQCVc4Efud2DmwqdZSJ6EIA9WkmBAgED1ecUDIE7bEqGptYm81V1OLF1k3T_QEiIjwBaRMzrrXyJET456ZeOdWkRiY8/s1600/MotorVision+.png",Motorvision
@@ -3421,7 +3421,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h09/index.m3u8
 #https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",011
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H11
 https://op-flashcon-digdayahd-1.dens.tv/h/h11/index.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHIjes0Nl3NlawlK-gE45mFR6pGqthY84Fa_kwC27G0AE1FDU0n-qDqAi5aH3I6M9z3Qh9QpGbAOp5VnOTMnTJDh_8CyEGjmL-_A9E7zGXVo5hvoHUMSXc64CPLTELUecZyIHge3Wj39snJ189BpnNYn6RawjeUzmLRW7ZsbXtxxcyy8wt1b9nJANn5jfO/s1600/MetroTV_2000.png",MetroTV
@@ -3431,12 +3431,39 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h11/index.m3u8
 #http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H13
+https://op-flashcon-digdayahd-1.dens.tv/h/h13/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H14
+https://op-flashcon-digdayahd-1.dens.tv/h/h14/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H15
+https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H16
+https://op-flashcon-digdayahd-1.dens.tv/h/h16/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H17
+https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8
+
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCJ8T4yIMml_XKGzrF2hLP-5vNTD0jjgKM7tLsC1CAGmdzgOKYG0GfxWIAPLCVCeQiW6GWIehnBR-taSxOiz290FXDgiCkUeQWq5rXNzZQhQMfgBV5NmJ1aytwsDmJ2tq7ePQUXA39UonxbDhSv4pSFzr-lrsysAdPLnl7rjQCeKxbPBoVFJF8hWDuOqe4/s1600/MCE.png",MCE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H19
+https://op-flashcon-digdayahd-1.dens.tv/h/h19/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H20
+https://op-flashcon-digdayahd-1.dens.tv/h/h20/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H21
+https://op-flashcon-digdayahd-1.dens.tv/h/h21/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H22
+https://op-flashcon-digdayahd-1.dens.tv/h/h22/index.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiufyzPd33M4YZun7Ymdv1dKKYgW_MbDM4sogP4dMTxmGH8tlZliezVtRAbvHh1w2A2q_mKjHHxAWero_Kwsi948VFlL0IgvuLPHYNMTdd3MInsnsjqhLS6tD3R_BiXWORWJzYqZ6LbDaJYvu0ioLY6B_U-6vodBW4dS2DXoG8h8zUABlXBKUSwpSj3ZBYY/s1600/NHK.png",NHK World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -3452,6 +3479,18 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h23/index.m3u8
 #http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h24/index.m3u8
 
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H25
+https://op-flashcon-digdayahd-1.dens.tv/h/h25/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H26
+https://op-flashcon-digdayahd-1.dens.tv/h/h26/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H27
+https://op-flashcon-digdayahd-1.dens.tv/h/h27/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H28
+https://op-flashcon-digdayahd-1.dens.tv/h/h28/index.m3u8
+
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio8H9gEiq7hVRQun5eIs5u3np0PtfQZfc9ploxpJE8x7bbYWW6MbXcUeJmbVGstNL0s1EakhyDU40LqNjyBS4zyqPtx0hT6fIbBobe2b-DeLZFCwkrJQd6wb6WXEVAlv8GHlOKTnf7hk8icNWNerbL5fbiHWlac4BgyEnABPDWkYELzI5rUGdtkZrqsZH-/s1600/CNA_new_logo.svg.png",CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3459,12 +3498,36 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h24/index.m3u8
 #http://op-group1-swiftservehd-1.dens.tv/h/h29/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h29/index.m3u8
 
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H30
+https://op-flashcon-digdayahd-1.dens.tv/h/h30/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H31
+https://op-flashcon-digdayahd-1.dens.tv/h/h31/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H32
+https://op-flashcon-digdayahd-1.dens.tv/h/h32/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H33
+https://op-flashcon-digdayahd-1.dens.tv/h/h33/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H34
+https://op-flashcon-digdayahd-1.dens.tv/h/h34/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H35
+https://op-flashcon-digdayahd-1.dens.tv/h/h35/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H36
+https://op-flashcon-digdayahd-1.dens.tv/h/h36/index.m3u8
+
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYI1vglc8Ao4G36iKURMwb1Dvy5uRKmdzAtuEsvDgcDE7XfIxGosZI8lpOY7KHq39btWdT9w67L_fYMq3-m0jJgLcOieExNKtv375Wl8MrYkxsMwQtyNyqOtPArAhKHyKiDzRhIUajvrer7W_JltXfZl_M18KT6P0z3kjy2VyYZdjlOvWiPZiFmFjeSU6O/s1600/Nusantara_TV.png",Nusantara TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #http://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H38
+https://op-flashcon-digdayahd-1.dens.tv/h/h38/index.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2ESoONFfJcb6_nd68nar6sumHJTcCr0d7Wh207v5H0JFPTdCyVDnWfDTbWevf6E3k0okRUKaopMBiMth2tgZlEP4UelT7nKEBlfgreCBTeLB-Q_G6DbOwULFtr1XThDqhz2pagk0qgOBysLl95zHSCtzBAQVZMwKJT61RcFj_VAILqwWa_bzPsvUb551E/s1600/BN_Channel.png",BN Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -3481,6 +3544,114 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h39/index.m3u8
 #http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H41
+https://op-flashcon-digdayahd-1.dens.tv/h/h41/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H42
+https://op-flashcon-digdayahd-1.dens.tv/h/h42/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H43
+https://op-flashcon-digdayahd-1.dens.tv/h/h43/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H44
+https://op-flashcon-digdayahd-1.dens.tv/h/h44/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H45
+https://op-flashcon-digdayahd-1.dens.tv/h/h45/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H46
+https://op-flashcon-digdayahd-1.dens.tv/h/h486/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H47
+https://op-flashcon-digdayahd-1.dens.tv/h/h47/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H48
+https://op-flashcon-digdayahd-1.dens.tv/h/h48/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H49
+https://op-flashcon-digdayahd-1.dens.tv/h/h49/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H50
+https://op-flashcon-digdayahd-1.dens.tv/h/h50/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H51
+https://op-flashcon-digdayahd-1.dens.tv/h/h51/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H52
+https://op-flashcon-digdayahd-1.dens.tv/h/h52/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H53
+https://op-flashcon-digdayahd-1.dens.tv/h/h53/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H54
+https://op-flashcon-digdayahd-1.dens.tv/h/h54/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H55
+https://op-flashcon-digdayahd-1.dens.tv/h/h55/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H56
+https://op-flashcon-digdayahd-1.dens.tv/h/h55/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H57
+https://op-flashcon-digdayahd-1.dens.tv/h/h57/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H58
+https://op-flashcon-digdayahd-1.dens.tv/h/h58/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H59
+https://op-flashcon-digdayahd-1.dens.tv/h/h59/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H60
+https://op-flashcon-digdayahd-1.dens.tv/h/h60/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H61
+https://op-flashcon-digdayahd-1.dens.tv/h/h61/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H62
+https://op-flashcon-digdayahd-1.dens.tv/h/h62/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H63
+https://op-flashcon-digdayahd-1.dens.tv/h/h63/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H64
+https://op-flashcon-digdayahd-1.dens.tv/h/h64/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H65
+https://op-flashcon-digdayahd-1.dens.tv/h/h65/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H66
+https://op-flashcon-digdayahd-1.dens.tv/h/h66/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H67
+https://op-flashcon-digdayahd-1.dens.tv/h/h67/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H68
+https://op-flashcon-digdayahd-1.dens.tv/h/h68/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H69
+https://op-flashcon-digdayahd-1.dens.tv/h/h69/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H70
+https://op-flashcon-digdayahd-1.dens.tv/h/h70/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H71
+https://op-flashcon-digdayahd-1.dens.tv/h/h71/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H72
+https://op-flashcon-digdayahd-1.dens.tv/h/h72/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H73
+https://op-flashcon-digdayahd-1.dens.tv/h/h73/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H74
+https://op-flashcon-digdayahd-1.dens.tv/h/h74/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H75
+https://op-flashcon-digdayahd-1.dens.tv/h/h75/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H76
+https://op-flashcon-digdayahd-1.dens.tv/h/h76/index.m3u8
+
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPQj1fwFqLnt6q3vaTH-2yrYGCvxEuFMFMWf5h-k4oX3hJ3fOiNy27dTGxMkGjCRchwZFWA97eeh7q0ikLovYEnyIZwL0fDcvqJKnZkrmkq4zWDSpEWCMohxoYIwT2Ds3dcZk8E0HMK_qUQYllPux9Z7xlmYII015kQQfdH70_6WsGyCoInpZu_SSfxrbr/s1600/Channel_Jowo.png",Channel Jowo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3488,12 +3659,78 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 #http://op-group1-swiftservehd-1.dens.tv/h/h77/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h77/index.m3u8
 
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H78
+https://op-flashcon-digdayahd-1.dens.tv/h/h78/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H79
+https://op-flashcon-digdayahd-1.dens.tv/h/h79/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H80
+https://op-flashcon-digdayahd-1.dens.tv/h/h80/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H81
+https://op-flashcon-digdayahd-1.dens.tv/h/h81/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H82
+https://op-flashcon-digdayahd-1.dens.tv/h/h82/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H83
+https://op-flashcon-digdayahd-1.dens.tv/h/h83/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H84
+https://op-flashcon-digdayahd-1.dens.tv/h/h84/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H85
+https://op-flashcon-digdayahd-1.dens.tv/h/h85/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H86
+https://op-flashcon-digdayahd-1.dens.tv/h/h86/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H87
+https://op-flashcon-digdayahd-1.dens.tv/h/h87/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H88
+https://op-flashcon-digdayahd-1.dens.tv/h/h88/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H89
+https://op-flashcon-digdayahd-1.dens.tv/h/h89/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H90
+https://op-flashcon-digdayahd-1.dens.tv/h/h90/index.m3u8
+
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIr0MxHrQ9ug2Rgm2WDNcrcMKfV9gwBXh4J_-SRrA-ZKmW5PBP5EnTvq7yD5bg7yKfUqWTCJVmZKHdeVT1pYCeGlpqafIJBpn3VsuPV5oxK3jMV9yhmYuHszy3Etqu1fB7t0Mf9oAtAtQuScA0EwvaiiVQybQQ0GKCNL1XMYLZs1XDVTWRnxrwnhYWgPgE/s1600/WION_news.png",WION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #http://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h91/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H92
+https://op-flashcon-digdayahd-1.dens.tv/h/h92/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H93
+https://op-flashcon-digdayahd-1.dens.tv/h/h93/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H94
+https://op-flashcon-digdayahd-1.dens.tv/h/h94/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H95
+https://op-flashcon-digdayahd-1.dens.tv/h/h95/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H96
+https://op-flashcon-digdayahd-1.dens.tv/h/h96/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H97
+https://op-flashcon-digdayahd-1.dens.tv/h/h97/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H98
+https://op-flashcon-digdayahd-1.dens.tv/h/h98/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H99
+https://op-flashcon-digdayahd-1.dens.tv/h/h99/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H100
+https://op-flashcon-digdayahd-1.dens.tv/h/h100/index.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoLeOhExc9nDVh4JtuTv6XNBi0AmnQBmlaF47SGrruSOq4ZrLI11h1DyXfyAxLph3behPzy2ECTQp_XHqrhenzOMJ296gTTr_javTn8j0TMVi7MVEtIAHiDlR41YpXtQVJv0HiWGXY5MVC2RD1r34ABz_I1ojojvvD6Io-jxb0rW9NDHC1RinWy6X7MF8d/s1600/UATV.png",Freedom
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
