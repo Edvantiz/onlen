@@ -2,10 +2,43 @@
 
 
 
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png", Jadwal WC26
-#https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-#https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-https://raw.githubusercontent.com/ph03y3nk/dentovi/refs/heads/main/JadwalKlasifikasi.mp4
+#EXTINF:-1 group-title="⚙️|Test" tvg-logo="https://assets.football-logos.cc/logos/tournaments/700x700/fifa-world-cup-2026--white.9ba8a004.png", Jadwal WC 2026
+#https://raw.githubusercontent.com/ph03y3nk/dentovi/refs/heads/main/JadwalKlasifikasi.mp4
+
+#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 11
+https://op-flashcon-digdayahd-1.dens.tv/h/h11/01.m3u8
+
+#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 1
+https://op-flashcon-digdayahd-1.dens.tv/h/h01/01.m3u8
+
+#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 2
+https://op-flashcon-digdayahd-1.dens.tv/h/h02/01.m3u8
+
+#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 3
+https://op-flashcon-digdayahd-1.dens.tv/h/h03/01.m3u8
+
+#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 4
+https://op-flashcon-digdayahd-1.dens.tv/h/h04/01.m3u8
+
+#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 5
+https://op-flashcon-digdayahd-1.dens.tv/h/h05/01.m3u8
+
+#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 6
+https://op-flashcon-digdayahd-1.dens.tv/h/h06/01.m3u8
+
+#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 7
+https://op-flashcon-digdayahd-1.dens.tv/h/h07/01.m3u8
+
+#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 8
+https://op-flashcon-digdayahd-1.dens.tv/h/h08/01.m3u8
+
+#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 9
+https://op-flashcon-digdayahd-1.dens.tv/h/h09/01.m3u8
+
+#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 10
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8
+
+
 
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 1 (RTVS Sport)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
