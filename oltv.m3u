@@ -2585,25 +2585,33 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 #EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihHzcXoOmFcX93L-1PoHLiMX-7e-FgWxe4sZsBrwSUqgvDFP10XhzUJ1Ss2wtyi1SVraLEg9qz_9a15qFlqOgGUl9HUx1lZ2r-U7sQVQsSHOW6QCXxHLOcYqWsx2C6tRKCdzyD_vNwFxgdOQAzPIPo89Pzf5nbeO79YemxbUnb72BS5AsgQSwIeDvE0xh1/s1600/Biznet-Adventure.png",BizNet ADVENTURE
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
 
-#EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrBdhn4-N2_RJKl26pTZSKGhWrV3WRjP4guO6y-X6RqUEXLoAhvpkW8Ak5UeWgN1m7FR9mFqCUIg5b5IKrF7Yj2DZp8fTKHyjJ51S0_vUn1yPRYgUS2vjSyVDjAAr7x8VTwg-LqORhyphenhyphenRL3Z77YfAnvqKcLAYhnce2UXrY5tCnPngvXjfSjZXYGZNZ45TNE/s1600/Logo_tvN.svg.png",tvN Asia
+#EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrBdhn4-N2_RJKl26pTZSKGhWrV3WRjP4guO6y-X6RqUEXLoAhvpkW8Ak5UeWgN1m7FR9mFqCUIg5b5IKrF7Yj2DZp8fTKHyjJ51S0_vUn1yPRYgUS2vjSyVDjAAr7x8VTwg-LqORhyphenhyphenRL3Z77YfAnvqKcLAYhnce2UXrY5tCnPngvXjfSjZXYGZNZ45TNE/s1600/Logo_tvN.svg.png",tvN
 #https://op-group1-swiftservehd-1.dens.tv/h/h20/01.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h20/index.m3u8
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
 
-#EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMz1SWWcIA98NUZ06tB1uuY6NmFIKrzz7POnTzwLkJwD1GfQ9w9evLFpZ1LS7Cz_EOOigS3tDQFppusHe6UZFU-Y3ixJw9MAfCZ9Mzzqcck5qITQyT_9oUqRj8TPIdzBZuWE9JNDjPR1ff1AB13hnT_yzQ5kiy8BvKAG5IfTLbUpAhaT-BN9HqTuRNQ4g/s1600/tvN%20Movies%20Asia.png",tvN Movies Asia
+#EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMz1SWWcIA98NUZ06tB1uuY6NmFIKrzz7POnTzwLkJwD1GfQ9w9evLFpZ1LS7Cz_EOOigS3tDQFppusHe6UZFU-Y3ixJw9MAfCZ9Mzzqcck5qITQyT_9oUqRj8TPIdzBZuWE9JNDjPR1ff1AB13hnT_yzQ5kiy8BvKAG5IfTLbUpAhaT-BN9HqTuRNQ4g/s1600/tvN%20Movies%20Asia.png",tvN Movies
 #https://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&userid=lite&chname=tvN Movies
-https://op-flashcon-digdayahd-1.dens.tv/h/h21/index.m3u8
+https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
 #EXTINF:-1 group-title="TV Premium" tvg-id="tvN Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHrCkDkhp6eQ82nigLmUmPvnxNtTBlpF8wDBmFLWlVUBN6kmt5vWFvGWd8lPQY9GujCK0mBZrEpmcLv9jnjx-gmtm69FRT-Me_iE9oVp76x0M0kHA2pLCfxy4rXUYGkanIQcle4Laxka0E3uOVMit4LH3aZ0IHwv3kvNnBHN_0VBhbTgXQAL38Z0uuAbPr/s1600/tvN_DRAMA.png",tvN Drama
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01143&q=SD&apikey=5MY50EII66
 
+#EXTINF:-1 group-title="TV Premium" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/Galaxy_tv_2020.png/revision/latest/scale-to-width-down/1200?cb=20241026110710&path-prefix=id",Galaxy
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
+
+#EXTINF:-1 group-title="TV Premium" tvg-logo"https://static.wikia.nocookie.net/logos/images/1/19/Galaxy_tv_2020.png/revision/latest/scale-to-width-down/1200?cb=20241026110710&path-prefix=id",Galaxy Premium
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+
 #EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqs4ftHuqn67jkmE6X2KeWMEv1-73xalyuOn2t5tnR1GmppSiWAU7QolbGGowWn1Qs2rwKw7x4hI5BNa8WBGO1N80_1L0eb9IyLNB-A12_PoqrEW4FLK5whs3FpWIWOJHJUgUGQIO-c9U1EAC8sYNwzC84FM0-OFFVEo9wwMgh9s6UBR1Z0ur33cazSM9P/s1600/CCM_new_Logo.png",Celestial Classic Movies
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
+#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
 
 #EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC87DiriaBNj4n0fhydww146znSkm6TTfOfczzpEByQMc9KWj_ipk-TeIG7Wf22qGleDvJ3j-ZiOX4eouZPsjCCZF1cfl3IzDAsJg2_p0vBNlVI8MHwcGB7QJ3WVyKE1VgZs-5VdGylTMUwu5kCa5iO7UMFPMIY7KDDNc3i2C8ZVBWovLs3iDW8gL2bQew/s1600/Celestial_Movies.png",Celestial Movies
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
-https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
 #EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjglResYWOvxYdGLEK7dEV713ykQkhVFt4HydJgYi9DrAXSD2Re_SILJb35iXpkLaSRSXJHToKHpADWEXTcOEqUytUDb5lcJ2LWzcoJ6qORBsw-UJY2AWfKv8rMcbXa9kZPwz_MbgVhZby8pWeBvat8ORipk0h73ZvOh3nyFj9fXA-4acQOupULhja2GHGU/s1600/CinemaWorld.png",CinemaWorld
 #https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
@@ -2613,31 +2621,30 @@ https://cdnbal1.indihometv.com/atm/DASH/cinemaworld/manifest.mpd
 
 #EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKPYHnLjHC5zoeWw_H2qGDtJKwnc8Xe5pmCRgHakOflxszEGgqcqHposNJj3xU1eS9HS9HSdin-3lhaEuYEoap0Wbg_XirKR0XfX6JfWTbsgGkvwsZpwIOoTBa7MyFqF4VFc0E2-C2BWFBSh9j7WeMG3lI0gCZXz0xiefNyQkf2iBGsrz1PEGZewpJlPLp/s1600/Rock%20Action.png",Rock Action
 #https://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&userid=lite&chname=ROCK_Action
-#http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Action|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Action|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
 #EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitjo-whP7pkfFAOq6olyOKC5t1o0t6SNEfy2zJajKE_bjSvcfXejnHJihWKMjjxVX9diyI-M0wubWWNbruhXr4y1wMWi2dmU9CtSHCjbjPWulxRJOm5rYO1j3mlFOK2lRgRnX46AMNBi4vlo_aCDBMYU63Wt3XxDdN3jfha_kTNwFzBqHEK6me8CsmVGPI/s1600/Rock_Entertainment.png",Rock Entertaiment
-#https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=lite&chname=ROCK_Entertainment_HD
-https://op-flashcon-digdayahd-1.dens.tv/h/h16/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&userid=lite&chname=ROCK_Entertainment_HD
 
-#EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAWKx4Wf9W4DxKhv25Q_QpBZZdo-efJU6cZDc4j1hOjsmXoYDA5DcaMcoXUF-EP8eeX1AO5b1fMh8BqNozCrKk2MK0RuyPIItBe0zH22tKLaW-O3TnFfl-pH9og1YaWB4J8YlLQVU9hrv_Y_U9uS7HmWZyh4KFLd6w7NHgwDxxF6qqu69_5AbZlM17_dvi/s1600/Thrill_logo.svg.png",Thrill
+#EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivsvP728DrDUoccI5WimgjfNvutLsMWgqVadchDl1RPZBdgkwh6C_HCk1D_6xGb5IFj6qUuU_jzGBG9U_KSX-zpmI4zWRWHQ7gBXjt5yBi4yE02AziQtqUTl8oKhlcvIM8UrKFpT8hjNd3LfIO4sQBizjNI6_0SYAyzSDdGSpH7qiGhbAltAAKJazN3aO9/s1600/thrilltv.png",Thrill
 #https://op-group1-swiftservehd-1.dens.tv/h/h240/01.m3u8
 #https://cdnjktbpidfrmjkt4.transvision.co.id/live/master/4/4028c68587f789fe0188421264d560f5/manifest.mpd?sign=d76c198da95d7d6f45699d5e8ad44ac6&time=1771922034
-https://op-flashcon-digdayahd-1.dens.tv/h/h240/index.m3u8
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
 #EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjpOBWblqwD2zucWJIgi6VmsS2KpilwksDsE8z9_Keoo33h7Y38nhm_14b0In8YFinm0LjcoE7loSa8dzJo5P9LD68tbyU9SnTurxbJ0s-fGkHn8mL2kVAF-oA1LylQLN2EVTJ4B-FTNKIaG_ZiEq8tPqzTKa4H4STY9Hp2bctwmV0zuPKp9DxwHXlxLpm/s1600/AXN.png",AXN
 #http://210.210.155.66/h/h141/01.m3u8
 #https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd
 #https://cdnbal1.indihometv.com/atm/DASH/axn/manifest.mpd
-http://179.60.51.134:8888/AXN/index.m3u8
+#http://179.60.51.134:8888/AXN/index.m3u8
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 
 #EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1nysm9ecv9RFxOmLcRmaLQrq8iebgpG38W2b1rSSvaEYL-PvAbmgFv4DlZ9Ducr-dUXMH8oh2BwP1QjI8TD5V8hKeMddwJSdh8Dbehc9vgD6HGkaBkj0U69KZAEXl0DWBjucJstIloVW3aIWNnTHNY3oyimtCVEM-LKBS5Wvs5Kx0BuSlDrabJs614qV0/s1600/hits.png",HITS
 #https://op-group1-swiftservehd-1.dens.tv/h/h205/01.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h205/index.m3u8
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
 
 #EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTt5ApzQKxDENotHYQh5XQRmR6rODk1W4GgJ1Wmg2F0c9I4d6VlcG56C2EMiD9mMbwOEdlFruGEYmMYLVC5aNybA_PV-5L5Ai6gfCNEj_dA0iW2xuQ6h5kdSicAHHpQdZ11ESDALT026yjDomaCIYM6VnnpdaqLYa-3gauOn0Jtb2-hs3Bz1C7ehgE3uSU/s1600/HITS_Movies_logo.png",HITS Movies
 #https://op-group1-swiftservehd-1.dens.tv/h/h206/01.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h206/index.m3u8
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
 
 #EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6XK8WUGbbmRcBSqzIDdYxC6S_icCizzrVvCG_blGAnzFVWXD2cQsJWJSp9fZ4igOvIKRNIe-2SQEM3A-KwhmJmvSBMcYL5kZY_NBWwuALSHZe7cXGJZKxn97a85ywBnmdkF5KURFMeiVq3TpBPInxRiCyrRqkbY2nNVMl0MeB3UPlJjlVmzrfHJu0Ug7g/s1600/Blue_Ant_Extreme_2018-2021_3D.png",Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/01.m3u8
@@ -2666,15 +2673,14 @@ https://cdnjktbpidfrmjkt4.transvision.co.id/live/master/5/4028c68572841ba301729c
 #https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 #https://indihuy.streamized.net/atm/DASH/zbioskop/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/zbioskop/manifest.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 
 #EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRdObfnhjkDyn453I2GI2zsI_XFqfO4TTf9ToBFkgyrDYbLFKmSxfpVZH_BlqdSVPpamDbsGYUSOEeQCst2MmZzUkCEzvXrb6FqN9cBeQXxPh6fd1w87vEPAbABmu383dvJlvm00v1zqsxxkpBzQHeuLjpyotoMqirXmoTrWYmrxPB3xOjYHc6FtnZDX_t/s1600/Style_TV_HD_2016.png",Style HD
 http://210.210.155.35/uq2663/h/h01/01.m3u8
 
 #EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNJ91qztPLP9_XFqxm0bIxaVy2YJ-gjF8h5Y014pLKdM09HZtgBSA8wwBZwLVDZxQzUhjxW-xe45V3Jl3_9BYUYMfrb6rW5qf2FjLrdM7cUqh01vL2QeSpnGCV9itfAleHAvUfp2GX6BsHM3Ef5eUbNB4q1E9ipgbI2snpOA3A3x8Re2ia2m7y_Ld21RII/s1600/Lifetime.png",Lifetime
-#https://cdn10jtedge.indihometv.com/atm/DASH/lifetime/manifest.mpd
-#https://indihuy.streamized.net/atm/DASH/lifetime/manifest.mpd
-#https://cdnbal1.indihometv.com/atm/DASH/lifetime/manifest.mpd
-http://rezofoot.tv/LIFETIME/index.m3u8
+https://cdnbal1.indihometv.com/atm/DASH/lifetime/manifest.mpd
+#http://rezofoot.tv/LIFETIME/index.m3u8
 
 #EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNJ91qztPLP9_XFqxm0bIxaVy2YJ-gjF8h5Y014pLKdM09HZtgBSA8wwBZwLVDZxQzUhjxW-xe45V3Jl3_9BYUYMfrb6rW5qf2FjLrdM7cUqh01vL2QeSpnGCV9itfAleHAvUfp2GX6BsHM3Ef5eUbNB4q1E9ipgbI2snpOA3A3x8Re2ia2m7y_Ld21RII/s1600/Lifetime.png",Lifetime
 #http://23.237.104.106:8080/USA_LMN/index.m3u8
@@ -2909,6 +2915,9 @@ https://fl41.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 https://fl7.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 #https://fl7.moveonjoy.com/SHOWTIME_NEXT/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 group-title="Film & Drama" tvg-logo="https://i.imgur.com/484iq4l.jpeg",Studio Universal
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD4OJdIMqfYgPFT16w3cq07UWAk1_FZ00Ox1gUWcR1q1KLaoZObVBm4TqgIwiazLL8vP6dDeTrIVMbjMRVP5TnHn7-RQeYXcxBiOpTPxGtkYPzP-5YOWvXQ4pXcCWDz8jxGVboLKXxMIsENv2sPQ3MbX2iHyiOzD646tLJpYBXo0jxZhLZmwbJxF-cFrJV/s1600/Amc_logo.png",AMC
 http://23.239.31.26:8989/amc/index.m3u8
 
@@ -2931,9 +2940,10 @@ http://23.237.104.106:8080/USA_ION/index.m3u8
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTuWSQA_hNBBX_RuYSeCfO_T1-VtFHjNzp9dpZV1UFf33E498a50OdrGfjiEq8OWLrILriibG3ZHk05FneIMyNqhqrvuGeVVcIWH8Hm19TpUUkAscLgDEXSOb_z8PfoPPeESCUGvgrhgJcMuh7S6pFwR0BoKQleXAUd-qjzfqiZPg16-mV4D5eULi52Neq/s1600/ion.png",Ion Plus
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0KYdGQipv4FIWFxKMv8I_-Jc0KGAtAQ3axQSHnxTIpjgRVBlwcsPTEAdH5GIGwJN1ZC-OQ-udQmxcFFEk-tvqKAyhqYzDzmRaV3BdUMx3UAQkdDL_30Rv0fdKkKz6Esh-WUmR9ZofB96H9g8F946atoNEi0y2aDrPPEuuvUgEjeSE6Xbjtok07Ouv_GMB/s1600/Miramax_Television.png",Miramax
+#EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0KYdGQipv4FIWFxKMv8I_-Jc0KGAtAQ3axQSHnxTIpjgRVBlwcsPTEAdH5GIGwJN1ZC-OQ-udQmxcFFEk-tvqKAyhqYzDzmRaV3BdUMx3UAQkdDL_30Rv0fdKkKz6Esh-WUmR9ZofB96H9g8F946atoNEi0y2aDrPPEuuvUgEjeSE6Xbjtok07Ouv_GMB/s1600/Miramax_Television.png",Miramax Film
 #https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
-https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist_webvtt.m3u8
+#https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist_webvtt.m3u8
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/out/v1/13282695f8bb45ae9912e9321bba21b8/cenc.mpd
 
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhExAuWaXDPXjBKq1yhnpav7RFLUhHcCvANtt5L7nMnJd4qxozEcUwnudEpbW9EqA94LVlsT2Dnr_58DfTTTUsDanAnSilcS8jLnYjLnDnB-QhZrIfXQtyCU3560VYG-EcUFxgyVUld1Jv-B-0l9sP194sSv0aGgc5YFBKgEbh5XC6gxWrYLFMXitfWMihn/s1600/moviesphere-large-logo.png",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
@@ -2950,13 +2960,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mpd/KBSWorldHD.mpd
 
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8v8tZNV3tNZc-Z8yC5vDFwJRD-iDbKzfv0EmQkcZZDH2Ux0_leVvoMntZDQs49rRlUCZzqEQIzfSlPR0m5XgMo7yIGknWGuCBpzhmvFTlSVkN_doaP8oLC59Z9aEFlIZwZrVyYleCINeZNfuIFfdtRcuvWitpEchX-q-PXu9flS6Hr8enXY-eXE6gg5T7/s1600/KIX_logo.svg.png",KIX
 #https://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h220/index.m3u8
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh85RVp1RX1ObgaMxQW8rc2mi3VmEt8cBEfv-YiHq4xFXrzuPACGPig131RSDyXVhJe1wyR8W1q71HDg2igdlVWNA3AlaMlRAOBSh2dxeCLJHbvp5B_zgizxOltvg7T7yAe6RSfO74sofAFVW69Oj1dF84QwWqai4_YuMcLxskfKFR2Y5-EOHu5_z9eXkmx/s1600/K-Plus_%282013%29.png",K+
 #https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 #http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
 #http://210.210.155.37/uq2663/h/h08/index.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h219/index.m3u8
 
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2kgEMvN3CVJJTrwhFXB6mJky4sh_rPyXtw8ZKB7UzNJHjdILR6_58WL4z1iy0geZJjYtXdzFy96EhoegPStJrgdC6QaWodQeGP_EsV0wZtoKvfW3WZNJE_815T5LZA2FyrZeWu007pODbXtdCSfnkK81J28deKYnUjZnv4m73kB6wO8MTvlK6r29bAFGK/s1600/KTV_logo1.png",KTV Korea
 https://hlive.ktv.go.kr/live/klive_h.stream/chunklist_w328775573.m3u8
@@ -2968,10 +2977,15 @@ https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/
 http://45.126.83.51/qwr9ew/s/s42/index.m3u8
 
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4ZcafLQsCMsMGT6hKfVR7gOffrweSNei6QUOW8nBIbEuRdhnyRRFNQCnAEBJruD92z1o2dmEUxsJQedECVPUD63t3vvu0kwIDNDRCfJLy9niPf-CjueQxb3x7BUVaXrqJSlK5e8j5kt9T3favrBo9iQ38Y1TS068EhSznTkXkOrZn-BnytyiMOg7C0UJ_/s1600/Movies_Now_logo.png",Movies Now
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#EXTINF:-1 group-title="Film & Drama" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg",MN+
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1I520WkR1a2Cks2rGRCvuNCvk8zlFjGwzlLgR3W1VlUnQVtnj4FVJKKlcE30572Xil9kMxaGWgtLEtNAwUiol5LSAVWAV_uMywwv4sUSK7in_YR749XwHSj5YCDdWzzrCzekHBbHw6O3-TmRECpxTXqbgS_uAaBG0PuV_jrlPUpgbLAgHrznH5J3-cyaQ/s1600/MNX_new_logo.png",MNX
-http://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
+#http://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8j9BEIYvWR0PKvJKQ6syRKX5AACncV73fBUN7Ec1cUWsD6aNm2VMB-qrLbJt59_LZuwn3QZUL55NJzJzk6j7H2x95WR6181jrCH4odHQuwFHLAN1Hb-2RXcaLvmiGMIbZCktjKV-9FrMQG1owJqwF1JfTnWONjYv_if_3ethAmKQnm9Pm-wYFPg9mfgKN/s1600/TLC-Logo_2016.png",TLC
 http://84.17.50.102/tlc/index.m3u8
@@ -2983,7 +2997,8 @@ http://84.17.50.102/tnt/index.m3u8
 #http://179.60.51.134:8888/TNT/index.m3u8
 
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZfR_c-CnT5ggK8uQCw57bxERJ2thSUHo3CxRD7su250vqQqXoh55Xir6mK-9LnQmMnGzzdX2ahxI7IZMpXlY3P2s48K93tsElSQUKfm2BLQM8H0J6-v3ukxpyp6EKpAbd4zi9XJYQGHdk3VJ-pWfJA6Y0NFksPOrsd_SV037KzIzNG9FrDG8UbPOnZmta/s1600/Logo_oneTV_DE_2016.png",One TV
-http://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8 
+#http://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8 
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg12orkkSZvtubJGv43XyXi5mqRvMYCCmiV1dBqbR4NGBrLZ_YoTQat1hF4zPRpdBcmXZaKnt0rwUk79-gA2fEj7SUCRXGWIxZ_ksW3WQNsgzKkU8VIRPCwJLbIZxBP-aNLsSiRdmW9oSgMC3pks6hXMiWLyj26S4zraszMfA4nkq-THnbx_2eSE6wvg6XV/s1600/Wau_nove_logo.png",WAU
 https://live.cdn.joj.sk/live/andromeda/wau-720.m3u8
