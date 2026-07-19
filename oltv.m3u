@@ -30,12 +30,8 @@ http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 #KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
 http://103.148.44.38:8000/play/a05u/index.m3u8
 
-#EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 6 (Bein1)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
-#https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
-#https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
-https://mflixott.com/tv/dd/live.php?id=966
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 6 (PTV)
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 7 (FS1)
 http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
@@ -52,11 +48,9 @@ https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 11 (CTSport)
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 12 (Russia)
-https://wahyu1ptv.pages.dev/MetalTV.m3u8
-
-
-
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 12 (Somoy2)
+#https://wahyu1ptv.pages.dev/MetalTV.m3u8
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 
 
 
