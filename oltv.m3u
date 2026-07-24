@@ -782,6 +782,9 @@ https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-327770703
 #https://indihuy.streamized.net/atm/DASH/sinpotv/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://www.tribunnetwork.com/dist/logo-tribun.png",Tribun News
+https://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID_480p30.m3u8
+
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPmnLiiFyYISq-FFMoVPsoYKow5Q98SZR9XSuAkUInzWqBoSy1u2lbShfkscmjblzYFIiEgYIHnY9WvPGipdeQTVqaMvloIbOMUdtOpa8EpM80XdR-hkBTZMRjF9qXGNBPhBlmSxgbQPDMM4wXnbKoazEjh3KaojPIWz7hURy0ElC-oLssz1TP7WtODT-q/s1600/Republika_TV.svg.png",Republika TV
 https://lowa8026-cmyk.github.io/iptv/stream/republika
 
