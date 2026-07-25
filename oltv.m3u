@@ -558,6 +558,10 @@ https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_o
 #https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1758539238_b744100_sleng.m3u8
 https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w219125479_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ3NzI3ODcyNjcmd293emF0b2tlbmhhc2g9dHVIek1pRzhTNHVyeDg1RFVEb2tfVGFaRWU0ZTdWTjhrTFJfODdIQXNFdz0=.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSlcZza7XCdPqT_Y6VMQ2_AoXYsCPoXVTPUbduFjFeQ4mAawesuodjw-0PHsvlFwbThxI1xxX31pY2Of_urjRjVavo0cAWWEYVvR3FF5EfOsRjZaQZBISznKoVt2-Lq5j-OVy0Krhv3_Tpw_DGpagN_eQ6IbSz3i4mlLWhYN6kUiTiMplx2o0GPk-DfDDd/s1600/Logo_Trans7.png",Trans7
 #https://cdnjktbpid26.cubmu.com/riutx01-e312a224c5119cd47f2cb64bf8c8c286edd3e1214dcc663e33db130cf6b3833b/dash/VFJBTlM3LW15/manifest.mpd
 #https://indihuy.streamized.net/atm/DASH/trans7/manifest.mpd
@@ -573,6 +577,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
 https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w33874835_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ3NzI5NDUwMjEmd293emF0b2tlbmhhc2g9MWNaM2FxdDc4eDBENnNaTGhOU2NKM1E1aW5aX3BmdUo1QU1zdl9kNU5sRT0=.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:contentlookup=false
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxmgo9hrn8huiDbFTGTZbZ7Ii7AtHsCrx6_tw24nw9m_46XAU0iV136PAseUsP9eYifvjqyvYSKESnr-KWVrLYOE6P1zx7CVo061q8BekkQS2WpjEyT9T2PR9xYFqvgSQKa82wQ6hnWMjq6oacJaekYYXgmslPTKIkv4FFcSqSv47Fy5cE6e9OmfnMDj-d/s1600/Logo_Trans_TV.png",TransTV
 #https://cdnjktbpid26.cubmu.com/riutx01-e312a224c5119cd47f2cb64bf8c8c286edd3e1214dcc663e33db130cf6b3833b/dash/VHJhbnNUVg/manifest.mpd
 #https://indihuy.streamized.net/atm/DASH/transtv/manifest.mpd
@@ -784,8 +792,10 @@ https://jktglobe.secureswiftcontent.com/han/jktglobe/jktglober/srtoutput/manifes
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3eg9TZO1e18_4XtNo3BwfOL0K71XWuIgb6FvsmFO3WabIt4buHHxy_11EjKVWj9cVOCiJmIZDM7394kDmrAXiBHS4jwh1zBMDZrCVA3PZmstPH_pXKIfnA3XxVoI7_ED-M4EUc2NSkO6bSwE9tV7JAO0Fjdzarr_ZsLY9Slc5Cw43cmS7Eq-vLMpZfVAg/s1600/Sin_Po_TV.png",SIN PO TV (IH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=27fe63a923084c12b0b05d33d204bdca:f9624ac728524e9fdf8e3a97018fe26d
 #https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=19046&type=hls
 #https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 #https://indihuy.streamized.net/atm/DASH/sinpotv/manifest.mpd
