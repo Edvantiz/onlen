@@ -789,7 +789,8 @@ https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-327770703
 #https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=19046&type=hls
 #https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 #https://indihuy.streamized.net/atm/DASH/sinpotv/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/SINPOTVHD/mediampd/SINPOTVHD.mpd
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_XhJ4DSfByMLklb-2rrhyphenhyphenLTGe_cAFsQQc30UojyVhjDcUgTi2Y1P2MUgaFKR1oY5mGz3ENm89Px7TdK4WYXV40Lg1EqZ_ko1VMzqTdhq9Ao7dXmd4IapE5K040-BkJxsUiFWr-asnfob7BLZNb7qM2fNEBxuO-8Gj4Sf5XLrwZSMC9PnZX6DjmfE_VuL8/s1600/Tribun.png",Tribun News
 https://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID_480p30.m3u8
@@ -873,6 +874,7 @@ http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 #https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #https://op-flashcon-digdayahd-1.dens.tv/h/s182/index.m3u8
+#https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6QK9qoXewOgIXwvgbtdFRSAyajKftczhL5gzYeMP-Ytmenm-2UkId8DeBwsmvw3w0J0DV_Kj2craOwCRKw5KMPVV_jgG1FuTvqxs98_AEI5XlVbm7CB20Z-L0u25sitQRRAb6zsb1R6w6rIfbRTIeYTXnXVOHXOY19WOpmocUVu7stOkhFkcINtlm05iz/s1600/Netmediatama.png",NET.
 http://36.89.47.217:11935/nettv/live/index.m3u8
