@@ -3455,8 +3455,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H03
 https://op-flashcon-digdayahd-1.dens.tv/h/h03/index.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H04
-https://op-flashcon-digdayahd-1.dens.tv/h/h04/index.m3u8
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf2_8q5iJJCiErS_xeAARQfhmEHTftaktgbak9mCScQUrxNaU60DJ9gU8Ggqx62QYYZWMlj-RTNU9cXzJa8DSz3ryTUb5A4njyKRtT7zFilhH0KjmKoQrJrks84v3UHGlebiub2qXSvPdveB4t7vRswAJGJUo8Jq_1pgiGjqWfAQxAbCHl7ikBi6CmhyZJ/s1600/CGTNDoc.png",CGTN Documentary
+https://op-flashcon-digdayahd-1.dens.tv/h/h04/01.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H05
 https://op-flashcon-digdayahd-1.dens.tv/h/h05/index.m3u8
@@ -3479,7 +3479,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h08/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #http://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h09/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h09/01.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5q_koi83ldu20yRGRefJkggb98Dwp1pHZXl-wrMqkMI2ykkkM9D8VqwWeLNBtVoQc7H65KToolgtbUMdxibQ_30z3B7UxjKYuJFSEitSb7k3yj7MCPxQLRsPdCEndb7F66nnanTsV-B5P-WElHEDOr4FQBuq5NIlWrhXMryqR7N-rDfieLEL3Ucezp7nC/s1600/RTV.png",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -3487,7 +3487,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h09/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 #https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H11
 https://op-flashcon-digdayahd-1.dens.tv/h/h11/index.m3u8
@@ -3497,55 +3497,61 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h11/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H13
 https://op-flashcon-digdayahd-1.dens.tv/h/h13/index.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H14
-https://op-flashcon-digdayahd-1.dens.tv/h/h14/index.m3u8
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Rx2A_zCgTvybG0v9hFI7raPDdSDJ1nl2j8LlcJnb9vD_zTP8dMyqY8hEqIj8kGtml49QxuyUfn6Ixx1hEzmUx7nRtUBY9sPTKco6rQ3IiqdQH8Kn_gUTHMiBYgB-uouqO2nM-i0N4P81aakNSv2-yD_sn8d-_jA5DCszpgDoudFSemT2eFapbLjy4Hvh/s1600/France24.png",France24
+https://op-flashcon-digdayahd-1.dens.tv/h/h14/01.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H15
-https://op-flashcon-digdayahd-1.dens.tv/h/h15/index.m3u8
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQD8sG8VV4FYcf36Tj1A2Qj4Vax5fuISuQ0QEQ7dxAHqdXzMd0koAxiklE_Psr-srHzrnK5xk-ieD0uEV0Ba0Q8wyov5a2md89h9cZgkgh201goO9vim8nxIPbWKmNOX5E5MmmIuMRgwwgaujtZVcwD01goyYUlaXESLiSbfxaiHryfUrrULPOAOwsFAj9/s1600/AlQuranKariim.png",Al Quran Kariim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+https://op-flashcon-digdayahd-1.dens.tv/h/h15/01.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H16
-https://op-flashcon-digdayahd-1.dens.tv/h/h16/index.m3u8
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBQPNgLyyI8ymh9dWy-r-TEpcg8SozYugP-CQUfJskBku_TLUEiw0SCZLpJ9-bacixTH9h8f-BnnN0NXKxH63d1H5dx6JZFbvY92x7GnJ_0bJPZco29O8bkFusPKh-mDIlGIlJzRpShL2wpSCEJNid0j2v1LwvIUIlnEydiDtp7QB28y0nhaaRxo1Jfji1/s1600/DAAI.png",DAAI TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h16/01.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H17
-https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYTdNID2aR_Tm07fIGKqid7Ntkj_AIEXU72Qk0jRUh1XBDRpl1Z_t1bXalQwzeQGYCd5ZOqE1t2LcbSbNpxQPNDhX0LtDWuaQPgHR0gahgfoFOCErOwP3BG6yK7jua8M_E1RmKFkNgLv2HSl-UeIap2OGwXDy8itnWaRQNROzCeWrSXeSS8YC9EANkaZAc/s1600/TVRI.png",TVRI
+https://op-flashcon-digdayahd-1.dens.tv/h/h17/01.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtAtS9o4GEaotHizSk_5vVnBeTMQE409l8HCMPsYKs4t2DeL77YoDqxDhogN9anj83_Pmtw43bKNRngWJVrJawHWnUMvDLdE3SsW1q-npsLI-ZyAOWHhq5-WWy-EuONDW6r6HKFiTqMhZsItBpfSrL2S8U8GcuRkukyo9fvQDLdShuRlxKnfHoRH9QakOY/s1600/MCE.png",MCE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h18/01.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H19
-https://op-flashcon-digdayahd-1.dens.tv/h/h19/index.m3u8
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyVgAZMbKxk493YVuvR6K8-Pfnh_oTEPApwVRFKNopaB54xjTgSnC9R6-eN0ERQtujQd93w2Sxq0UY84ptNtZZChLigUYEwEeikDAChLOMWt-xm5tXAoSS4X2GpBm_oq8_EonqgRX3LracwF1ltMdGrK8h3v6ZEwx4uvJ7gZhIfuba5rBe9bvfQghc6Luu/s1600/TVRISport.png",TVRI Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+https://op-flashcon-digdayahd-1.dens.tv/h/h19/01.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H20
-https://op-flashcon-digdayahd-1.dens.tv/h/h20/index.m3u8
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_fzWlqQ21sSbDFLUB8nBVF6ECZ3cfpjrvieKjBc5SpV-g2TmxTaOZrgAJ6_0hkgQTUaotZjEpkToFoGjEhzEj2VMnEJdwpdTQ1MsXZXiqWn9c0JrCaZKJyAffQE4OwzhNQyXYWF4WPMVWJPvS3jzWFJEdoaoGPEM9u47__apv7pD3aHnWIL6N5iaHKElb/s1600/TRTWorld.png",TRT World
+https://op-flashcon-digdayahd-1.dens.tv/h/h20/01.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H21
 https://op-flashcon-digdayahd-1.dens.tv/h/h21/index.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H22
-https://op-flashcon-digdayahd-1.dens.tv/h/h22/index.m3u8
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqPyEmtVxS1zWB60qSWMxiSs8olZgNz51qU5ZJhWrsEEO86uX3SPxqkUi_LVyXR2OnXIQ7nbvPTTkYPfb9OZqSaTEhrFU94KbHTOU3CPknz0jB4_khJ38-rLuFONNl2Zm3xudXkhD5D3JLesYWOgO1SS2bev5qP9qnLyQ0olEP8CF4Ft9ix7lyc4oL6Yz4/s1600/CCTV4.png",CCTV 4
+https://op-flashcon-digdayahd-1.dens.tv/h/h22/01.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirc02viMU65kqfimOL8p1BOiaLdP7kVjDzK5OayudMPdmZkvEvj3gk8_GLHnip2TJoHZkHjxsnw80LoVsOK2ucPSGZD6gwPruc5sySyDr4rrNbrFXM3bFq3kdDZ6iv89Z2Jzpimi2PJJ0K0SlQwGqNogVRpNHNwHFzjdZY1-ch7Ke-5-rTaMM69v9KL_4y/s1600/NHKWorld.png",NHK World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #http://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h23/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h23/01.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxQx4a740KxTM08wO0xqKbRSTlA-RFRf7jSLr3qIVYmcdeGoclH4U4EMm3IoMpwdoNfyTSH_1b4yNH8RgdL9BEx_efxh613YSOnTkw10rO_ecIW3KBscwI88Xy6XajQ8Q0nNpOVFs_maeo37QekFUGGvzrmyUiUuh1oWmK3YxXsJqscLsOQMIYw-uPfXGN/s1600/Magna.png",Magna Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h24/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h24/01.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H25
 https://op-flashcon-digdayahd-1.dens.tv/h/h25/index.m3u8
@@ -3564,7 +3570,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h28/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #http://op-group1-swiftservehd-1.dens.tv/h/h29/index.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h29/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h29/01.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H30
 https://op-flashcon-digdayahd-1.dens.tv/h/h30/index.m3u8
@@ -3592,10 +3598,14 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h36/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #http://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h37/01.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H38
-https://op-flashcon-digdayahd-1.dens.tv/h/h38/index.m3u8
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU4Ieb2E9kEbhL3-fMu602oiNG0OE7fA6XFqVihvFmaO0CV8X185IPLnCuFuDf6viRzsoN2MXBEUpJijKtXnGmD59dguri1u9mSLGCrtRlLuvLIBF4XxevyPTxkpTlnUd8NsWsxUIAG0vIoe88EkEQrq2m2TD9T-y4M44H2UGJ-TbS9PDURNOAvOd0HaBb/s1600/AlSunnah.png",Al Sunnah AnNabawi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+#http://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h38/01.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2ESoONFfJcb6_nd68nar6sumHJTcCr0d7Wh207v5H0JFPTdCyVDnWfDTbWevf6E3k0okRUKaopMBiMth2tgZlEP4UelT7nKEBlfgreCBTeLB-Q_G6DbOwULFtr1XThDqhz2pagk0qgOBysLl95zHSCtzBAQVZMwKJT61RcFj_VAILqwWa_bzPsvUb551E/s1600/BN_Channel.png",BN Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -3618,8 +3628,8 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h41/index.m3u8
 #EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H42
 https://op-flashcon-digdayahd-1.dens.tv/h/h42/index.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H43
-https://op-flashcon-digdayahd-1.dens.tv/h/h43/index.m3u8
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGUhgxLwBt_IetVYNGplEwFquJXovIqKEausNcGjUK528r-OtUB4Ri1xnq0m7CMSl_xMyKCuteqwPn8ZhrDbHXt77Po3NomAIFDSu-EszuKkld53nOVAeFTZ6VMamkqd9nihCUD4AG8K4Ha7RmHHO15enxz9YPYNB2D0RJpSZwSXy646H0X-fQ2UQaK2gZ/s1600/AlJazeera.png",Al Jazeera (English)
+https://op-flashcon-digdayahd-1.dens.tv/h/h43/01.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H44
 https://op-flashcon-digdayahd-1.dens.tv/h/h44/index.m3u8
@@ -3628,7 +3638,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h44/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h45/index.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H46
-https://op-flashcon-digdayahd-1.dens.tv/h/h486/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h46/index.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H47
 https://op-flashcon-digdayahd-1.dens.tv/h/h47/index.m3u8
@@ -3693,17 +3703,17 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h66/index.m3u8
 #EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H67
 https://op-flashcon-digdayahd-1.dens.tv/h/h67/index.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H68
-https://op-flashcon-digdayahd-1.dens.tv/h/h68/index.m3u8
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj10K-V1p373DEhK8Xrc_x8_LgNV5PNR2pIjqKgeIPtW8B8hemi1XxVJHez3FmXe8FFWJCARm5jcKj-uLxjYNoHS4czGjp0StACRz9pBwK3lBdbXfVfcMzHQd5MiZ6Ba8q3Ru4zK_h7xexdUIk_oKdaRaua4PNz-WUi0dWGEUs_GEt0IR2A0vH3Ead4_6sn/s1600/denswedoamor.png",WeDo Amor
+https://op-flashcon-digdayahd-1.dens.tv/h/h68/wedotv_amor.m3u8?app_type=web&userid=lite&chname=wedotvAmor
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H69
-https://op-flashcon-digdayahd-1.dens.tv/h/h69/index.m3u8
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2dGOhOQaLNjIFMiw9k430cthOKFIcfcLBAtyO2VGF8rOZ5_xANGJm76K8dPyJsJw8vnd6reL_vugYflq3PsWww0nioah1dvmd-babFxGDcN8gQ82SSiO1LIuohmSpKFvYsjkb5Y5Ic__8tvq5D4aTGSyCn-N02dUsXhsbTyoliqOJAnVf4m-YXkaRaIsY/s1600/denswedostories.png",WeDo Big Stories
+https://op-flashcon-digdayahd-1.dens.tv/h/h69/wedotv_big_stories.m3u8?app_type=web&userid=lite&chname=wedotvBig_Stories
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H70
-https://op-flashcon-digdayahd-1.dens.tv/h/h70/index.m3u8
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi7X5GG-jq-H_tL90K2W3QTcNVhULw4NtgeJhGsHhYJrYp5uDtafdDAOde2WdPG2D6-vnAEjWrYVzebIeiFvMi9XizcKlkW6ywP96i323_hoUszcyq4-VXlIhss6hycYLgIj0cqh9S8GH00RJMNnHy3pg6Cf-CwnV46j6JwtuB6xulSrhIXjnrmyk9db4F/s1600/denswedomovies.png",WeDo Movies
+https://op-flashcon-digdayahd-1.dens.tv/h/h70/wedotv_movie.m3u8?app_type=web&userid=lite&chname=wedotvMovies
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H71
-https://op-flashcon-digdayahd-1.dens.tv/h/h71/index.m3u8
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtKTGnWAry4kHe0D0HDxqA0CpV9tYDPMnnEoY6a2np_teqoYtB8s50NA-ctR1fSq0EMf0Z5YYa2qM7AKfO_l1OQrTDLLm6lfuHscprXjTdxJqJVfRPlWq63cI9xPrMVSFzSpnSp4MHqsXx0T7VaGe6QOZry_Ho0MhkaZSV-sGIOvTxvsouNNoT2JhmhUUw/s1600/denswedosports.png",WeDo Sports
+https://op-flashcon-digdayahd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&userid=lite&chname=wedoSports
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="logo",H72
 https://op-flashcon-digdayahd-1.dens.tv/h/h72/index.m3u8
@@ -3805,15 +3815,20 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h100/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #http://op-group1-swiftservehd-1.dens.tv/h/h101/index.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h101/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h101/S4/mnf.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMT3w5okZ4BwiCoSJNM-sEsfWOACNfv7yIqDMEXO8qYzbB43sD1YdGmJjJFYLxLJGJPkCTgZUKOiXw-WzhRJzzNfKLuJqBvk98kLjud8VvwfLE0q8ydzv2nA-WJXmVlfEP5-7tnpRwdSYj4c3jCr4VJ1Aj4G2qwFuOjd2ggPLXxqpfspTgNBVviQ0T0-ON/s1600/TV5Monde.png",TV5 Monde Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #http://op-group1-swiftservehd-1.dens.tv/h/h121/index.m3u8
-#https://op-group1-swiftservehd-1.dens.tv/h/h312/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h121/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirdkUgy-RzdARxFds1Uealhud8cnjfK5fzWkjJF4CO3EVvzHT0Dmb4PP9BJILOOjcgQc4xoGavH0e9ouePDsDc38eUAebtdqrtkiPS_BsMi-z2hE8CD9QBUkQylfi25OY9u6wBwhCg9esszJqv8bA-5ZQ6TBBf2K4GDIPjaC9IqPWocE1y8Bh-WPxCoz6Q/s1600/DensLiveStreaming.png",DENS Live Streaming
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+https://op-flashcon-digdayahd-1.dens.tv/h/h123/live.m3u8?app_type=web&userid=lite&chname=Live_Streaming_1
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI4I3Noi0IsLJfi9XPPoCZ4N898P2206wfPtEHWGXDI9ClK0SZGm96Q28f7kW5K9DrGWcybzA_djQqO8wrGlQu3hcR1aGjSDLzvcKRRXxb_aiGgPpWnOaWdF8EBdNSLDHNtU-s_aSIS9oj_oCJb3dlYMwZ9pnuODUGUTh7Rz1k5IZHzcSw7lchsr6r1Pqi/s1600/BeritaSatu.png",Berita Satu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -3865,33 +3880,37 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h193/index.m3u8
 #https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h194/index.m3u8
 
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihHfe8h5RrGgj96k25i4ffxZ2LtmMl3_FoqVv7bYCXUljZmm7ykxmdF6s0yd7AraEvvCBtogKVc8PisNkdOwHbKPF13ti3eTSCHHsPFEeCaX7faHYMYcStwlVCN7uB15PTiqsjmJt5SJKwx97spBjMKqNVcRXBLuXpuXJpXGcNk-xGFfZvxnCJ2glFJdZa/s1600/BTV.png",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+https://op-flashcon-digdayasd-1.dens.tv/h/h201/S2/mnf.m3u8
+
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUtARjU4nhW8WE_N9AWPJsQh-cJZULxcqukv93y-OMcHlh3GZOG7cF6QHFrkQbW8MsS9jQzWtlAyvaGgK2BJJIt4_YYfT2jOABWoEblb-B4kT1gf29U0EbR6XhHS_XzTB7DOlyB3TInm3IFEEJpPMdB4hdrCPjoUfECUtR28tuqYYSF1vIFe7wMENQClCp/s1600/Crema.png",Crema TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #http://op-group1-swiftservehd-1.dens.tv/h/h202/index.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h202/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h202/02.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQV3RQvDquQ-uxMI7ON5QU46qgUY_AzPuqS_vJtYpy4Mc-bgR1950NLFLEDYdIIq3WSQEDe56nzbxYsvNb6Ed40xyWDb9CiXEpf7A5HpJfvx9y_tNKy32feDoG1y9RI2j_ADUBrmRNrWvXpWkXTSGunH_z3mO-myoMFWJz_aegGlYFKY9yd75lLZWmipAe/s1600/DensShowBiz.png",Dens Showbiz
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCIXpCx-pbnopioCzgVmS0nvAWMzzSM5bW2ysBOz6Q3pAIr9AfR2nxf6Xk-VLHHtFrO_YgKQdTxNoaqg3WHAc_s4h7AUbmuh1hwx840jAN9NuuonL3Pbq6AL-2BQjBVI-tP6modmTHdfckwoeNpGJfFwys_DjYXwqgqucps3ZJ6sxMTauJS5hGfwqR0J87/s1600/DanceTV.png",DanceTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-#http://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h203/index.m3u8
+https://op-flashcon-digdayasd-1.dens.tv/h/h203/S2/mnf.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCA3ts7Pw3bpw1u6Jl1N_FS0NW8BbsAezVk-Uid90ng4f5tvyCNovvxPxOe_tjFYNitWQFvLIjf1ltdzg2QY-_xkPG13RBjW0rRGoRRT9kgVyf6nbHlygRvx1Mq-A0JZ_h9dR_B6L0KD9kXOUxh9DrornMpU4Dk7MNbAtof4nVrGUaHMRia1djj6BPgoh4/s1600/Moji_blue.png",Moji
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI4I3Noi0IsLJfi9XPPoCZ4N898P2206wfPtEHWGXDI9ClK0SZGm96Q28f7kW5K9DrGWcybzA_djQqO8wrGlQu3hcR1aGjSDLzvcKRRXxb_aiGgPpWnOaWdF8EBdNSLDHNtU-s_aSIS9oj_oCJb3dlYMwZ9pnuODUGUTh7Rz1k5IZHzcSw7lchsr6r1Pqi/s1600/BeritaSatu.png",Berita Satu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
-#http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
+https://op-flashcon-digdayasd-1.dens.tv/h/h207/S2/mnf.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbWDMIUSlamttwq7c0YobFoRjCs2dWqhsNB02diBbCv7XABJtfjk3JIiKtLhLXh90mmqpB-_EuW04B9P1ySBICFxWRAJ3ESIgQFdb3SSeIRk3uHQLsYdJ5isUCE9DnjHi496-2ZIy8Za7mBZDNbPiZtpIj5Flr1FotN3gL8hB1qszb0t3iP_KTDas3aw15/s1600/2026-04-28_160651.png",N/A
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8GomYqCzHEK0Nyt-gm8VWBFB94kO_loyILlNPpISbDAGSqwAQN5s2YDzFtbFJEdiTAu9QAuW3eMh1MhmSL7Q0voC9RTgqxKRJ6ePrvCVAUimLVHrGcyo5bWWTc9aItmtyi2rA1K3P9UUImZaNpxvlE7tKdCVqFEQDseJk6HATvQzVYsdhANt2ZnrWpc-F/s1600/ChannelJowo.png",Channel Jowo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #http://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h208/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h208/02.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFkFVsJgvT_Jz4NFv-tr0XSNJ-prix4dwgseohK1Qbu51fm2sFxkkN_VgNPUkfGPFWNJFa8Gw1WCfItIA4A60CWTvHe8Kljr0PXCLuTEmKav0TGvRfXP1A5i9tDdLUWE4t2rwkHFeW7et91mGnc07TX9_lW73A_0ZhpTaQaaSRpIfegZ9b3jbzLRY1mcCx/s1600/Logo_BeritaSatu_Media.png",Berita Satu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -3914,6 +3933,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h210/index.m3u8
 #http://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h211/index.m3u8
 
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhocQmAkfXy_Qq6Arpq-Cvv9kGZMv-5IibXie9wfgXmxGSQ5FtCIR9S4zECnRpbTPh25djI3lMv4Y20NF8jlOcd-5bpns7_omoBvingWVIxOd1NS6JW4MTKA9KGePPxzihBBtyLCxP2V-oD2ffN9oeZ_nfj-YlcHO0dJI5W_z9r1aIkW_tKjsruLaPXwQzc/s1600/DW.png",DW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+https://op-flashcon-digdayahd-1.dens.tv/h/h213/02.m3u8
+
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgE1-KANa4PANWNcMr5dXUQo0Wymg8jmiNY4d1fg7ZKozzKSqqP8UmFviXbQZZVn2-WmnSaA1jtGRarMs07rxGJH0RSbhOWOkfa1QwVbycMihfqQL6ATkaqZ22fzgI8DAaXvTN24BSDyG1Fz4oBkzuhn3gMR6RNbeyroW3VNH4fP0gUSOkjA27YC3CI0PC/s1600/TV5Monde_Logo.svg.png",TV5 Monde Style
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3928,26 +3953,32 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h216/index.m3u8
 #http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h217/index.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmBf4Z2v76qyR6EhWppypImlWnhu9fdB6JvgP2P7zHDljOZRLOZ3nrV_F1lMzL3KSm1o0m9tDYySOcFz3-JTIUYSsFkgc-9AKpJec0fW8wP8yh_SyTP3siZzYdEOS74KsPZT7KqQYnQkr0nyERfIj8dumQRTmu3Y6Fdgig_w11MQTuZBdvonhc3aNYI4oW/s1600/densfc.png",Dens Food Channel
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD1jDkW8IcSDouLGGz6TOwAwsYRX7vRg8RW1gBRaeWioc6Q39htQjjpbQZK-qRrbFszfhcYqSLJHcOOFGpmE2UKoGSq_8gvu8YzLyPLasaXeqhOiKZK72nCyVkOkkwRSYu6su0AaEN7SbAEqO-2WbouFkFSGijijVf90mgL40SVDCCmeFh5_GFM6eo4TgR/s1600/JakTV.png",JAKTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+https://op-flashcon-digdayahd-1.dens.tv/h/h218/02.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFdsuCP3ergMhF2rqjNOduWbSVJA5V7Mxulr_j7d_NFE7qJYXMfRJMlOB35VdH2y01gIo1pCh8XnqctPY9LevaIEfa7oKAf8DfHBAAudIGw3Wa0hv3_aMcRak1pw7fE_4z4n2mtApM6HGRaXS24u0J8BFjJZoAhYDD_einpwI3kFPTYviA63wk9TNwIK4S/s1600/DensFoodChannel.png",DENS Food Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #http://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h221/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_IEXAmVKRNn6eN9LJXxyc36lkkYooLSVc8zGfPC9fj-Z2-G_i6ENshudMf2xtl5w77XFVXQ7J147vkdRv6DRmM0JdC2cBHU0DXVHKKEa_9ey5w6pH6n_XrPi4aEIDb_3JR73B7slBluCn3pwNmPXRLgSNLLs0JdP6D-fInCnfzEjdYsOCKsVVRB5z5BgK/s1600/denslstyle.png",Dens Lifestyle
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6l4OSpYSuxiDPo8CAsMj80RyOKyD_c7HmpB3yyKR2E71rHY8TtbSPrU1WlrhQlznS0Z4561QBIvVhzWAJhoBtJIEmoV9k-fghZqwll-FOA2NDFox3nF3ssRqsv7ICPVVMIWUuwGOLEMAUhEVvjY6B72ooKMxDPJjoYa_o787rwN1j431bcqQS9lW2-8v-/s1600/DensLifeStyle.png",DENS Lifestyle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #http://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h222/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h222/01.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKXm02R7yZeNWgq11dZNDybWPoBdpwQnZQwHDKnr52pREMI2FiM6Y3uN7TzhIK3zOWdRwRAhEvhLjMgIaVj42SP9RmZ2pw5fyRPr_gOg53XT_aJbj-28ziA_kIlXVpkUyTX6o99FP6KD_O7edLqKcxGi4_7QXDuvMl48XiugW7nx0d6NUCqXtUBZyHfhHw/s1600/MDTV_logo.svg.png",MDTV
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR4qKQUcjpfuw9hdYpiXIpK1lpSffZ__a1JYuvEYCRF_tCf-l02gI8asjmzP9I1r9mhf2icD-HeyX4ZfAae1HAxzps1ul_d2XXNhObUrlFjC-iFmmeuW_YhOhawzUDqb7Opx2PFdtS2_ZHv5KtHJaPjbxj3jaVwZz5l2A0X5jbJwDbYrba3g3oEWnJpsf2/s1600/MDTV.png",MDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #http://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1oTvdHQMsktlZjl9Fo4rouXcwnF3gmDJ6-Uu1PcrGyYo2lbxRO4oc-16lsm4CYWBql_Pw5wj2az-I2swXMJo0SjVABx05sEE5PazEjnJ8y6XD__yJfb1sx8RjjDi7Dg7ndjJxeGzyzIOVD3-WdXyV3GRBt7lh4BR_vAPvsMBTZwop0LaF3DSQrO_35bT5/s1600/densplay.png",Dens Play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -3956,12 +3987,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
 #http://op-group1-swiftservehd-1.dens.tv/h/h225/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h225/index.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6xVOQHqcwKWqzkfgBrdu0GbiraEeOGzL25PUwni9BTqbAVU6V8XEwNOHMMGyjQGjjOcJhMJOytRRuwMfKyjEq_ompMXcgGj5q9F97gJMpi_AYPgxqv4FqdSiFLWPOPNGGfu0VvuMywnkdhlVVhFIA9_pACaxikEvTgGfc8UlPs_r0HJaVTKzqgscBEJiv/s1600/Russia-today-logo.svg.png",RT
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_XtX4wUSFWsNYgoGgdG8MjN4T7uVIVTNtlIoDkEcq8BitbB3hBpbgBdG77RmGdT8HGdXnBA5CY4WSd4x84q7DFA4yavJ802s2eQyaMpmrGOZZbt-SQ7HduU1sGMN0qaFVEp7p8PmW2czqG46SXE7K2aq08qt2fEYHCqM0kT2FyWpdpn7kI2kFt-zQekOU/s1600/RT.png",RT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #http://op-group1-swiftservehd-1.dens.tv/h/h226/index.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h226/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h226/02.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_P10b8XSbrJAQMVUB0VxyR7zgMFRLYOiQPkQmknwgBnqNFfmf4qcNb26llb3d-Ybavm3bPGBQ0j4JdG3vFcCCc7fFFcTdhzLxOrSfJR9lkJWmSzc1HUhBedj9muKM78KfO7abqDVzpH619KRV7-H4IHAJeQUxckpLAwOWhjqNZiTBz6NUO3DtiL9tI-mJ/s1600/ramadhan.png",Ramadan Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -3977,12 +4008,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h227/index.m3u8
 #https://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h229/index.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRg7kBQojFc_s2-JbqQyw0NxbZ1ItefNZGQbu2sq1erF_HmMF-VhWYZHx1DOHJRfhZeLMf0kRV6GpQzPp49WwTMvKDQKp-K4x5ev2ThT-spT4-PzrAC4WEOUy2vKCaKrXz97iMHMCwML5u_wFENhVOX58_27PC6mRGzLSQeCGEx6YgQgJsVyxrop-_mcA0/s1600/Rodja_TV.png",RodjaTV
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlKPqQAsrWpEDSBUBl60AJqRkY31BK-jrcLRkVo5dz7qGSVs1g7OWHjfLBube1ffhOTMtg8RT38AuWZRs7ZZKTHyllLM5qEg6WKemnEY0nbN1OsEoMdh-bv-0eMKE0JmYtmzzh05awuD14dAglGrVplr6TxhSDspMy0vY45dT4cXJkRgRrREYLQs45sN0v/s1600/RodjaTV.png",RodjaTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h233/02.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHiyrk45AXz9DqUTVnO9Bgbt1vX2IE1oc8tSFTiyXlBc2TCZVTN6XOXXISG6Ya1oM1V3gwX2nAkqDwnUvNxrdSvhkFZ7sjDK-x2ewIHV5Jc0bwfoRs5CfBOaOolkpYx1CupqKMwGF2g1b9uxiuEIrx3fgPYjKildqmYxN9L6WRFEQ0DOc-8S9hbDMz5zhyphenhyphen/s1600/KOMPAS_TV_%282017%29.png",KOMPASTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -3998,21 +4029,21 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h234/index.m3u8
 #http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h235/index.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBps46_Uk3oC0M28-YcJrTPa8msGB63mOXPPi6DQEpBrrMqpuhhLfKC2A3jWnekVWPUloiIpUvU3omBiS4M3VOMWIyeNjIIir9SZjQDnqQWGTpNSfsHIHVBcLeYdJ0KKwzK-hocH6LMqpejKWujKM_GvP5GLWun7OnJbK6_Qo2YmObFlEqMfWMJD8ab2UP/s1600/densknow.png",Dens Knowledge
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDpnTiczUJ3m5y8zVtGbD6sthneqi1GUb6eoFQF7Ehog020-9N538wh9XmJa3WFr39xO3zB4NKA1zKhLJBAzWth6-1D2lXqqRVrQ7O2RXz9x0BlfGZUPHS4IgJIUIXARzHapCWVJculwjRmtAECR2rWxUsWZjdW_khIx5GD3YXmZTrGCMn-Rdwm0uDYPYN/s1600/DensKnowledge.png",DENS Knowledge
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #http://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h236/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h236/02.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigIJsfrlU-WCEPPs3wujcnLof0gcGAXHEv8dIHqhfcSPi8TV5xmjmn-nNV2Yz2xhofZev1WEeloU9GCle3eNudVGYlqvPqU24B92hu4widr9A1EaUYSfGlwWAcdzevV9esjm14z8DleFHdD4dQyW6l2kfQjWsgMuT65Mlal76tAzrMA0lgIaQD22rfpTIQ/s1600/densshow.png",Dens Showbiz
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQV3RQvDquQ-uxMI7ON5QU46qgUY_AzPuqS_vJtYpy4Mc-bgR1950NLFLEDYdIIq3WSQEDe56nzbxYsvNb6Ed40xyWDb9CiXEpf7A5HpJfvx9y_tNKy32feDoG1y9RI2j_ADUBrmRNrWvXpWkXTSGunH_z3mO-myoMFWJz_aegGlYFKY9yd75lLZWmipAe/s1600/DensShowBiz.png",DENS Showbiz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #http://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h244/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h244/02.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1oTvdHQMsktlZjl9Fo4rouXcwnF3gmDJ6-Uu1PcrGyYo2lbxRO4oc-16lsm4CYWBql_Pw5wj2az-I2swXMJo0SjVABx05sEE5PazEjnJ8y6XD__yJfb1sx8RjjDi7Dg7ndjJxeGzyzIOVD3-WdXyV3GRBt7lh4BR_vAPvsMBTZwop0LaF3DSQrO_35bT5/s1600/densplay.png",Dens Play
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs4wPlKFycWXiezKLP4yG63_D2xHpGcmR4laF1lOLUB2mnU4cnVdg_O8E-gexTdRYHqj8obCEctlIK6TQiQBpwShhidJcw7Oy37pZo0SLNNxcuBTHE4UFW76QoFG8lWElPORaJtITRaZIgR3t6CaGaADtrZa2zaYIBhr3NJdtqHiDzSiJkFWFVvZ8PyqJq/s1600/DensPlay.png",Dens Play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
@@ -4032,6 +4063,42 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h248/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #http://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h250/index.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh98nKmR3GTEwdBdlQnqVw74fFDWFiomCClfp_tCuEfdD6BxUEBKC44rwEVxlevAN8628t8ZiEPLCiNI-M1RGt2xDWCvievEPVmUouVQ06GRHSfVDIuG0QwtikHjclrZ6wsQPA_19Q6Hssf_qvRxlvG4lRJUCGSx4Sb1fHRdqfgtsMZRMqXeaViiOtlYfXr/s1600/Elshinta.png",Elshinta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+https://op-flashcon-digdayahd-1.dens.tv/h/h303/S1/mnf.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguY_xkdHq1HQ15CEnGultSKzYHb6wSKqMpAbjZA9qiIl4n008y9LI4hDKpvDcAkVd8jaWoNqhcpcseR5aDqrCt854Xi-tbcAyX2ldRZgde9BQwJAyUz8OnVS1ZTYhFObgjqmPFO6vI3IXZQ3tefNl6O3VxY7RJvGv5S5bRpWiLSgA-QsntHWTWgQQap5ON/s1600/StingrayClassica.png",Stingray Classica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+https://op-flashcon-digdayahd-1.dens.tv/h/h304/S1/mnf.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC5BvzyRBXp2rrrVsTBhC639N8haxcVzHd1MTvzEbiT98V5iL42g_Aa4kMwD_J8_7wNpJBhQPCO8Gd9ldFQrHBhfOWCMyWL2NAnzxqcUtyNhun0AnT7mLoD_TKVij8OnKnZD0qmXbRjGiuIxEtU-C1ktN_pKUdZsqqhXJJF6Dfazi5nXOcFb4nCbFPrVH9/s1600/AIM.png",DIM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+https://op-flashcon-digdayahd-1.dens.tv/h/h305/S1/mnf.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK0NK8Wug5e6h9Fg4re4cirvUtooZXholMF8svgNZiyWPhj_MrenRqVwU6kQmSsaC_3tkSY2vfyk8p56akWUqgQMVzn9ZcM-R8LuDvkdxYZQMBXKn3UKvJ1RgBANusD5Xr0IO9cOdZU0KtTuQXK-Fms3VD37vYztSxM1mD7-0ETJC5Vn_HmB5A2uSWnXnw/s1600/Qwest.png",Qwest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+https://op-flashcon-digdayahd-1.dens.tv/h/h306/S1/mnf.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFcYecSgSlvUhssMIcjw_6GKMavfDhdK5q4thlKDw62tvwgnd92B16MCxHfb36AKcwB9fN42fzZbdMuRlAHOm2D1W_hTJUSwewDarTTHLC3UmEg_FnmmbDDSGgr8_6_z-sIMtlHElAXMwf3XSGIcvSo1EvigFslbzP9g6Iy7-hCjCqJCs-IGpD4nAYGX56/s1600/WION.png",WION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+https://op-flashcon-digdayahd-1.dens.tv/h/h307/S1/mnf.m3u8
+
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMT3w5okZ4BwiCoSJNM-sEsfWOACNfv7yIqDMEXO8qYzbB43sD1YdGmJjJFYLxLJGJPkCTgZUKOiXw-WzhRJzzNfKLuJqBvk98kLjud8VvwfLE0q8ydzv2nA-WJXmVlfEP5-7tnpRwdSYj4c3jCr4VJ1Aj4G2qwFuOjd2ggPLXxqpfspTgNBVviQ0T0-ON/s1600/TV5Monde.png",TV5 Monde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
+https://op-flashcon-digdayahd-1.dens.tv/h/h312/01.m3u8
 
 -------
 
@@ -4056,12 +4123,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/s12/index.m3u8
 #http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/s14/index.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN9_8NIwIvjBLC93gRCsHy31909zd0pE7RSa4h7b57TlMrPDUVhaPDjlLgNQkw_Kw4YwY8yr9hYbjGmBP0y0dNtCur9Qh8H3cayxgUcDjfa3526meAf9eByAA3P3LdkNQDauBP2_t_946O_ZlxnWmhNoGfDf0R6iq9PLey56Kp40a4N4mbuxjIhWSg4kXC/s1600/Aljazeera_eng.png",Al Jazeera (Arabic)
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhufc7w_qshkU0rX5atWgScjJCpj-XAsovw-fLv8GjJKzvd23faqILrFuWy-9e_qsWBZsL4tenxjFMyqIhPWoyz1Mf8JsM284tAwZZYoO_gjINHgLQBG3Q8psxMHvZL2JLCe_HxeYbF7fKoJt87jSe-QiOMyOvgyJDD0LMaexdeT4117bzAlDUxAfpY18jn/s1600/AlJazeera1.png",Al Jazeera (Arabic)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/s16/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/s/s16/01.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVzbXD707rFHrjhNdgcAN0ZHqqMzUr-nfbSrH_2CrzjLbwIYCUPgEBa6aPw5kYF7vFPAoCqT_FQjbt0HmjV9BLyBFRxJab1JZdtxEbCZCyskixsWUNQWcmFxwgfa1QS9TZTF4zMaCd8rGmUYb6afGW60kwx02PIda_pp8yoLtbo9SD6zP1yAC6GEGt5VVS/s1600/cctv_4_logo.png",CCTV 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -4126,12 +4193,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/s29/index.m3u8
 #https://op-group1-swiftservehd-1.dens.tv/s/s38/index.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/s38/index.m3u8
 
-#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK3MyYIDIXuGJ4b2pvi6KHhOZrb7i0zO5gbL8UQx7VAVQGNr5N6Hlvkc1uDuH-JdSNIOj-EALJ8OYE_Z2JQOX88jqAb7_VI1HWAt0tGUkZqHwrrgVrr-lVSSXzGYdzTadUGSjk4gj9XDLtGdaZcDZR967gUKVa_ZOl154xhF5hVaQSwfd9fozfXWl4Dzl_/s1600/TBN_logo_2015.png",TBN
+#EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZSqXB5vgxIexdnXtkpdXd7y-DjQrXawZHvKlqLFjtcc4OqVSaYt4gIeno8uUq4T1d7M-xo20MxU-XlS95wNi6xeRtunSrGP1WhwU1pNMAYHv7_m_QjJe6CX-Zz7JzEpIx1H_1_KIgdbz4Zx_34sa5uedbRX2fy6tIz7A8qhWKuMcmFwSVZNbshML9-hl1/s1600/TBN.png",TBN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YmE1ODUyNDctMTU5NS0zMWEzLWJhYWYtZDVmMjI3Y2VjODIz
 #https://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/s39/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/s/s39/01.m3u8
 
 #EXTINF:-1 group-title="TV DENS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHiyrk45AXz9DqUTVnO9Bgbt1vX2IE1oc8tSFTiyXlBc2TCZVTN6XOXXISG6Ya1oM1V3gwX2nAkqDwnUvNxrdSvhkFZ7sjDK-x2ewIHV5Jc0bwfoRs5CfBOaOolkpYx1CupqKMwGF2g1b9uxiuEIrx3fgPYjKildqmYxN9L6WRFEQ0DOc-8S9hbDMz5zhyphenhyphen/s1600/KOMPAS_TV_%282017%29.png",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
