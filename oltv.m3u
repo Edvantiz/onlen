@@ -3,54 +3,54 @@
 
 
 #EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test
-https://www.vidio.com/videos/9536384/playlist.m3u8
+#https://www.vidio.com/videos/9536384/playlist.m3u8
 
 
 
 
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 1 (SomoyTV)
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 2 (Elta sport 1)
-https://iptv.852851.xyz/l/V46f6o08BGwo1CpYNqSZAZL55DpM6bija9oMQN2452EgR1ivEgrTsNiWt1V2OwFf/index.m3u8
+#https://iptv.852851.xyz/l/V46f6o08BGwo1CpYNqSZAZL55DpM6bija9oMQN2452EgR1ivEgrTsNiWt1V2OwFf/index.m3u8
 
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 3 (CazeTV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
 #https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
 
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 4 (Kian Sport)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
+#http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
 
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 5 (TVRISport)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
-http://103.148.44.38:8000/play/a05u/index.m3u8
+#http://103.148.44.38:8000/play/a05u/index.m3u8
 
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 6 (PTV)
-http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
+#http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 7 (FS1)
-http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
+#http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 8 (FS2)
-https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
+#https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
 
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 9 (DDSport)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 10 (FoxSport)
-https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+#https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 11 (CTSport)
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 12 (Somoy2)
 #https://wahyu1ptv.pages.dev/MetalTV.m3u8
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
+#http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 
 
 
@@ -2253,7 +2253,7 @@ https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlis
 #http://206.212.244.63/39/index.m3u8
 #http://206.212.244.63/41/index.m3u8
 
-#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7uPkag3lzLYqK8tVjpdbACya2e1dr4890bnaqL_OK0Qv3Qp4WV8eF22Ql4pb4dzWCt1XtxukIy8dGAx_-yprdm33iYuxWDcUAAl_EK784d-rJ42mMSoqHXnsAIMqAKnfVdwVbF85WNu5L4f1n7q4nIefm5_0RE64Aw1urUnBeHTi01vbn7TQSyDxcU8dW/s1600/CNBC1.png",CNBC Live
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7uPkag3lzLYqK8tVjpdbACya2e1dr4890bnaqL_OK0Qv3Qp4WV8eF22Ql4pb4dzWCt1XtxukIy8dGAx_-yprdm33iYuxWDcUAAl_EK784d-rJ42mMSoqHXnsAIMqAKnfVdwVbF85WNu5L4f1n7q4nIefm5_0RE64Aw1urUnBeHTi01vbn7TQSyDxcU8dW/s1600/CNBC1.png",CNBC World
 #http://rezofoot.tv/CNBC/index.m3u8
 http://206.212.244.63/42/index.m3u8
 
@@ -2266,6 +2266,10 @@ http://41.223.30.230/MSNBC/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgln_-h5XifQk0K3mmBHW03mgTWaIf10-YSuL7yA431nFX_-6w4oUHgEBdiYJ1Z4-UdP6obvhIIdtK350LzhbrOAyaBRav66Uh8OUTehyphenhyphenD3aOmdc6wM29mpLcbObioyQktxgghv1TaeFWMJGRMF0di39OcGHvc0G6Ktmmrpadp7SH1ozoHwE0IooEvOOHWM/s1600/LiveNOW_from_FOX.png",Live Now FOX
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO-u6ZGMpeR1rCxojobcJu4hLNJZViVMU8exyH2qwodWYDFbMpwHf3dNKTavcHSNcLzXi7Wo-Sf2BJSbarBFiAGoPN-bKaEwzOhH_R8xu2Ptd4V0ZPKaDxbpPWJfJ_wfO_f2a9HQEjrq0j2bqtHiRFGr_Pu32Ez7HJzC__NiE4bX72TiJvtLiDhyjEH9S_/s1600/Fox_News_Channel_logo.png",FOX
+#http://84.17.50.102/fox/index.m3u8
+https://gpuserver3.tier1streams.com/FOX/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO-u6ZGMpeR1rCxojobcJu4hLNJZViVMU8exyH2qwodWYDFbMpwHf3dNKTavcHSNcLzXi7Wo-Sf2BJSbarBFiAGoPN-bKaEwzOhH_R8xu2Ptd4V0ZPKaDxbpPWJfJ_wfO_f2a9HQEjrq0j2bqtHiRFGr_Pu32Ez7HJzC__NiE4bX72TiJvtLiDhyjEH9S_/s1600/Fox_News_Channel_logo.png",FOX News Channel
 #https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
@@ -2282,10 +2286,6 @@ https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/index.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP0aniRQ1fSfmXbCHRee097scm8dZYs-gCeDNO5IAtALdsoSKlf6xXjA-dL-GPeBRko2PZq3C2froyiYPk_p3K4ha3e-FwzuNqTkdolFUiPpy_DMZYEu81c5uiI-cgLYYfQzhg9MJwhU7LoGkhyLNJ5b50kaQfNCtJiAkq7UEbHhNfqrfCnaRIrnBeuh6a/s1600/Fox-weather-logo.png",FOX Weather
 #https://247wlive.foxweather.com/stream/index.m3u8
 https://247wlive.foxweather.com/stream/index_1280x720.m3u8
-
-#EXTINF:-1 group-title="International" tvg-logo="logo",FOX
-#http://84.17.50.102/fox/index.m3u8
-https://gpuserver3.tier1streams.com/FOX/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_zCIfRYjmAFUtxyMJ_IZ28S3_gVpEuoZhEeacRhuF5JqhxGEx_PeNRYAm6_HkiOtU-8aiR-1jTtEdSQZRnBtLs8Ot7CrIqQ8ls2ZyyyAATqo0wslOWwaGIgjbspoT0Pk5lbt0VY5fVzg7ExdRsw5ZdwzACZ3-Z_lGMCRNG5nLf82xqH3vpFlVD67YtyTB/s1600/Accu-Weather.png",AccuWeather TV
 https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/ts-us-w2-n1/playlist/amg00684-accuweather-accuweather-plex/cb543d1e786c648d9fd43d64d6ef43a4f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac765bdb80148b61299bce8c37683f03409a5e5afba358b1ebe65f148e6ef0e24f55952847e49f43c8821da689d25ccc5ed770f016cb93f88ad4158b8ff33c93748a98cd5c581fb0a43bfae053b2d5946c2a95705a297437c790e335caa1e43d277debf6cac50897ec0d8d57e64a36b0018a5b8572fb0351caa3932c8a86c1b8684032a5d64f606dc0b7e3e26f5642e8e9a387ce0f0bdce02844810db1b8e2026154b1eec215cbe9149db73191b553d059aa9e689487bb8fe3b1c21fd2758a8fc391334641741742a869e2cb3d957986389fc71d77081604b5cc018dc6f84e206e4ab1855cff1a0ff68ed8d4915d6d8a283072dc4df5174560c53f693cc228fa913325c90502973a30fe1764d01bb2e862a5e98ba5353ab3dfd54bb03abce24481a070dc07566e0bbdf62348560c2c809c012304399215aa83b0a21d6f27e3f8caf2c529482431055d018ea2aa30ac87ce2d1201d211414471031c820bc663bc511d50cea8a7497ca512e8a80a7fcdaa92e5a4f85b8b79214b0c/140/848x480_1985360/index.m3u8
