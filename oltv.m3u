@@ -3319,7 +3319,7 @@ https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL4.m3u8
 #EXTINF:-1 group-title="TV Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtqjnRXWcgYLQSg804DjXLSsSVxJp63ucfMljMZWYBUX1QPyGdP2ECEN7YNx48GGEjPbbJfCFBH0Tm8gHos6Ywb6pFuPHvTaCVBtosOvxrXR4dHAhmqdpcDc61CTeZjVLCFx3CaWp719LvS12M58-jh3EdFwksHHApa0r4EfJuNblcN6NSYOhp9IYCzUWn/s1600/PremierLeague.png",B1 Premier League 5 
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL5.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnpx-go2IxxfsUn3CzzWv59CYCW5PhWYctpm1pjS9UYJ5ahHvpg5jw_gfAjFj4uDtiyZBmHuQ4ApoFKV3Qhe6DRBEd6UkVPGI18AvD_nCs0Km9mcmZ8nSIbOOrIeJfHsWoJvLvrQrnsEXcvWe4GcmN8J_8MgNkGBV8jk8cD34aYH2uH-uyN0nX3nnprfSn/s1600/UnifiSports2023.png",UNIFI SPORTS
+#EXTINF:-1 group-title="TV Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnpx-go2IxxfsUn3CzzWv59CYCW5PhWYctpm1pjS9UYJ5ahHvpg5jw_gfAjFj4uDtiyZBmHuQ4ApoFKV3Qhe6DRBEd6UkVPGI18AvD_nCs0Km9mcmZ8nSIbOOrIeJfHsWoJvLvrQrnsEXcvWe4GcmN8J_8MgNkGBV8jk8cD34aYH2uH-uyN0nX3nnprfSn/s1600/UnifiSports2023.png",UNIFI SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -5588,7 +5588,7 @@ https://streams2.sofast.tv/ptnr-yupptv/title-DRIVE-IN-MOVIE-CHANNEL-ENG_yupptv/v
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-KUNG-FU-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8
 
-#EXTINF:-1 tvg-id="256" tvg-chno="308" tvg-name="best-action-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fjbfto.png",BEST ACTION TV
+#EXTINF:-1 group-title="YuppTV" tvg-id="256" tvg-chno="308" tvg-name="best-action-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fjbfto.png",BEST ACTION TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
