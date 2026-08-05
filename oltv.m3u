@@ -545,8 +545,8 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/SportHD-avc1_2500000=10002-mp4a_96000_eng=20000.m3u8
-#https://videocdn.tvri.go.id/hls/tvrisport.m3u8
+#https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/SportHD-avc1_2500000=10002-mp4a_96000_eng=20000.m3u8
+https://videocdn.tvri.go.id/hls/tvrisport.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3ksiOoG-SLD7hgBIkw1LyfTIP_doI3qpxCoYXy68Gl9oUaRrpNwmru_Q1tYcGJIlTwim3KqFxuh1FUuSmEq-VCtK2jJi4jLibgvY4WVF10ZWbw_rVqlMlukMUiqTedbVifYlxe6HYf891dIuqAmDhi8dvMcRJ1zHeZqkUvSsK35KHU7whKbe6tzQmtUj7/s1600/AntaraTV.png",ANTARAᵗᵛ
 https://cdnbal1.indihometv.com/atm/DASH/antara/manifest.mpd
