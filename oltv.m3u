@@ -781,7 +781,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #https://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h24/01.m3u8
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="logo",Metro Global Network
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO5h6U16GuKv5BQAHOOzHc4hMbEziaROPmnByYxv1WTGgxLdaCEQvV0kYPiZ07kArdYtpuqdhlHhqdnVzohqoB0lQy4ww3MZDlppBEP6bE_6fwbdHKqAtLOvwZg4_y4A74ayfNrXQAls76s7N9aYhSQh14Jl5RHTo-GgwM-8xsdFu_-sIJ0PBc_txJkRjR/s1600/Logo_Metro_Global_Network.png",Metro Global Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_sleng.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYI1vglc8Ao4G36iKURMwb1Dvy5uRKmdzAtuEsvDgcDE7XfIxGosZI8lpOY7KHq39btWdT9w67L_fYMq3-m0jJgLcOieExNKtv375Wl8MrYkxsMwQtyNyqOtPArAhKHyKiDzRhIUajvrer7W_JltXfZl_M18KT6P0z3kjy2VyYZdjlOvWiPZiFmFjeSU6O/s1600/Nusantara_TV.png"",Nusantara TV
@@ -839,7 +839,7 @@ https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-327770703
 https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 #https://atemecdnbalancer-voe.sysln.id/live/eds/SINPOTVHD/mediampd/SINPOTVHD.mpd
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-20detik.png",20 Detik
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXisQJhdqno4Uab6bQOfLOxbIdjXlbInzFlO77Bp1BhUjuv43GsMKPuKDWPAPko3gGlvAeCF8BowE8abfxk_GOMVaDQpMCXtSc1eLIfREnlE5Ig196R6ifS5C_qXJBEu8i2kRc-kI-f1_hyphenhyphendJ3AzHBga0Dz-OdrbTUte6M3EBbnfPo-MIj5aRbt0ibiILM/s1600/01-20detik.png",20 Detik
 https://video.detik.com/20detik/smil:20detik-live.smil/chunklist_w793425328_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_XhJ4DSfByMLklb-2rrhyphenhyphenLTGe_cAFsQQc30UojyVhjDcUgTi2Y1P2MUgaFKR1oY5mGz3ENm89Px7TdK4WYXV40Lg1EqZ_ko1VMzqTdhq9Ao7dXmd4IapE5K040-BkJxsUiFWr-asnfob7BLZNb7qM2fNEBxuO-8Gj4Sf5XLrwZSMC9PnZX6DjmfE_VuL8/s1600/Tribun.png",Tribun News
