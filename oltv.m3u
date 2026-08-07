@@ -2122,11 +2122,6 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1A0teG6AprSwgrFSsXjVe7JwaODZEc820zAusSf85wX5LswdhsPS9y3shfCzm07cbrgJlleC8TTQjIscPX2deHoacgQPH7inI8_LOF6b95KlgHb2M3gx2h7V1hTjNkxMfSKPgXouNYp8c-LT0InC0dULVM3GsaXDIsRm0Zd2aiSa9D8-i9o4l3SXLy3ln/s1600/AllBabiesChannel.png",All Babies Channel
 https://d390zi2w1jc4t4.cloudfront.net/master.m3u8
 
-#EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoPkr_UdklcDsTHQyyNln9pAgMickhs6ISMbtuXyCiDPxnDNaFvLwPJeEE9_YjI31gtN_ygc9mTif58Z6ML0sTL-WJLIZ3Ut0zCK9zP8AH0gJzbFhySjst4GNbNioOP0tEtWjp4g-R2Az4vhH-VDYjf5PrLply1zLL9WzVlrbRVIiiU9Onn3Q0Hky-Bang/s1600/DaVinci.png",Da Vinci
-#https://cdn10jtedge.indihometv.com/atm/DASH/davinci/manifest.mpd
-#https://indihuy.streamized.net/atm/DASH/davinci/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/davinci/manifest.mpd
-
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnytllgGqcojF6bKP82IS7u8WZ1aPslE-5mLgC9K9lZGmZNlw4wFFY1KcxpwAdNEeMoy6zrAsvRfXGhZ0TJnPWfm9dHfk8AZsvP4iWLTgPihovRwzGKNp2gYFAVagnjKJ1p03OQJTSQO5sQV2tQ3p6kis0VDAgQNlzVRziBUl1InQbQzM84Ofq4HZXmu4Q/s1600/BabyTV.png",Baby TV
 http://41.205.93.154/BABY-TV/index.m3u8
 
@@ -2934,6 +2929,11 @@ https://movies4free-lg.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_tQrAZ7q5ehmYn1cctR2jvz4vkFRmMlF7CGpJZV-UUaSHmitmnOhK0fLadU5h2YgWx1MKiKE9EAP_BdkADOxpW23JsStrinC2nZARpk9wCLsOMnp0iqAk_pm7vah4D_Qcqh6aLdoYFpIPA9E4PNGG9xr1kda119fTxXgRd85b3Q_J4_AoNCYnlcgqBAcM/s1600/WeTV.png",WeTV
 https://streamer1.nexgen.bz/WE_TV/index.m3u8
+
+#EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoPkr_UdklcDsTHQyyNln9pAgMickhs6ISMbtuXyCiDPxnDNaFvLwPJeEE9_YjI31gtN_ygc9mTif58Z6ML0sTL-WJLIZ3Ut0zCK9zP8AH0gJzbFhySjst4GNbNioOP0tEtWjp4g-R2Az4vhH-VDYjf5PrLply1zLL9WzVlrbRVIiiU9Onn3Q0Hky-Bang/s1600/DaVinci.png",Da Vinci
+#https://cdn10jtedge.indihometv.com/atm/DASH/davinci/manifest.mpd
+#https://indihuy.streamized.net/atm/DASH/davinci/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/davinci/manifest.mpd
 
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTuWSQA_hNBBX_RuYSeCfO_T1-VtFHjNzp9dpZV1UFf33E498a50OdrGfjiEq8OWLrILriibG3ZHk05FneIMyNqhqrvuGeVVcIWH8Hm19TpUUkAscLgDEXSOb_z8PfoPPeESCUGvgrhgJcMuh7S6pFwR0BoKQleXAUd-qjzfqiZPg16-mV4D5eULi52Neq/s1600/ion.png",Ion
 #https://live-manifest.production-public.tubi.io/live/4ed608c9-863e-4ea5-91d1-27549ef1adda/playlist.m3u8
