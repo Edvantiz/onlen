@@ -567,6 +567,7 @@ https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_o
 #https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1758539238_b744100_sleng.m3u8
 #https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w219125479_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ3NzI3ODcyNjcmd293emF0b2tlbmhhc2g9dHVIek1pRzhTNHVyeDg1RFVEb2tfVGFaRWU0ZTdWTjhrTFJfODdIQXNFdz0=.m3u8
 https://stream.digitalbroadcast.id/lb0/8b2ccc69-a926-436b-bbc0-fb0822062ac4/index.fmp4.m3u8
+#https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w675495076_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODYwOTE3NzY2NjUmd293emF0b2tlbmhhc2g9b3RLRGdhX0xZWFdqMmt0SlNPSF9aX1ZyMHNteDQxX3lwNU9HVHFWbS1Vaz0=.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSlcZza7XCdPqT_Y6VMQ2_AoXYsCPoXVTPUbduFjFeQ4mAawesuodjw-0PHsvlFwbThxI1xxX31pY2Of_urjRjVavo0cAWWEYVvR3FF5EfOsRjZaQZBISznKoVt2-Lq5j-OVy0Krhv3_Tpw_DGpagN_eQ6IbSz3i4mlLWhYN6kUiTiMplx2o0GPk-DfDDd/s1600/Logo_Trans7.png",Trans7
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -590,6 +591,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
 #https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w33874835_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ3NzI5NDUwMjEmd293emF0b2tlbmhhc2g9MWNaM2FxdDc4eDBENnNaTGhOU2NKM1E1aW5aX3BmdUo1QU1zdl9kNU5sRT0=.m3u8
+#https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1786091861189&wowzatokenhash=3kHYj5VB7U3eRQqXvQ2oZtX_DpCB9I76dpGNGgD19P0%3D
+#https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w320869196_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODYwOTE4NjExODkmd293emF0b2tlbmhhc2g9M2tIWWo1VkI3VTNlUlFxWHZRMm9adFhfRHBDQjlJNzZkcEdOR2dEMTlQMD0=.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxmgo9hrn8huiDbFTGTZbZ7Ii7AtHsCrx6_tw24nw9m_46XAU0iV136PAseUsP9eYifvjqyvYSKESnr-KWVrLYOE6P1zx7CVo061q8BekkQS2WpjEyT9T2PR9xYFqvgSQKa82wQ6hnWMjq6oacJaekYYXgmslPTKIkv4FFcSqSv47Fy5cE6e9OmfnMDj-d/s1600/Logo_Trans_TV.png",TransTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -722,7 +725,8 @@ https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh02etwF01vu6tdvLzV4N2Rp7Qlptq-eKVXSZjvYJBeWLB7Rs48piKwTazJHekOPoD9AzHdt07NSi4aW0i2F5CbwR7Ch-cmhnnFrDNTbg5SvEyhZlezxRbZGbF3SzhCSUwLjLuPDt72zakWJWwsTMcqoi41v94jQLaeuxWDqSnvDc22z7fmej4C0N2hnWQN/s1600/CNNindo.png",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-#http://iptv.kilas7.com:80/kaukia/asdfrewq/12
+#https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1786091986739&wowzatokenhash=iAKggIuvMKdvZepciFeQp4h84KD1UI7PplGsDb5DY_4%3D
+#https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w1837850968_b192000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODYwOTE5ODY3Mzkmd293emF0b2tlbmhhc2g9aUFLZ2dJdXZNS2R2WmVwY2lGZVFwNGg4NEtEMVVJN1BwbEdzRGI1RFlfND0=.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY26WfskPx6eDG-rgtQ2EHA4egnzBWQqx0Y806LNzSyzvqwAX-DgE5WhEZ5l_f8p1t3U8V39G20kxDLb08-NFk8-YbNNuoDZuRoesD1ZMkrAfzkCle0HVUIVCsBiUIBeZsXy9qnjzsaPsIP1onajglvC3p0lQM-gmRJPeYpkfCcyKoH9W4LP0_JWV2XcTB/s1600/CNBC_Indonesia_2025.svg.png",CNBC Indonesia
 http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
@@ -822,6 +826,9 @@ https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-327770703
 #https://indihuy.streamized.net/atm/DASH/sinpotv/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 #https://atemecdnbalancer-voe.sysln.id/live/eds/SINPOTVHD/mediampd/SINPOTVHD.mpd
+
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-20detik.png",20 Detik
+https://video.detik.com/20detik/smil:20detik-live.smil/chunklist_w793425328_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_XhJ4DSfByMLklb-2rrhyphenhyphenLTGe_cAFsQQc30UojyVhjDcUgTi2Y1P2MUgaFKR1oY5mGz3ENm89Px7TdK4WYXV40Lg1EqZ_ko1VMzqTdhq9Ao7dXmd4IapE5K040-BkJxsUiFWr-asnfob7BLZNb7qM2fNEBxuO-8Gj4Sf5XLrwZSMC9PnZX6DjmfE_VuL8/s1600/Tribun.png",Tribun News
 #https://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID_480p30.m3u8
