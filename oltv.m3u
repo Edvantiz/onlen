@@ -1781,6 +1781,9 @@ https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8
 #EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggkrEsSXp-IYVSAlCaTvd_H2kDjUTLfDQSk40u-h-4zjUHMR54sgWRa6LeoEnnA5ZMRYBBZn1ml_HN0aSdjkvgkFPpzAZ7pJS-UmP6Gj0pRib2j9kZ83W5KOgNEDXnUA540f9PT1fA-wcD3Lvmtesnl_xkNNE7exD-MZ6u3K2omRDU7aNbbfUKdOuZHPvc/s1600/Pluto%20TV%20VEVO%20R&B.png",VEVO RNB
 https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8
 
+#EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR-GQSC49CsnlUGwTDkLuLs7HViC0z8cDVegy2g6BFRk54FX5yCzGKPGJPLk92spVOhoGL7iZEYqvq1WyyjBvCjgFGXLl4ohITmUNGy_be-FhLu4DMuIMY9o00pQd-U8cDLBjjVYiDMi3GrRsTps8TBKUf9S7tctlDYyaGCQYLfQL7nJIHE_NjppRopJ3K/s1600/SpiritTV.jpg",Sprirt TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+
 #EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJIgKP_8LuXxNzu5fjF0y-CIwSj22bh6lHFVs6PBahYIY1mUrfFhSy4URUn9SVnKY9BC_1gR_El47jKfpgoOr8tIhzKbflQ68Z0ziPXqPmyuQgdLvVWtLfwgGVPkLtjSqLuRacrtCCMuDvjivieUpvuEYhzLFI0psb9dO3Lz2azL4C7shrhSf00c0lY2Ld/s1600/New%20KPop.jpg",New KPOP
 #https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/76da8a34-9b9c-4920-b86f-934fbdaa2fcf/2.m3u8
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -1816,9 +1819,6 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 #EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI722S_B8wEDgRuPKm9sr1mC1EatIl9szPX8vv3b-BAmmkKw8wJqGpSRC7vr4ST6sa7qK33DCfVyD42OYynSxKQlEmu6186wDW61YrbzMVECv2Zx7ZK1IK_h2DN1LWJrpm48CGfHwxWSDXfNJVTdfPATW6CkhbfAqP4gCPfs7f6i2FOvL5toJ3ud0gYNwM/s1600/Pop%20Music.png",Pop Music
 #EXTVLCOPT:http-user-agent=AccolaPlay/2.0.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR-GQSC49CsnlUGwTDkLuLs7HViC0z8cDVegy2g6BFRk54FX5yCzGKPGJPLk92spVOhoGL7iZEYqvq1WyyjBvCjgFGXLl4ohITmUNGy_be-FhLu4DMuIMY9o00pQd-U8cDLBjjVYiDMi3GrRsTps8TBKUf9S7tctlDYyaGCQYLfQL7nJIHE_NjppRopJ3K/s1600/SpiritTV.jpg",Sprirt TV
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
@@ -1875,6 +1875,80 @@ https://d1xc25jm9e0l4b.cloudfront.net/XITE_Siempre_Latino.m3u8
 
 #EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvaYsca5X9OW3u6pFqbarhmak_d2Px2SRhPkNMuy4xrd4gmtQHEaWb9VRbbo7YUhqZ1IaMFLBzD2aVX6ZQXmlTThke5ywuxopC6P7BY4P85pKgiSxijfB3chhfeTQoOFTcz-4C3Q5vwLc1e8v7Xtgo9pHCRkqg_mowNsWUsCtJRDSKMabZ-0nZHHJlRXBN/s1600/Stingray%20Hits.png",Stingray Greatest Holiday Hits
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8
+
+#EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjypGJD9DI_GXWdUn_pXcCRtFCUcWWxdjLGv51BFyDgEN0FRMdf0EmG5H4T2l0DlPZ5vt4_eERe-l0dPlGItbTWzGayje5AezKjZ1s-d2wAUeMxCuYS2xJ_IZkJJmeB3uFEKbf1h1hXGOQliIOLMCpCGAf9xk3MmL_nuEIa5LsPU3bDFfSh6SEiz8z7TOJk/s1600/Thats70s.png",That's 70S
+https://tglmp02.akamaized.net/out/v1/d2156f18b3c34252b14c044ec9ca8f38/manifest.mpd
+
+#EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuTpGg_gwbXBY5qjWvmCQsyde495TZ5TNpr75lvN_Zb1fmlvJ5JWuc08ek-HOBg1IZwXR7ExZrqXJ33iFzCyA5kmsexoiZKvG1DeNFohRMvzO-vML6rjb2GgO9fwBp9N-cSnSEXTpMQ2Q0jUWOBIOozTnDd96LSM6mITA1V7Z5mvgTBSZJbRlmyo8V-5X0/s1600/Thats80.png",That's 80S
+https://tglmp02.akamaized.net/out/v1/14873c294e324266884858b6ed436380/manifest.mpd
+
+#EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8-7hZ1Yfi5KssbvonYd50nkS-yvje5bEpU-HtgmQzvM2dAtFJYixICVl2p-ZOWWa-xkHLvGhkPCNSCq9Yu78jHN3gEm_ypBFQ24J8JeVpjA7NiOx59RhCnlvla6gMR8hRmvs19UEurDim-zc4kZbOjO-9csRkFqu1TFrBDTpGYcPSuy3Mev_vRBIfageV/s1600/ThatsRock.png",That's ROCK
+https://tglmp01.akamaized.net/out/v1/6dd50c19c7fc4875a9e76739750112a3/manifest.mpd
+
+#EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiwzqdAn13rqTr3Z_JZQql0w5Bish4CmvwNQXxNVJcrvEbmLkpsa-TznmyXQzsP8nTW_srQsgAR7UI4rgx0TSoRPQBD5PVx09xSyn-FvzK7rkYKs1K7sbf27EzQjVDXWybaVCsAZsl6PFdjz-cXYCjN3728OcP8uKIje4FUVLb-lb2e3axIMx8tReZogo9/s1600/Totalmusic_Main_Logo.png",Total Music
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_U_C8iadIuuMOiP4LJkkVoq7ok6lIUu_X5kFqIVwmtWRZoCmvYM-WLdHc5ycVxgUabHsa_VRnt_0Ku-PLFDb1zXLfDZLITidKwInRU2butH3156aV1cHEJRwldmk2dC4eiUe-KtII5pfbarav2Ws9F1fehCjoJz63_KEvbS6Q2SSl3O7A_zL4eRw1uzXa/s1600/tmc_80s.png",Total Music 80S
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJi_8cSuuXhIaeRRu7EfYGZTxXfkrv_9LLlZLm2NWF5A4rnn6-QSGW8jAFkFbmOkxgqzLr2R1oVMwOoBzvTxxuHl1AYS5vG4KOj0JUBP4FKze6PdKIqOQWWSCAAq5ES3Ppirquil6sUWkMF2FwYtBg7TRZIiMoUi0KaGfetdI8Lm5elyPt39Gad6Z-PD0O/s1600/tmc_00s.png",Total Music 2000S
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8TebN7th9mF_TWyoLo2cIBTwVXO45N8yqTkn-M2TsfjbSVGj1y_Vo1z3Y5G_lOqx2qtdzYw9SvcX73PI26oCJvOEJx5GK3iRkCvcT7pt-z2MB8ABwl1ase6ctGlcx2CYSNVPyEyAaRdrXoYgIM04bG9Km0JMYWKcajF43gLlips_Yc3TD0Ae5wiqbHrEe/s1600/tmc_dance.png",Total Music Dance
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0cUir5UJEZKYgZzepkvbXkUrVSvOvKTINntVquQJwog4YwcUGPCQHtuqJZRZQMzHozOcpYHqoFuFsboGJkfvC_S7pabksItLyNZUo-posClKpvxd4yqbL-NzRvxrrS4RuKNWvd7tG9eUqwxBLtFDTpssqQaXS2Nl9x2K31GFPUyB2mZtqY82mNYYPoG2l/s1600/tmc_concerts.png",Total Music Concerts
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+
+--
+
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayClassicRock.ca" tvg-logo="https://i.imgur.com/FBgu8yB.png",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayCMusic.ca" tvg-logo="https://image.xumo.com/v1/channels/channel/99993046/400x225.jpg?type=channelTile",Movie Music By Stingray
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayDJAZZ.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png",Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayEasyListening.ca" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20250121T101157SQUARE.png",Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayFlashback70s.ca" tvg-logo="https://i.imgur.com/jf5C9QF.png",Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayGreatestHits.ca" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",Stingray Greatest Hits
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayHitList.ca" tvg-logo="https://i.imgur.com/lgpIwId.png",Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayHolidayHits.ca" tvg-logo="https://i.imgur.com/4xVVKH8.png",Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayHotCountry.ca" tvg-logo="https://i.imgur.com/PZhxyIT.png",Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayKaraoke.ca" tvg-logo="https://i.imgur.com/9TLTLS3.png",Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayNaturescape.ca" tvg-logo="https://i.imgur.com/882kd90.png",Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayNothinBut90s.ca" tvg-logo="https://i.imgur.com/Tq3I0po.png",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayPopAdult.ca" tvg-logo="https://i.imgur.com/H2ugC9L.png",Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayEverything80s.ca" tvg-logo="https://i.imgur.com/6E3wYrb.png",Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayRockAlternative.ca" tvg-logo="https://i.imgur.com/mt8ulVX.png",Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayRomanceLatino.ca" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20250121T101219SQUARE.png",Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingraySmoothJazz.ca" tvg-logo="https://i.imgur.com/h1DsOzH.png",Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingraySoulStorm.ca" tvg-logo="https://i.imgur.com/dU1KC3f.png",Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayTheSpa.ca" tvg-logo="https://i.imgur.com/ywAN923.png",Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayTodaysKPop.ca" tvg-logo="https://i.imgur.com/mMbntB5.png",Stingray Today's KPOP
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayTodaysLatinPop.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png",Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayUrbanBeat.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png",Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+
 
 
 
