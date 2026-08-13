@@ -48,9 +48,8 @@
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 11 (CTSport)
 #http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
-#EXTINF:-1 group-title="Live Event" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDCTFxVJdUuHwqZmB-EhDfBVY5WLDc92cb3ZPmf1e7VCFw_gWd5e8iKh1q3g7z_4JVO8dPQGKGBlWpuWreVZ420GKHjYPJKefe2qsYJUKnDlOMTGTefOzpmhRtYJrAe_-XdNGOVNLSjsJHUM7tOzcP1mlgILt_wo47pVGI4Zw-G1zeVQT9F6xw2s1Jhu8/s700/WorldCup2026.png", WC 12 (Somoy2)
-#####https://wahyu1ptv.pages.dev/MetalTV.m3u8
-####http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
+
+
 
 
 
@@ -2028,51 +2027,51 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_en
 
 --
 
-#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayClassicRock.ca" tvg-logo="https://i.imgur.com/FBgu8yB.png",Stingray Classic Rock
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayClassicRock.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-efu7x4I7k3eSidhmBr5ZxY-lj73_1lLg0yJaJVQLVb6m13gh1DXOeb01Jyf7db-Jh8r6fUuTkWi2rkBjyfT4uWTgITlzrH3dOZGJK4btJ6GcOlrhEJZEO9riJWABfv5BaIngjZ7sJ90o4H7xTcPCQkPovESjLG0Zvx-xP_CiBb_T9cLv1nDfpTzYzXr-/s1600/StingrayClassicRock.png",Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayClassica.ca" tvg-logo="https://i.imgur.com/nh1k5RC.png",Stingray Classica
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayClassica.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigdqB3FD2Es2xoapg1BRN2AzilwFfpJXeYhw4xZXeZS10S9R_0SOWrPVbmNhwoYgw9mwjf3rgLZntNhCu5Epa43SzFH-dxH0Cm1dptGKTFpRGDVvQZXoQlh6fZCA4WOv3A7kEziqWZagPuljP9PELNmwVMMz8tsrCtGMeVC23W-xVKOJomvuSqHk9kyr0Q/s1600/StingrayClassica.png",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayCMusic.ca" tvg-logo="https://image.xumo.com/v1/channels/channel/99993046/400x225.jpg?type=channelTile",Movie Music By Stingray
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayCMusic.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaxoxkq3mgYy_N4nXwNUJSy1FXSVCdseKOtxFXIdk-52qcB96li695n9CKlF7WQuci3LEiQBaraojfvB7_zvTBRi7uQdcTMZ2O1jUVJgDhQbMvHomETTa9ghBbmJIzFwiXDEALqWi1pGNc1geKVvb9AbdUkLyrEZtprhlxLBKqZhmGWEsS_rP1sPvae_Sq/s1600/StingrayMovieMusic.png",Movie Music By Stingray
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayDJAZZ.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png",Stingray DJAZZ
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayDJAZZ.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3hPGG1dmJoE82G6URwjVcOy3MutL12PCSWCPKJSSwIKmFX-JkVbPVExC1BNubzPX_QaEicrEUWwR5B5_7r9c_3ccN14azan4MxsWrP2HXWYcC2YuLQ37F4ht_OCHQJKXaWogHBGHCEIhDY3WOBW_cQpQS2Z_jNMi67BW4XsNctOu37eq_sjZMWDNCvD-a/s1600/StingrayDjazz.png",Stingray DJAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayEasyListening.ca" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20250121T101157SQUARE.png",Stingray Easy Listening
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayEasyListening.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrjho4GBJ524eQvHsdJRfSxnTZ525JWXq_tY4PVKv33p7nM6wRDl1IE7BNGwiTg9n3z15K9Fs-GvAfLULRg3ExlNms5ax1fxwX-EPVlAU4dgurV0G4IxUiiXtlDYwT7uBCHOQ0ZJ6Rax61UMuE7MMZmfcwaMCQ1At7jhvuzTsjIlomHCtr7ickfnQTL_36/s1600/StingrayEasyListening.png",Stingray Easy Listening
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayFlashback70s.ca" tvg-logo="https://i.imgur.com/jf5C9QF.png",Stingray Flashback 70s
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayFlashback70s.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyJ7DL4OfIOIU0mjW92W7ht6cvGaHtfCWXOmFMMeFuwqpLDaOZYgxcRU7ED-mMsFjRfOTp7is1Dgsz-MD8_pCMRIZrAJrTU3e0-9P-m4bZrGXMREg05B2dM7gZ_fcO8ylR9PFd-U0QRGqo_hlKltkKWi1fPn1nSEJlMZrsZTk0NyqzJQFREDItqdjgpIG2/s1600/StingrayFlashback70s.png",Stingray Flashback 70s
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayGreatestHits.ca" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",Stingray Greatest Hits
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayGreatestHits.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrKc7me01X9c4AoCcQJEykXGZNoO0KyOPk6LzebJmbvne1qNlwIKXmwQJp3hWtZM_N-LnBx0Id7qihuBnWt1aA22BuE3DMhmQ1sMNpDEbfbUZCftccmuV77gUyJRlGTIPKjrsmszC7xgcfZy0kIBig8LxxYwr7TjkUxxeg-ArvQkvgUWnKK4GOCVEsQGLT/s1600/StingrayGreatestHits.png",Stingray Greatest Hits
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
-#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayHitList.ca" tvg-logo="https://i.imgur.com/lgpIwId.png",Stingray Hit List
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayHitList.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju5uWVCxnG8afPx1YaoNNzv8xDnX6OObmjGsSJSguD6XIxURzGr72EhxfwHWOUkN_78i4knpfMUGUHKP4jwHBTJnkA3dOB-Xy361u3UF4IKFV4W8mLxnN6X7Onu4QB7Cm1TTZmhrHXxqkAEXIpTIfwpvZcOH6JoNhzVXhgWgx57cjbR_NQG5JIaLTcU9CS/s1600/StingrayHitList.png",Stingray Hit List
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayHolidayHits.ca" tvg-logo="https://i.imgur.com/4xVVKH8.png",Stingray Holiday Hits
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayHolidayHits.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvaYsca5X9OW3u6pFqbarhmak_d2Px2SRhPkNMuy4xrd4gmtQHEaWb9VRbbo7YUhqZ1IaMFLBzD2aVX6ZQXmlTThke5ywuxopC6P7BY4P85pKgiSxijfB3chhfeTQoOFTcz-4C3Q5vwLc1e8v7Xtgo9pHCRkqg_mowNsWUsCtJRDSKMabZ-0nZHHJlRXBN/s1600/Stingray%20Hits.png",Stingray Holiday Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayHotCountry.ca" tvg-logo="https://i.imgur.com/PZhxyIT.png",Stingray Hot Country
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayHotCountry.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfYcCf_9LwNYWBlKcoyAvcDhPK53pHnCGKRYepa5MKQ4zQtpKSS582QwW_Ny4Kb_INCTyFfXwBjFXIC1GZm_q8gRWwqCvvW3ayEFjnbsF9HN3vWjILWntVEKhMRh0ahRIjAMs1zvG-u0-WLgGDstmDwYUXro-HFVN9gfhvQeXrzcA61Uozhf2HEW29hIju/s1600/StingrayHotCountry.png",Stingray Hot Country
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayKaraoke.ca" tvg-logo="https://i.imgur.com/9TLTLS3.png",Stingray Karaoke
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayKaraoke.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy0EkRynU0JdPIbZHNXr_EdJ3iXYo0xCEdb2k-I2g2x7seCCHM86GWRFGNwcE2sBkbcC8-2wUZ1KNQhyE1srSTLo3Lm9nSjiYd4rbUGjLkk_8ja4SrYd47zKnBRXRhSG5BZ6YSKM6Dmc0yJWIlcNRs4XpFOK-A8Cnixwl-wvnd_acfaIBuQU1_VjyQB1Pm/s1600/StingrayKaraoke.png",Stingray Karaoke
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayNaturescape.ca" tvg-logo="https://i.imgur.com/882kd90.png",Stingray Naturescape
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayNaturescape.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinQc-Hct2qySf-sHbK8m4IP8RiFsWRqFC6yfWsVqK5mB4PYi1L1-vHaTjoT-TxF78LRwubEmonDPP5Y8adf_8JOh7j3SSNckAK4Xtysmqm7S5Wl3O5NF4RB_JK2Z0qV0iXvjJzZ9TiS-gTDK4or6jf58opUHB8rfD_1EGeiWpTdSXuKFtu6nxg-Vx0Bm1C/s1600/StingrayNatureEscape.png",Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayNothinBut90s.ca" tvg-logo="https://i.imgur.com/Tq3I0po.png",Stingray Nothin' But 90s
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayNothinBut90s.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMWZijm5KJkbybFh_Wac87Sq5FArmu9O2xWK8tlTblyb8Frh1duopPAjSVObguTA3iPm-DXdG-d7ke29Z25fDKT55np3o5Mr2jc1Dt0XHPBINMwdL04I3r6iuAjkHaPGz3WVK3MKH5sORyS8oZ2N4fN6mLYPxccxgePw1_MLYAiNr5LbfsJPiwysCAh8qj/s1600/StingrayNothingBut90s.png",Stingray Nothin' But 90s
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayPopAdult.ca" tvg-logo="https://i.imgur.com/H2ugC9L.png",Stingray Pop Adult
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayPopAdult.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgswAqOcnQk3SHuIHNcshdXBpfk7zFghKotgSlfjAG1H01oaa_5lPCEDA0QTtzXfiyTUES3apL6LCsk_Jd4J4_2N-Tj2Ym8Xl-C4NtV81zoDA1jaMD_8Hp_wAKRvl6_3WX-Fg1gp_2dGOpjS7-DjIwHOlSXy8VF5HNnsogRg12e-IcnI-kcYWUKgF_p85Vh/s1600/StingrayPopAdult.png",Stingray Pop Adult
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayEverything80s.ca" tvg-logo="https://i.imgur.com/6E3wYrb.png",Stingray Remember the 80s
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayEverything80s.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsaQ9XWldUDoPvXvOuOHeUvHJn_XyKp3eAWQ4XFpUNqdN3_TH3-Qr9FJ7_5kUL3kf9ctKAjmnUi1aDWgzSR7JbjnKx2LS9X7VB433k97xF2MFnvO4lJYyRzrJ6q8yUhCg98RgZkOz9QniwOY27ia85-r96oqNIy32A9c52cZeCnKhQdWroMoPrtdgACtYo/s1600/StingrayEverything80s.png",Stingray Remember the 80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayRockAlternative.ca" tvg-logo="https://i.imgur.com/mt8ulVX.png",Stingray Rock Alternative
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayRockAlternative.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi09tmQ59i9P1EqZ6WyoHt-o2cAmivPq5sOtH9brw8dxuM0lsGflXy8pi5QcO4in7egHK4rJxKZ30iEzQ9SteCKZHi7RTeUKjA9QVO4OQ0miJB8wmfSosOK9irARudKcZqjUqaBsNAdtilhA2dSvyeTpXEzEKXjuO06zc366UW0L-H3UPltZR8XyaIZCFtw/s1600/StingrayRockAlternative.png",Stingray Rock Alternative
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayRomanceLatino.ca" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20250121T101219SQUARE.png",Stingray Romance Latino
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayRomanceLatino.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaAW4wWhFw4FGV61N2r_yIWuPJCNNbK1VQA1o72kxaGRpx445bWuvl_TNiNLFQKT79uv6ClX_k-b7kpVB0QAEDCcsFGq_CTr0RaO6fGdPlKpuQ9H9uvJpxnZ5pgb0ghum9y_P3bFCQEwFqqK279DHk__X37m4EbkvEHMHwsal3DcH_kK49Boyow09c0_B7/s1600/StingrayRomanceLatino.png",Stingray Romance Latino
 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="TV Musik" tvg-id="StingraySmoothJazz.ca" tvg-logo="https://i.imgur.com/h1DsOzH.png",Stingray Smooth Jazz
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingraySmoothJazz.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2OXp3_dpVSSuOSkTgTk98GOG1QdHvRoiGpbrXZ63pQ0op7reRNjOaS67Tos91bbAUwqEmDYFb_yWop8zBpgLzMZGP-VZPUeNfD9Zy7o63HZlzLnPD_hyphenhyphen2PVCa_0q6cOcI1oYqjLP15cCVKjR4AketKA5b_zxRK2FK9Tx6ktm3Fs1YLROhQtdTESWrjPb6/s1600/StingraySmoothJazz.png",Stingray Smooth Jazz
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="TV Musik" tvg-id="StingraySoulStorm.ca" tvg-logo="https://i.imgur.com/dU1KC3f.png",Stingray Soul Storm
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingraySoulStorm.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitEVzx0i0SbzVUGeByKw2raehfxbkVKuMOj2loHsNWW8CorjNQypemVNqY_g2ySwlZraKOFs5UXHv5e_-1zLF_Gq8Gih08ZsuHdoxQyxmqfBqmKEjNNRdD0iB2tKAU0w6Y2LN_fq3RV-UNTi8yebkWgsKnupeQeQrG9y4GVh2xsETKW4lvs3uRZ2ZukDp0/s1600/StingraySoulStorm.png",Stingray Soul Storm
 https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayTheSpa.ca" tvg-logo="https://i.imgur.com/ywAN923.png",Stingray The Spa
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayTheSpa.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigd8IRTn32If-Xao8GfMQkdr7OqkQztaJXn4oy3unBLpYAdVIAFMPMfAh1nFYbj1G3T0HAk2bNY3ZUkuXC-Wtvaq-fpPvjG4IXSbGznw0lccB8urQM7UtlsPocpb3l3GP5KC5sNrSoWvir1HYoeqp-TRc3oXqvQmH4RrkRAh4Wuec63w7v-e8VdSZeCPhq/s1600/StingraySPA.png",Stingray The Spa
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayTodaysKPop.ca" tvg-logo="https://i.imgur.com/mMbntB5.png",Stingray Today's KPOP
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayTodaysKPop.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn2gzaAWjxK5tvpe3AoMMD-SiFLbQ5n_u-PFkNFqODTNgas45KoZKHA3-ZeU07rAGAiY0Bh9kugp0r0gL1ZkXAT_g1d7yzk7HJAbTJ_IL_5H4De3oH7mfjEPrWEjK1sK-gadYqE3T0U2tbUnNanfbwJhJ-gvRa1U_-MryIePailLpLievAYW6XZiZjCEdh/s1600/StingrayTodaysKPop.png",Stingray Today's KPOP
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayTodaysLatinPop.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png",Stingray Today's Latin Pop
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayTodaysLatinPop.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjshh2tt1P18HFq5kBTiNhdyDl2Rtda5jAz2EnnRvbAyLBWE1wg5dfvrVUUwLCpuwLT32MFwFtXSKv6MacepZcWhqS7yTj6ft3TqOD7xjssz0lIwGOOj9FVvAXd-eAF-XyEU2V0IB695eivvC4wq_eZ8omqdflpY3Id3w9e00I6vBVD6E8cFM20AL_Q49aR/s1600/StingrayMusic.png",Stingray Today's Latin Pop
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayUrbanBeat.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png",Stingray Urban Beat
+#EXTINF:-1 group-title="TV Musik" tvg-id="StingrayUrbanBeat.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXynxen9Iq7J9mLgLngLXmChZzc3SqkiBVW5V4vyPOp9GuBvIA7oicEYo_5GMgElMAL_mHInhe4LetLGPExqJkZrsDfS75gTHk74jIyMMaSvfjUYy6PJ7nF2wFv3iWW3usoUZnEKIdoxVksUx_DR47diN5ZBp2nD8dPRQ6igotefBhPgUr54BbhwbopUaL/s1600/StingrayUrbanBeats.png",Stingray Urban Beat
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 
 
@@ -2341,7 +2340,7 @@ https://d2f1o3sb3u36tf.cloudfront.net/master.m3u8
 https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8
 #https://dv8lsrd8fecw9.cloudfront.net/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ9v4l_nklg5l1wQFHj7_twgShAl91Xlv0fZ69-Z9-Y993BWAKHx3RLPmT-YCXYr3DpR3pDZ1ib6FRk_aJm_Ap54pJM9dBkA00UNOxlu61IUdZMkZgEithBvXeiqfJ3D2TUsZqZX8sOfehs3j0hR_3s4Q4AO8xqHVBtq02NVwIEDZkAUJceFo0BGfobnMZ/s1600/Logo_Naruto_Shipp%C5%ABden.png" group-title="TV Kids",Naruto
+#EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ9v4l_nklg5l1wQFHj7_twgShAl91Xlv0fZ69-Z9-Y993BWAKHx3RLPmT-YCXYr3DpR3pDZ1ib6FRk_aJm_Ap54pJM9dBkA00UNOxlu61IUdZMkZgEithBvXeiqfJ3D2TUsZqZX8sOfehs3j0hR_3s4Q4AO8xqHVBtq02NVwIEDZkAUJceFo0BGfobnMZ/s1600/Logo_Naruto_Shipp%C5%ABden.png",Naruto
 https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU2kR0IxLAnqqpXNOdGvLgSwZxxOF8DX6jUpILYyTyzwIGiHAB4r5L3herZG7lmpBP5LF8ORP9Muxqw0UJ-25EwGlatDPmLDkp-n8OJ_kbXDW0SoCqoquCvMBLUutN1hAjgHDtKkYGglQ_mFdixsuVliNEPtsl6PSamirdNUBZD1sAbikFyVKYRlsY5Kc0/s1600/pokemon.png",Pokēmon GB
@@ -2765,7 +2764,7 @@ https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEe6cJmvBBev3HUgZE58tgiQggKrDn-_sQ5lt8BuKTVah5RWWIDjyk0VVkNb-YPce4OUI_MM_Ksmp6HVG1DMgu4WUsNXUU2AGa2N7TLdziFgoG3MiR7l3LGLInEOTSRb3IjSw_AZM76c6X_Q5NCzK59tDQCdlTqHLgFKADCRdF7iDjSHpkibKrMZP0ema8/s1600/Real_Wild.jpg",Real Wild
 https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="International" group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9eFz7dvn1unmEw8RkrHuWMOC1xjCRq-bXuvsnH_1qXfOPbFIlOgRnSoUPTP_lFe-Rm4mozXwPcB93axyAB-wG0cW5680sFGIfP2jxWFqKcXbKbg4J03c4qh-4EWreB-bcDgyjRDimUYWbeSF3rUzM0hEb90eFc522LI3YiQzYqdGIiRH4ApRaJqOgehJ8/s1600/Voyage+1.png",Voyages+
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9eFz7dvn1unmEw8RkrHuWMOC1xjCRq-bXuvsnH_1qXfOPbFIlOgRnSoUPTP_lFe-Rm4mozXwPcB93axyAB-wG0cW5680sFGIfP2jxWFqKcXbKbg4J03c4qh-4EWreB-bcDgyjRDimUYWbeSF3rUzM0hEb90eFc522LI3YiQzYqdGIiRH4ApRaJqOgehJ8/s1600/Voyage+1.png",Voyages+
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc6VtPHyD5aMBG-2ItjMqOs1a-NghNdfzFNrzuvKK_F1KxtQ8u9FOv2oBftV1x5zo76kX2FnhU-CWpUM4p9mBxMGIwQ9QJb28ATwZwPgd74pIbMMtamHAAFCWrg2Q6Cnz-vaChQOeBp1txr5FVhD-w1Ic3Ix89wcgzCGWuXtbkedz-QauDItShj6IKGQXu/s1600/Outdoor.png",Outdoor Channel
@@ -3046,10 +3045,10 @@ https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 #https://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
 http://sm-monirul.top/ultra_restream/play/discovery_hd.m3u8
 
-#EXTINF:-1 tvg-id="discovery_hd" tvg-name="Discovery HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHNR6Yhcz4nxz8Kbkm589b2tODBnhaiFpmltq-WXXXrDHCt8eQEkSdVFYgzByQsiRqTs-CGaUE9DTsz0blcKUwd1yPYtYkpK-5EnA97ck0Ol6IPZsvRq6-xBXKtN4Dwxb44Ok0Th0j73_aaOQXfdYEp6joBeZ-NKzEljKtBNov49p1S45FDIjU3L4M-mf5/s1600/DoscoveryChannel.png" group-title="TV Premium",Discovery HD
+#EXTINF:-1 group-title="TV Premium" tvg-id="discovery_hd" tvg-name="Discovery HD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHNR6Yhcz4nxz8Kbkm589b2tODBnhaiFpmltq-WXXXrDHCt8eQEkSdVFYgzByQsiRqTs-CGaUE9DTsz0blcKUwd1yPYtYkpK-5EnA97ck0Ol6IPZsvRq6-xBXKtN4Dwxb44Ok0Th0j73_aaOQXfdYEp6joBeZ-NKzEljKtBNov49p1S45FDIjU3L4M-mf5/s1600/DoscoveryChannel.png"",Discovery HD
 http://sm-monirul.top/ultra_restream/play/discovery_hd.m3u8
 
-#EXTINF:-1 tvg-id="discovery_kids" tvg-name="Discovery Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0_p2O3U8AKD70Gu0qfW8TRxmU4ZAsAlv3u8aD4wnnMtx7RViutnBS7r8KMvwZqTNhlYuDm3IGjgJCyAa9Inr8xi3w5hag_HP51zOS-cIcAmkbpoUAgrAO5BC9GbD9GYCUm7bHoU0cGKwslwimS3NF9Qm1aS00Rc3rFvQmzpiCRHmYSSphNF8UmmzB_d62/s1600/Discovery_kids_logo.png" group-title="TV Premium",Discovery Kids
+#EXTINF:-1 group-title="TV Premium" tvg-id="discovery_kids" tvg-name="Discovery Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0_p2O3U8AKD70Gu0qfW8TRxmU4ZAsAlv3u8aD4wnnMtx7RViutnBS7r8KMvwZqTNhlYuDm3IGjgJCyAa9Inr8xi3w5hag_HP51zOS-cIcAmkbpoUAgrAO5BC9GbD9GYCUm7bHoU0cGKwslwimS3NF9Qm1aS00Rc3rFvQmzpiCRHmYSSphNF8UmmzB_d62/s1600/Discovery_kids_logo.png",Discovery Kids
 http://sm-monirul.top/ultra_restream/play/discovery_kids.m3u8
 
 #EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUKM1L4o8VR7Hh1Bu18wf5DxqZvaKXSuJ4E4zlSwqji60tLPcqDn6k9j26attLezefCzQlh0ZCsva5O1Qyc0cckuMjcKVxe2JKgMmfFd35EwVNFygP7Yy5NJa9lhLXtSLmQHC9mvCoBSzBxFP7q4oXVTll_IoZmPm0DOU6uWrRTfXcMO2Lwdo5e2YtFwGS/s1600/Discovery_Family_Channel_%28DFC%29.png",Discovery Family
@@ -3486,7 +3485,7 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 #https://indihuy.streamized.net/atm/DASH/fightsport/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/fightsport/manifest.mpd
 
-#EXTINF:-1 group-title="TV Olahraga" group-title="TV Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2LU9VJ2MJEv4SKQhdLkYgPiidGZRNC5aI56QBP34SrG3puJBEeROjRXaG3aoshGTMGOm8tpMO1_oVJPtapVMqhdzyrlACJXqcb79Ca-A7lrGp1D8AjPGqr2cqhiZAU1AmKM8ahDAs09hVWHzF5CAjxkSLg9DLMQh9IqsJSNNDPCvvyZg9RgJVRIQe4szm/s1600/beinsports.png",BEIN 1
+#EXTINF:-1 group-title="TV Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2LU9VJ2MJEv4SKQhdLkYgPiidGZRNC5aI56QBP34SrG3puJBEeROjRXaG3aoshGTMGOm8tpMO1_oVJPtapVMqhdzyrlACJXqcb79Ca-A7lrGp1D8AjPGqr2cqhiZAU1AmKM8ahDAs09hVWHzF5CAjxkSLg9DLMQh9IqsJSNNDPCvvyZg9RgJVRIQe4szm/s1600/beinsports.png",BEIN 1
 #http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142755
 #https://love.9xrie8ecms.workers.dev/vx-origin/epl-bein1_720/chunks.m3u8
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
@@ -3571,17 +3570,17 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/maste
 #EXTINF:-1 group-title="TV Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNgebPgera6mzW8SXDy0esdGMpg5lUvHa7qy2T02qb2QlNPp4DQqBMZ_wKQr8w2ll9NWijC_2acq_oSsIVOcvpRbVAGxO-bdZ8iSBvAOQwvxeBCFJT55LmqS-9tAI3pLTMQmQ6ux3Wd6hwMZlENMNgCQ2RocIVCD1iI5KwUtxsU_1qUXFKOgIuW3pORLMb/s1600/dubaisports3.png",Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
 
-#EXTINF:-1 group-title="TV Olahraga" tvg-logo="logo",DAZN 1
+#EXTINF:-1 group-title="TV Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8d4pF2hhCZwXfWKb77kbUm01_E-a4i5OadWMtYtCFc22Wp12LscPoyFeJkeSngokQOe5FPrm4qz7Gd-7T-F9iM8BUOAeu-ayqbRBuZTaLnJ1irBHcT9glzty3TtLbBF6YoRAT4EP8llkJ66gBniKox-ezm8XMNlB40rXcb8y0tD0bcCEwX_faiGVRmm-E/s1600/DAZN1.png",DAZN 1
 http://50.7.120.34:8080/DAZN1/index.m3u8
-#EXTINF:-1 group-title="TV Olahraga" tvg-logo="logo",DAZN 2
+#EXTINF:-1 group-title="TV Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirAOyM2NCOmwGGKkcnxJDm2vut5wSeSacWt9S7wvFH7CbF1FQHdW3FKfq1xestMJxDXFeWKQlqh28rnoBTGiRvpyijO-OWIbGor7h_Foxqi8zGn-CNHCQj1syJDu-5lIww1YMa44p7PdXStFEdF0k1n1FghaFG554rGmUo2-9pM3pn9FBOdFAUHPQbYHMR/s1600/DAZN2.png",DAZN 2
 http://23.237.104.106:8080/DAZN_2/index.m3u8
-#EXTINF:-1 group-title="TV Olahraga" tvg-logo="logo",DAZN 3
+#EXTINF:-1 group-title="TV Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAcBbl8JidSwEl8URRU2f5Nl1U6h_eyYAkVOl3mSeS1fTdl3BOLktSBKw5t0ZRNxq1D9XKzB8ljP9EmT1ufiafGpgc7ZDQwktyCbUYOE5WLQqGoaNeHLRQ54bCX72LqgrmYwiu3V8eZL2Eg640AhEYovr-yHgqpaD1s32oD-mj0_ze_Ljr4K5K7JBIATTz/s1600/DAZN3.png",DAZN 3
 http://23.237.104.106:8080/DAZN_3/index.m3u8
-#EXTINF:-1 group-title="TV Olahraga" tvg-logo="logo",DAZN 4
+#EXTINF:-1 group-title="TV Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4eyNUgWwzCNstZmK11is35rnYjL9wJWzqRti-16tvCq2QQGpLT0cAQejDaCfsVR7i7RdghNX5RMXpchJAhVI2j1TusUu4Z49MVIvn6ZhjJ9xq1miNrENPuwcGW7hedf-3e6ARn_ukBoYfK3RRP3SmeAfFh1nAx-8JT8oUWQ6s62l5fgZbo8qQxEkT8PeK/s1600/DAZN4.png",DAZN 4
 http://23.237.104.106:8080/DAZN_4/index.m3u8
-#EXTINF:-1 group-title="TV Olahraga" tvg-logo="logo",DAZN 5
+#EXTINF:-1 group-title="TV Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNiSaZzhwkZDq_I18OHfadHfXBCRCRDEf72Tt113xFRi4AGC4iBIH5g1VALFcFTAYKgqxPZz_vxJtNcGdYScV1PcPPATbHILLaZKFk_fvKRKUcEEwCU8D668EmwN9o0iooojE4ODIDY-VwdQiJqyGozLfncPBuYl2brheG3dYv_KmXxz77ZrBBOAcc8a6f/s1600/DAZN5.png",DAZN 5
 http://23.237.104.106:8080/DAZN_5/index.m3u8
-#EXTINF:-1 group-title="TV Olahraga" tvg-logo="logo",DAZN 6
+#EXTINF:-1 group-title="TV Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-wYVLsaVa5QoCKTUOKTtiE462cdXZs8oTgRsdzXM5pq63KFaMuQP1Ys0R1tnx7ffPexdS79WAqJOZfWFgbDT1MQIV46p44aJdPxYgPXXJdcfPxLFBS52g0sbnzpgy1gQUXIYGdnL8yxhgItTqp5fou71f0cNK8pniXj4uAc15tIRWG3spOa5gcxO2PEOj/s1600/DAZN6.png",DAZN 6
 http://23.237.104.106:8080/DAZN_6/index.m3u8
 
 #EXTINF:-1 group-title="TV Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxfbGAaGeVnKwFzWdQhlk6o2k1WKREMgWZtBzydHLJH62tC1o5UjydYaVBYKkdkCAggdTNr2ssF6qsllrBrvUy0UfIpQ3lXgS7dH0U2-S9gfCPmPY_zrhc4JtH0TmMbwOlqnD3obkzKj3ZFSWx0MaMLvdR5kBdzQEmYB_4cYh7FqctIK4UFaBeSrX5unN4/s1600/MV_Plus_Logo_1920x1080.png",Motorvision TV
@@ -3668,7 +3667,7 @@ https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
 #EXTINF:-1 group-title="TV Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiygN_lE2RYWmOG6MyVuk5jNwZKQMRUkUHLSyYOUJWp1PJcZRXkbIru_ONtkw1sVeDGFf4YGHGGi3zMUpZtgzyDKcfI4YAPLEuT7jdAIQqs2CI27VYSontQuhjWE07BbihI9iDiUSYUQRHsV4vXRpvkSqxYKBjRGSPB-GD1aNl2tplRHdFkpR8M8T-Ozuk/s700/SkySportsF1.jpg", SkySportF1
 https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
 
-#EXTINF:-1 group-title="TV Olahraga" tvg-logo="logo", Ninja Warrior
+#EXTINF:-1 group-title="TV Olahraga" tvg-logo="https://static.wikia.nocookie.net/sasukepedia/images/9/92/American-ninja-warrior-logo-png-9.png/revision/latest?cb=20200326152101", Ninja Warrior
 https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.m3u8
 
 
