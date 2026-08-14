@@ -1188,7 +1188,8 @@ http://122.248.43.138:1935/jpm/myStream/playlist.m3u8
 https://cdnbal1.indihometv.com/atm/DASH/balitv/manifest.mpd
 
 #EXTINF:-1 group-title="TV Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMjZOXlWwiHpxwKPVjc1vHHTfxWXSerL4IrAO54jnZXNtTBmjDAxHdShmWiOJtrIsDKrnSt5UfHfUNyIM02JCEVD54pr3kTpWa9P1V-mBAjrjEw_hvy5Sb-HbP3_fjZ3K5Y2huTddsOwhiw1CuAhX48RLA6317_B1YnwwFbJfL7ks9kn3AvKP9dH-Cb1gz/s1600/sangaji_logo.png",Sangaji TV (Jogja)
-https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+#https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
 
 #EXTINF:-1 group-title="TV Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnnBjEpryz5OwmmqN4Y3rWKo-n4X2P48MgM6fE2_H7b71tr2UiXqzSRt5WQ_O0_jy79apSgGraHyQ2KNdxC4hjnSutSzqQ8sK5Vq_6zJ7ALGW18O_gHgVRpIdiE6q-0p6GBPWcJhBOc4kwkuCE6o_woRo_f3SwTP2vuHA0N-tzor0u-NMPpQ1tz8iHvyTO/s1600/JTV_%28Indonesian_TV_channel%29_2022.png",JTV Surabaya
 #https://63b2dc7196c38.streamlock.net/JTVSURABAYA/_definst_/myStream/chunklist_w1234382599.m3u8
