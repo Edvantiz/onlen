@@ -1119,8 +1119,8 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO7n3ulX6slnpBS-GkUZGQ6hbdsAKAHZO4r_ukEkLtgq_S1Xk9HkO7SFKuWNMQiBWkh4mkmmjMKZthvBavZFUEpcNemb7B1Int1xKRBwdzzU6JdwfAZHQfFzZ6vo_21Wks8C6BBlqg__b2acpB0NkWZAHX-IspnD-42lK1UnJkJhiXOchoORDSXm8FdkJQ/s1600/Jambi_TV.png",Jambi TV
 #EXTVLCOPT:http-referrer=https://jambitv.co.id/live-tv/
-#http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
-https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8
+#https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8
+https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8
 
 #EXTINF:-1 group-title="TV Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4uasD2zdr0RM3cgT2weTAIO2zZlF_h8YHFC6fuJvJBlr_Ehf8MJuECsQqEN2t7twA0OgJMATfnqwi5BAtHiRGwh_yXoU8IlDAO5qw8vlVKdYj8o9CtEwwuY1wZcXSWdIAxYvfLXodYxFH3mbp5UNxukUWeoeczD3bJCOrh6uAhEobDpLxVQPItBF2KKeS/s1600/Jektv.png",Jek TV (Jambi)
 #EXTVLCOPT:http-referrer=http://jektv.co.id/livestreaming/
