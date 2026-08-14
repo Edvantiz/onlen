@@ -2444,9 +2444,8 @@ https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 #https://fl31.moveonjoy.com/BBC_AMERICA/tracks-v1a1/mono.ts.m3u8
 #http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #http://23.239.31.26:8989/bbcamerica/index.m3u8
-#https://gpuserver3.tier1streams.com/BBC_AMERICA/index.m3u8
-#http://206.212.244.63/13/index.m3u8
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8
+https://gpuserver3.tier1streams.com/BBC_AMERICA/index.m3u8
+http://206.212.244.63/13/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9vPDdyySlJZwnR1Nn-2i07WrJbnX0dCood1eRGOzogk-Y6eofwamsJUZV7Cyy0a2xlEa1i2KU5T4OQw9it6m5_52nW6V2JzF2XcYNcc4aOQCEudhFr0-MSkV6iputC1Rr6F09JV4CCrBrfSqC4-MbsH3H1L4R9feOLkdgMgTb_ymgfX_qxCZdO_HSiHAf/s1600/BBC_Earth_channel.png",BBC Earth
 https://live-manifest.production-public.tubi.io/live/88810cb1-e91e-4f19-870b-513ffc9a39cb/playlist.m3u8
