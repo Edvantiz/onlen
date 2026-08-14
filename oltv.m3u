@@ -2202,7 +2202,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fb6c84dd37df3b4290
 http://45.126.83.51/qwr9ew/s/s50/index.m3u8
 
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFt6XWtQsUpawbDAX98h-YGF9N94PiEbu4JKjxPqTpbGZZ1ERg6ovQfkcJ_vz-UwAtC7EdPB-Ak9YMkqOItKhD7jKa7dU6EG48BCB_npDkwJywmdcK8Nfyyw9-UFfy8l6rSV4iVaQclj9v2NWS2vycvzZI2ngHq6zsN40tW2iboG-IJxSi33-5ppVjLh1J/s1600/Spacetoon_logo.png",Spacetoon (Dubai)
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w158753526_b596000_slAR.m3u8
+#https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w158753526_b596000_slAR.m3u8
+https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/ST_MENA_NEXT_1080p.m3u8?pkg_media=video&pkg_alone=1&pkg_hm=r9p2hjipmw2kl.m3u8&pkg_svc=1&pkg_vcodec=avc1
+https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/a_1_0.m3u8?pkg_hm=r9p2hjipmw2kl.m3u8&pkg_svc=1&pkg_vcodec=avc1&pkg_media=audio
+https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/ST_MENA_NEXT_1080p-1786700062080.ts?pkg_hm=r9p2hjipmw2kl.m3u8&pkg_svc=1&pkg_vcodec=avc1&pkg_media=video
+https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/a_1_0-1786700062082.ts?pkg_hm=r9p2hjipmw2kl.m3u8&pkg_svc=1&pkg_vcodec=avc1&pkg_media=audio
 
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDeKPTQ4Xmku4-RmcvNJMA-8wZDy34K8Otj8HrXH2yuVUSbHalKw_1eBZiA81Ga-EgLDy_6-IY70Jp3GNZ7rU35auXxPVn0CkASNGfqiWI8OZvA3PCukuSU0CWr1lLKmtSaymG6yUAX1sHrx9klfMOHZL5kqpXMUPpCRA7DAqHBiSK4c1gOyCdzZwZCWx8/s1600/Zoo%20moo.png",Zoo Moo (Samsung)
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
