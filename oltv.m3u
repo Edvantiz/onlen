@@ -2472,7 +2472,9 @@ https://cbsn-us-vtt.cbsnstream.cbsnews.com/out/v1/ef868690d34144509eda696884bf16
 #https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh31CDhfYDv6hjAuPyY80pTNktK89XVOQWsJNHDltKuoBNdkKs1DgZFGKwU9ZMjGOPwqwGKRnXUIgqanE5RTl6HeBmfDfni_yK_PuvfyLOaUEILnttgImPw6_t1Rz4UwhSv-YXPKm98COMG9KWaYKHicw1_87KfyonTD9PlcqFh3V4JOHcSlYetOlJhfSGA/s1600/cbs-news.png",CBS News
-https://dai.google.com/linear/hls/pb/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/268de6c7-536a-4f5d-a0f1-00f0d0741eab:SIN2/variant/d97af4c27467beea3da650488b681b9e/bandwidth/1083000.m3u8
+#https://dai.google.com/linear/hls/pb/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/268de6c7-536a-4f5d-a0f1-00f0d0741eab:SIN2/variant/d97af4c27467beea3da650488b681b9e/bandwidth/1083000.m3u8
+#https://dai.google.com/linear/hls/event/EezGs5EpSjSr-sYjB2qysw/master.m3u8
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6si8huDRuKGPIQmHTvvPEBSU2-RBNgDLwHnMVh_ti0bxsvHev1KFNJlQqGGlFR4U2joizWop2Jt6R_fUoyvhrD4_lh7gydJSAZ1LMwWA8eWB1SxcAIWvDdgE7uxs6zS84rpQ7kMUBEC7eaOc0SyxWXC2oLB1aZTpIyUMMxFrGK_TS50QZpfWwgNI9zZJ8/s1600/CBS.png",CBS National
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
