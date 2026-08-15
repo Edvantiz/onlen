@@ -1538,8 +1538,8 @@ https://tv.aliman.id/aliman/live.m3u8
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHnKtqB34cNmntk0oEdD7Yv3PhsnesT0ljf3lUCTFZr6LUOqcQgO3WrADKUqMQjCpyZMj0cDPaPVjkMFBJLSJ-52h49CHcUC8XMxcTr6L1xizqd2Oq_CR4r9jejodevLhWMsM9HWfXFUT5jdYmyALVcoszoyd4ZkBbqZiCvDTYYmL6kSqODr5LrSGXazyU/s1600/AshiilTV.png",AshillTV
-#https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
-https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
+https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
+#https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
 #EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH5aHzDfeG55dgNT1kB7gAxGIZis6P1qjlp3vfFglfvRaY44DYeBkpg8koMDXdKCncr6hO7HTFrcmnV5e3f91iwT9aYm95Z7OPFGOxwxSwBJcr56Z6zPifZFDDeeBrlspfU4Ec-nHTye8kLNF5jRjyw0Mz5i-0YsjneoQixBmNIBHtUHp3FAfWmq1rMOIB/s1600/Logo_BRTV.png",Badar TV
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
@@ -1577,14 +1577,14 @@ https://e.siar.us/live/tvmu.m3u8
 #https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/mtatv/manifest.mpd
 
+#EXTINF:-1 group-title="TV Religi" tvg-logo="logo", Naajiya TV
+https://www.naajiyatv.com/live/livestream.m3u8
+
 #EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5A5tzBStaiOVUTULbqRdho_Dwi6Dw3CgGN_j5Qhd8WPZyLbTv51YwrTT86q2nYtKUkHpFKxBYakpm_dopn3PGozFQl76LrRCjfbFTOlWO2zlrZ6KWrXu9CzdltMTYz0zQdvJ0qXyDfShc30o-hGDHFUlOxC5JcRgFYMQyEoxARauKsCOsuSn1Ncpm9wnX/s1600/NabawiTV.png", Nabawi TV
 http://202.150.161.117:8000/play/NabawiTV
 
 #EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRg7kBQojFc_s2-JbqQyw0NxbZ1ItefNZGQbu2sq1erF_HmMF-VhWYZHx1DOHJRfhZeLMf0kRV6GpQzPp49WwTMvKDQKp-K4x5ev2ThT-spT4-PzrAC4WEOUy2vKCaKrXz97iMHMCwML5u_wFENhVOX58_27PC6mRGzLSQeCGEx6YgQgJsVyxrop-_mcA0/s1600/Rodja_TV.png",Rodja TV
 https://rodjatv.com/rodjatv/live.m3u8
-
-#EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRg7kBQojFc_s2-JbqQyw0NxbZ1ItefNZGQbu2sq1erF_HmMF-VhWYZHx1DOHJRfhZeLMf0kRV6GpQzPp49WwTMvKDQKp-K4x5ev2ThT-spT4-PzrAC4WEOUy2vKCaKrXz97iMHMCwML5u_wFENhVOX58_27PC6mRGzLSQeCGEx6YgQgJsVyxrop-_mcA0/s1600/Rodja_TV.png",Rodja TV 2
-https://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 
 #EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmpJjecC_KyBTr12Qend7LRLD7Lv32ZHGOoTjE6fxJ4BBL4Iag2LxyVmRkH3EQ96S5GkYvOXT7HYAFle4dkhpj1gDj7ie3ubTpJKOqAXWuHufj19iLFpEXn8BPZ7wyDx1YpPET52QUmrlP8y3OgluvgsTddWLSzQxVpYyCNnXYS1w_GZfAuVA0xUQGxiUr/s1600/SurauTV.png",Surau TV
 #https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
@@ -1598,7 +1598,7 @@ https://indihuy.streamized.net/atm/DASH/tawaftv/manifest.mpd
 #EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiak3ZQugCjzRlu3kEYYwLjO4M3HTCfWfxI-R_qbP_5Re_GttS0xv06uGLsoUN0hz2fICAs2KJWgWaVfiyTd2gYbgIU7XdhxL3xwZ0FOX0idvD_YJWvBqgIZNE-pWevwQApuMP57yp501udvlPOtEB2x17VUDNM0IVTaX6IvTJ11Po-GEM3tlTJptHN7o4J/s1600/TV9NUSANTARA1.png",TV9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8   
 
-#EXTINF:-1 group-title="TV Religi" tvg-logo="https://bloger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGanqE3Dv2439fG_wSNiP-gndZ1brZff8dPU2PllOTifDajYCwDJTxFrXZvIiVZaz53xqGr_uq-DOwZKQMZCC22IXNEt_osm7fvhsudNxGqQoZCLZ6GxVdMiEBZ5P1itPWOMWSiUJIfc1HB-g7NfKqbKdH0Au3rzDu6pQrcvc_axu4yYG8Cc6Apjt6pE9A/s1600/TV10.png",TV10
+#EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGanqE3Dv2439fG_wSNiP-gndZ1brZff8dPU2PllOTifDajYCwDJTxFrXZvIiVZaz53xqGr_uq-DOwZKQMZCC22IXNEt_osm7fvhsudNxGqQoZCLZ6GxVdMiEBZ5P1itPWOMWSiUJIfc1HB-g7NfKqbKdH0Au3rzDu6pQrcvc_axu4yYG8Cc6Apjt6pE9A/s1600/TV10.png",TV10
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u83u8   
 
 #EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZAzuSoJ2q1wqv24NmXB7SycawqR45c77b0U1DYN3lBDZnHaMD4KyMxIn8kZIOqvfaJcswUmh35Gn0jLekROfndO8_9NNSIdiUhM2Kdkr0Fb-iqO5G4Tk8WlPL0NZaymDuswjTxuGKNNSh8lDi9QakYWrFUc6rwQnKpv1rfa3ncdOMvTdj4hd_zUnLAFF7/s1600/Wesal_TV.png",Wesal TV
