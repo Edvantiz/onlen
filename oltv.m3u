@@ -5539,37 +5539,85 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed
 
 
 #EXTINF:-1 group-title="YouTV" tvg-logo="logo",001
+#EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch01.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="YouTV" tvg-logo="logo",002
+#EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch02.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="YouTV" tvg-logo="logo",003
+#EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch03.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="YouTV" tvg-logo="logo",004
+#EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch04.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="YouTV" tvg-logo="logo",005
+#EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch05.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="YouTV" tvg-logo="logo",006
+#EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch06.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="YouTV" tvg-logo="logo",007
+#EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch07.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="YouTV" tvg-logo="logo",008
+#EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch07.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="YouTV" tvg-logo="logo",009
+#EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch09.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="YouTV" tvg-logo="logo",010
+#EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch10.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="YouTV" tvg-logo="logo",011
+#EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch11.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="YouTV" tvg-logo="logo",012
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch12.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="YouTV" tvg-logo="logo",013
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch13.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="YouTV" tvg-logo="logo",014
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch14.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="YouTV" tvg-logo="logo",015
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch15.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="YouTV" tvg-logo="logo",016
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch16.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="YouTV" tvg-logo="logo",017
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch17.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="YouTV" tvg-logo="logo",018
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch18.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="YouTV" tvg-logo="logo",019
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch19.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="YouTV" tvg-logo="logo",020
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch20.m3u8|user-agent=Mozilla/5.0
+
 
 
 
