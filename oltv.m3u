@@ -963,7 +963,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
 https://hgmtv.com:19360/asthatv/asthatv.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDJRF7u05B0l-aNiT4PUjOgxYer3xBmXo5wJkcVD-tRBr_kGOPNYzJzYzgOYose7hp7Kjp1q2FawFXxQuPAxla0vLc2KJMXVLIYYyZJhQGQPbfelvyWBFKQcqZ03ekftqi99Ge0AMT0ATKa7cLYhtH6qzd3Av2rocOLdS3K_qf0qzeFWfdT-Tnf5V6cW1/s1600/logo_oxygen_new_site.png",Oxygen.id
-#https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
+https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 https://why.biz.id/Iptv/oxygen.php?id=oxygentv
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia8PEmF68emNoKUxaKIl04WwrkwczdNMVHlH-Uzxke_-UkyBtToYOUa2ZgZcsGQgDfmVn2pXt_eTRVd8PkxPpFg_a3F26a6ErKUjdrjzOKLb5ox7Sk7hPGYIi1FBilbZXS79HiKAO5i1UAmsxx2-GAEyNwdss2yPKWBRGPEHugbfyuT_PcR_h1tPNP4WMw/s1600/TelkomVision.png",Telkom 24/7
@@ -1089,7 +1089,7 @@ http://122.248.43.138:1935/ch12/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_H-WqfWbQciKpK32KlE958hSSa3Ae-nNKgH-pYhjdOpELwfNe07NJ1l61SjZlrNeGD4_ANGUyhYXjpi6YPLdfgV1_fPYNKDOpPjDgVMe0q0c1LN4BUq7uL0kQiyYvpTfa-_R9OebwFpNcRb5Qu8cb429HNIpvQ-eLhdXY05jQFxFB0DyO7iovj3IQeTBB/s1600/RBTV_Bengkulu.png" group-title="TV Lokal",Rakyat Bengkulu TV
 #EXTVLCOPT:http-referrer=https://youtv.live/
-https://flv.intechmedia.net/live/ch59.m3u8
+https://flv.intechmedia.net/live/ch59.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="TV Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifOsBIY3NTNW32czrS-2ovueK1mAzloxvk8d7uGqya07zDOdRcWI9hV0jtYk4bG1G7x0Bf_pSBFZj-2ovxw6s86TH2JGxWTY85Y8sd-FjjVCOfhbhF-F6LqcnXePmUpBla_lw8wOzOEF2-Ze0esQJqPsH3iK2gutcenTLjRlyKKv2J3IWLlKJYXRPAAeYa/s1600/BETV_Bengkulu.png",Bengkulu TV
 http://122.248.43.138:1935/ch3/myStream/playlist.m3u8
@@ -1314,7 +1314,8 @@ http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
 https://sampit-tv.siar.us/live/sampit-tv.m3u8
 
 #EXTINF:-1 group-title="TV Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidv-7xPv_JpSJx0tXyfIcdnWJLThv6bvxvuvBOwlnPEA9Gan40YBSv4FwSlCF0BdWsJzNbQOBLLo5ER2TSmV2XZzLBSWkGpcxk06rCC77aN63C_xYOSUdjQ2a1qhbB9tzOrzXDzePdToVbkb8K3CM0zipTzbgEHFhutkjjMvJStwc6BX5Ms6NFtLjQ-aTn/s1600/Logo_Hayat_TV_Sampit.png",Hayat TV (Sampit)
-https://flv.intechmedia.net/live/ch60.m3u8
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch60.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="TV Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimMD6OLrikcbt69W-zVLY6VjGypy65aPlVBmhyav_SMHWjr7WMCPwiJaFvc2f5CmYcLrBVgBwckofEgmIypo8uE1mcRwTHdHHcJ96Nkv7FUbrPcfYwFvLIlLUHcSti-ST-IwiY024vyzE7pwcUVpvzJ7BQrGiHoKoBrBKLWCvF1uR3pYuZFYBVabgFM2z4/s1600/DayakTV.png",Dayak TV (Palangkaraya)
 http://122.248.43.138:1935/ch26/myStream/playlist.m3u8
@@ -1370,7 +1371,8 @@ http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8
 http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjchqfLKfxb-BHLByCfRaxI9N4dB38f__8aicz1AjMA1XhnTClOxOo3NMNl2JVXo0XHBce-i1jTQalE-jviTIV30JARQxCaDx-c2N22EAq3B8vo2Cu17hKo-3pnUjIl8jEoxVwWsSyvwV7r_m2ym86PugAvzLBrl509c_GJXZp8JFxMtUEvNj3w3B0VwF4F/s1600/JayaTV.png", Jaya TV (Jayapura)
-https://flv.intechmedia.net/live/ch52.m3u8
+#EXTVLCOPT:http-referrer=https://youtv.live/
+https://flv.intechmedia.net/live/ch52.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="TV Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibKZRKqVGQREGZYp2YHiaN6q3gyfXYLqtuvkWmffI-1mU0_SLk3uVa9zM75TA_mVvTlcngEnILvSbZIbJCINHamnLTyeH0NFa9gfoGZ1W7r-dMKUITvFHHOZ6TlkaduVVfshneaX2aI1YC43sRW30LXJXK_Bul6odCzhby2EQln7Z2SqdRCAoYgOepdFkN/s1600/NTV.png", Nasional TV
 https://tv.nasionaltv.com/ntvlive/index.m3u8
@@ -2061,15 +2063,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 https://cdnbal1.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVJIv1V4fPPsVzELisMuzttOLeZ1-tRC3LcXZiXIy3hN8QYbjLUSy2quK-VlCn6jMA3kGiRcCVan_LMAKbhO8p03Jdo5hXokYHmD7pi3rDyDGd9FvAwmLE2bl6oSOaB-LO_jmfkeqrijQ1vKSzG3xlr9iyDQ2o8GvLfg57pqnNVI9XObR17H0rCZPtA2Cj/s1600/Mentari_TV.png",Mentari TV
-#https://popmi.my.id/tes.m3u8?id=8237
+https://popmi.my.id/tes.m3u8?id=8237
 #https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=8237&type=hls
-https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/8237/file/stream.mpd
+#https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/8237/file/stream.mpd
 #http://tvratu.my.id/nissa/index.mpd?id=8237&type=dash
 
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0gyIeSCQMMPZN3JtujLbUbIW4ZfA_Ri9A-3KGTlj_yNArUfawfeyStaXl4UNLynw-5Cupu2lPnWr8GEUzjlWpmLLXGq5uOAnu_9py4jLXKxknYgI5GLrMmAPdacXRbfBQkmhk0CuMGzoxG5JYSCgEM4OdsZL7uf78CJeEzEpJAoLO2tbP4L-PVRqhw_tC/s1600/VTV_Indonesia_red.png",VTV
-#https://flv.intechmedia.net/live/ch107.m3u8
+https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
 #https://raw.githubusercontent.com/luthfikenteng/Ina/refs/heads/main/PL/vtv.m3u8
-http://103.66.62.83:8000/play/a00c/index.m3u8
+#http://103.66.62.83:8000/play/a00c/index.m3u8
 
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMDRoEjSo2jMBzpVVuyQwC9YKDNqaRiYg_jFZ4rrxKPlHnHWxxTCKhR_vCTrleLkDHTtv-an1t8LTaHn6HxqMsg1HArM3I1Sb9kLupwQNyAbkQTTfH5KDM40TUJKUeKb_B2rEw_w_nrsipZADOm4P6PUTTbiqSSDScCHwJOYufJAv5hFBZwIcgWIgSowdX/s1600/Biznet-kids.png", Biznet KIDS
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
@@ -5531,6 +5533,45 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e
 
 #EXTINF:-1 group-title="TV Pluto" tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png",Yu-Gi-Oh
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+
+######## YouTV ########
+
+
+#EXTINF:-1 group-title="YouTV" tvg-logo="logo",001
+https://flv.intechmedia.net/live/ch01.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="YouTV" tvg-logo="logo",002
+https://flv.intechmedia.net/live/ch02.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="YouTV" tvg-logo="logo",003
+https://flv.intechmedia.net/live/ch03.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="YouTV" tvg-logo="logo",004
+https://flv.intechmedia.net/live/ch04.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="YouTV" tvg-logo="logo",005
+https://flv.intechmedia.net/live/ch05.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="YouTV" tvg-logo="logo",006
+https://flv.intechmedia.net/live/ch06.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="YouTV" tvg-logo="logo",007
+https://flv.intechmedia.net/live/ch07.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="YouTV" tvg-logo="logo",008
+https://flv.intechmedia.net/live/ch07.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="YouTV" tvg-logo="logo",009
+https://flv.intechmedia.net/live/ch09.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="YouTV" tvg-logo="logo",010
+https://flv.intechmedia.net/live/ch10.m3u8|user-agent=Mozilla/5.0
+
+#EXTINF:-1 group-title="YouTV" tvg-logo="logo",011
+https://flv.intechmedia.net/live/ch11.m3u8|user-agent=Mozilla/5.0
+
+
 
 
 ######## YuppTV ########
