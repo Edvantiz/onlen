@@ -1034,7 +1034,8 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLpkpO4VqhYt-4mMZWmFhnJzu7JuMbCvsIVqAp2_16xbrBB1Rcl5PVZLW3FrFngw8r4u0jnfV5F5KufBN3wR4J9OFS0s6zynVCn4KcXBol3-rR-KgAXC63ZahTxgQDETaPX-qL_zXdr7SxYDtmlzyHz9jionxZbsDH6BxQaLgMZdLhYbwYhziJvGNm5TF6/s1600/MGSTV_%282015%29.png",MGS TV (Megaswara)
 #http://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_mid.m3u8
-https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
+#https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
+https://mgstv.siar.us/live/mgstv.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilv4fzBqk1BrOsLQh8-KLjWZsaLHnKyPbGksllMl-2oUFKQUQ0vurtIPkZ020tudD47Vr8VQKsKVqMWCUYHiomRmFEpB2wGooEkG7nRf32B49TNXEg8W6qOjbdXVD7Jl-usVaLPN6rqJ1uRnSMkUUqT7cTLupxbjsNAZw0VuAmo_FqUtTjyqC2nmx7VEpZ/s1600/UGTV_Indonesia.png",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
@@ -1381,7 +1382,8 @@ http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
 
 #EXTINF:-1 group-title="TV Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgulw0nqY3LAA0AxSiM3xWicSYTyR7h2mLYy2uURNJatWfUYRolLOSe0JeYrG6MTOE-eUtJq0oHYR9lq0Z7_NJYx1AI_3qCc6A2yyutWyL2SVap6cnpYKOPitMiq2diylHvm8uJWTxiyyDqqeMits8ZJ3m5WWaPStBx4QN2umYb20v6N7wSrY2Nr92bmjH6/s1600/Balikpapan_TV_2011.png",Balikpapan TV
-https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
+#https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
+http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqm46Hc_L0Btr-JHUzeY-P7y131z5HzXNRFKH_4wGp1iciPEBbLinrNouhe_PJOolBLbqfsuemkJn5_ws6ztIa74INDL8D59wVm2Us3HwvjZC0Os77ryZKYWrS69DCU1RGAq53e3wQtFjun2qUpR1b0eH6N3s-NO4vfhgxAMYyoJYqSKw83W2EwBDDOyY8/s1600/rinjanitv.png",Rinjani TV (lombok)
 https://rinjanitv.cloud/hls/tvkabel.m3u8
