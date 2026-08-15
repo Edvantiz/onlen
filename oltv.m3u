@@ -1528,6 +1528,9 @@ http://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
 #https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
 http://210.210.155.37/x6bnqe/s/s27/index.m3u8
 
+#EXTINF:-1 group-title="TV Religi" tvg-logo="logo", Ahsan TV
+https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
+
 #EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwzsvlVx65axMCq4PJIUtP8AY7D1KhKfAni4jexFluepHZ8aoH5SFZ75mrMEcCcp6KVpc_CjkT9JqlCjvX4UWS0gApej3iII2Ims6YAKbqiXuR6Z8iZlN7UIYC0LIKgKe95O0QfAxdtKAz6c3bbTICxnsr58Hoz9yyvF5hOfoUKaNXVG06LOjmTiUtc5ni/s1600/Al-bahjahTV.png", Al-Bahjah TV
 http://202.150.161.117:8000/play/AlBahjahTV
 
@@ -1537,9 +1540,10 @@ https://tv.aliman.id/aliman/live.m3u8
 #EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf78ZuNmJ9HQ_ARYN1XDH0EmbeOE5CfiBWPrnK1-2wjRZJ3zXoprlq4FDeK-Al2OPYQ-eWHwbeW8JbekQ61Ys6mjWXWll8_gzWkQ4N8fRK1txcSvcgHO8DiLBRdYtph69A9J4FctO5G7X1wucoHJwzvc8DfnfJ5incbNaKOM2w_NB147SMB7KHfXyM__Bx/s1600/Logo_Al-Wafa_TV.png",Alwafa Tarim
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHnKtqB34cNmntk0oEdD7Yv3PhsnesT0ljf3lUCTFZr6LUOqcQgO3WrADKUqMQjCpyZMj0cDPaPVjkMFBJLSJ-52h49CHcUC8XMxcTr6L1xizqd2Oq_CR4r9jejodevLhWMsM9HWfXFUT5jdYmyALVcoszoyd4ZkBbqZiCvDTYYmL6kSqODr5LrSGXazyU/s1600/AshiilTV.png",AshillTV
-https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
+#EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHnKtqB34cNmntk0oEdD7Yv3PhsnesT0ljf3lUCTFZr6LUOqcQgO3WrADKUqMQjCpyZMj0cDPaPVjkMFBJLSJ-52h49CHcUC8XMxcTr6L1xizqd2Oq_CR4r9jejodevLhWMsM9HWfXFUT5jdYmyALVcoszoyd4ZkBbqZiCvDTYYmL6kSqODr5LrSGXazyU/s1600/AshiilTV.png",Ashiil TV
+#https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
 #https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
+https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH5aHzDfeG55dgNT1kB7gAxGIZis6P1qjlp3vfFglfvRaY44DYeBkpg8koMDXdKCncr6hO7HTFrcmnV5e3f91iwT9aYm95Z7OPFGOxwxSwBJcr56Z6zPifZFDDeeBrlspfU4Ec-nHTye8kLNF5jRjyw0Mz5i-0YsjneoQixBmNIBHtUHp3FAfWmq1rMOIB/s1600/Logo_BRTV.png",Badar TV
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
