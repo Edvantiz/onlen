@@ -5586,11 +5586,11 @@ https://flv.intechmedia.net/live/ch11.m3u8|user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch12.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="YouTV" tvg-logo="logo",013
+#EXTINF:-1 group-title="YouTV" tvg-logo="logo",AsSunnah AnNabawi
 #EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch13.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="YouTV" tvg-logo="logo",014
+#EXTINF:-1 group-title="YouTV" tvg-logo="logo",AlQuran AlKariim
 #EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch14.m3u8|user-agent=Mozilla/5.0
 
@@ -5602,7 +5602,7 @@ https://flv.intechmedia.net/live/ch15.m3u8|user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch16.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1 group-title="YouTV" tvg-logo="logo",017
+#EXTINF:-1 group-title="YouTV" tvg-logo="logo",Sunnah TV
 #EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch17.m3u8|user-agent=Mozilla/5.0
 
