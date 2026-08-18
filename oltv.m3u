@@ -3031,6 +3031,9 @@ https://cdnbal1.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 #EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRdObfnhjkDyn453I2GI2zsI_XFqfO4TTf9ToBFkgyrDYbLFKmSxfpVZH_BlqdSVPpamDbsGYUSOEeQCst2MmZzUkCEzvXrb6FqN9cBeQXxPh6fd1w87vEPAbABmu383dvJlvm00v1zqsxxkpBzQHeuLjpyotoMqirXmoTrWYmrxPB3xOjYHc6FtnZDX_t/s1600/Style_TV_HD_2016.png",Style HD
 http://210.210.155.35/uq2663/h/h01/01.m3u8
 
+#EXTINF:-1 group-title="TV Premium" tvg-logo="logo",Star Vision
+https://streams2.sofast.tv/ptnr-yupptv/title-STAR-VISION-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6248c6d3-6b6c-4b88-ae8f-a7c119ab380a/manifest.m3u8?hdnts=st%3D1758606460~exp%3D1758628060~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-STAR-VISION-ENG_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F6248c6d3-6b6c-4b88-ae8f-a7c119ab380a%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_135.232.208.182_yuppfast_2_channel_74_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_135.232.208.182_yuppfast_2_channel_74_-1~hmac%3Dc67efad5e5d630d905ebdf1fa63a1e14fa303bddb63de699ded81c57d3541293
+
 #EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNJ91qztPLP9_XFqxm0bIxaVy2YJ-gjF8h5Y014pLKdM09HZtgBSA8wwBZwLVDZxQzUhjxW-xe45V3Jl3_9BYUYMfrb6rW5qf2FjLrdM7cUqh01vL2QeSpnGCV9itfAleHAvUfp2GX6BsHM3Ef5eUbNB4q1E9ipgbI2snpOA3A3x8Re2ia2m7y_Ld21RII/s1600/Lifetime.png",Lifetime
 https://cdnbal1.indihometv.com/atm/DASH/lifetime/manifest.mpd
 #http://rezofoot.tv/LIFETIME/index.m3u8
