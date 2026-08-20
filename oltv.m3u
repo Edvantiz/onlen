@@ -11,64 +11,6 @@ https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/02.m3u8
 #EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 03 📺
 https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/03.m3u8
 
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 04 📺
-https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/04.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 05 📺
-https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/05.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 06 📺
-https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/06.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 07 📺
-https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/07.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 08 📺
-https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/08.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 09 📺
-https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/09.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 10 📺
-https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/10.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 11 📺
-https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/11.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 12 📺
-https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/12.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 13 📺
-https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/13.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 14 📺
-https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/14.m3u8
-
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 15 📺
-https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/15.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 16 📺
-https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/16.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 17 📺
-https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/17.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 18 📺
-https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/18.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 19 📺
-https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/19.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 20 📺
-https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/020.m3u8
-
-#EXTINF:-1 group-title="⚙️|Test" tvg-logo="logo", Test 21 📺
-https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/21.m3u8
-
-
-
-
 
 
 
@@ -695,11 +637,11 @@ https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_o
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1
-#https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-#https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1758539238_b744100_sleng.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1758539238_b744100_sleng.m3u8
 #https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w219125479_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ3NzI3ODcyNjcmd293emF0b2tlbmhhc2g9dHVIek1pRzhTNHVyeDg1RFVEb2tfVGFaRWU0ZTdWTjhrTFJfODdIQXNFdz0=.m3u8
 #https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w675495076_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODYwOTE3NzY2NjUmd293emF0b2tlbmhhc2g9b3RLRGdhX0xZWFdqMmt0SlNPSF9aX1ZyMHNteDQxX3lwNU9HVHFWbS1Vaz0=.m3u8
-#https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 https://video.detik.com/trans7-sec/smil:trans7.smil/chunklist_w708349289_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODY2OTAxNzQ5OTMmd293emF0b2tlbmhhc2g9Y2JoWkJKTk42eWlYbW5VbFFYYWxzdC0xLU5kOUdvQmdpUVI0OVoyZmdQQT0=.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSlcZza7XCdPqT_Y6VMQ2_AoXYsCPoXVTPUbduFjFeQ4mAawesuodjw-0PHsvlFwbThxI1xxX31pY2Of_urjRjVavo0cAWWEYVvR3FF5EfOsRjZaQZBISznKoVt2-Lq5j-OVy0Krhv3_Tpw_DGpagN_eQ6IbSz3i4mlLWhYN6kUiTiMplx2o0GPk-DfDDd/s1600/Logo_Trans7.png",Trans7
@@ -722,11 +664,11 @@ http://119.82.250.109:8080/nl.m3u8?id=1002
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1
-#https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
-#https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
 #https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w33874835_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ3NzI5NDUwMjEmd293emF0b2tlbmhhc2g9MWNaM2FxdDc4eDBENnNaTGhOU2NKM1E1aW5aX3BmdUo1QU1zdl9kNU5sRT0=.m3u8
-#https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1786091861189&wowzatokenhash=3kHYj5VB7U3eRQqXvQ2oZtX_DpCB9I76dpGNGgD19P0%3D
+https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1786091861189&wowzatokenhash=3kHYj5VB7U3eRQqXvQ2oZtX_DpCB9I76dpGNGgD19P0%3D
 #https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w320869196_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODYwOTE4NjExODkmd293emF0b2tlbmhhc2g9M2tIWWo1VkI3VTNlUlFxWHZRMm9adFhfRHBDQjlJNzZkcEdOR2dEMTlQMD0=.m3u8
 https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1786690010076&wowzatokenhash=kZWacmkUWc2XTJKDe39LOAZDmLJQkT5kIQZ2q1vS0A0%3D
 
