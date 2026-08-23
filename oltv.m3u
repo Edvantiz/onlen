@@ -2802,20 +2802,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 
-#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaT51Y8Kk4de4A2CBQ2PLKkcCc6ZEM2xIh6PHc2e3PshI1VMBvfRBq7nSD1hQ__o17KQL29LAv_Rjm5ByBwkdY8Pvx8yb5HSKAXmOYCmGrDvrFV9Ve-OLDpFbXp6tCMIbNwdT4S9tWhcA36_V6uZycwpYDWGJFzYqTkutEOKDgW8tVFBQLQPLypfkoFT1R/s1600/AWE_Logo_%28platinum%29.png",AWE Encore
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.distro.tv/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/f9df390f-1207-4bc5-b2cf-0e97ccac135d/0.m3u8
-#https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
-https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
-
-#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE0jhW1tePiegCAN6qnIbTb6m8XjE9J-h0y6XbBp_qPgyofnbYSHzfu53Ma4am3-urJRt_LUIBDf4SrqDPXMXTRBoraAi4CqDLEyPoHf9aGsSZdbXhOyBc6hmyUoroFKpCJbGNhIWfYXzwnm_L0DPuoAqmrEq4mb3A5YbbYMFH6gGuhURxJ0lplLAA7QV2/s1600/AWEPlus.png",AWE+
-#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/playlist.m3u8?ads.vf=eVE5nru-EHa
-#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/78d000da-a35e-4394-bd1c-42c7a6dacadc/0.m3u8
-https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
-
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp81GsUehhDXzwynxGD-Dj7Rk0V5RJyw-dCREsSk_2ljEKvaXjEPx9Nd968T774PM3lyWEgT8tjbMcNvx9b_l9m2F6jPqWb5TcWRDTyz7FZF5YzLCZ1d0qr-IFl4fb8Eil68nNT62L_xbzLAgGuMBbIGnoVlJbNgRYqhtKAVhUYYZyGLGRUPo1JRGCWz-K/s1600/Earth%20Touch.png",Earth Touch TV
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
 
@@ -5763,6 +5749,20 @@ https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/mast
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://streams2.sofast.tv/ptnr-yupptv/title-Awe_Plus/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c6766dad-4126-42a3-beb4-116761ac386f/playlist.m3u8
+
+#EXTINF:-1 group-title="YuppTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaT51Y8Kk4de4A2CBQ2PLKkcCc6ZEM2xIh6PHc2e3PshI1VMBvfRBq7nSD1hQ__o17KQL29LAv_Rjm5ByBwkdY8Pvx8yb5HSKAXmOYCmGrDvrFV9Ve-OLDpFbXp6tCMIbNwdT4S9tWhcA36_V6uZycwpYDWGJFzYqTkutEOKDgW8tVFBQLQPLypfkoFT1R/s1600/AWE_Logo_%28platinum%29.png",AWE Encore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.distro.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/f9df390f-1207-4bc5-b2cf-0e97ccac135d/0.m3u8
+#https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
+https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
+
+#EXTINF:-1 group-title="YuppTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE0jhW1tePiegCAN6qnIbTb6m8XjE9J-h0y6XbBp_qPgyofnbYSHzfu53Ma4am3-urJRt_LUIBDf4SrqDPXMXTRBoraAi4CqDLEyPoHf9aGsSZdbXhOyBc6hmyUoroFKpCJbGNhIWfYXzwnm_L0DPuoAqmrEq4mb3A5YbbYMFH6gGuhURxJ0lplLAA7QV2/s1600/AWEPlus.png",AWE+
+#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/playlist.m3u8?ads.vf=eVE5nru-EHa
+#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/awe-encore/78d000da-a35e-4394-bd1c-42c7a6dacadc/0.m3u8
+https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 
 #EXTINF:-1 group-title="YuppTV" tvg-id="261" tvg-chno="311" tvg-name="brat-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aqzbzc.png",BRAT TV
 #KODIPROP:inputstream=inputstream.adaptive
