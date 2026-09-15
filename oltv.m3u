@@ -693,7 +693,8 @@ http://119.82.250.109:8080/nl.m3u8?id=1145
 #https://op-flashcon-digdayahd-1.dens.tv/h/h235/index.m3u8
 #http://tvratu.my.id/nissa/index.mpd?id=205&type=dash
 #https://beetv.my.id/stream/vd.m3u8?ch=indosiar
-https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/18.m3u8
+#https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/18.m3u8
+https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQETeJn1I2xz_w_a1Tsg4BfaNsDhV-WnFOjp0aG4Hdmy037cDenzG0ORvZQ5wl86L6ony0zLfjbMAsPwAI6KEHV7H9bTD3Nnj93Iey_BRqDmYyOCUpzIbLcdgdMfvIwEzB_NQPWTCmgeBQihgnfno-Up4Mb7JkZhI-WvJ8xe8l5_2Afu5WJA7OPU72L6Uy/s1600/Indosiar_Karya_Media.png",Indosiar⁽ᴵᴴ⁾
 #https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
@@ -713,7 +714,8 @@ https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707
 #http://tvratu.my.id/nissa/index.mpd?id=204&type=dash
 #https://beetv.my.id/stream/vd.m3u8?ch=sctv
 #https://bintangstreaming.my.id/forsat23/pidio.php/.mpd?id=204
-https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/20.m3u8
+#https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/20.m3u8
+https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKjNdeprFp7JZ66hOgKBfWQ5qcnkkGej4IVnU6BbyCfP6q4SBfc6pnWfqpxlMyzn-yVXI5w3ygw_IxbQ1iLWO0AzC5bUjQV__xGIbd5oy3gsTdgZibr4-qgJgsSRmJQCwPnB5JKEKvgdgxqDjuoJD4kkS08ctTju6GcXMoFhQ47X_RIWzNC9kQbDlDnr2E/s1600/SCTV_Indonesia_2003.png",SCTV⁽ᴵᴴ⁾
 #http://202.169.224.202:8800/udp/239.9.1.29:1234
@@ -791,6 +793,7 @@ https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000
 #https://op-flashcon-digdayahd-1.dens.tv/h/s07/index.m3u8
 #http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
 https://beetv.my.id/stream/vd.m3u8?ch=antv
+https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzgBL2tcpzeojuJoNu0B6mo7fNK-sfKxwpFiBoiLwYyEvUIs9aIe2duBK5xK-sfjvnEprNDrJrFBRxD5zSXscIbEB6513NABR-zkni3-QBR8fTsJlF1jTz6WqLsZCBxLDJtJ5zZooqSoQoMcY8frX9hBKVChMtq8k7CkqfyjqOXgWKD1-7rZYoxACRyPoD/s1600/BTV_%28Indonesia%29_logo_%282025%29.png",BTV
 #https://btv.secureswiftcontent.com/han/btv/btv10005r/srtoutput/manifest.m3u8
@@ -929,7 +932,7 @@ https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 https://video.detik.com/20detik/smil:20detik-live.smil/chunklist_w793425328_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_XhJ4DSfByMLklb-2rrhyphenhyphenLTGe_cAFsQQc30UojyVhjDcUgTi2Y1P2MUgaFKR1oY5mGz3ENm89Px7TdK4WYXV40Lg1EqZ_ko1VMzqTdhq9Ao7dXmd4IapE5K040-BkJxsUiFWr-asnfob7BLZNb7qM2fNEBxuO-8Gj4Sf5XLrwZSMC9PnZX6DjmfE_VuL8/s1600/Tribun.png",Tribun News
-https://d1zhs9dfs6uqpg.cloudfront.net/hls/3QKJILGL/3QKJILGL_720p30.m3u8
+https://d1zhs9dfs6uqpg.cloudfront.net/hls/5AQQFA3E/5AQQFA3E_1080p30.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPmnLiiFyYISq-FFMoVPsoYKow5Q98SZR9XSuAkUInzWqBoSy1u2lbShfkscmjblzYFIiEgYIHnY9WvPGipdeQTVqaMvloIbOMUdtOpa8EpM80XdR-hkBTZMRjF9qXGNBPhBlmSxgbQPDMM4wXnbKoazEjh3KaojPIWz7hURy0ElC-oLssz1TP7WtODT-q/s1600/Republika_TV.svg.png",Republika TV
 https://lowa8026-cmyk.github.io/iptv/stream/republika
@@ -2356,6 +2359,7 @@ https://flv.intechmedia.net/live/ch83.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhouQiYhbDHUTn_rFdQJ6NavKyUAmCgX7dgqaKnjc4BHYbbYixhKSKX6LCCTCGtrsrfXcap4lE1jGAb7wTcNaKTla9oGExh7NHgPxhjjg4IRHiT3p20SXY8t-Apb8x8fEdKNReZzAMXYsKY48iyhC6z2rcVYQOBjm3980bZeJyR27YlxZbJFkaMc1VTkNOe/s1600/ABCAus.png",ABC Australia
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/1ead6af29a8c4434a70db196b8628580/index.mpd
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/7e1cd32d1ec24845bf7bf3d9c60704e6/index.mpd
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih_0nqu1bM0uPVrONARSLXcd0nZyiL0g1dA6Dyotiu5Oiv72rp_lkIqkZW6Vg-gCHYqlD13K06i-vGENDXeJljX4zTkmecmQbuFehx9r5coVKRPxpfYki-C4CyM54nFN4VaCuWHEYrSBuL1nBZxfkWqqgfytc3yUpOqTcvCzBGVdHPKnwbHaI9YaMxVhXx/s1600/ABC_News_%28Australia%29_logo.png",ABC News
 https://c.mjh.nz/abc-news.m3u8
@@ -2401,6 +2405,7 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/04.m3u8
 #https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
 #http://206.212.244.63/14/index.m3u8
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnrM2QNZGAuhsaCrwkNZ6PJogC20Ql7A6mxfU-q8if_Qt0KCoZOiaz0pptQ5mzkAETIXjL0ZFCGIvzmajIEPWF-ljbqTdbKNdYoeBa4YntKFE750zu7cLWfhemQ8AqjXknFOE8qatlG-SmCQvTjIHb-88dyIK5AJZuJMo_nF6K7FnueokGvFwTgHLxghyphenhyphenh/s1600/BBC%20World%20News.png",BBC World News
 #https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
@@ -2580,9 +2585,12 @@ https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgE1-KANa4PANWNcMr5dXUQo0Wymg8jmiNY4d1fg7ZKozzKSqqP8UmFviXbQZZVn2-WmnSaA1jtGRarMs07rxGJH0RSbhOWOkfa1QwVbycMihfqQL6ATkaqZ22fzgI8DAaXvTN24BSDyG1Fz4oBkzuhn3gMR6RNbeyroW3VNH4fP0gUSOkjA27YC3CI0PC/s1600/TV5Monde_Logo.svg.png",TV5MONDE
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/04.m3u8
 #https://op-group1-swiftservehd-1.dens.tv/h/h312/01.m3u8
 https://op-flashcon-digdayahd-1.dens.tv/h/h312/index.m3u8
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/index.m3u8
+
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgE1-KANa4PANWNcMr5dXUQo0Wymg8jmiNY4d1fg7ZKozzKSqqP8UmFviXbQZZVn2-WmnSaA1jtGRarMs07rxGJH0RSbhOWOkfa1QwVbycMihfqQL6ATkaqZ22fzgI8DAaXvTN24BSDyG1Fz4oBkzuhn3gMR6RNbeyroW3VNH4fP0gUSOkjA27YC3CI0PC/s1600/TV5Monde_Logo.svg.png",TV5MONDE info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/04.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_ehkqFATSYxcjou21poS7ewU9OSnVsB673O0gpQUvhpKDXBiJbxlYjcv8gL_933hEZjeFAOv-Y68bXl3xjbAfs18oz0LK90o5pc-sLNbruxdDuOMu5jNJX4iF6oz_PY3Q-3EA0dmduapZNzz2RQEe2oUgB-xpmDjgoLoMwOcyquldkRdWqCUdSaeXBZZR/s1600/DW_%28TV%29_Logo_2012.png",DW TV
@@ -2629,6 +2637,7 @@ http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyU4s7qZiRXCp8Ib7yzLKo_AHRybwQQayFwJ1lmx0S68piiKDGISinoSk5RauqKNxyDJiQFqDAn1oD3DG7bqxH9CAJObCkxyODWHNn_XptD0JfoAROjU2K2M9UXBcVYgsvk0sya8xqm3sweatapD6zWgoAnYznrbuUL7ldQhIsARgrMYBQ_vOffp6HPcFF/s1600/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0.png",Phoenix
 #http://210.210.155.35/uq2663/h/h157/S4/mnf.m3u8
 http://cdn6.163189.xyz/163189/fhzw
+https://cdnbal1.indihometv.com/atm/DASH/phoenixchinese/phoenixchinese-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdzIS2knWi-z_5ob_oZOBMIG3coLuBB3CJnl2L3HjFox00p8d_IDhFKhri2hxOsC4PmmaA9TA_PNtJP94KoNNnkwMU0Wl_9I-PgYnERhesAG2NsXvTF2KT_5kAmkE4FeCT4NBK8ID1vzh9AIfv5GPkq65RK-ALpYyLuyCxHz-hFqUQcrdm8ES0bZ007nge/s1600/Phoenix_Chinese.png",Phoenix HK
 http://cdn6.163189.xyz/163189/fhhk
@@ -2637,6 +2646,7 @@ http://cdn6.163189.xyz/163189/fhhk
 #http://45.126.83.51/qwr9ew/s/s21/index.m3u8
 #http://iptv.kilas7.com:80/kaukia/asdfrewq/36
 http://cdn6.163189.xyz/163189/fhzx
+https://cdnbal1.indihometv.com/atm/DASH/phoenixinfonews/phoenixinfonews-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZHnMJSau-1J_mtrm2Cj8STASKRo-P_1KvmGRG40BDva_DL-q2wk8iLMvrWhvp08oX2H4qXSe949uqa42jCzHeP556tz9ed95jLhj8be6ErQaX7ZoztPUYuTSDEKuhpTwpGm_byZP5uYI74eanLHYQ-6PFIMQtsRNvuUZrCV5tOHgi7ZLMADY4iEIXYm4Q/s1600/Xing_Kong_China.png",Xing Kong
 #http://210.210.155.35/x6bnqe/s/s94/S4/mnf.m3u8
@@ -2677,6 +2687,7 @@ https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lig
 #https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mediampd/CNNIntHD.mpd
 #http://trs1.aynaott.com/cnn/index.m3u8
 https://d3bp6dwmpbdajl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/d81d21cf-64ce-40be-8b06-2de3cefd9d64/2.m3u8
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFTg4gJD0IXbHuIheWKJj1gzEQFqqelv7tRDxuPA8S5293Z-3CErOLFA64EhRSw3WV637Rq5dF3glBYVhrwOTEbynC8JycKV4xw7rlZvXqVI1aY2vJ-FPHLFEWPgQUpkLV4NeGSVAMHQ6f-mEtAjGISugNIzNehPXTQv-HwkMZwrI-oZwLmzMrpFSpTURB/s1600/cnn.png" group-title="International",CNN Original
 https://jmp2.uk/stvp-CHBD800001D0
@@ -2793,6 +2804,9 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc6VtPHyD5aMBG-2ItjMqOs1a-NghNdfzFNrzuvKK_F1KxtQ8u9FOv2oBftV1x5zo76kX2FnhU-CWpUM4p9mBxMGIwQ9QJb28ATwZwPgd74pIbMMtamHAAFCWrg2Q6Cnz-vaChQOeBp1txr5FVhD-w1Ic3Ix89wcgzCGWuXtbkedz-QauDItShj6IKGQXu/s1600/Outdoor.png",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 group-title="International" tvg-logo="logo",Global Trekker
+https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsRmZQquMlGVfGpsu6BtaKgKtRbsZzgNyR-lI5MbI6Bc6M8dBS4Ah2QkWqpjTi13KdcdvQQ1N6XE1idCMylifRxY6oWWWkPYaM9Q4XJKezh8KU_RCk0lROSS4Ro-HtGCG3UwBjLZH7IByJYmLIIE-uUzM6x37PKrRdGQXpLIV3UBXtQTKKwb5PVBckZKAr/s1600/4kTravel.png",4K Travel
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
@@ -2939,6 +2953,7 @@ https://glwizhstb50.glwiz.com/GemSeries_HD/GemSeries_High.m3u8?user=sgls76551&se
 
 #EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFdgpr5zmJ7uaTK40ZBLzVf3Qt-x7cvC8zu-oWg3KJ97mOqBCHU1xCAe3ebFLSVOr9jkDlSYO8rfjQ5QUstyuO-41q4TB4o_JFOlzKr7TfLJaHKhfxrgW8NNL0tj-E95qIrNeQ5JqOgCBtwUlCDBI1jvpTvmsaYYceVOI4377RMHewdwuDZFBKq9HnPsJK/s1600/HGTV.png",HGTV
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
+http://013tv.com:8080/live/F33848/cbd9779b/298535.ts
 
 #EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp7Y_2GFJerIWYxBNVx_k-l7NUjWX4nRIn-I52N7nyn78CN5JBAU9eaH-usM16O1uB89XU0dTvZEn_VlAG51q6P7FLBsk096Fhyphenhyphenyg6Cy9a-qwvck0WvX_TVE283DIadMLasEzur2gIHiZ602zgbIV2vyvli0OAVsPWXS4HZfb2kHaNsPwQ91t74fWGMNNX/s1600/AllPlay_Entertainment.png",AllPlay Ent.
 #https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
@@ -3235,6 +3250,7 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8j9BEIYvWR0PKvJKQ6syRKX5AACncV73fBUN7Ec1cUWsD6aNm2VMB-qrLbJt59_LZuwn3QZUL55NJzJzk6j7H2x95WR6181jrCH4odHQuwFHLAN1Hb-2RXcaLvmiGMIbZCktjKV-9FrMQG1owJqwF1JfTnWONjYv_if_3ethAmKQnm9Pm-wYFPg9mfgKN/s1600/TLC-Logo_2016.png",TLC
 http://84.17.50.102/tlc/index.m3u8
+http://4.30.180.36:8420/tlc/index.m3u8?token=test
 
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyUz6v9F0ZlVboSi7Kv4RYTNj8HvS728toD7gv3zCJjxez3uKkzARZ4Oah296shoV6ZEJFREM69F8CGTL0hcDJJlKcNe2XpeDrnymVkRqZTKL243mHFZRFLC2wStGTXa3UhddZOVYHfTQ4S7hUO1Js2jhp9M6Dw6gcSLgOJBB1bxubSYR7Qx8gFR9CqRtb/s1600/Tnt_tv_logo_old.svg.png",TNT
 #http://104.255.88.155/tnt/playlist.m3u8
