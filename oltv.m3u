@@ -721,6 +721,40 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv
 #http://202.169.224.202:8800/udp/239.9.1.29:1234
 https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
 
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb1sadlDLAeYBFHp7uCQEA5cRsScA293GYGQok-xHR4UtIgxtpgOL7_-gxcK1_LsMMuhclrn1QlDZ1OPNhmj0YFhKfyIAhI7WlygsvHRQ8Ef578g1g0BbeCOXjCLy4fPcJl0UFHl8vuLl3O6_SC8BnOjVo9bSkMDYtNtmGRQQs3nB9CU0Kyxt0W7UZ1SJU/s1600/Antv_2006.png",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
+#https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/782/file/stream.mpd
+#https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
+#http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
+#https://cdnjktbpid26.cubmu.com/riutx01-e312a224c5119cd47f2cb64bf8c8c286edd3e1214dcc663e33db130cf6b3833b/dash/QU5UVg/manifest.mpd?signature=ZmYxZDUxMzdjZDZlYTAxMWQwMzViZTMwZGRhZTA1ZDI=&time=15177322257
+#http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
+#http://103.58.160.157:8278/720-ANTV/playlist.m3u8
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+#http://filex.me:8080//live/MAS101A/MAS101AABB/302206.ts
+#https://op-flashcon-digdayahd-1.dens.tv/h/s07/index.m3u8
+#http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
+https://beetv.my.id/stream/vd.m3u8?ch=antv
+https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
+
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCA3ts7Pw3bpw1u6Jl1N_FS0NW8BbsAezVk-Uid90ng4f5tvyCNovvxPxOe_tjFYNitWQFvLIjf1ltdzg2QY-_xkPG13RBjW0rRGoRRT9kgVyf6nbHlygRvx1Mq-A0JZ_h9dR_B6L0KD9kXOUxh9DrornMpU4Dk7MNbAtof4nVrGUaHMRia1djj6BPgoh4/s1600/Moji_blue.png",Moji TV
+#http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#https://wahyu1ptv.pages.dev/Moji-HD.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
+#https://tvratu.my.id/vid/index.mpd?id=206&type=dash
+
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKXm02R7yZeNWgq11dZNDybWPoBdpwQnZQwHDKnr52pREMI2FiM6Y3uN7TzhIK3zOWdRwRAhEvhLjMgIaVj42SP9RmZ2pw5fyRPr_gOg53XT_aJbj-28ziA_kIlXVpkUyTX6o99FP6KD_O7edLqKcxGi4_7QXDuvMl48XiugW7nx0d6NUCqXtUBZyHfhHw/s1600/MDTV_logo.svg.png",MDTV
+#http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
+#https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
+
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyW9DMBbp-fbnwF911h5GB1GjBdeEQZu8L4RIttjqxfj4TaNTMZxOly7Ds35v4ETImLxIMV2Ob9aG0iBjrZkAKFK9ry2XKu7LRLckGcKvi5l_wjro0vDG9sw6XunpabfSXOmCG1C5ObzanYD6111Vw6hB27HSOJog9piu7FMkq7s0YouNn9gQuAksxfrYU/s1600/RCTI-gif.gif",RCTI
 #https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGcmN0aSUyRmluZXdzaWQmaGVpZ2h0PTEwMCUyNSZ3aWR0aD0xMDAlMjU=
 #https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
@@ -773,28 +807,6 @@ https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000
 #https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb1sadlDLAeYBFHp7uCQEA5cRsScA293GYGQok-xHR4UtIgxtpgOL7_-gxcK1_LsMMuhclrn1QlDZ1OPNhmj0YFhKfyIAhI7WlygsvHRQ8Ef578g1g0BbeCOXjCLy4fPcJl0UFHl8vuLl3O6_SC8BnOjVo9bSkMDYtNtmGRQQs3nB9CU0Kyxt0W7UZ1SJU/s1600/Antv_2006.png",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0
-#https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/782/file/stream.mpd
-#https://cdnjkt4.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
-#http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
-#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
-#https://cdnjktbpid26.cubmu.com/riutx01-e312a224c5119cd47f2cb64bf8c8c286edd3e1214dcc663e33db130cf6b3833b/dash/QU5UVg/manifest.mpd?signature=ZmYxZDUxMzdjZDZlYTAxMWQwMzViZTMwZGRhZTA1ZDI=&time=15177322257
-#http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
-#http://103.58.160.157:8278/720-ANTV/playlist.m3u8
-#https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-#http://filex.me:8080//live/MAS101A/MAS101AABB/302206.ts
-#https://op-flashcon-digdayahd-1.dens.tv/h/s07/index.m3u8
-#http://tvratu.my.id/nissa/index.mpd?id=782&type=dash
-https://beetv.my.id/stream/vd.m3u8?ch=antv
-https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
-
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzgBL2tcpzeojuJoNu0B6mo7fNK-sfKxwpFiBoiLwYyEvUIs9aIe2duBK5xK-sfjvnEprNDrJrFBRxD5zSXscIbEB6513NABR-zkni3-QBR8fTsJlF1jTz6WqLsZCBxLDJtJ5zZooqSoQoMcY8frX9hBKVChMtq8k7CkqfyjqOXgWKD1-7rZYoxACRyPoD/s1600/BTV_%28Indonesia%29_logo_%282025%29.png",BTV
 #https://btv.secureswiftcontent.com/han/btv/btv10005r/srtoutput/manifest.m3u8
 #https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
@@ -805,11 +817,6 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
 #https://op-flashcon-digdayasd-1.dens.tv/h/h201/S2/mnf.m3u8
 #https://op-flashcon-digdayahd-1.dens.tv/h/h313/S2/mnf.m3u8
 https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
-
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1Q3Om8vfRuC9ywGZ0xc8dNxAu9m4iK836MWOH2-qtlBanDFQoxuawlYJ2WxZXO6A54aMIRkxe7L55w4U55QfqzOgmZGD1KQLnb5amSGRpr2BLCZbqN81qQKbEHUzMRGpzqoYURmcFz-c2eaFBkzXAr2H9GOOErw-OOFW10C9cyRm83g2V0m3YmNHpVNAz/s1600/Rajawali_Televisi.svg.png",RTV (Rajawali)
-#EXTVLCOPT:http-referrer=http://175.158.57.130:8888/
-#http://175.158.57.130:8888/stream/channelid/412436804
-https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh02etwF01vu6tdvLzV4N2Rp7Qlptq-eKVXSZjvYJBeWLB7Rs48piKwTazJHekOPoD9AzHdt07NSi4aW0i2F5CbwR7Ch-cmhnnFrDNTbg5SvEyhZlezxRbZGbF3SzhCSUwLjLuPDt72zakWJWwsTMcqoi41v94jQLaeuxWDqSnvDc22z7fmej4C0N2hnWQN/s1600/CNNindo.png",CNN Indonesia
 #http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
@@ -933,8 +940,8 @@ https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 https://video.detik.com/20detik/smil:20detik-live.smil/chunklist_w793425328_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_XhJ4DSfByMLklb-2rrhyphenhyphenLTGe_cAFsQQc30UojyVhjDcUgTi2Y1P2MUgaFKR1oY5mGz3ENm89Px7TdK4WYXV40Lg1EqZ_ko1VMzqTdhq9Ao7dXmd4IapE5K040-BkJxsUiFWr-asnfob7BLZNb7qM2fNEBxuO-8Gj4Sf5XLrwZSMC9PnZX6DjmfE_VuL8/s1600/Tribun.png",Tribun News
-https://d1zhs9dfs6uqpg.cloudfront.net/hls/7AVAXHUZ/7AVAXHUZ_720p30.m3u8
-https://d1zhs9dfs6uqpg.cloudfront.net/hls/7AVAXHUZ/7AVAXHUZ.m3u8
+https://d1zhs9dfs6uqpg.cloudfront.net/hls/WT3WFUEC/WT3WFUEC_720p30.m3u8
+https://d1zhs9dfs6uqpg.cloudfront.net/hls/WT3WFUEC/WT3WFUEC.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPmnLiiFyYISq-FFMoVPsoYKow5Q98SZR9XSuAkUInzWqBoSy1u2lbShfkscmjblzYFIiEgYIHnY9WvPGipdeQTVqaMvloIbOMUdtOpa8EpM80XdR-hkBTZMRjF9qXGNBPhBlmSxgbQPDMM4wXnbKoazEjh3KaojPIWz7hURy0ElC-oLssz1TP7WtODT-q/s1600/Republika_TV.svg.png",Republika TV
 https://lowa8026-cmyk.github.io/iptv/stream/republika
@@ -951,18 +958,6 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTVLCOPT:http-referrer=https://indonesiana.tv/
 https://tvstreamcast.com/indonesiana.m3u8
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCA3ts7Pw3bpw1u6Jl1N_FS0NW8BbsAezVk-Uid90ng4f5tvyCNovvxPxOe_tjFYNitWQFvLIjf1ltdzg2QY-_xkPG13RBjW0rRGoRRT9kgVyf6nbHlygRvx1Mq-A0JZ_h9dR_B6L0KD9kXOUxh9DrornMpU4Dk7MNbAtof4nVrGUaHMRia1djj6BPgoh4/s1600/Moji_blue.png",Moji TV
-#http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-#https://wahyu1ptv.pages.dev/Moji-HD.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
-#https://tvratu.my.id/vid/index.mpd?id=206&type=dash
-
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKXm02R7yZeNWgq11dZNDybWPoBdpwQnZQwHDKnr52pREMI2FiM6Y3uN7TzhIK3zOWdRwRAhEvhLjMgIaVj42SP9RmZ2pw5fyRPr_gOg53XT_aJbj-28ziA_kIlXVpkUyTX6o99FP6KD_O7edLqKcxGi4_7QXDuvMl48XiugW7nx0d6NUCqXtUBZyHfhHw/s1600/MDTV_logo.svg.png",MDTV
-#http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
-#https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-#https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
-
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJjTquhyphenhyphenT4h6AG1IUqhb2w5ImVUl4nYZWWLRFVy81M6Pd8kPtftURbo2lFLckJnhLQxaiI4s8qEGmSqsmpfSWXuNtSfcXQ1dtNkYrgtKE_b5XQYBzbvE51vlMjkVevhB1LBJPvaeDa5rJ_53DzuHYEzCyYTJzO6xJ-cofNMNxRHmM4mkdnb0IVlpt5G2-o/s1600/Logo_Astha_TV.png",Astha TV
 https://hgmtv.com:19360/asthatv/asthatv.m3u8
 
@@ -973,6 +968,11 @@ https://why.biz.id/Iptv/oxygen.php?id=oxygentv
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia8PEmF68emNoKUxaKIl04WwrkwczdNMVHlH-Uzxke_-UkyBtToYOUa2ZgZcsGQgDfmVn2pXt_eTRVd8PkxPpFg_a3F26a6ErKUjdrjzOKLb5ox7Sk7hPGYIi1FBilbZXS79HiKAO5i1UAmsxx2-GAEyNwdss2yPKWBRGPEHugbfyuT_PcR_h1tPNP4WMw/s1600/TelkomVision.png",Telkom 24/7
 #EXTVLCOPT:http-referrer=https://edge.renderforestsites.com/Telkom_247/
 https://app.viloud.tv/hls/channel/631ffbd301331b3156250098cc22ff46.m3u8
+
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1Q3Om8vfRuC9ywGZ0xc8dNxAu9m4iK836MWOH2-qtlBanDFQoxuawlYJ2WxZXO6A54aMIRkxe7L55w4U55QfqzOgmZGD1KQLnb5amSGRpr2BLCZbqN81qQKbEHUzMRGpzqoYURmcFz-c2eaFBkzXAr2H9GOOErw-OOFW10C9cyRm83g2V0m3YmNHpVNAz/s1600/Rajawali_Televisi.svg.png",RTV (Rajawali)
+#EXTVLCOPT:http-referrer=http://175.158.57.130:8888/
+#http://175.158.57.130:8888/stream/channelid/412436804
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVJIv1V4fPPsVzELisMuzttOLeZ1-tRC3LcXZiXIy3hN8QYbjLUSy2quK-VlCn6jMA3kGiRcCVan_LMAKbhO8p03Jdo5hXokYHmD7pi3rDyDGd9FvAwmLE2bl6oSOaB-LO_jmfkeqrijQ1vKSzG3xlr9iyDQ2o8GvLfg57pqnNVI9XObR17H0rCZPtA2Cj/s1600/Mentari_TV.png",Mentari TV
 #https://popmi.my.id/tes.m3u8?id=8237
