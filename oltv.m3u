@@ -813,18 +813,14 @@ https://www.beritasanasional.com/Beritanasiona/Bernas_1280x720.m3u8
 #https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #https://indihuy.streamized.net/atm/DASH/mncnews/manifest.mpd
 #https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd|user-agent=IndiHomeTV/8.7.12
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3eg9TZO1e18_4XtNo3BwfOL0K71XWuIgb6FvsmFO3WabIt4buHHxy_11EjKVWj9cVOCiJmIZDM7394kDmrAXiBHS4jwh1zBMDZrCVA3PZmstPH_pXKIfnA3XxVoI7_ED-M4EUc2NSkO6bSwE9tV7JAO0Fjdzarr_ZsLY9Slc5Cw43cmS7Eq-vLMpZfVAg/s1600/Sin_Po_TV.png",SIN PO TV⁽ᴵᴴ⁾
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_key=27fe63a923084c12b0b05d33d204bdca:f9624ac728524e9fdf8e3a97018fe26d
 #https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=19046&type=hls
 #https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 #https://indihuy.streamized.net/atm/DASH/sinpotv/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
-#https://atemecdnbalancer-voe.sysln.id/live/eds/SINPOTVHD/mediampd/SINPOTVHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/SINPOTVHD/mediampd/SINPOTVHD.mpd|user-agent=IndiHomeTV/8.7.12
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXisQJhdqno4Uab6bQOfLOxbIdjXlbInzFlO77Bp1BhUjuv43GsMKPuKDWPAPko3gGlvAeCF8BowE8abfxk_GOMVaDQpMCXtSc1eLIfREnlE5Ig196R6ifS5C_qXJBEu8i2kRc-kI-f1_hyphenhyphendJ3AzHBga0Dz-OdrbTUte6M3EBbnfPo-MIj5aRbt0ibiILM/s1600/01-20detik.png",20 Detik
 https://video.detik.com/20detik/smil:20detik-live.smil/chunklist_w793425328_b384000_sleng.m3u8
