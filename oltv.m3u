@@ -594,19 +594,15 @@ https://ia800400.us.archive.org/8/items/quran_mp4/QS-114%20An-Naas.mp4
 #https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik0zFfmeD0GYOZWPM1jZzJrjjF_rAtelzMPFymdWomiVUNro-os6-nzkXPMJCJx8y5N9JOgeFcekhHnxbkAIJd9wXW0e4SAl9kSU51lm9AGl0T04TM6WFKdVmk42YkDAmy72pFFRQSZrtM_ob9g0GzZcPqFU8FwAcD4YfRDA5fLS4jbGEjPfREonU1n40E/s1600/TVRILogo2006.svg.png",TVRI Nasional
-#https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-#https://op-flashcon-digdayahd-1.dens.tv/h/h17/01.m3u8
+#https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8|user-agent=TVRIKLIK/7.0 ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_2500000=10002-mp4a_96000_eng=20000.m3u8
-#https://videocdn.tvri.go.id/hls/tvri.m3u8
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8|user-agent=TVRIKLIK/7.0 ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+https://videocdn.tvri.go.id/hls/tvri.m3u8|user-agent=TVRIKLIK/7.0 ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3BmupAMiTbC1LmpXCENrjLj2VZjLqSBliJzJDfsLiczC9j4BIeMrlyGwHMWgCDsa8xCggCT3yqVJuSKdrPFXrWO_qrkI3aQtVurunfFk8acLh3bMs9Sta-cejr2Kcncd959AeDb56ehJ4kk-7ieqoNqpz3OYiIZe5A7iSpxWl6y4wG8HjaZUoZRJB7mSd/s1600/TVRI-World.svg.png",TVRI World
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8|user-agent=TVRIKLIK/7.0 ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip0sQvwCIUzXhFEnJZIGyrzTJCWsfibd3zK6qyA5yJdA2-0LeXm5igt6eImEDw01FJPFaHYjsN7WCrK4HlyDOoFpvlAizmfQob-VDf9QYrMpcnV1SoJGTEmIqi-ZDtcbD_BDn56ejWDvgiddFfnRFfZfZuMfOsGmI2bRuJin5bYo5W4_izHQIS8Qr2O59r/s1600/TVRI_Sport_2017.png",TVRI Sports
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8|user-agent=TVRIKLIK/7.0 ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 #https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/SportHD-avc1_2500000=10002-mp4a_96000_eng=20000.m3u8
 
 
