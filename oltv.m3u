@@ -688,13 +688,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8|user-agent=Mozilla/5.0
 https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd|user-agent=IndiHomeTV/8.7.12 Mozilla/5.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLxTvpgc_j_bdwLbnQgpDsBHOUuNQivX6gKV4K_YCw8QLsY6DnmY2ot3nSSvsoyQoyEI1XdKG-O3VsY0PL1BowU0c1pzJKGlc_1lxkDJgNthYPm-PH_FDdo6Pz0gG0UZwOJJ54idApmrTDlKujVfC_0Up1FTKDa0I8pGDNMl-mVUV3E7wBaFJAOqJAERym/s1600/RCTIplus.png",RCTI+
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti|user-agent=android-R+
 #https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti|user-agent=android-R+
 #http://beetv.my.id/stream/rctiplus.m3u8?ch=rcti|user-agent=android-R+
-#https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti|user-agent=android-R+
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti|user-agent=android-R+
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti|user-agent=android-R+
+#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti|user-agent=android-R+
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVKLWtx90rx2wFsYdHzZBOCsK_pyvy5sXKRRW4ZY512dV1_aKUu-LQHZW2PhMZ33o1QnadLb3SL5QR-SRf1-mnirFpzfdU4Q1FpVaymU2v7O5_2abRiKdJQNE3g2ybHuidOnoPKXFTkJEbOXlODxpimzgn1v3TG0MCirsZGFQn2v0gG8MlWABTFTr-vi0w/s1600/Gtv-gif.gif",GlobalTV
 https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd|user-agent=IndiHomeTV/8.7.12
