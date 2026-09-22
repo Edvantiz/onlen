@@ -1775,6 +1775,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h250/02.m3u8
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://live.24hrkpop.com/hls/3/stream.m3u8
 
+#EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJNb8DtQ8LOrYaeKGr0dI8J2oDHfzF1lZ82rqJ9t5cJy7HjV4DgIw6HidY0RLsyHmP2CsLM2aKWyGAGdL7lgej38BSCH70dUXknyn99TbiwFE-DVuooxWBbTzkQZXTiSpQ9ugRaAGosm6sFX2EmFiV6CpP28tbjEC48EWjMVCUF5ijp4gzJWTXM2PnnWdF/s1600/Prambors.png",Prambors
+https://cdnbal1.indihometv.com/atm/DASH/pramborstv/pramborstv-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjVVhwwZa27PSgCENUUNtLtcfacnFEFsL3cqHXghyphenhyphenrL_T6K9Or3NbutWMI5PO5tO-iLN2N3Sn-AT37vxxDGqeLAkNS8cqOL6iy3wV7RTIYn6Mmj5L7mJPIc7y4PGRJWIynPrIhqjrKRd8N1qzuqvf-rc_ABlgB8qJTk1EvDh7W_jSEGGhWCDf0FoemT40i/s1600/379f71.jpg",Musica
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=7619|user-agent=VidioPlayer/6.31.6
+
 #EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJq5-7XVFSa0wdFdyeMbTlXYNe6lXSdQdLHwUsHQGW-PUtFVKpARIgv4orbj3vi275Y2DIvJZXg62PMzUxnMfy5H2jeIEbSr2muxy3mi8o-Sa0IFKpNy5sjrz8tI5KgkwqL5z59fV__mI4DWdpbAr9oPTMbEkeJXg1duxpj1-oCmWayl3T14WzqiyXUGEp/s1600/LogoBahanaFMJKT.png",Bahana Radio Music
 https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 
