@@ -1268,12 +1268,6 @@ https://tv.nasionaltv.com/ntvlive/index.m3u8
 https://cdnbal1.indihometv.com/atm/DASH/atv/manifest.mpd
 #https://indihuy.streamized.net/atm/DASH/atv/manifest.mpd
 
-#EXTINF:-1 group-title="TV Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWfCR4-24BmMW0hQGma_SVCJgCTg0zAD-r4Rc5t3ZycNP2s-wozvQJcIWeAciOk6DE8V-e0E5ILeZ-djbDmoUyoH8XxYRhzYHe3Lnt001FnpxxYQa8iJ4c78n39r7FUzcdek2h-fF7HZr_oDzVhSafIk4EGHw_Bp8Yp33NH4Vm7iK0W2QYrkSZ0EQEWk0E/s1600/SalamTV.png",Salam TV (Medan)
-https://salamtv.siar.us/live/salamtv.m3u8
-
-#EXTINF:-1 group-title="TV Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiU5OfcQSD10Gea3D-qzQJNKhyphenhyphenO_LbhilGL-mBt0biHYcOIC1HtNZfSYh-vOsmaIi2XPg8q_ddNll5gmQzv_vrQa5aOgfOvRxFZrceU-iurjoOLGQYLyM4xgOTs0-YjF3KPfu4TajS17yo2xlpIU_0kVUGiGEhxMb2Zpw1erNc-_kv-XWEEMTYq70my0ym/s1600/Logo_Fatwa_TV.png",Fatwa TV
-http://202.169.224.202:8800/udp/239.3.1.6:1234
-
 
 
 
@@ -1376,7 +1370,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
 #https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
 http://210.210.155.37/x6bnqe/s/s27/index.m3u8
 
-#EXTINF:-1 group-title="TV Religi" tvg-logo="logo", Ahsan TV
+#EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP9qeJWi_dXGj6SGgt44_U_A-uJmVU_fKE31_D9Xk2g_GXiUPUMp5aWsbqbkd50Bv6UYVw9Iw-HloXZ_pPue_SZqtAinhgAV4WBLGaU5qP5Sh86jWe1t3_UDYx5gMkp5_H8UZeQxPzxRY0S9I8n6ReEQ9q-Sg2hHigxbRyRkAuVZ7pixeM16eahzLK-o1T/s1600/ahsan-tv-light.png", Ahsan TV
 https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwzsvlVx65axMCq4PJIUtP8AY7D1KhKfAni4jexFluepHZ8aoH5SFZ75mrMEcCcp6KVpc_CjkT9JqlCjvX4UWS0gApej3iII2Ims6YAKbqiXuR6Z8iZlN7UIYC0LIKgKe95O0QfAxdtKAz6c3bbTICxnsr58Hoz9yyvF5hOfoUKaNXVG06LOjmTiUtc5ni/s1600/Al-bahjahTV.png", Al-Bahjah TV
@@ -1399,6 +1393,9 @@ https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 #EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip9Ta6Ag0Ji1urVaZZRCcjNy0XaZydzLHN5VBhsVBcrpYRcdkomuCJ1mbtmtFw0Sr3dTi5pVGZXQcCZXLldkRt18a_f7wZz1pzm1g4S4tU6WfMF39LJahRObiwKWw5VSomKLTq676t3MZP-ZK1npRzWO8CzpmASZjhGWmFPjJY68Qa5kBdzYJvii5yueN2/s1600/DMITV.png",DMI TV
 #http://202.80.222.20/cdn/iptv/Tvod/001/channel2000002/1024.m3u8
 https://tvstreamcast.com/tawaftv.m3u8
+
+#EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiU5OfcQSD10Gea3D-qzQJNKhyphenhyphenO_LbhilGL-mBt0biHYcOIC1HtNZfSYh-vOsmaIi2XPg8q_ddNll5gmQzv_vrQa5aOgfOvRxFZrceU-iurjoOLGQYLyM4xgOTs0-YjF3KPfu4TajS17yo2xlpIU_0kVUGiGEhxMb2Zpw1erNc-_kv-XWEEMTYq70my0ym/s1600/Logo_Fatwa_TV.png",Fatwa TV
+http://202.169.224.202:8800/udp/239.3.1.6:1234
 
 #EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo541EobZyzZZjG9c2zB2qrYIvzGN3_FxCzVRzpVrXboMt9CRPSRmSNPVOXpNVNqyEKYiZmSkcUsv7fbwfZSjl4-3T6MZ02g_4F6pUe-NUKUwhricecwMWnegj-qmlV0fhgx8liiaYnWtCg1Ogp-l3BiObW3FumAyT4tTdjHQbA-S4TowhcLoNNH7C1TaT/s1600/HadiTV_logo.png",Hadi TV
 https://live.ishiacloud.com/haditv.co.uk/haditv2.m3u8
@@ -1430,7 +1427,7 @@ https://e.siar.us/live/tvmu.m3u8
 #https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/mtatv/manifest.mpd
 
-#EXTINF:-1 group-title="TV Religi" tvg-logo="logo", Naajiya TV
+#EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcRGfV-62kBATZDuBdrk_oiK6Fb3Cylvty6bBMGOY4Iy-4vKdVVkCG6IHxe_8F8WdAmvkm3gnOAZqL09fndypjnuR_grBmcxKG4PDGkGb7JhGJyPUdoxFVKSyf5FXPiSrt9-a9e1377eZmNXMUS36PYbczBiIe81mytivxkNKRpBDEhkGm7OVOEx4Y3sOO/s1600/Naajiya.png", Naajiya TV
 https://www.naajiyatv.com/live/livestream.m3u8
 
 #EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5A5tzBStaiOVUTULbqRdho_Dwi6Dw3CgGN_j5Qhd8WPZyLbTv51YwrTT86q2nYtKUkHpFKxBYakpm_dopn3PGozFQl76LrRCjfbFTOlWO2zlrZ6KWrXu9CzdltMTYz0zQdvJ0qXyDfShc30o-hGDHFUlOxC5JcRgFYMQyEoxARauKsCOsuSn1Ncpm9wnX/s1600/NabawiTV.png", Nabawi TV
@@ -1438,6 +1435,9 @@ http://202.150.161.117:8000/play/NabawiTV
 
 #EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRg7kBQojFc_s2-JbqQyw0NxbZ1ItefNZGQbu2sq1erF_HmMF-VhWYZHx1DOHJRfhZeLMf0kRV6GpQzPp49WwTMvKDQKp-K4x5ev2ThT-spT4-PzrAC4WEOUy2vKCaKrXz97iMHMCwML5u_wFENhVOX58_27PC6mRGzLSQeCGEx6YgQgJsVyxrop-_mcA0/s1600/Rodja_TV.png",Rodja TV
 https://rodjatv.com/rodjatv/live.m3u8
+
+#EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWfCR4-24BmMW0hQGma_SVCJgCTg0zAD-r4Rc5t3ZycNP2s-wozvQJcIWeAciOk6DE8V-e0E5ILeZ-djbDmoUyoH8XxYRhzYHe3Lnt001FnpxxYQa8iJ4c78n39r7FUzcdek2h-fF7HZr_oDzVhSafIk4EGHw_Bp8Yp33NH4Vm7iK0W2QYrkSZ0EQEWk0E/s1600/SalamTV.png",Salam TV (Medan)
+https://salamtv.siar.us/live/salamtv.m3u8
 
 #EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmpJjecC_KyBTr12Qend7LRLD7Lv32ZHGOoTjE6fxJ4BBL4Iag2LxyVmRkH3EQ96S5GkYvOXT7HYAFle4dkhpj1gDj7ie3ubTpJKOqAXWuHufj19iLFpEXn8BPZ7wyDx1YpPET52QUmrlP8y3OgluvgsTddWLSzQxVpYyCNnXYS1w_GZfAuVA0xUQGxiUr/s1600/SurauTV.png",Surau TV
 #https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
@@ -1456,6 +1456,8 @@ https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/play
 
 #EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZAzuSoJ2q1wqv24NmXB7SycawqR45c77b0U1DYN3lBDZnHaMD4KyMxIn8kZIOqvfaJcswUmh35Gn0jLekROfndO8_9NNSIdiUhM2Kdkr0Fb-iqO5G4Tk8WlPL0NZaymDuswjTxuGKNNSh8lDi9QakYWrFUc6rwQnKpv1rfa3ncdOMvTdj4hd_zUnLAFF7/s1600/Wesal_TV.png",Wesal TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+
+
 
 
 
@@ -1486,7 +1488,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 #EXTINF:-1 group-title="TV Jiran" tvg-id="AstroAwani.my" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-IgCuxLgYmknel_6lO3uZ2EuURJMeFj7yUCNb1wa04Q6Jpg-yF53-8DysG3UqaEQO4zvaNkMeCj5Ed_d7UsCZoqsOfITxiWJAA-WsX1T-G23Sqro8tE90DaOGjgEr7O-yyln3t_1rEaYchrsAPIq9LCeVWHazjqwkmx395KIKrkD9IiRJDpWlurg4vT2S/s1600/Astro_Awani_%282025%29.png",Astro Awani (Malaysia)
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
 
-#EXTINF:-1 group-title="TV Jiran" tvg-logo="logo",Bernama (Malaysia)
+#EXTINF:-1 group-title="TV Jiran" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMITrv5gaKSMu7T1mIWLXkUMwV7Ab7eAXnbHxtQb7tmxr0kg7JSVEQvnEVDZTHiyCMHlSy0LR_VPinLHw3myFPEXG0kssRvUNVMkS1Mj2Ns3pP_HqykhqfpJpcxxWGOrecHteCJwk7s_O9ZEJunrmt6cbq2z9S3JmepzEb27ZCi88bbSwD932J5D5tmDGv/s1600/Bernama_TV.png",Bernama (Malaysia)
 https://2bfd741e.b-cdn.net/streamer/8aw7eudWZ9nZJdrA4j59g8ZC3mEa8oMqz3T5pFUpGnch.m3u8?expires=1789539677&token=TR-wbVxqN8LW9kdHnUR_0QrF23lYAtKD6PndKt0MUys
 
 #EXTINF:-1 group-title="TV Jiran" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHZWFjcPyQuH54TaMGMvOfrh5hyYYvxElhO_EPr_Lcxge8xR9s0a2yaHNPW9fbfT15tyZA8oxi4XqTf9kSIuguKgSwwkHH36GdxLwSELEhTdM0z4-tYtYDZqtgyUDQHgspdm_fWgXr0MrFkdotV6G69Y9uvplb1kNNU2REqCD7fIO7HU_pU9bs28yEjvXA/s1600/Logo_Berita_RTM.png",Berita RTM (Malaysia)
@@ -1778,7 +1780,7 @@ https://live.24hrkpop.com/hls/3/stream.m3u8
 #EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJNb8DtQ8LOrYaeKGr0dI8J2oDHfzF1lZ82rqJ9t5cJy7HjV4DgIw6HidY0RLsyHmP2CsLM2aKWyGAGdL7lgej38BSCH70dUXknyn99TbiwFE-DVuooxWBbTzkQZXTiSpQ9ugRaAGosm6sFX2EmFiV6CpP28tbjEC48EWjMVCUF5ijp4gzJWTXM2PnnWdF/s1600/Prambors.png",Prambors
 https://cdnbal1.indihometv.com/atm/DASH/pramborstv/pramborstv-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjVVhwwZa27PSgCENUUNtLtcfacnFEFsL3cqHXghyphenhyphenrL_T6K9Or3NbutWMI5PO5tO-iLN2N3Sn-AT37vxxDGqeLAkNS8cqOL6iy3wV7RTIYn6Mmj5L7mJPIc7y4PGRJWIynPrIhqjrKRd8N1qzuqvf-rc_ABlgB8qJTk1EvDh7W_jSEGGhWCDf0FoemT40i/s1600/379f71.jpg",Musica
+#EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh86EE5iARb-ZY2SiIPfBBJqtlswjF8ekqDU8fFEhdawuDPrbUfHjrU6PJuGKxHM8BybUeN1latN1PT0vYpbUJrbEnbJ3aoUpGUOELYu6qgmndLKqUHpAc5va5WN-81vgjCOZdI7iLsXHlu2m_mSYZ8iYXu2ZVjZFJQB3uZMm00qE99JAatapRjJID6TOlJ/s1600/Musica.png",Musica
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=7619|user-agent=VidioPlayer/6.31.6
 
 #EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJq5-7XVFSa0wdFdyeMbTlXYNe6lXSdQdLHwUsHQGW-PUtFVKpARIgv4orbj3vi275Y2DIvJZXg62PMzUxnMfy5H2jeIEbSr2muxy3mi8o-Sa0IFKpNy5sjrz8tI5KgkwqL5z59fV__mI4DWdpbAr9oPTMbEkeJXg1duxpj1-oCmWayl3T14WzqiyXUGEp/s1600/LogoBahanaFMJKT.png",Bahana Radio Music
@@ -2492,7 +2494,7 @@ https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiTeG_bg3rmLiLLoPRu3WR35gTtIK5fe-TUwqVKrRb8TWkCVaONlDSHhS3hEHdHCPkme6Mf1029vR-ZKv6dGm5CRN4PeZKO13Hs3C3gPRIw083s5iW4TdRvwwD0HxR_7fBvvdlokckZLY8qkmZCf7zBaXt4fhLc5r6hjQN0q8aD_8zuWqBeKQ3A9BCSKIC/s1600/CGTN_Documentary_II.png",CGTN Documentary
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
-#EXTINF:-1 group-title="International" tvg-logo="logo", CGTN Global Biz
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhENV5_P7e0_G9ZGLS_7er2F85uevy3pmyhO5QkkaQ3whCoxAlUWPtLllBBZeL_lBdPWuGPtq3fbAoQvHmUudoPpU-0hOZ-vpuxVDGrMTMP3HyA0mTXaD7HVyj9AjMOyGdALQn4AHu7xiT5gEnhAp2nYE9QkBT8h9_d9RQgnp_SdPTWdLugaeDmjHef4tsJ/s1600/CGTNGlobalBiz.png", CGTN Global Biz
 https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
 https://ml-pull-hwc.myco.io/CGTN6/hls/index.m3u8
 
@@ -2521,7 +2523,7 @@ https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunkli
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wion-world-is-one-news/index.m3u8?ads.rnd=1775866277556&ads.env_i=web&ads.env_u=web&ads.name=DistroTV&ads.bundle=distro.tv&ads.storeurl=https%253A%252F%252Fdistro.tv%252F&ads.appCategory=&ads.app_version=&ads.width=1920&ads.height=1080&ads.deviceId=86e7291c-acdf-417f-8432-a9f7c8dfa567&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Linux&ads.deviceIdType=uuid&ads.deviceConnectionType=&ads.deviceCategory=desktop&ads.client_ip=&ads.geo=US&ads.lat=&ads.long=&ads.dma=&ads.geoType=&ads.contentid=22975&ads.content_duration=18000&ads.episode_id=55878&ads.show_id=1741&ads.showCategories=IAB12&ads.episodeCategories=IAB12&ads.genre=News%2CPolitics%2CCurrent+Affairs%2CAsian&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=WION+World+is+One+News&ads.episodetitle=WION+World+is+One+News&ads.keywords=wion%2Cdesi&ads.contenturl=https%253A%252F%252Fdistro.tv%252F&ads.gdprConsent=&ads.paln=&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=Vasjw72eir0
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
-#EXTINF:-1 group-title="International" tvg-logo="logo",DragonTV
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf_FuYY52tj_1jv2KLsM3V-wKcBR_L44hmOqH98zOfGAcYbypSzTn9JaZO_Kwrv8nsp3hSjgFZ6-UiY1ZAUbcNiq_yF4PNs3R3cNh6pt7Wr0zrAc0guMUmSwgxVMPvZEPv257ifqXhqEpnCU9-vfGtzLBG_f_uFYkd8sGR6-isrv0BST2t8Bs1WHbWA2DJ/s1600/DragonTV.png",DragonTV
 http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyU4s7qZiRXCp8Ib7yzLKo_AHRybwQQayFwJ1lmx0S68piiKDGISinoSk5RauqKNxyDJiQFqDAn1oD3DG7bqxH9CAJObCkxyODWHNn_XptD0JfoAROjU2K2M9UXBcVYgsvk0sya8xqm3sweatapD6zWgoAnYznrbuUL7ldQhIsARgrMYBQ_vOffp6HPcFF/s1600/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0.png",Phoenix
@@ -2695,7 +2697,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc6VtPHyD5aMBG-2ItjMqOs1a-NghNdfzFNrzuvKK_F1KxtQ8u9FOv2oBftV1x5zo76kX2FnhU-CWpUM4p9mBxMGIwQ9QJb28ATwZwPgd74pIbMMtamHAAFCWrg2Q6Cnz-vaChQOeBp1txr5FVhD-w1Ic3Ix89wcgzCGWuXtbkedz-QauDItShj6IKGQXu/s1600/Outdoor.png",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 group-title="International" tvg-logo="logo",Global Trekker
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr0PTgpRX8xFcNUs9uzQ2zHYBfDFPHYxa_X836SEf6oIZz7dSgUbEi37EYKeeJz9xdFZiADvoxtKT4NoShSr20khQ9bjw4rMO8tnMH5Y3NhYsU-wtc_ovTldOxXhIo0_Yf7YFID0GgBPdIwjV8lPI4jB-pxigNXvFqCtVIH3zGXXzkcUEtK25V2PysxPko/s1600/Global%20Trekker1.png",Global Trekker
 https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsRmZQquMlGVfGpsu6BtaKgKtRbsZzgNyR-lI5MbI6Bc6M8dBS4Ah2QkWqpjTi13KdcdvQQ1N6XE1idCMylifRxY6oWWWkPYaM9Q4XJKezh8KU_RCk0lROSS4Ro-HtGCG3UwBjLZH7IByJYmLIIE-uUzM6x37PKrRdGQXpLIV3UBXtQTKKwb5PVBckZKAr/s1600/4kTravel.png",4K Travel
@@ -3345,7 +3347,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamip
 #EXTINF:-1 group-title="TV Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-nXBvL43MLETnFM2j9DZ2HPyzo61KGMbpJHN6GoTpDYkhCY6bJYP4uTQRQr3aCpecm5O3sERSM3ga4voADghrf0zJPspA4yPLhfbj174FDFBENS3oOfps-f1EWuvlaEfZJ70tf2PEIpqlNNxpiaCexGCkx7tDAG0viH4Os7vCAnH4wKS5lEM7mIDMME4m/s1600/Red-Bull-TV-Logo.png",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 group-title="TV Olahraga" tvg-logo="logo",NFL
+#EXTINF:-1 group-title="TV Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBn6hSQTlIcB9WktVq1C_iqMBqz8tA8o5BL1xFi-ryvEyuSPOP_jBnTP5iRuWFTzf5O4KgB2f-Uj2UbmPfq-_WGXJCLwT_XkNoNroLfMpg6cOdk2GgmNgNIza9l5MjTcBx0C5sajPyTJKwwdFC1VoXmNqLk-wO7SZbymTsDV9ucRR9E_1WD6RI9YbcZxI9/s1600/NFL.png",NFL
 http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="TV Olahraga" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg090CRO_Bnjb4snCQ1Br5Rr2ZO3IVWSPSGJibMllsXwZZbGvtY8Z_98pMStvry5rK1eTtrxfzD7ioV_D5Mr22j_vH889ijuIxUWBPbzHNdNgvYLcAiWuGe9wnluPUNPCpkPeOAMkPoQC9Y6LgcugYQha6-yhgBp6_l5-YVtgTIkBuP9SLJD_KWIiyL1cvO/s1600/NHL_Network_2009.png",NHL
@@ -6066,40 +6068,40 @@ https://ia601405.us.archive.org/20/items/healing_music_202607/healing%20music%20
 ======WARKOP======
    
   
-#EXTINF:-1 group-title="Warkop DKI" tvg-logo="https://play-lh.googleusercontent.com/qbDC3aVQ2vSeIDMXwj1HhN6dVEaN-Dn4H_gELQG0Q6ZyQQOetoZt9IVbDIngEA2WHbM", 01 Mana Tahan
+#EXTINF:-1 group-title="Warkop DKI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhszOWeo_FCbGKMw_VXvTULEg9NpQc7I3BFDw5Jvv50b1xuTnlEa2b-kRkTVnIDH5BG6wQaLPNMW_3YLJPp_hTZFXK2T7IENAl-NJSj4VOeIFwr9hsXo1-x6dLut2JZi-eNERhOQGWwKGJ1SxQrgkkGWQDqWX9F-e7vq0_qi80gZliImZrGWjpo37um1XHa/s1600/Warkop.png", 01 Mana Tahan
 https://ia800804.us.archive.org/21/items/wkpdki/01.%20Mana%20Tahan%20%281979%29.mp4
 
-#EXTINF:-1 group-title="Warkop DKI" tvg-logo="https://play-lh.googleusercontent.com/qbDC3aVQ2vSeIDMXwj1HhN6dVEaN-Dn4H_gELQG0Q6ZyQQOetoZt9IVbDIngEA2WHbM", 02 Gengsi Dong
+#EXTINF:-1 group-title="Warkop DKI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhszOWeo_FCbGKMw_VXvTULEg9NpQc7I3BFDw5Jvv50b1xuTnlEa2b-kRkTVnIDH5BG6wQaLPNMW_3YLJPp_hTZFXK2T7IENAl-NJSj4VOeIFwr9hsXo1-x6dLut2JZi-eNERhOQGWwKGJ1SxQrgkkGWQDqWX9F-e7vq0_qi80gZliImZrGWjpo37um1XHa/s1600/Warkop.png", 02 Gengsi Dong
 https://ia600804.us.archive.org/21/items/wkpdki/02.%20Gengsi%20Dong%20%281980%29.mp4
 
-#EXTINF:-1 group-title="Warkop DKI" tvg-logo="https://play-lh.googleusercontent.com/qbDC3aVQ2vSeIDMXwj1HhN6dVEaN-Dn4H_gELQG0Q6ZyQQOetoZt9IVbDIngEA2WHbM", 03 Ge eR
+#EXTINF:-1 group-title="Warkop DKI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhszOWeo_FCbGKMw_VXvTULEg9NpQc7I3BFDw5Jvv50b1xuTnlEa2b-kRkTVnIDH5BG6wQaLPNMW_3YLJPp_hTZFXK2T7IENAl-NJSj4VOeIFwr9hsXo1-x6dLut2JZi-eNERhOQGWwKGJ1SxQrgkkGWQDqWX9F-e7vq0_qi80gZliImZrGWjpo37um1XHa/s1600/Warkop.png", 03 Ge eR
 https://ia800804.us.archive.org/21/items/wkpdki/03.%20Gee..eeR%20%28Gede%20Rasa%29%20%281980%29.mp4
 
-#EXTINF:-1 group-title="Warkop DKI" tvg-logo="https://play-lh.googleusercontent.com/qbDC3aVQ2vSeIDMXwj1HhN6dVEaN-Dn4H_gELQG0Q6ZyQQOetoZt9IVbDIngEA2WHbM", 04 Pintar-Pintar Bodoh
+#EXTINF:-1 group-title="Warkop DKI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhszOWeo_FCbGKMw_VXvTULEg9NpQc7I3BFDw5Jvv50b1xuTnlEa2b-kRkTVnIDH5BG6wQaLPNMW_3YLJPp_hTZFXK2T7IENAl-NJSj4VOeIFwr9hsXo1-x6dLut2JZi-eNERhOQGWwKGJ1SxQrgkkGWQDqWX9F-e7vq0_qi80gZliImZrGWjpo37um1XHa/s1600/Warkop.png", 04 Pintar-Pintar Bodoh
 https://ia600804.us.archive.org/21/items/wkpdki/04.%20Pintar-pintar%20Bodoh%20%281980%29.mp4
 
-#EXTINF:-1 group-title="Warkop DKI" tvg-logo="https://play-lh.googleusercontent.com/qbDC3aVQ2vSeIDMXwj1HhN6dVEaN-Dn4H_gELQG0Q6ZyQQOetoZt9IVbDIngEA2WHbM", 05 Manusia 6.000.000 Dollar
+#EXTINF:-1 group-title="Warkop DKI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhszOWeo_FCbGKMw_VXvTULEg9NpQc7I3BFDw5Jvv50b1xuTnlEa2b-kRkTVnIDH5BG6wQaLPNMW_3YLJPp_hTZFXK2T7IENAl-NJSj4VOeIFwr9hsXo1-x6dLut2JZi-eNERhOQGWwKGJ1SxQrgkkGWQDqWX9F-e7vq0_qi80gZliImZrGWjpo37um1XHa/s1600/Warkop.png", 05 Manusia 6.000.000 Dollar
 https://ia800804.us.archive.org/21/items/wkpdki/05.%20Manusia%206.000.000%20Dollar%20%281981%29.mp4
 
-#EXTINF:-1 group-title="Warkop DKI" tvg-logo="https://play-lh.googleusercontent.com/qbDC3aVQ2vSeIDMXwj1HhN6dVEaN-Dn4H_gELQG0Q6ZyQQOetoZt9IVbDIngEA2WHbM", 06 IQ Jongkok
+#EXTINF:-1 group-title="Warkop DKI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhszOWeo_FCbGKMw_VXvTULEg9NpQc7I3BFDw5Jvv50b1xuTnlEa2b-kRkTVnIDH5BG6wQaLPNMW_3YLJPp_hTZFXK2T7IENAl-NJSj4VOeIFwr9hsXo1-x6dLut2JZi-eNERhOQGWwKGJ1SxQrgkkGWQDqWX9F-e7vq0_qi80gZliImZrGWjpo37um1XHa/s1600/Warkop.png", 06 IQ Jongkok
 https://ia600804.us.archive.org/21/items/wkpdki/06.%20IQ%20Jongkok%20%281981%29.mp4
 
-#EXTINF:-1 group-title="Warkop DKI" tvg-logo="https://play-lh.googleusercontent.com/qbDC3aVQ2vSeIDMXwj1HhN6dVEaN-Dn4H_gELQG0Q6ZyQQOetoZt9IVbDIngEA2WHbM", 07 Setan Kredit
+#EXTINF:-1 group-title="Warkop DKI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhszOWeo_FCbGKMw_VXvTULEg9NpQc7I3BFDw5Jvv50b1xuTnlEa2b-kRkTVnIDH5BG6wQaLPNMW_3YLJPp_hTZFXK2T7IENAl-NJSj4VOeIFwr9hsXo1-x6dLut2JZi-eNERhOQGWwKGJ1SxQrgkkGWQDqWX9F-e7vq0_qi80gZliImZrGWjpo37um1XHa/s1600/Warkop.png", 07 Setan Kredit
 https://ia600804.us.archive.org/21/items/wkpdki/07.%20Setan%20Kredit%20%281982%29.mp4
 
-#EXTINF:-1 group-title="Warkop DKI" tvg-logo="https://play-lh.googleusercontent.com/qbDC3aVQ2vSeIDMXwj1HhN6dVEaN-Dn4H_gELQG0Q6ZyQQOetoZt9IVbDIngEA2WHbM", 08 CHIP's
+#EXTINF:-1 group-title="Warkop DKI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhszOWeo_FCbGKMw_VXvTULEg9NpQc7I3BFDw5Jvv50b1xuTnlEa2b-kRkTVnIDH5BG6wQaLPNMW_3YLJPp_hTZFXK2T7IENAl-NJSj4VOeIFwr9hsXo1-x6dLut2JZi-eNERhOQGWwKGJ1SxQrgkkGWQDqWX9F-e7vq0_qi80gZliImZrGWjpo37um1XHa/s1600/Warkop.png", 08 CHIP's
 https://ia800804.us.archive.org/21/items/wkpdki/08.%20CHIP%27s%20%281982%29.mp4
 
-#EXTINF:-1 group-title="Warkop DKI" tvg-logo="https://play-lh.googleusercontent.com/qbDC3aVQ2vSeIDMXwj1HhN6dVEaN-Dn4H_gELQG0Q6ZyQQOetoZt9IVbDIngEA2WHbM", 09 Dongkrak Antik
+#EXTINF:-1 group-title="Warkop DKI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhszOWeo_FCbGKMw_VXvTULEg9NpQc7I3BFDw5Jvv50b1xuTnlEa2b-kRkTVnIDH5BG6wQaLPNMW_3YLJPp_hTZFXK2T7IENAl-NJSj4VOeIFwr9hsXo1-x6dLut2JZi-eNERhOQGWwKGJ1SxQrgkkGWQDqWX9F-e7vq0_qi80gZliImZrGWjpo37um1XHa/s1600/Warkop.png", 09 Dongkrak Antik
 https://ia800804.us.archive.org/21/items/wkpdki/09.%20Dongkrak%20Antik%20%281982%29.mp4
 
-#EXTINF:-1 group-title="Warkop DKI" tvg-logo="https://play-lh.googleusercontent.com/qbDC3aVQ2vSeIDMXwj1HhN6dVEaN-Dn4H_gELQG0Q6ZyQQOetoZt9IVbDIngEA2WHbM", 10 Maju Kena Mundur Kena
+#EXTINF:-1 group-title="Warkop DKI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhszOWeo_FCbGKMw_VXvTULEg9NpQc7I3BFDw5Jvv50b1xuTnlEa2b-kRkTVnIDH5BG6wQaLPNMW_3YLJPp_hTZFXK2T7IENAl-NJSj4VOeIFwr9hsXo1-x6dLut2JZi-eNERhOQGWwKGJ1SxQrgkkGWQDqWX9F-e7vq0_qi80gZliImZrGWjpo37um1XHa/s1600/Warkop.png", 10 Maju Kena Mundur Kena
 https://ia600804.us.archive.org/21/items/wkpdki/10.%20Maju%20Kena%20Mundur%20Kena%20%281983%29.mp4
 
-#EXTINF:-1 group-title="Warkop DKI" tvg-logo="https://play-lh.googleusercontent.com/qbDC3aVQ2vSeIDMXwj1HhN6dVEaN-Dn4H_gELQG0Q6ZyQQOetoZt9IVbDIngEA2WHbM", 11 Pokoknya Beres
+#EXTINF:-1 group-title="Warkop DKI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhszOWeo_FCbGKMw_VXvTULEg9NpQc7I3BFDw5Jvv50b1xuTnlEa2b-kRkTVnIDH5BG6wQaLPNMW_3YLJPp_hTZFXK2T7IENAl-NJSj4VOeIFwr9hsXo1-x6dLut2JZi-eNERhOQGWwKGJ1SxQrgkkGWQDqWX9F-e7vq0_qi80gZliImZrGWjpo37um1XHa/s1600/Warkop.png", 11 Pokoknya Beres
 https://ia600804.us.archive.org/21/items/wkpdki/11.%20Pokoknya%20Beres%20%281983%29.mp4
 
-#EXTINF:-1 group-title="Warkop DKI" tvg-logo="https://play-lh.googleusercontent.com/qbDC3aVQ2vSeIDMXwj1HhN6dVEaN-Dn4H_gELQG0Q6ZyQQOetoZt9IVbDIngEA2WHbM", 12 Tau Diri Dong
+#EXTINF:-1 group-title="Warkop DKI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhszOWeo_FCbGKMw_VXvTULEg9NpQc7I3BFDw5Jvv50b1xuTnlEa2b-kRkTVnIDH5BG6wQaLPNMW_3YLJPp_hTZFXK2T7IENAl-NJSj4VOeIFwr9hsXo1-x6dLut2JZi-eNERhOQGWwKGJ1SxQrgkkGWQDqWX9F-e7vq0_qi80gZliImZrGWjpo37um1XHa/s1600/Warkop.png", 12 Tau Diri Dong
 https://ia600804.us.archive.org/21/items/wkpdki/12.%20Tahu%20Diri%20Dong%20%281984%29.mp4
 
 
