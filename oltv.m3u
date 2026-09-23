@@ -1715,7 +1715,7 @@ https://dash3.antik.sk/live/mb_classic/index.m3u8
 #EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzbnLeO1ltIOtebiUpTgxurKg2a-Us9HItJl5oizqppOSNrXb-_8oY_azlCgOrSLjaQt1QIyVvetsHj9hW27XiFH4kE9rufebFXoNvhwt3m5Mj74xT8sJHE4juHL5Og8U0nyX_CCPtCJh8dOLq8P4OhuYDa6L7mORnuZnqYMCLgEU2OLe3qeK_smSgF8a1/s1600/Retro_Music_TV_logo.png",RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 group-title="TV Musik" tvg-logo="https://mimipipi22.github.io/logo/antik/rebel.jpg" group-title="⭐MUSIC⭐",REBEL
+#EXTINF:-1 group-title="TV Musik" tvg-logo="https://mimipipi22.github.io/logo/antik/rebel.jpg",REBEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
