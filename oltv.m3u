@@ -666,6 +666,9 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv|user-agent=VidioPlayer/6.31.6
 #http://202.169.224.202:8800/udp/239.9.1.29:1234
 https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd|user-agent=IndiHomeTV/8.7.12
 
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibHhmzBcN7MbSs0cmLz1kfy8KGUD5LVwVWnsGiSR62mk7xSAiZxdcqWv6oONHRaOSX_rxAH91OHUEHuyf5QbmM_DUsaruqS5zw8skyG1-VxXGdtiLq2Jw9oGQNcbxMANDB_2kwPOdGAWyJqtA9LIXsQtDrNVqmC7iK3CQTVTzJwDLNdjHESdWSomjvD8XP/s1600/ezgif.com-crop%20%281%29.gif",ANTV
+https://beetv.my.id/xstreamx/vd.m3u8?ch=antv|user-agent=VidioPlayer/6.31.6
+
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb1sadlDLAeYBFHp7uCQEA5cRsScA293GYGQok-xHR4UtIgxtpgOL7_-gxcK1_LsMMuhclrn1QlDZ1OPNhmj0YFhKfyIAhI7WlygsvHRQ8Ef578g1g0BbeCOXjCLy4fPcJl0UFHl8vuLl3O6_SC8BnOjVo9bSkMDYtNtmGRQQs3nB9CU0Kyxt0W7UZ1SJU/s1600/Antv_2006.png",ANTV ⁽ᵛⁱᵈⁱᵒ⁾
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
@@ -693,7 +696,7 @@ https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-327770703000000
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti|user-agent=VidioPlayer/6.31.6
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti|user-agent=android-R+
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVKLWtx90rx2wFsYdHzZBOCsK_pyvy5sXKRRW4ZY512dV1_aKUu-LQHZW2PhMZ33o1QnadLb3SL5QR-SRf1-mnirFpzfdU4Q1FpVaymU2v7O5_2abRiKdJQNE3g2ybHuidOnoPKXFTkJEbOXlODxpimzgn1v3TG0MCirsZGFQn2v0gG8MlWABTFTr-vi0w/s1600/Gtv-gif.gif",GlobalTV
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpuMk_5iFiMM1um9jSfIw36nzaaNdwA5lXf3uj8qFZV848vL5IOKM_1xo8AbCfACNMrrdRBYshb2n0gN5rN9OJmNw5KBlt-CdxbW1mHCzOuIMYckktk56fKLYaV1pooCBW5z_bV23oA5AMhhG_GIzlkLgM7hJ2XjjgPLSF5U4okMF1NA_wgH0BchPw1BIY/s1600/ezgif.com-crop.gif",GlobalTV
 https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd|user-agent=IndiHomeTV/8.7.12
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCNjAGEIztsp8_sL_5dYeGS78Hr3Ii6Q4qoaI7xuKKr_hkS3OaObScG7JeWH8036nlNt5xUjycZABIblEJuyz-IWXPUFShQqMRkutgjKEAyw3B5-Gkhp_dkjOO4t9hXdWCAfP_1sFT6vlyjhVtnHlMhNds4XGUIX4vCXAK4yj2Ox9nt68f1y5JeKYTy8aO/s1600/MNCTV.gif",MNCTV
@@ -743,7 +746,7 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 #http://103.58.160.157:8278/720-KOMPASTV/playlist.m3u8
 https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKwAcVV_f0_n1cw-sNCBnfulIw2W5z0MoHmtgGnnoVkY7qtyYLVeTSWyEX0LimfAuOJUMGgNAACQafygemDQEhcZW6cLx2gpWgNvNuY-7o7EHEGMgwHhOCeMtIk0jQLzIOFlOfMS6cUL5A5E8O7bsPsbO1OtroSSOKn3-fSn_v1WwFuJPdQg6biIHZqyIF/s1600/metrotv.gif",Metro TV
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinExqsUPY17mAtmuzAP3LhhRkDn5177beWlSo-1T8czcr3K2ddcOm4JDUG0NHklX_pl8VDIcLA2hko3YDbJWZ7l8a-dx5qy9opbcdlSin0b2_jrGeuVAf4C-9cn_zyBVOPqM8eQHVCLcU4_ybyRMUk-a0NMQ3kbRpnM1FRzHOhhCNAi2ZiKNiUwECw-GsI/s1600/metrotv-ezgif.com-effects.gif",Metro TV
 #https://iptv.lancartech.co.id:443/Acongfarhan@12/19122024/21
 #http://103.58.160.157:8278/720-METROTV/playlist.m3u8
 #https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mediampd/MetroTVHD.mpd
@@ -771,10 +774,10 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_s
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYI1vglc8Ao4G36iKURMwb1Dvy5uRKmdzAtuEsvDgcDE7XfIxGosZI8lpOY7KHq39btWdT9w67L_fYMq3-m0jJgLcOieExNKtv375Wl8MrYkxsMwQtyNyqOtPArAhKHyKiDzRhIUajvrer7W_JltXfZl_M18KT6P0z3kjy2VyYZdjlOvWiPZiFmFjeSU6O/s1600/Nusantara_TV.png"",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlliwObSJLSTrl-pn7VDTK1fh05h_ZSTRstVGCgsU9SfupmVrubhAbaI4L6ZXqif2fehihWY7WQ4jdO627TNBYhXVud7POQJl6-Yu-yrP8DZ-JYyCptmMl6wGTsrwa8k8CznrcxkCEgxtQhrdxboHxovn7-ISxx3LF7nlfcZ0JNQohZsMG72HdTMdBVn7x/s1600/tv-one-logo-png.png",TVOne
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjai9tZ5f2gtvoK5ExtMQdICo2JEnkcqEpDIHzanEq2Jw8onvalmULnDKgsa5XD_iZHRAHdm8AA5T5WobfIoJREadBb9alve4HGWMw6hVz0SVfsBUNNKP8oVLmh9jsjRQ7JBSJerFuCRx59b6Bt8o5bnN2rIdN-cwvAeABB6Li4Si6655NBxsmgbw3xIprU/s1600/tv-one-medan-ezgif.com-crop.gif",TVOne
 https://op-group1-densxvisionhd-1.dens.tv/h/h40/01.m3u8|user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgti8yQO0-2tJDnc8mFP3OWO6SGsGhxAWbQ5TUGTZ5z4BTFKXnQQK4QvIfzhYkKr3k9K2Yv3cZCxf9WZLoyLQrfNE5trVLgwtdoznhP_mhK3UfkTWbVZZeELhdk7MtztV-jtTWBqaMcsyimYXs4i7lxPibCIKUw7nxs2xqtA4kqTlTOYwzHcURIrw70TOqE/s1600/TvOne_logo_2012.png",TVOne⁽ᴰᵉⁿˢ⁾
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlliwObSJLSTrl-pn7VDTK1fh05h_ZSTRstVGCgsU9SfupmVrubhAbaI4L6ZXqif2fehihWY7WQ4jdO627TNBYhXVud7POQJl6-Yu-yrP8DZ-JYyCptmMl6wGTsrwa8k8CznrcxkCEgxtQhrdxboHxovn7-ISxx3LF7nlfcZ0JNQohZsMG72HdTMdBVn7x/s1600/tv-one-logo-png.png",TVOne⁽ᴰᵉⁿˢ⁾
 https://op-flashcon-digdayahd-1.dens.tv/h/h40/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1648,7 +1651,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 ######MUSIC######
 
 
-#EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjcF1KIqlDQDmenEuYTTQI2lUV1Li7xeDdB-9vGJj06wHylGlMzCVo6JkEaplPuXe2PFb6j4KBIoSFaH4JFr1yn5krq2Mj0yBoO16Ptlsk6u4gNF3LeGAwetNvs2FDhWL6obn8gIhMMIY7FBqHQ-_cX75egXoDaSDO0BQwUJlHQU77e6mXrC3Z_0inGGg4/s1600/2560px-Kronehit_Logo2018_Nachtblau_rgb.svg.png",Krone Hit
+#EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHcNHpocTMFsxdfge6P2BM9nFqz3wojULgocTqhEJqTph0JOQyjhNfEnezaPQwJt56VQZ4GLntET9fqO9HV0JMRgUVx0kHcYgDcX730yUYM61RN6whpicJDMAacYfkM2s1aeQ0FMlb8z6Q_LfylaV_-L3ZFyNlDSPKt_Z_jcpmTBhHsedgqlCF0D90Ef9u/s1600/KH_ICON_GIF3.gif",Krone Hit
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
 #EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM7lw2KgLyaq0yt6qcIKBKeoUW23931PhNa2Y41e_p3Bw2P-iAOCF5vBSP_DB_xDJYEgyG1WbtslYNz-_1JFgMnHabKU6pV5-cJ7ox-mqyyNqhMakJKlWdd-E-Sr7E1IhRLigYFxKGSGaj1o4IE221mmPIA6UqT2cCCjp5lpQPCM94dLdC9S6NKioqAXxv/s1600/1.png",1 Music.Com
@@ -1706,7 +1709,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a
 #EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8SKZgDcgGbnJuXWsDBrHChXDDtDS2-hlqIjPNmoOXXnaY9j08MKikq8kO2xBlDUL2CDGW5GEC4U3P0qMqMjvhT7U3fE4lUG8JsaiebTuI7JcfhYUmfDF3C-4wBGZTZpwGRfO0780e26ykE-Kh-9VCv7EXAX4qC01lxvMEsFwL4Hv59nKKnp9q4HgtDKCP/s1600/MTV_Classic_2021.pn",MTV classic (Pluto)
 https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 
-#EXTINF:-1 group-title="TV Musik" tvg-logo="https://mimipipi22.github.io/logo/antik/mb-classic.jpg",Musix Box Classic
+#EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf_0YGrDCaly8VWg26fU1pKV4buPR3CV9b_m78_Na3s6l8HomCEdI-LFsd4Dxw15rJTm9Z4FT1egpR9kTlxShTle3bUWO6wkosKgpfQ4h8EDiUm5lod6hO2lOULV-CVb9fvGvSUzcmeK6o2YYrtJh58KizKifPS8nS2HprsrgKB6IALS__-ilmz95hXlDu/s1600/music_box_classic_logo.png",Musix Box Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
@@ -1715,7 +1718,7 @@ https://dash3.antik.sk/live/mb_classic/index.m3u8
 #EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzbnLeO1ltIOtebiUpTgxurKg2a-Us9HItJl5oizqppOSNrXb-_8oY_azlCgOrSLjaQt1QIyVvetsHj9hW27XiFH4kE9rufebFXoNvhwt3m5Mj74xT8sJHE4juHL5Og8U0nyX_CCPtCJh8dOLq8P4OhuYDa6L7mORnuZnqYMCLgEU2OLe3qeK_smSgF8a1/s1600/Retro_Music_TV_logo.png",RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 group-title="TV Musik" tvg-logo="https://mimipipi22.github.io/logo/antik/rebel.jpg",REBEL
+#EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzUj1JO2Yg56WTZ1shOyJ8dT18Fou99j9v_g5bC4_09i3mkig2bI7WyyZL4wcfqeC5x4k33bZQDOLqflL_bA7vvXQGarT98_uNhX5iMvC55EfARY3RGB15NENprELRuU0N74u5sGnqbG2fUfhQ7iuDpT5Lxms62akVfPCbD7UHtzMlvkwamMnpwyFwatzU/s1600/Rebel.png",REBEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
@@ -1952,18 +1955,18 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 group-title="TV Musik" tvg-id="StingrayUrbanBeat.ca" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXynxen9Iq7J9mLgLngLXmChZzc3SqkiBVW5V4vyPOp9GuBvIA7oicEYo_5GMgElMAL_mHInhe4LetLGPExqJkZrsDfS75gTHk74jIyMMaSvfjUYy6PJ7nF2wFv3iWW3usoUZnEKIdoxVksUx_DR47diN5ZBp2nD8dPRQ6igotefBhPgUr54BbhwbopUaL/s1600/StingrayUrbanBeats.png",Stingray Urban Beat
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 group-title="TV Musik" tvg-logo="https://mimipipi22.github.io/logo/antik/ocko.jpg",OĆkO
+#EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqMTAXmaysPLwcyzMmVBl-D4WT-oAGOdpz3bXWay7s5kcKZgJErCmAllt2jp2gYfEOxz9TLc5AOsltMOVS5-9TGXmOy6BkUh5_g8MuRQJZOX3McmsBtS3xJq423YTWD0z_Se3zrmpOwOytiiijdoTsF2MjUEAPBuLfFeB2bh3zjmvJu0X-Q5AsQrtc1lKX/s1600/%C3%93%C4%8Dko_logo_2012.png",OĆkO
 https://dash2.antik.sk/stream/hisi_ocko/playlist_cbcs.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="TV Musik" tvg-logo="https://mimipipi22.github.io/logo/antik/ockoblack.jpg",OCKO Black
+#EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_pI4wzC8CuGY1qNq17Jru4lcUCGSsZiaeXQbA_p7RsgBSXeUhTqRkHjkTjknqDtqseljZSOreDUqBktReNyoTxqCqzChZ6vhNrgBHhVrctMQQ6ovPh7hNd9g6uz8B8YGaukzP-Dr6IZqMsAjaGE-qxZaz6GBWjd2APAOQZe0rHQr5aG_QDCxoImIvcVjd/s1600/%C3%93%C4%8Dko_black.png",OCKO Black
 https://dash3.antik.sk/live/test_ocko_black/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
-#EXTINF:-1 group-title="TV Musik" tvg-logo="https://mimipipi22.github.io/logo/antik/ockoexpress.jpg",OCKO Express
+#EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-J8FcvyEJDvdy5m0oEYH-AMhSeu4Ohp3LMKtL86QQBb4O3nwC3owd_GrMwHrd8ZfhK_8x8_uA_ynE6q-IvIQ80rkRSJaJe7ndXuVLA0jcFOEgo8Ag_SD8C8cjFg1Pt2shmXZlt-p8l2LNzjX2DqDpnXrXe7cfkKgquXqKZGvQVjxMfZBJ4tACJZdNB8V4/s1600/%C3%93%C4%8Dko%20Express.png",OCKO Express
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash3.antik.sk/live/test_ocko_expres/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
-EXTINF:-1 group-title="TV Musik" tvg-logo="https://mimipipi22.github.io/logo/antik/ockostar.jpg",OCKO Star
+EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQiMxjSYBBV_9HW6PP5LU6nEwviFSy8wIraaHq-keRDQi1VjpirLSCGJXXrbdIcvc6mp1R6KAn8NLOxvOz0IZa2fbYRVKqOKdQGOIsM7iyw1EvQl9BxTb3G3a-x9kkx1CuRUuhvHJT-1Hnpd2zp48TNgEKwpLWAV77Bij9q9Z6gbeZ_oNqhudWdnOdjeTh/s1600/%C3%93%C4%8Dko_Star_logo.png",OCKO Star
 #EXTVLCOPT:http-referer=https://webtv.sk/
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash3.antik.sk/live/test_ocko_star/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
