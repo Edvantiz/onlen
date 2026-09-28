@@ -6476,5 +6476,97 @@ https://stream.laut.fm/poploungecafe
 #EXTVLCOPT:network-caching=1000
 https://voa-audio-ns.akamaized.net/vin/2025/03/15/b5dba117-3b0b-406e-0a08-08dd5c8b1668.mp3
 
+
+======CCTV======
+   
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Sp Boom Baru
+https://stream.palembang.go.id/cam42/main_stream.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Sp Gedung DPRD
+https://stream.palembang.go.id/cam44/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Sp Bandara
+https://stream.palembang.go.id/cam45/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Sp Soekarno Hatta
+https://stream.palembang.go.id/cam48/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Jl Veteran 1
+https://stream.palembang.go.id/cam41/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Jl Veteran
+https://stream.palembang.go.id/cam40/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Taman Siswa
+https://stream.palembang.go.id/cam47/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Jl. Tembesu
+https://stream.palembang.go.id/cam49/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Jl Veteran 2
+https://stream.palembang.go.id/cam50/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Sp Parameswara
+https://stream.palembang.go.id/cam43/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Sp Kebon Sayur
+https://stream.palembang.go.id/cam46/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Plaza 7 Ulu
+https://stream.palembang.go.id/cam20/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Bank Sumsel Atmo
+https://stream.palembang.go.id/cam39/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Sp IP
+https://stream.palembang.go.id/cam30/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Sp Lampu Merah Kol. Atmo
+https://stream.palembang.go.id/cam6/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Sp Angkatan 45
+https://stream.palembang.go.id/cam5/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Kambang Iwak
+https://stream.palembang.go.id/cam28/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Dharma Agung
+https://stream.palembang.go.id/cam24/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Sp Samsat
+https://stream.palembang.go.id/cam21/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Lap Parkir Pasar 16
+https://stream.palembang.go.id/cam25/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Depan Disdukcapil
+https://stream.palembang.go.id/cam26/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Pasar 16
+https://stream.palembang.go.id/cam36/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",KM 12
+https://stream.palembang.go.id/cam13/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Punti Kayu
+https://stream.palembang.go.id/cam14/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Mesjid Agung
+https://stream.palembang.go.id/cam9/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",SP Charitas
+https://stream.palembang.go.id/cam8/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",SP Macan Lindungan
+https://stream.palembang.go.id/cam4/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",SP Polda
+https://stream.palembang.go.id/cam3/index.m3u8
+
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Benteng Kuto Besak
+https://stream.palembang.go.id/cam2/index.m3u8
+
+
+
 ======Test======
 
