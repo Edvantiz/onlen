@@ -6479,92 +6479,185 @@ https://voa-audio-ns.akamaized.net/vin/2025/03/15/b5dba117-3b0b-406e-0a08-08dd5c
 
 ======CCTV======
    
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Sp Boom Baru
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",Sp Boom Baru
 https://stream.palembang.go.id/cam42/main_stream.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Sp Gedung DPRD
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",Sp Gedung DPRD
 https://stream.palembang.go.id/cam44/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Sp Bandara
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",Sp Bandara
 https://stream.palembang.go.id/cam45/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Sp Soekarno Hatta
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",Sp Soekarno Hatta
 https://stream.palembang.go.id/cam48/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Jl Veteran 1
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",Jl Veteran 1
 https://stream.palembang.go.id/cam41/index.m3u8
 
 #EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Jl Veteran
 https://stream.palembang.go.id/cam40/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Taman Siswa
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",Taman Siswa
 https://stream.palembang.go.id/cam47/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Jl. Tembesu
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",Jl. Tembesu
 https://stream.palembang.go.id/cam49/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Jl Veteran 2
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",Jl Veteran 2
 https://stream.palembang.go.id/cam50/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Sp Parameswara
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",Sp Parameswara
 https://stream.palembang.go.id/cam43/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Sp Kebon Sayur
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",Sp Kebon Sayur
 https://stream.palembang.go.id/cam46/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Plaza 7 Ulu
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",Plaza 7 Ulu
 https://stream.palembang.go.id/cam20/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Bank Sumsel Atmo
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",Bank Sumsel Atmo
 https://stream.palembang.go.id/cam39/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Sp IP
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",Sp IP
 https://stream.palembang.go.id/cam30/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Sp Lampu Merah Kol. Atmo
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",Sp Lampu Merah Kol. Atmo
 https://stream.palembang.go.id/cam6/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Sp Angkatan 45
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",Sp Angkatan 45
 https://stream.palembang.go.id/cam5/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Kambang Iwak
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",Kambang Iwak
 https://stream.palembang.go.id/cam28/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Dharma Agung
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",Dharma Agung
 https://stream.palembang.go.id/cam24/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Sp Samsat
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",Sp Samsat
 https://stream.palembang.go.id/cam21/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Lap Parkir Pasar 16
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",Lap Parkir Pasar 16
 https://stream.palembang.go.id/cam25/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Depan Disdukcapil
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",Depan Disdukcapil
 https://stream.palembang.go.id/cam26/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Pasar 16
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",Pasar 16
 https://stream.palembang.go.id/cam36/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",KM 12
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",KM 12
 https://stream.palembang.go.id/cam13/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Punti Kayu
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",Punti Kayu
 https://stream.palembang.go.id/cam14/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Mesjid Agung
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",Mesjid Agung
 https://stream.palembang.go.id/cam9/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",SP Charitas
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",SP Charitas
 https://stream.palembang.go.id/cam8/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",SP Macan Lindungan
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",SP Macan Lindungan
 https://stream.palembang.go.id/cam4/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",SP Polda
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",SP Polda
 https://stream.palembang.go.id/cam3/index.m3u8
 
-#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png&w=32&q=75",Benteng Kuto Besak
+#EXTINF:-1 group-title="CCTV Palembang" tvg-logo="https://cctv.palembang.go.id/_next/image?url=%2Fassets%2Fimg%2Flogo-palembang.png",Benteng Kuto Besak
 https://stream.palembang.go.id/cam2/index.m3u8
+
+
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",Jayanti 1 (Arah Serang)
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzn18d0ca1m7p4ctvx1/01jsnyfnzn18d0ca1m7p4ctvx1.m3u8?t=1790584961295
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",Jayanti 2 (Arah Gembong)
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzqgp8ey0jpz4hec4xa/01jsnyfnzqgp8ey0jpz4hec4xa.m3u8?t=1790585020520
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",Cikupa Kedaton 1
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzs6e5818bdsed2jppp/01jsnyfnzs6e5818bdsed2jppp.m3u8?t=1790585052445
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",Cikupa Mas
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzt5nxdn9t5fzt0265r/01jsnyfnzt5nxdn9t5fzt0265r.m3u8?t=1790585075908
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",Cisauk
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzv75f3w6m701qt8rn5/01jsnyfnzv75f3w6m701qt8rn5.m3u8?t=1790585103274
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",SP Rajeg Kukun 1
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jsr079n4btzjemf6r9br473w/01jsr079n4btzjemf6r9br473w.m3u8?t=1790585136934
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",SP Rajeg Kukun 2
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jsr0j5nwjcbthcb6aypa6dcr/01jsr0j5nwjcbthcb6aypa6dcr.m3u8?t=1790585161922
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",SP Psr Kemis 1
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jsr0t8vyed4mcezqccqfngha/01jsr0t8vyed4mcezqccqfngha.m3u8?t=1790585183551
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",SP Psr Kemis 2
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jsr3dmjxav35pvcja8j4c6ac/01jsr3dmjxav35pvcja8j4c6ac.m3u8?t=1790585209225
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",SP Sepatan 1
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jsr485tfw1cwwa1v6c3jpgfd/01jsr485tfw1cwwa1v6c3jpgfd.m3u8?t=1790585233712
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",SP Sepatan 2
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jsr4h8jwz9f0akrk9bd48qt7/01jsr4h8jwz9f0akrk9bd48qt7.m3u8?t=1790585253391
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",SP Islamic 1
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jsrc5g3cz9wsb0305zte4h04/01jsrc5g3cz9wsb0305zte4h04.m3u8?t=1790585281111
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",SP Islamic 2
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jsrcb5aqka89ned967d8gz1k/01jsrcb5aqka89ned967d8gz1k.m3u8?t=1790585301376
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",SP Dadap 1
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jsrcpqn62mej02bc0h565epz/01jsrcpqn62mej02bc0h565epz.m3u8?t=1790585322929
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",Jembatan Dadap
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jsrctg4pc3xdf5vkjjg4pcfd/01jsrctg4pc3xdf5vkjjg4pcfd.m3u8?t=1790585351349
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",SP Legok 1
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jsrdvkp3ssgqrtemf8kn8gv6/01jsrdvkp3ssgqrtemf8kn8gv6.m3u8?t=1790585377874
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",SP Legok 2
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jsre3pj905zcym25730bhw5q/01jsre3pj905zcym25730bhw5q.m3u8?t=1790585395870
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",SP Adyasa 1
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jsrefb2z1e8y217vqdn6q60f/01jsrefb2z1e8y217vqdn6q60f.m3u8?t=1790585423150
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",SP Adyasa 2
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jsrepbfdrenxw1k42nxw94c5/01jsrepbfdrenxw1k42nxw94c5.m3u8?t=1790585443898
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",Pemda Tigaraksa
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jsrev0qphd8m3v37rqf1xf9y/01jsrev0qphd8m3v37rqf1xf9y.m3u8?t=1790585506346
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",SP Alun2 Tigaraksa
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jv64k58jgtdzt54ywvxyr134/01jv64k58jgtdzt54ywvxyr134.m3u8?t=1790585530686
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",Pemda Tigaraksa 1
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jzvpeyhgex8qb9j5h2dct3a7/01jzvpeyhgex8qb9j5h2dct3a7.m3u8?t=1790585563330
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",Pemda Tigaraksa 2
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jzvpwyqcs2g5kk9rc1s37e4y/01jzvpwyqcs2g5kk9rc1s37e4y.m3u8?t=1790585586763
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",Kecamatan Mauk
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jzvqax0cms7wh04jqhw61t3r/01jzvqax0cms7wh04jqhw61t3r.m3u8?t=1790585616238
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",Tugu Mauk
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jzvqg6wswbn9vc37nyyf0qg1/01jzvqg6wswbn9vc37nyyf0qg1.m3u8?t=1790585643061
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",Bitung (Pantura)
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jzvqtpxmrvd9pcbbsh2jq61q/01jzvqtpxmrvd9pcbbsh2jq61q.m3u8?t=1790585663592
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",Bitung 2 (Pantura)
+https://cctv-dishub.tangerangkab.go.id/storage/video/01jzvr0hphd8c104283f8g1d9n/01jzvr0hphd8c104283f8g1d9n.m3u8?t=1790585699392
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",SP Bugel Tigaraksa
+https://cctv-dishub.tangerangkab.go.id/storage/video/01k4mapmw669p23ks3dkpkb066/01k4mapmw669p23ks3dkpkb066.m3u8?t=1790585729591
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",SP Bugel Arah Puspem
+https://cctv-dishub.tangerangkab.go.id/storage/video/01k4p20xkjzafpgg5bayy3kj8q/01k4p20xkjzafpgg5bayy3kj8q.m3u8?t=1790585751662
+
+
+
+
 
 
 
