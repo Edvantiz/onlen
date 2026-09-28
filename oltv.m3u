@@ -6568,6 +6568,12 @@ https://stream.palembang.go.id/cam2/index.m3u8
 
 
 
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",Pasar Cikupa
+https://cctv.bantenprov.go.id/service/stream-cctv/5928ee49-33f4-424f-92f0-ef9a110154c9/index.m3u8?t=1790587628025
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",SP Citra Raya
+https://cctv.bantenprov.go.id/service/stream-cctv/c857abfb-a09c-429b-bddd-2930457b9bce/index.m3u8?t=1790587692419
+
 #EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",Jayanti 1 (Arah Serang)
 https://cctv-dishub.tangerangkab.go.id/storage/video/01jsnyfnzn18d0ca1m7p4ctvx1/01jsnyfnzn18d0ca1m7p4ctvx1.m3u8?t=1790584961295
 
@@ -6654,6 +6660,90 @@ https://cctv-dishub.tangerangkab.go.id/storage/video/01k4mapmw669p23ks3dkpkb066/
 
 #EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",SP Bugel Arah Puspem
 https://cctv-dishub.tangerangkab.go.id/storage/video/01k4p20xkjzafpgg5bayy3kj8q/01k4p20xkjzafpgg5bayy3kj8q.m3u8?t=1790585751662
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",Tower Balaraja
+https://cctv.bantenprov.go.id/service/stream-cctv/d3636452-842e-40bf-85b7-a498d81c1804/index.m3u8?t=1790587528757
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",Balaraja Barat
+https://cctv.bantenprov.go.id/service/stream-cctv/a86ca7cd-8ee4-4684-8284-9765ee3c57a4/index.m3u8?t=1790587737466
+
+#EXTINF:-1 group-title="CCTV Kab Tangerang" tvg-logo="https://cctv-dishub.tangerangkab.go.id/build/assets/tangerang-CzZceGJI.png",Balaraja Timur
+https://cctv.bantenprov.go.id/service/stream-cctv/68eb7f59-9f35-472c-83ff-1067b0bcb807/index.m3u8?t=1790587584661
+
+
+
+
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",Anyer Gudang Areng
+https://cctv.bantenprov.go.id/service/stream-cctv/9ec3f9ab-1520-401e-bfd9-d5a63de876a9/index.m3u8?t=1790586148822
+
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",Merak Dermaga 3,4,5,7
+https://cctv.bantenprov.go.id/service/stream-cctv/a1e9e7f5-28f9-49fc-bfad-18ed267c7e48/index.m3u8?t=1790586205842
+
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",Merak Dermaga 1, 2
+https://cctv.bantenprov.go.id/service/stream-cctv/fd3e3495-c3d1-4f5c-9699-dfb107e337b1/index.m3u8?t=1790586253358
+
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",Merak Dermaga 6
+https://cctv.bantenprov.go.id/service/stream-cctv/2fac2334-cc00-40e5-b4ce-79101f663000/index.m3u8?t=1790586313607
+
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",IndahKiat Buffer Zone
+https://cctv.bantenprov.go.id/service/stream-cctv/2cc3a02f-2911-46ea-b5d1-6adfd41cb163/index.m3u8?t=1790586346644
+
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",CCTV Cikupa Tol 1
+https://cctv.bantenprov.go.id/service/stream-cctv/b6d84c09-259b-42c1-acd2-b321cfb57aff/index.m3u8?t=1790586399990
+
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",CCTV Cikupa Tol 2
+https://cctv.bantenprov.go.id/service/stream-cctv/8de7c5c7-2673-437d-bd9f-681b8ef83bc2/index.m3u8?t=1790586520178
+
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",KM 71 Serang Timur
+https://cctv.bantenprov.go.id/service/stream-cctv/626f8b2b-da9a-41d0-8755-0fd9a7903167/index.m3u8?t=1790586632200
+
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",KM 76 Serang Barat
+https://cctv.bantenprov.go.id/service/stream-cctv/a8787b76-9ee3-4252-af93-f2198c89745b/index.m3u8?t=1790586668617
+
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",KM 85 Cilegon Timur
+https://cctv.bantenprov.go.id/service/stream-cctv/fd776e87-d087-422f-87dc-13693762c5b7/index.m3u8?t=1790586703047
+
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",KM 94 Cilegon Barat
+https://cctv.bantenprov.go.id/service/stream-cctv/d4e75986-6e00-430d-9eba-089bb74714de/index.m3u8?t=1790586769046
+
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",Gerbang Toll Merak
+https://cctv.bantenprov.go.id/service/stream-cctv/b771216d-e870-4cf7-ab6e-67c62cf3d86d/index.m3u8?t=1790586822900
+
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",Entrance Merak
+https://cctv.bantenprov.go.id/service/stream-cctv/b0dc049a-8c28-4214-8f7d-7b69c1d94c5f/index.m3u8?t=1790586874254
+
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",Kramatwatu
+https://cctv.bantenprov.go.id/service/stream-cctv/1e903e73-03f9-4621-941e-0a9fbf355fd0/index.m3u8?t=1790587475956
+
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",Terminal Pakupatan
+https://cctv.bantenprov.go.id/service/stream-cctv/5025f286-0942-4595-8cfe-802a7e00f52b/index.m3u8?t=1790586956159
+
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",Exit Serang Timur (MOS)
+https://cctv.bantenprov.go.id/service/stream-cctv/0be1157f-8a1f-4b64-9685-98ec28e931b0/index.m3u8?t=1790587009133
+
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",Serkot KP3B
+https://cctv.bantenprov.go.id/service/stream-cctv/6aec4f2c-5369-4d2f-b398-a424f3b65744/index.m3u8?t=1790587123766
+
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",Serkot Patung
+https://cctv.bantenprov.go.id/service/stream-cctv/8849275e-10e9-44ff-8e76-4581d6aeb101/index.m3u8?t=1790587146717
+
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",Serkot SP Ciceri
+https://cctv.bantenprov.go.id/service/stream-cctv/2834e4c5-0ad3-4279-93ca-e781ee31be18/index.m3u8?t=1790587175551
+
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",Cikande Modern
+https://cctv.bantenprov.go.id/service/stream-cctv/b78a3b87-cf9e-4227-b39f-baf3c5498b18/index.m3u8?t=1790587333536
+
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",Nikomas
+https://cctv.bantenprov.go.id/service/stream-cctv/2454af26-32e3-4926-844f-b5ac58491ac8/index.m3u8?t=1790587424232
+
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",Ciruas
+https://cctv.bantenprov.go.id/service/stream-cctv/528c9bd5-e8e0-45e7-9f7e-4182af7e10ac/index.m3u8?t=1790587396651
+
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",Ciujung
+https://cctv.bantenprov.go.id/service/stream-cctv/daa9f5ac-ba2e-4d9e-9b58-306b63291552/index.m3u8?t=1790587292492
+
+
+
 
 
 
