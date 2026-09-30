@@ -5995,10 +5995,13 @@ https://dn801205.us.archive.org/0/items/vimeo-67634284/The_Beatles_at_Shea_Stadi
    
   
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/rb-1_20251008/__ia_thumb.jpg", Rock Ballads
-https://ia600509.us.archive.org/5/items/rb-1_20251008/RB1.mp4
+https://ia800509.us.archive.org/5/items/rb-1_20251008/RB1.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/ISSSx/__ia_thumb.jpg", In Song She Says
 https://ia601407.us.archive.org/29/items/ISSSx/ISSSx.mp4
+
+#EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/nostalgia_202609/__ia_thumb.jpg", Nostalgia
+https://ia801909.us.archive.org/34/items/nostalgia_202609/Nostalgia.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://www.scottsmorraphotography.com/images/xl/Lanikai-Beach-Sunrise-Palm-Trees-Oahu-Hawaii.jpg", Hawaiian Tropical Scenery
 https://ia801506.us.archive.org/3/items/hawaiian-tropical/Hawaiian%20Tropical%20Scenery%20Hawaii.mp4
@@ -6036,7 +6039,7 @@ https://ia903204.us.archive.org/20/items/memory-of-the-year/Memory%20Of%20The%20
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/memory-of-the-year-4/__ia_thumb.jpg", Memory Of The Year 4
 https://ia801806.us.archive.org/12/items/memory-of-the-year-4/Memory%20Of%20The%20Year%204%20-Full%20Album-HQ.mp4
 
-#EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/lagu-tiara-versi-malaysia-hd/__ia_thumb.jpg", LAGU TIARA VERSI MALAYSIA HD
+#EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/lagu-tiara-versi-malaysia-hd/__ia_thumb.jpg", Lagu Malaysia
 https://ia600806.us.archive.org/9/items/lagu-tiara-versi-malaysia-hd/LAGU%20TIARA%20VERSI%20MALAYSIA_HD.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/the-fat-rat-top-20/__ia_thumb.jpg", FatRat Top20
@@ -6054,7 +6057,7 @@ https://ia600607.us.archive.org/1/items/sm-1_20251209/SM1.mp4
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/sm-3_20251209/__ia_thumb.jpg", Sweet Memories 3
 https://ia801905.us.archive.org/5/items/sm-3_20251209/SM3.mp4
 
-#EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/trance-top-mix-2025/__ia_thumb.jpg", Trance TOp Mix 2025
+#EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/trance-top-mix-2025/__ia_thumb.jpg", Trance Top Mix 2025
 https://ia601600.us.archive.org/34/items/trance-top-mix-2025/TRANCE%20TOP%20MIX%202025.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/deep-house-mix-2026-emotional-night/__ia_thumb.jpg", Deep House Mix 2026 - Emotional Night
@@ -6074,6 +6077,11 @@ https://ia600807.us.archive.org/34/items/red-hot-chili-peppers-greatest-hits_202
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/every-song-in-the-spirit-movies-spirit-stallion-of-the-cimarron/__ia_thumb.jpg", Spirit Stallion Of The Cimarron
 https://ia800802.us.archive.org/24/items/every-song-in-the-spirit-movies-spirit-stallion-of-the-cimarron/Every%20Song%20In%20The%20Spirit%20Movies%20%28Spirit%20Stallion%20Of%20The%20Cimarron%29.mp4
+
+#EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/ebiet_202608/__ia_thumb.jpg", Ebiet G Ade
+https://ia600906.us.archive.org/32/items/ebiet_202608/Ebiet.mp4
+
+
 
 
 
@@ -6274,16 +6282,10 @@ https://dn720305.ca.archive.org/0/items/super-mario-bros.-the-great-mission-to-r
 #EXTINF:-1 group-title="Kartun Legend" tvg-logo="https://archive.org/download/mario-anime-movie-4k-restoration/__ia_thumb.jpg", Super Mario Bros: The Great Mission to Resque Princess Peach 1986
 https://dn721902.ca.archive.org/0/items/mario-anime-movie-4k-restoration/%5BFemboyFilms%5D%20Super%20Mario%20Bros%20-%20The%20Great%20Mission%20to%20Rescue%20Princess%20Peach%20%5B16mm%20Restore%201080p%20H264%20FLAC%5D.mp4
 
+#EXTINF:-1 group-title="Kartun Legend" tvg-logo="https://archive.org/download/ctl-ep.-0.720p/__ia_thumb.jpg", Crow - The Legend
+https://archive.org/download/ctl-ep.-0.720p/CTL%20%28EP.0.720p%29.mp4
 
 
-======Mp3======
-   
-  
-#EXTINF:-1 group-title="Mp3 Collection" tvg-logo="https://archive.org/download/oi-1910/1910.jpg", Iwan Fals 1910 (Archive)
-https://archive.org/download/oi-1910_202604/oi-1910.m3u
-
-#EXTINF:-1 group-title="Mp3 Collection" tvg-logo="https://archive.org/download/oi-1910/1910.jpg", Iwan Fals 1910 (Github)
-https://raw.githack.com/Edvantiz/onlen/main/oi-1910.m3u
 
 
 ======Nasyid======
