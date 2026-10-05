@@ -2283,9 +2283,10 @@ https://flv.intechmedia.net/live/ch83.m3u8
 
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhouQiYhbDHUTn_rFdQJ6NavKyUAmCgX7dgqaKnjc4BHYbbYixhKSKX6LCCTCGtrsrfXcap4lE1jGAb7wTcNaKTla9oGExh7NHgPxhjjg4IRHiT3p20SXY8t-Apb8x8fEdKNReZzAMXYsKY48iyhC6z2rcVYQOBjm3980bZeJyR27YlxZbJFkaMc1VTkNOe/s1600/ABCAus.png",ABC Australia
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/1ead6af29a8c4434a70db196b8628580/index.mpd
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/7e1cd32d1ec24845bf7bf3d9c60704e6/index.mpd
+#https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/1ead6af29a8c4434a70db196b8628580/index.mpd
+#https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/7e1cd32d1ec24845bf7bf3d9c60704e6/index.mpd
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
+#https://cdnjktidc01.transvision.co.id/epyc-tx01/dash/QUJDIEF1c3RyYWxpYQ/manifest.mpd
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih_0nqu1bM0uPVrONARSLXcd0nZyiL0g1dA6Dyotiu5Oiv72rp_lkIqkZW6Vg-gCHYqlD13K06i-vGENDXeJljX4zTkmecmQbuFehx9r5coVKRPxpfYki-C4CyM54nFN4VaCuWHEYrSBuL1nBZxfkWqqgfytc3yUpOqTcvCzBGVdHPKnwbHaI9YaMxVhXx/s1600/ABC_News_%28Australia%29_logo.png",ABC News
 https://c.mjh.nz/abc-news.m3u8
@@ -2454,6 +2455,8 @@ https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/ts-us-w2-n1/playlis
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio8H9gEiq7hVRQun5eIs5u3np0PtfQZfc9ploxpJE8x7bbYWW6MbXcUeJmbVGstNL0s1EakhyDU40LqNjyBS4zyqPtx0hT6fIbBobe2b-DeLZFCwkrJQd6wb6WXEVAlv8GHlOKTnf7hk8icNWNerbL5fbiHWlac4BgyEnABPDWkYELzI5rUGdtkZrqsZH-/s1600/CNA_new_logo.svg.png",Channel News Asia (CNA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
+#https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgatCsMF7ZaieqcvkOi_3hVzyt88SeW6vd5701ZZOxb3RHjRxhsjM5MAz2rTFPkLlyWlhiLpQFJoUgQfCfzfuks6cUg28mCWmEW33EuRrpY6cqo65IW-pz7KDw8wPxyUg4tB4SXePYS4Dr4zu3FSKwm_Aiw-oNS2CP-jrYO2U3NxipYrn1WC2j1l6uLLtUR/s1600/Euronews._2016_alternative_logo.png",EuroNews
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
@@ -2538,6 +2541,9 @@ https://ml-pull-hwc.myco.io/CGTN6/hls/index.m3u8
 #http://84.17.50.102/history/index.m3u8
 https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
 
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-DZJJ-UqdacEnCGXKdnTceMiINfI0VY_sMGsCB5YL808ijtuI103HHMQN87fZXO3Uit5chDh_V20xxwQV7MhlEXZm1uX0za9QG3HQncjyuN4msV2BYul2EdYhFxeZyCmo7p5q8R1XPplMBK-nGj6i7f-rxWWqf1NvCJRjuJQjP1-_NM_4lpsfn6rDyQUV/s1600/History.png",History 2
+https://fast-channels-prod.akamaized.net/out/v1/6fbb677b6ffc4a4fac47a8fd85c8b333/live_5.m3u8
+
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijgeTiGpL8_85vb8WdbNhlRdkH4E1Tob3s6hlS7T9974AdtEBLb80k3r_gkOK9MnfH6fZHyBZO-mfPMQz-bkTkqt2kHoSGpqaAGFOsyvzQYatULgRvBbXdgncTvJIgRIap8Vq7MOLgBHcIPiH91DfhBGVmqw-xNZwRwTtoqXlG8luiuR8fjAeJdLfKooio/s1600/AtlasTV.png",Atlas TV
 https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
 
@@ -2612,7 +2618,7 @@ https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lig
 #http://cempedak-live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 #https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mediampd/CNNIntHD.mpd
 #http://trs1.aynaott.com/cnn/index.m3u8
-https://d3bp6dwmpbdajl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/d81d21cf-64ce-40be-8b06-2de3cefd9d64/2.m3u8
+#https://d3bp6dwmpbdajl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/d81d21cf-64ce-40be-8b06-2de3cefd9d64/2.m3u8
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFTg4gJD0IXbHuIheWKJj1gzEQFqqelv7tRDxuPA8S5293Z-3CErOLFA64EhRSw3WV637Rq5dF3glBYVhrwOTEbynC8JycKV4xw7rlZvXqVI1aY2vJ-FPHLFEWPgQUpkLV4NeGSVAMHQ6f-mEtAjGISugNIzNehPXTQv-HwkMZwrI-oZwLmzMrpFSpTURB/s1600/cnn.png" group-title="International",CNN Original
