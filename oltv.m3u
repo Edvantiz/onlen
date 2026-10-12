@@ -6019,7 +6019,7 @@ https://dn801205.us.archive.org/0/items/vimeo-67634284/The_Beatles_at_Shea_Stadi
    
   
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/rb-1_20251008/__ia_thumb.jpg", Rock Ballads
-https://ia800509.us.archive.org/5/items/rb-1_20251008/RB1.mp4|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://ia800509.us.archive.org/5/items/rb-1_20251008/RB1.mp4|user-agent=Mozilla/5.0 (compatible; archive.org_bot +http://archive.org/details/archive.org_bot)
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/ISSSx/__ia_thumb.jpg", In Song She Says
 https://ia601407.us.archive.org/29/items/ISSSx/ISSSx.mp4
