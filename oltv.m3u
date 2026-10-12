@@ -825,11 +825,17 @@ https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-327770703
 https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 #https://atemecdnbalancer-voe.sysln.id/live/eds/SINPOTVHD/mediampd/SINPOTVHD.mpd|user-agent=IndiHomeTV/8.7.12
 
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3eg9TZO1e18_4XtNo3BwfOL0K71XWuIgb6FvsmFO3WabIt4buHHxy_11EjKVWj9cVOCiJmIZDM7394kDmrAXiBHS4jwh1zBMDZrCVA3PZmstPH_pXKIfnA3XxVoI7_ED-M4EUc2NSkO6bSwE9tV7JAO0Fjdzarr_ZsLY9Slc5Cw43cmS7Eq-vLMpZfVAg/s1600/Sin_Po_TV.png",SIN PO TV ⁽ᵛⁱᵈⁱᵒ⁾
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+#https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=19046|user-agent=VidioPlayer/6.31.6
+https://tvratu.my.id/nissa/index.mpd?id=19046&type=dash|user-agent=VidioPlayer/6.31.6
+
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXisQJhdqno4Uab6bQOfLOxbIdjXlbInzFlO77Bp1BhUjuv43GsMKPuKDWPAPko3gGlvAeCF8BowE8abfxk_GOMVaDQpMCXtSc1eLIfREnlE5Ig196R6ifS5C_qXJBEu8i2kRc-kI-f1_hyphenhyphendJ3AzHBga0Dz-OdrbTUte6M3EBbnfPo-MIj5aRbt0ibiILM/s1600/01-20detik.png",20 Detik
 https://video.detik.com/20detik/smil:20detik-live.smil/chunklist_w793425328_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_XhJ4DSfByMLklb-2rrhyphenhyphenLTGe_cAFsQQc30UojyVhjDcUgTi2Y1P2MUgaFKR1oY5mGz3ENm89Px7TdK4WYXV40Lg1EqZ_ko1VMzqTdhq9Ao7dXmd4IapE5K040-BkJxsUiFWr-asnfob7BLZNb7qM2fNEBxuO-8Gj4Sf5XLrwZSMC9PnZX6DjmfE_VuL8/s1600/Tribun.png",Tribun News
-https://d1zhs9dfs6uqpg.cloudfront.net/hls/3N02JPGC/3N02JPGC_720p30.m3u8
+https://d1zhs9dfs6uqpg.cloudfront.net/hls/8M14Z98Q/8M14Z98Q_720p30.m3u
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPmnLiiFyYISq-FFMoVPsoYKow5Q98SZR9XSuAkUInzWqBoSy1u2lbShfkscmjblzYFIiEgYIHnY9WvPGipdeQTVqaMvloIbOMUdtOpa8EpM80XdR-hkBTZMRjF9qXGNBPhBlmSxgbQPDMM4wXnbKoazEjh3KaojPIWz7hURy0ElC-oLssz1TP7WtODT-q/s1600/Republika_TV.svg.png",Republika TV
 https://lowa8026-cmyk.github.io/iptv/stream/republika
@@ -881,7 +887,8 @@ https://e.siar.us/live/dtvi.m3u8
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8fjFhY59jX8pPNicYl2w3pYKkaQrBpuk5r6VMoisNHIoo1-TinzE449I4gPZXAwOQhaTpoqsiZa00P3XHxaBCVIH0k051VHAeNvTTcp6E_jDJYxdprUuMNbSou7JqIjZJDQ3MHkiVn2nc3yCGD_wwioJNbOLAQwYNaYFaJ2LEeugefXLrbeR2JfS4JC4B/s1600/ElshintaTV2019.png",Elshinta TV
 #https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 #https://op-flashcon-digdayahd-1.dens.tv/h/h228/02.m3u8
-https://op-flashcon-digdayahd-1.dens.tv/h/h303/S2/mnf.m3u8
+#https://op-flashcon-digdayahd-1.dens.tv/h/h303/S2/mnf.m3u8
+https://op-flashcon-digdayasd-1.dens.tv/h/h216/S2/mnf.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcd-HoSXQ96B2pa0KTjJaRi3JHXWxe9ZVNBxbhJqDhJJYuTsWaf9pfTPQ9o1kjuNL_CGjHXpmQ4S5VuXbgoAAevcfu1-8Ejv6oEHPMFC6a_eerEqEWa4SELUomTCZluC0NmwUbmXZ9Se5MY7l6y47PNFJxOr5kt0Pu9qTTraLDQXRtmFYVnD8LNohleh8B/s1600/Inspira.png",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
