@@ -629,7 +629,7 @@ https://transdetik.stbbh43.workers.dev/trans7.m3u8|user-agent=ExoPlayer/2.19.1 (
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ_tw208g14lPOIdqokJiN3ia0Y2gn296QzLu8mbcQ4SF5oHNlXrww5yyTd9Z7c0FLqNKN_JstGpBeoDk4MrN-BWIO5WiQsf_oWk6YTTeCK1LAU5C8N6V3HQ2zzpyUn5KLlxLu5ygFuENgkOq_zuDmNo2ZGD0dcGUUFRjch_dHYIADJwDsUTzhDfq67LSn/s1600/trans7.gif",Trans7
 #http://119.82.250.109:8080/nl.m3u8?id=1002|user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/VFJBTlM3LW15/manifest.mpd
-http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302311
+#http://filex.me:8080//@singh_tesla_7207492/puWnhEGsXpK3/302311
 https://cdnjktidc01.transvision.co.id/epyc-tx01/dash/VFJBTlM3LW15/manifest.mpd
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxmgo9hrn8huiDbFTGTZbZ7Ii7AtHsCrx6_tw24nw9m_46XAU0iV136PAseUsP9eYifvjqyvYSKESnr-KWVrLYOE6P1zx7CVo061q8BekkQS2WpjEyT9T2PR9xYFqvgSQKa82wQ6hnWMjq6oacJaekYYXgmslPTKIkv4FFcSqSv47Fy5cE6e9OmfnMDj-d/s1600/Logo_Trans_TV.png",TransTV⁽ᴰᵉᵗⁱᵏ⁾
@@ -732,14 +732,16 @@ https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/ma
 #https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/playlist.m3u8
 #https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w170292809_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODY0MzIxNDgyMTUmd293emF0b2tlbmhhc2g9dWE2M3NoNEdPa3NEUGp2X2VaWExYeUlzczBPdklPQ2ZqSmJSY3NzcWk1ST0=.m3u8
 #https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w1132012554_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODk1MzU1ODE2NzAmd293emF0b2tlbmhhc2g9Y2d5TlltMXc3TmNvQzRpYmplOVhKcUpjWGdvUjRTVHNBMFdsb2N1MmxlRT0=.m3u8
-https://green-night-d2b4.iontv.workers.dev/cnn.m3u8
+#https://green-night-d2b4.iontv.workers.dev/cnn.m3u8
+https://transdetik.stbbh43.workers.dev/cnn.m3u8|user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY26WfskPx6eDG-rgtQ2EHA4egnzBWQqx0Y806LNzSyzvqwAX-DgE5WhEZ5l_f8p1t3U8V39G20kxDLb08-NFk8-YbNNuoDZuRoesD1ZMkrAfzkCle0HVUIVCsBiUIBeZsXy9qnjzsaPsIP1onajglvC3p0lQM-gmRJPeYpkfCcyKoH9W4LP0_JWV2XcTB/s1600/CNBC_Indonesia_2025.svg.png",CNBC Indonesia
 #http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/playlist.m3u8
 #https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/chunklist_w1455427438_b192000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODY0MzIyMDc0NTQmd293emF0b2tlbmhhc2g9cElEUXJuc1V0TUxYT0hiQUVTWkZ1bFBtdENheDBmdHJ4T2oyaWpvLUk3VT0=.m3u8
 #http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-https://green-night-d2b4.iontv.workers.dev/cnbc.m3u8
+#https://green-night-d2b4.iontv.workers.dev/cnbc.m3u8
+https://transdetik.stbbh43.workers.dev/cnbc.m3u8|user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnfV2JaIzbA_Xckv985kF5MjrZkymeEZH3LppVS2xeEN55ysSOsWhgwPMftroQ3cC_TJA3loRL9nxM0wSpkTmDY8U8GrcGgvEpjh0Cq1e_d0HZ1KvnSDFyWklz2eqavM99HTVShPvuSVZAbNbTsAwb0F4C71rDEOk0B4QFw1BSS3DJsosAeEcPz5TWMk2z/s1600/IDXlogo.png",IDX Channel
 https://cdnbal1.indihometv.com/atm/DASH/idx/idx-avc1_2500000=7-3277707030000000.mpd
