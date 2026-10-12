@@ -4961,10 +4961,12 @@ https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-32777
 
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_alquran_small1.png",Al Quran 
 #https://indihuy.streamized.net/atm/DASH/alquran/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/alquran/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/alquran/manifest.mpd
+https://cdn10jtedge.indihometv.com/vos/DASH/alquran/manifest.mpd
 
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="logo",ABC Australia
-https://cdnbal1.indihometv.com/atm/DASH/ABC_AUSTRALIA/ABC_AUSTRALIA-avc1_2500000=7-3277707030000000.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/ABC_AUSTRALIA/ABC_AUSTRALIA-avc1_2500000=7-3277707030000000.mpd
+https://cdn10jtedge.indihometv.com/vos/DASH/abcaustralia/manifest.mpd
 
 #EXTINF:-1 group-title="TV Indihome" tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",Asian Food Channel
 #https://indihuy.streamized.net/atm/DASH/afc/manifest.mpd
