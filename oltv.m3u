@@ -610,9 +610,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8|user-agent=TVR
 https://cdn10jtedge.indihometv.com/vos/DASH/antara/manifest.mpd|user-agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnWmq6qsFvJgPFBZTAMGdmqxzLPyckEM9Iv3gKkH_P69ocpinxQ5zGB_Gcs7Ejek8bXSR-eJc3UuVOVYiq_3fjtig0BLeNTffFd3apoCSOMhfUvOb2h5afH9fxQFPPb_pFEpZIBVqk3XNXHiZ6M9uUi5YW8ZLa1M0-U5d29quw_khKnaoH9M4PhZ6Ohzbu/s1600/Logo_RRI_NET_2023.png",RRI Net
-https://rristream.akamaized.net/hls/live/2018898/rri_net/index.m3u8|user-agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnWmq6qsFvJgPFBZTAMGdmqxzLPyckEM9Iv3gKkH_P69ocpinxQ5zGB_Gcs7Ejek8bXSR-eJc3UuVOVYiq_3fjtig0BLeNTffFd3apoCSOMhfUvOb2h5afH9fxQFPPb_pFEpZIBVqk3XNXHiZ6M9uUi5YW8ZLa1M0-U5d29quw_khKnaoH9M4PhZ6Ohzbu/s1600/Logo_RRI_NET_2023.png",RRI Net
+#https://rristream.akamaized.net/hls/live/2018898/rri_net/index.m3u8|user-agent=Mozilla/5.0
 #https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8|user-agent=Mozilla/5.0
 https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
@@ -915,7 +913,7 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 https://ubmedcom.siar.us/live/ubmedcom.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZWwWo-dlo3AlN9aOJdwzTCRi-CZkpkBz2mVjbvHn_n-FdkX_pcn5qjAz60Kg0EsG-x5-EhJIhwI4sSs0udoj9s7xEQeVBNmqb2ucmasUOG-3QRhl9JRgO8v7fVsphrW3b1Z5w54Ikdf0arnEeke7_AcpGcqoNKMawy-DMACqEYq1p7sC_5pQaKmGodrGU/s1600/TVR_Parlemen.png",TV Parlemen
-#https://ssv1.dpr.go.id/golive/livestream/playlist.m3u8  
+https://ssv1.dpr.go.id/golive/livestream/playlist.m3u8  
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8   
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiixSXSUUsGoBfgbsrjcgPNThvlSvIge1AYGf2Ic9z-J0lvX69_TywkVcm0yx_N7rjCAv83ooQdWAq8-l5p5xYS3IWvLZ9sC58YE1Qk0I4zuSgo8jL6299R_kpkBKJeIk5JY3aI35yVUPZy5auzAU6haQvLPxGpsNUrSn5HENfFCYNRM8s0wvejarbJGasV/s1600/DAAI_TV_Jakarta.png",DAAI TV
@@ -5938,7 +5936,8 @@ https://streams2.sofast.tv/ptnr-yupptv/title-BEST_THRILLER_YUPPTV/v1/master/611d
    
   
 #EXTINF:-1 group-title="Boxing Archive" tvg-logo="https://archive.org/download/GeorgeForemanVsMohammedAli/__ia_thumb.jpg", Ali VS Foreman
-https://dn711301.ca.archive.org/0/items/GeorgeForemanVsMohammedAli/George%20Foreman%20vs%20Mohammed%20Ali.mp4
+#https://dn711301.ca.archive.org/0/items/GeorgeForemanVsMohammedAli/George%20Foreman%20vs%20Mohammed%20Ali.mp4
+https://archive.org/download/GeorgeForemanVsMohammedAli/George%20Foreman%20vs%20Mohammed%20Ali.mp4
 
 #EXTINF:-1 group-title="Boxing Archive" tvg-logo="https://archive.org/download/the-foreman-vs-ali-fight-1988-uk-vhs/__ia_thumb.jpg", Ali VS Foreman
 https://dn721903.ca.archive.org/0/items/the-foreman-vs-ali-fight-1988-uk-vhs/The%20Foreman%20VS%20Ali%20Fight%20%281988%20UK%20VHS%29.mp4
@@ -6019,6 +6018,9 @@ https://dn801205.us.archive.org/0/items/vimeo-67634284/The_Beatles_at_Shea_Stadi
 ======📖|MUSIK Mp4======
    
   
+#EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/rb-1_20251008/__ia_thumb.jpg", Rock Ballads
+https://archive.org/download/rb-1_20251008/RB1.mp4|user-agent=Mozilla/5.0 (compatible; archive.org_bot +http://archive.org/details/archive.org_bot)
+
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/rb-1_20251008/__ia_thumb.jpg", Rock Ballads
 https://ia800509.us.archive.org/5/items/rb-1_20251008/RB1.mp4|user-agent=Mozilla/5.0 (compatible; archive.org_bot +http://archive.org/details/archive.org_bot)
 
