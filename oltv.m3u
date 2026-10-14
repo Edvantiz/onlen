@@ -6019,13 +6019,10 @@ https://dn801205.us.archive.org/0/items/vimeo-67634284/The_Beatles_at_Shea_Stadi
    
   
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/rb-1_20251008/__ia_thumb.jpg", Rock Ballads
-https://archive.org/download/rb-1_20251008/RB1.mp4|user-agent=Mozilla/5.0 (compatible; archive.org_bot +http://archive.org/details/archive.org_bot)
-
-#EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/rb-1_20251008/__ia_thumb.jpg", Rock Ballads
-https://ia800509.us.archive.org/5/items/rb-1_20251008/RB1.mp4|user-agent=Mozilla/5.0 (compatible; archive.org_bot +http://archive.org/details/archive.org_bot)
+https://ia600509.us.archive.org/5/items/rb-1_20251008/RB1.mp4|user-agent=Mozilla/5.0 (compatible; archive.org_bot +http://archive.org/details/archive.org_bot)
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/ISSSx/__ia_thumb.jpg", In Song She Says
-https://ia601407.us.archive.org/29/items/ISSSx/ISSSx.mp4
+https://ia601407.us.archive.org/29/items/ISSSx/ISSSx.mp4|user-agent=Mozilla/5.0
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/nostalgia_202609/__ia_thumb.jpg", Nostalgia
 https://ia801909.us.archive.org/34/items/nostalgia_202609/Nostalgia.mp4
@@ -6034,7 +6031,7 @@ https://ia801909.us.archive.org/34/items/nostalgia_202609/Nostalgia.mp4
 https://ia801506.us.archive.org/3/items/hawaiian-tropical/Hawaiian%20Tropical%20Scenery%20Hawaii.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/mauve-summer-vibes-mix/__ia_thumb.jpg", Mauve Summer Vibes Mix
-https://ia801000.us.archive.org/27/items/mauve-summer-vibes-mix/Mauve%20-%20Summer%20Vibes%20Mix.mp4
+https://ia601000.us.archive.org/27/items/mauve-summer-vibes-mix/Mauve%20-%20Summer%20Vibes%20Mix.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/226840/ss_2d31515d9eb07d2bd429b63a43f6dbf0707b18ca.1920x1080.jpg?t=1726491137", Age of Wonder Soundtrack
 https://ia600703.us.archive.org/8/items/aow_20251117/Age%20of%20Wonders%20Soundtrack.mp4
@@ -6046,31 +6043,39 @@ https://ia800503.us.archive.org/22/items/medieval-celtics-tavern/Medieval%20Celt
 https://ia600109.us.archive.org/2/items/city-life-game-2006-full-soundtrack/City%20Life%20%28Game%202006%29%20-%20Full%20Soundtrack.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/mltr_gh/__ia_thumb.jpg", MLTR - Greatest Hits
-https://ia601405.us.archive.org/16/items/mltr_gh/MLTR-Greatest-Hits.mp4
+#https://ia601405.us.archive.org/16/items/mltr_gh/MLTR-Greatest-Hits.mp4
+https://ia801405.us.archive.org/16/items/mltr_gh/MLTR-Greatest-Hits.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://i.ytimg.com/vi/p4me3bm8Kg0/maxresdefault.jpg", Gary Moore - Ballads and Blues
-https://ia801608.us.archive.org/30/items/gary-moore-ballads-blues/Gary%20Moore%20-%20Ballads%20%26%20Blues%201982%201994%20LD%20%20Special%20Quality.mp4
+#https://ia801608.us.archive.org/30/items/gary-moore-ballads-blues/Gary%20Moore%20-%20Ballads%20%26%20Blues%201982%201994%20LD%20%20Special%20Quality.mp4
+https://ia601608.us.archive.org/30/items/gary-moore-ballads-blues/Gary%20Moore%20-%20Ballads%20%26%20Blues%201982%201994%20LD%20%20Special%20Quality.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/cd2_20251127/__ia_thumb.jpg", Classic Disco 2
-https://ia600901.us.archive.org/35/items/cd2_20251127/Classic%20Disco%202%20-HQ-.mp4
+#https://ia600901.us.archive.org/35/items/cd2_20251127/Classic%20Disco%202%20-HQ-.mp4
+https://ia800901.us.archive.org/35/items/cd2_20251127/Classic%20Disco%202%20-HQ-.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/els_20260612/__ia_thumb.jpg", Evergreen Love Songs
-https://ia600406.us.archive.org/10/items/els_20260612/ELS.mp4
+#https://ia600406.us.archive.org/10/items/els_20260612/ELS.mp4
+https://ia800406.us.archive.org/10/items/els_20260612/ELS.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/evergreen-love-songs-2/__ia_thumb.jpg", Evergreen Love Songs 2
 https://ia800806.us.archive.org/4/items/evergreen-love-songs-2/Evergreen%20Love%20Songs%202%20-HQ-.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/memory-of-the-year/__ia_thumb.jpg", Memory Of The Year
-https://ia903204.us.archive.org/20/items/memory-of-the-year/Memory%20Of%20The%20Year%20-Full%20Album-HQ.mp4
+#https://ia903204.us.archive.org/20/items/memory-of-the-year/Memory%20Of%20The%20Year%20-Full%20Album-HQ.mp4
+https://ia803204.us.archive.org/20/items/memory-of-the-year/Memory%20Of%20The%20Year%20-Full%20Album-HQ.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/memory-of-the-year-4/__ia_thumb.jpg", Memory Of The Year 4
-https://ia801806.us.archive.org/12/items/memory-of-the-year-4/Memory%20Of%20The%20Year%204%20-Full%20Album-HQ.mp4
+#https://ia801806.us.archive.org/12/items/memory-of-the-year-4/Memory%20Of%20The%20Year%204%20-Full%20Album-HQ.mp4
+https://ia601806.us.archive.org/12/items/memory-of-the-year-4/Memory%20Of%20The%20Year%204%20-Full%20Album-HQ.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/lagu-tiara-versi-malaysia-hd/__ia_thumb.jpg", Lagu Malaysia
-https://ia600806.us.archive.org/9/items/lagu-tiara-versi-malaysia-hd/LAGU%20TIARA%20VERSI%20MALAYSIA_HD.mp4
+#https://ia600806.us.archive.org/9/items/lagu-tiara-versi-malaysia-hd/LAGU%20TIARA%20VERSI%20MALAYSIA_HD.mp4
+https://ia800806.us.archive.org/9/items/lagu-tiara-versi-malaysia-hd/LAGU%20TIARA%20VERSI%20MALAYSIA_HD.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/the-fat-rat-top-20/__ia_thumb.jpg", FatRat Top20
-https://ia800707.us.archive.org/27/items/the-fat-rat-top-20/TheFatRat%20Top-20.mp4
+#https://ia800707.us.archive.org/27/items/the-fat-rat-top-20/TheFatRat%20Top-20.mp4
+https://ia600707.us.archive.org/27/items/the-fat-rat-top-20/TheFatRat%20Top-20.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/backsound-ncs/__ia_thumb.jpg", Top 15 NCS Backsound
 https://ia601609.us.archive.org/18/items/backsound-ncs/Top%2015%20kumpulan%20lagu%20barat%20backsound%20YouTuber%20No%20copyrightNCS%20RELASE.mp4
@@ -6079,34 +6084,42 @@ https://ia601609.us.archive.org/18/items/backsound-ncs/Top%2015%20kumpulan%20lag
 https://ia600603.us.archive.org/8/items/relaxing-steelguitar/Relaxing%20Easy%20Listening%20Steel%20Guitar%20Music%20-%20steelguitarmusic%20pedalsteelguitar.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/sm-1_20251209/__ia_thumb.jpg", Sweet Memories
-https://ia600607.us.archive.org/1/items/sm-1_20251209/SM1.mp4
+#https://ia600607.us.archive.org/1/items/sm-1_20251209/SM1.mp4
+https://ia800607.us.archive.org/1/items/sm-1_20251209/SM1.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/sm-3_20251209/__ia_thumb.jpg", Sweet Memories 3
-https://ia801905.us.archive.org/5/items/sm-3_20251209/SM3.mp4
+#https://ia801905.us.archive.org/5/items/sm-3_20251209/SM3.mp4
+https://ia601905.us.archive.org/5/items/sm-3_20251209/SM3.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/trance-top-mix-2025/__ia_thumb.jpg", Trance Top Mix 2025
-https://ia601600.us.archive.org/34/items/trance-top-mix-2025/TRANCE%20TOP%20MIX%202025.mp4
+#https://ia601600.us.archive.org/34/items/trance-top-mix-2025/TRANCE%20TOP%20MIX%202025.mp4
+https://ia801600.us.archive.org/34/items/trance-top-mix-2025/TRANCE%20TOP%20MIX%202025.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/deep-house-mix-2026-emotional-night/__ia_thumb.jpg", Deep House Mix 2026 - Emotional Night
 https://ia800107.us.archive.org/21/items/deep-house-mix-2026-emotional-night/Deep-House-Mix-2026-Emotional-Night.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/kenny-g-greatest-hits_202604/__ia_thumb.jpg", Kenny G - Greatest Hits
-https://ia601502.us.archive.org/3/items/kenny-g-greatest-hits_202604/Kenny-G%20Greatest-Hits.mp4
+#https://ia601502.us.archive.org/3/items/kenny-g-greatest-hits_202604/Kenny-G%20Greatest-Hits.mp4
+https://ia801502.us.archive.org/3/items/kenny-g-greatest-hits_202604/Kenny-G%20Greatest-Hits.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/instrumental-dire-straits-and-mark-knopfler/__ia_thumb.jpg", Instrumental Dire Straits/Mark Knopfler
-https://ia601909.us.archive.org/8/items/instrumental-dire-straits-and-mark-knopfler/Instrumental%20Dire%20Straits%20and%20Mark%20Knopfler.mp4
+#https://ia601909.us.archive.org/8/items/instrumental-dire-straits-and-mark-knopfler/Instrumental%20Dire%20Straits%20and%20Mark%20Knopfler.mp4
+https://ia801909.us.archive.org/8/items/instrumental-dire-straits-and-mark-knopfler/Instrumental%20Dire%20Straits%20and%20Mark%20Knopfler.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/space-metal-melodic-instrumentals/__ia_thumb.jpg", Space Metal Melodic instrumentals
-https://ia601909.us.archive.org/1/items/space-metal-melodic-instrumentals/Space-Metal-Melodic-instrumentals.mp4
+#https://ia601909.us.archive.org/1/items/space-metal-melodic-instrumentals/Space-Metal-Melodic-instrumentals.mp4
+https://ia801909.us.archive.org/1/items/space-metal-melodic-instrumentals/Space-Metal-Melodic-instrumentals.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/red-hot-chili-peppers-greatest-hits_202604/__ia_thumb.jpg", Red Hot Chili Peppers - Greatest Hits
 https://ia600807.us.archive.org/34/items/red-hot-chili-peppers-greatest-hits_202604/Red-Hot-Chili-Peppers-Greatest-Hits.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/every-song-in-the-spirit-movies-spirit-stallion-of-the-cimarron/__ia_thumb.jpg", Spirit Stallion Of The Cimarron
-https://ia800802.us.archive.org/24/items/every-song-in-the-spirit-movies-spirit-stallion-of-the-cimarron/Every%20Song%20In%20The%20Spirit%20Movies%20%28Spirit%20Stallion%20Of%20The%20Cimarron%29.mp4
+#https://ia800802.us.archive.org/24/items/every-song-in-the-spirit-movies-spirit-stallion-of-the-cimarron/Every%20Song%20In%20The%20Spirit%20Movies%20%28Spirit%20Stallion%20Of%20The%20Cimarron%29.mp4
+https://ia600802.us.archive.org/24/items/every-song-in-the-spirit-movies-spirit-stallion-of-the-cimarron/Every%20Song%20In%20The%20Spirit%20Movies%20%28Spirit%20Stallion%20Of%20The%20Cimarron%29.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/ebiet_202608/__ia_thumb.jpg", Ebiet G Ade
-https://ia600906.us.archive.org/32/items/ebiet_202608/Ebiet.mp4
+#https://ia600906.us.archive.org/32/items/ebiet_202608/Ebiet.mp4
+https://ia800906.us.archive.org/32/items/ebiet_202608/Ebiet.mp4
 
 
 
