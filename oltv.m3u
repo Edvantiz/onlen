@@ -650,8 +650,8 @@ https://cdnjktidc01.transvision.co.id/epyc-tx01/dash/VHJhbnNUVg/manifest.mpd?sig
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgaJGZumMtpd1GqC9M4hWnCMi2zOvY86V8df7R8CN_HsbQz4c1bbtcu2A3v7WRjNWD-gOsdTFyuP3_cyt8ZRaqfb9ezQbl8v0rf6HffdQCp_mtMLa0ZwvFrCvByuzEqh0hMo_JkBnydEOLhJP_2k-RTd6YrkSSHwiv41a1_GfvoP-pINUaJTHt78TYgdPS/s1600/INDOSIAR_Logo_5.png",Indosiar ⁽ᵛⁱᵈⁱᵒ⁾
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
-#http://tvratu.my.id/nissa/index.mpd?id=205&type=dash|user-agent=VidioPlayer/6.31.6
-https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar|user-agent=VidioPlayer/6.31.6
+http://tvratu.my.id/nissa/index.mpd?id=205&type=dash|user-agent=VidioPlayer/6.31.6
+#https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar|user-agent=VidioPlayer/6.31.6
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQETeJn1I2xz_w_a1Tsg4BfaNsDhV-WnFOjp0aG4Hdmy037cDenzG0ORvZQ5wl86L6ony0zLfjbMAsPwAI6KEHV7H9bTD3Nnj93Iey_BRqDmYyOCUpzIbLcdgdMfvIwEzB_NQPWTCmgeBQihgnfno-Up4Mb7JkZhI-WvJ8xe8l5_2Afu5WJA7OPU72L6Uy/s1600/Indosiar_Karya_Media.png",Indosiar⁽ᴵᴴ⁾
 #https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
@@ -662,21 +662,22 @@ https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
-#http://tvratu.my.id/nissa/index.mpd?id=204&type=dash|user-agent=VidioPlayer/6.31.6
-https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv|user-agent=VidioPlayer/6.31.6
+http://tvratu.my.id/nissa/index.mpd?id=204&type=dash|user-agent=VidioPlayer/6.31.6
+#https://beetv.my.id/xstreamx/vd.m3u8?ch=sctv|user-agent=VidioPlayer/6.31.6
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKjNdeprFp7JZ66hOgKBfWQ5qcnkkGej4IVnU6BbyCfP6q4SBfc6pnWfqpxlMyzn-yVXI5w3ygw_IxbQ1iLWO0AzC5bUjQV__xGIbd5oy3gsTdgZibr4-qgJgsSRmJQCwPnB5JKEKvgdgxqDjuoJD4kkS08ctTju6GcXMoFhQ47X_RIWzNC9kQbDlDnr2E/s1600/SCTV_Indonesia_2003.png",SCTV⁽ᴵᴴ⁾
 #http://202.169.224.202:8800/udp/239.9.1.29:1234
 https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd|user-agent=IndiHomeTV/8.7.12
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibHhmzBcN7MbSs0cmLz1kfy8KGUD5LVwVWnsGiSR62mk7xSAiZxdcqWv6oONHRaOSX_rxAH91OHUEHuyf5QbmM_DUsaruqS5zw8skyG1-VxXGdtiLq2Jw9oGQNcbxMANDB_2kwPOdGAWyJqtA9LIXsQtDrNVqmC7iK3CQTVTzJwDLNdjHESdWSomjvD8XP/s1600/ezgif.com-crop%20%281%29.gif",ANTV
-https://beetv.my.id/xstreamx/vd.m3u8?ch=antv|user-agent=VidioPlayer/6.31.6
+#https://beetv.my.id/xstreamx/vd.m3u8?ch=antv|user-agent=VidioPlayer/6.31.6
+http://beetv.my.id/stream/vd.m3u8?ch=antv|user-agent=VidioPlayer/6.31.6
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb1sadlDLAeYBFHp7uCQEA5cRsScA293GYGQok-xHR4UtIgxtpgOL7_-gxcK1_LsMMuhclrn1QlDZ1OPNhmj0YFhKfyIAhI7WlygsvHRQ8Ef578g1g0BbeCOXjCLy4fPcJl0UFHl8vuLl3O6_SC8BnOjVo9bSkMDYtNtmGRQQs3nB9CU0Kyxt0W7UZ1SJU/s1600/Antv_2006.png",ANTV ⁽ᵛⁱᵈⁱᵒ⁾
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
-#http://tvratu.my.id/nissa/index.mpd?id=782&type=dash|user-agent=VidioPlayer/6.31.6
-https://beetv.my.id/xstreamx/vd.m3u8?ch=antv|user-agent=VidioPlayer/6.31.6
+http://tvratu.my.id/nissa/index.mpd?id=782&type=dash|user-agent=VidioPlayer/6.31.6
+#https://beetv.my.id/xstreamx/vd.m3u8?ch=antv|user-agent=VidioPlayer/6.31.6
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCA3ts7Pw3bpw1u6Jl1N_FS0NW8BbsAezVk-Uid90ng4f5tvyCNovvxPxOe_tjFYNitWQFvLIjf1ltdzg2QY-_xkPG13RBjW0rRGoRRT9kgVyf6nbHlygRvx1Mq-A0JZ_h9dR_B6L0KD9kXOUxh9DrornMpU4Dk7MNbAtof4nVrGUaHMRia1djj6BPgoh4/s1600/Moji_blue.png",Moji TV
 #https://wahyu1ptv.pages.dev/Moji-HD.m3u8
