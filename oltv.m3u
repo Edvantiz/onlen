@@ -6013,8 +6013,13 @@ https://ia601908.us.archive.org/22/items/fifa-world-cup-2026-final-spain-vs-arge
 ======Film======
    
   
-#EXTINF:-1 group-title="Film" tvg-logo="logo", Damai Kami Sepanjang Hari
+#EXTINF:-1 group-title="Film Indo" tvg-logo="https://archive.org/download/iwan-fals-damai-kami-sepanjang-hari-movie/dksh.jpg", Damai Kami Sepanjang Hari
 https://ia802806.us.archive.org/14/items/iwan-fals-damai-kami-sepanjang-hari-movie/Iwan%20Fals%20-%20Damai%20Kami%20Sepanjang%20Hari%20%28Movie%29.mp4
+#https://ia902806.us.archive.org/14/items/iwan-fals-damai-kami-sepanjang-hari-movie/Iwan%20Fals%20-%20Damai%20Kami%20Sepanjang%20Hari%20%28Movie%29.mp4
+
+#EXTINF:-1 group-title="Film Indo" tvg-logo="https://archive.org/download/iwan-fals-masa-depan-ada-di-tangan-kita-semua-toped/iwan-fals-masa-depan-ada-di-tangan-kita-semua-toped.thumbs/Iwan%20Fals%20-%20Masa%20Depan%20Ada%20di%20Tangan%20Kita%20Semua%20-%20Toped_000660.jpg", Masa Depan Ada Di Tangan Kita Semua (Toped)
+https://ia601009.us.archive.org/27/items/iwan-fals-masa-depan-ada-di-tangan-kita-semua-toped/Iwan%20Fals%20-%20Masa%20Depan%20Ada%20di%20Tangan%20Kita%20Semua%20-%20Toped.mp4
+
 
 
 
@@ -6061,6 +6066,7 @@ https://dn801205.us.archive.org/0/items/vimeo-67634284/The_Beatles_at_Shea_Stadi
    
   
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/rb-1_20251008/__ia_thumb.jpg", Rock Ballads
+#https://ia800509.us.archive.org/5/items/rb-1_20251008/RB1.mp4
 https://ia600509.us.archive.org/5/items/rb-1_20251008/RB1.mp4|user-agent=Mozilla/5.0 (compatible; archive.org_bot +http://archive.org/details/archive.org_bot)
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/ISSSx/__ia_thumb.jpg", In Song She Says
@@ -6102,14 +6108,6 @@ https://ia800406.us.archive.org/10/items/els_20260612/ELS.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/evergreen-love-songs-2/__ia_thumb.jpg", Evergreen Love Songs 2
 https://ia800806.us.archive.org/4/items/evergreen-love-songs-2/Evergreen%20Love%20Songs%202%20-HQ-.mp4
-
-#EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/memory-of-the-year/__ia_thumb.jpg", Memory Of The Year
-#https://ia903204.us.archive.org/20/items/memory-of-the-year/Memory%20Of%20The%20Year%20-Full%20Album-HQ.mp4
-https://ia803204.us.archive.org/20/items/memory-of-the-year/Memory%20Of%20The%20Year%20-Full%20Album-HQ.mp4
-
-#EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/memory-of-the-year-4/__ia_thumb.jpg", Memory Of The Year 4
-#https://ia801806.us.archive.org/12/items/memory-of-the-year-4/Memory%20Of%20The%20Year%204%20-Full%20Album-HQ.mp4
-https://ia601806.us.archive.org/12/items/memory-of-the-year-4/Memory%20Of%20The%20Year%204%20-Full%20Album-HQ.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/lagu-tiara-versi-malaysia-hd/__ia_thumb.jpg", Lagu Malaysia
 #https://ia600806.us.archive.org/9/items/lagu-tiara-versi-malaysia-hd/LAGU%20TIARA%20VERSI%20MALAYSIA_HD.mp4
@@ -6155,6 +6153,9 @@ https://ia801909.us.archive.org/1/items/space-metal-melodic-instrumentals/Space-
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/red-hot-chili-peppers-greatest-hits_202604/__ia_thumb.jpg", Red Hot Chili Peppers - Greatest Hits
 https://ia600807.us.archive.org/34/items/red-hot-chili-peppers-greatest-hits_202604/Red-Hot-Chili-Peppers-Greatest-Hits.mp4
 
+#EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/dream-theater-ballads/__ia_thumb.jpg", Dream Theater Ballads
+https://ia600602.us.archive.org/8/items/dream-theater-ballads/Dream%20Theater%20-%20Ballads.mp4
+
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/every-song-in-the-spirit-movies-spirit-stallion-of-the-cimarron/__ia_thumb.jpg", Spirit Stallion Of The Cimarron
 #https://ia800802.us.archive.org/24/items/every-song-in-the-spirit-movies-spirit-stallion-of-the-cimarron/Every%20Song%20In%20The%20Spirit%20Movies%20%28Spirit%20Stallion%20Of%20The%20Cimarron%29.mp4
 https://ia600802.us.archive.org/24/items/every-song-in-the-spirit-movies-spirit-stallion-of-the-cimarron/Every%20Song%20In%20The%20Spirit%20Movies%20%28Spirit%20Stallion%20Of%20The%20Cimarron%29.mp4
@@ -6162,6 +6163,15 @@ https://ia600802.us.archive.org/24/items/every-song-in-the-spirit-movies-spirit-
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/ebiet_202608/__ia_thumb.jpg", Ebiet G Ade
 #https://ia600906.us.archive.org/32/items/ebiet_202608/Ebiet.mp4
 https://ia800906.us.archive.org/32/items/ebiet_202608/Ebiet.mp4
+
+#EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/iwan-fals_202610/iwan-fals_202610.thumbs/Iwan%20Fals_000001.jpg", Iwan Fals
+https://ia600401.us.archive.org/31/items/iwan-fals_202610/Iwan%20Fals.mp4
+
+#EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/toto-salmon-sundari-sukotjo-pop-keroncong/__ia_thumb.jpg", Keroncong dari Masa ke Masa
+https://ia801405.us.archive.org/21/items/toto-salmon-sundari-sukotjo-pop-keroncong/Toto-Salmon%20%26%20Sundari%20Sukotjo%20-%20Pop%20Keroncong.mp4
+
+#EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/22-pop-keroncong-dari-masa-ke-masa-vol-2/__ia_thumb.jpg", Keroncong dari Masa ke Masa vol. 2
+https://ia803105.us.archive.org/12/items/22-pop-keroncong-dari-masa-ke-masa-vol-2/22-Pop-Keroncong-Dari-Masa-Ke-Masa-Vol-2.mp4
 
 
 
