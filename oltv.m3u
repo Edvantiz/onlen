@@ -711,8 +711,9 @@ https://cdnjktidc01.transvision.co.id/epyc-tx01/dash/UkNUSS1DaGFubmVs/manifest.m
 #https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti|user-agent=android-R+
 #http://beetv.my.id/stream/rctiplus.m3u8?ch=rcti|user-agent=VidioPlayer/6.31.6
 #https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti|user-agent=android-R+
-https://rplus.inisemar.my.id/rcti.m3u8|user-agent=android-R+
-#http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj7wbjzF6E2FvbQEx2BR8Bcd49ST9eeHK5efg94CjyI3-
+#https://rplus.inisemar.my.id/rcti.m3u8|user-agent=android-R+
+http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj7wbjzF6E2FvbQEx2BR8Bcd49ST9eeHK5efg94CjyI3-
+#https://mncmedia.malingtv.workers.dev/rcti.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpuMk_5iFiMM1um9jSfIw36nzaaNdwA5lXf3uj8qFZV848vL5IOKM_1xo8AbCfACNMrrdRBYshb2n0gN5rN9OJmNw5KBlt-CdxbW1mHCzOuIMYckktk56fKLYaV1pooCBW5z_bV23oA5AMhhG_GIzlkLgM7hJ2XjjgPLSF5U4okMF1NA_wgH0BchPw1BIY/s1600/ezgif.com-crop.gif",GlobalTV
 #https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd|user-agent=IndiHomeTV/8.7.12
@@ -749,8 +750,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h313/S2/mnf.m3u8
 #https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w170292809_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODY0MzIxNDgyMTUmd293emF0b2tlbmhhc2g9dWE2M3NoNEdPa3NEUGp2X2VaWExYeUlzczBPdklPQ2ZqSmJSY3NzcWk1ST0=.m3u8
 #https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w1132012554_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODk1MzU1ODE2NzAmd293emF0b2tlbmhhc2g9Y2d5TlltMXc3TmNvQzRpYmplOVhKcUpjWGdvUjRTVHNBMFdsb2N1MmxlRT0=.m3u8
 #https://green-night-d2b4.iontv.workers.dev/cnn.m3u8
-https://transdetik.stbbh43.workers.dev/cnn.m3u8|user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#https://transdetik.stbbh43.workers.dev/cnn.m3u8|user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
+https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY26WfskPx6eDG-rgtQ2EHA4egnzBWQqx0Y806LNzSyzvqwAX-DgE5WhEZ5l_f8p1t3U8V39G20kxDLb08-NFk8-YbNNuoDZuRoesD1ZMkrAfzkCle0HVUIVCsBiUIBeZsXy9qnjzsaPsIP1onajglvC3p0lQM-gmRJPeYpkfCcyKoH9W4LP0_JWV2XcTB/s1600/CNBC_Indonesia_2025.svg.png",CNBC Indonesia
 #http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
@@ -758,8 +760,9 @@ https://transdetik.stbbh43.workers.dev/cnn.m3u8|user-agent=ExoPlayer/2.19.1 (Lin
 #https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/chunklist_w1455427438_b192000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODY0MzIyMDc0NTQmd293emF0b2tlbmhhc2g9cElEUXJuc1V0TUxYT0hiQUVTWkZ1bFBtdENheDBmdHJ4T2oyaWpvLUk3VT0=.m3u8
 #http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #https://green-night-d2b4.iontv.workers.dev/cnbc.m3u8
-https://transdetik.stbbh43.workers.dev/cnbc.m3u8|user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#https://transdetik.stbbh43.workers.dev/cnbc.m3u8|user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1242192746_b384000_sleng.m3u8
+https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnfV2JaIzbA_Xckv985kF5MjrZkymeEZH3LppVS2xeEN55ysSOsWhgwPMftroQ3cC_TJA3loRL9nxM0wSpkTmDY8U8GrcGgvEpjh0Cq1e_d0HZ1KvnSDFyWklz2eqavM99HTVShPvuSVZAbNbTsAwb0F4C71rDEOk0B4QFw1BSS3DJsosAeEcPz5TWMk2z/s1600/IDXlogo.png",IDX Channel
 #https://cdnbal1.indihometv.com/atm/DASH/idx/idx-avc1_2500000=7-3277707030000000.mpd
@@ -876,7 +879,8 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJjTquhyphenhyphenT4h6AG1IUqhb2w5ImVUl4nYZWWLRFVy81M6Pd8kPtftURbo2lFLckJnhLQxaiI4s8qEGmSqsmpfSWXuNtSfcXQ1dtNkYrgtKE_b5XQYBzbvE51vlMjkVevhB1LBJPvaeDa5rJ_53DzuHYEzCyYTJzO6xJ-cofNMNxRHmM4mkdnb0IVlpt5G2-o/s1600/Logo_Astha_TV.png",Astha TV
-https://hgmtv.com:19360/asthatv/asthatv.m3u8
+#https://hgmtv.com:19360/asthatv/asthatv.m3u8
+https://hgmtv.com:2020/hls/asthalive/asthalive.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDJRF7u05B0l-aNiT4PUjOgxYer3xBmXo5wJkcVD-tRBr_kGOPNYzJzYzgOYose7hp7Kjp1q2FawFXxQuPAxla0vLc2KJMXVLIYYyZJhQGQPbfelvyWBFKQcqZ03ekftqi99Ge0AMT0ATKa7cLYhtH6qzd3Av2rocOLdS3K_qf0qzeFWfdT-Tnf5V6cW1/s1600/logo_oxygen_new_site.png",Oxygen.id
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
