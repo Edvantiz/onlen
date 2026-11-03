@@ -1112,7 +1112,8 @@ http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 https://pjtv28uhf.siar.us/live/pjtv28uhf.m3u8
 
 #EXTINF:-1 group-title="TV Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmIcOL1diQXk-JXRYQ708x0k3EBymdXjmk9me-Jqv9LBZcQ3o9TTguG7BjVOBs_YRGVahPCNlr7Rk_s_fJcRVrVmyY32sds-mifDB7n-bitO774LvjqHFV6huTxgpITdTI-OazfpxNCDztEqziPIY5-uIHprOYHzm_yvER69rwugL8y2-RE88d3XQC4Zhz/s1600/AKTV_2025.png",AKTV (Cimahi)
-https://e.siar.us/live/aktv.m3u8
+#https://e.siar.us/live/aktv.m3u8
+https://akativi.siar.us/live/akativi.m3u8
 
 #EXTINF:-1 group-title="TV Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp149IOvoQSQL5pSTAsOLVBfnEiIHyUOhV6EkDN7xuTeb20CQHcyzY-wZEQ4gSvQR5OyJQrjJo5vw5BWQuI662i49KUWF9E39UQYPmch0_QZU7ViLht6LlE_ji9z8SNecCP0AHOyk70AnrSnbLo-0ve11lrIP47KtZb70er3a3SCHzNT6D0ia3DlyIlS1P/s1600/Logo_Salira_TV.png", Salira TV (Tasik)
 https://live.salira.tv/p/3870/hybrid/play.m3u8
