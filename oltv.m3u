@@ -935,8 +935,9 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 https://ubmedcom.siar.us/ubmedcom/live/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZWwWo-dlo3AlN9aOJdwzTCRi-CZkpkBz2mVjbvHn_n-FdkX_pcn5qjAz60Kg0EsG-x5-EhJIhwI4sSs0udoj9s7xEQeVBNmqb2ucmasUOG-3QRhl9JRgO8v7fVsphrW3b1Z5w54Ikdf0arnEeke7_AcpGcqoNKMawy-DMACqEYq1p7sC_5pQaKmGodrGU/s1600/TVR_Parlemen.png",TV Parlemen
-#https://ssv1.dpr.go.id/golive/livestream/playlist.m3u8  
-http://103.16.220.69:1935/golive/livestream/playlist.m3u8   
+#https://ssv1.dpr.go.id/golive/livestream/playlist.m3u8
+#http://103.16.220.69:1935/golive/livestream/playlist.m3u8
+https://wowza.dpr.go.id/golive/livestream/chunklist_w834199291.m3u8
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiixSXSUUsGoBfgbsrjcgPNThvlSvIge1AYGf2Ic9z-J0lvX69_TywkVcm0yx_N7rjCAv83ooQdWAq8-l5p5xYS3IWvLZ9sC58YE1Qk0I4zuSgo8jL6299R_kpkBKJeIk5JY3aI35yVUPZy5auzAU6haQvLPxGpsNUrSn5HENfFCYNRM8s0wvejarbJGasV/s1600/DAAI_TV_Jakarta.png",DAAI TV
 #http://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
@@ -2666,7 +2667,8 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-s_t8lhOhMY5v5uP1RuSOAvIe-azp79v8KBS8FwcPF9v4qpvb4al9TV2swkC22mj1ToCf9Zw_qKkSv7pdTi_caiafn4SE1Mm7A9bI_fs16qV1vu4wRHudcLAFCfTUvZrkR5Kk2zC8YqaW5wYD-gIEK8eQRCAS2xJDq2cNwcvsMwXBcI7GITvKgoH0EyMt/s1600/Sky_News_logo.png",SkyNews
 #https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-http://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/stream08/streamPlaylist.m3u8|user-agent=VidioPlayer/6.31.6
+#http://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/stream08/streamPlaylist.m3u8|user-agent=VidioPlayer/6.31.6
+https://d3f4oii5n0oeqi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_tcl-ams-aws/dd62a0f4-eb73-4c6f-a70d-ab97fcf47de0/1.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-s_t8lhOhMY5v5uP1RuSOAvIe-azp79v8KBS8FwcPF9v4qpvb4al9TV2swkC22mj1ToCf9Zw_qKkSv7pdTi_caiafn4SE1Mm7A9bI_fs16qV1vu4wRHudcLAFCfTUvZrkR5Kk2zC8YqaW5wYD-gIEK8eQRCAS2xJDq2cNwcvsMwXBcI7GITvKgoH0EyMt/s1600/Sky_News_logo.png",SkyNews Now
 https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist.m3u8
