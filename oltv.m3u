@@ -3147,7 +3147,7 @@ https://cdnbal1.indihometv.com/atm/DASH/warner/manifest.mpd
 #https://fl31.moveonjoy.com/PARAMOUNT_NETWORK/tracks-v1a1/mono.ts.m3u8
 #http://104.255.88.155/paramount/playlist.m3u8
 #http://104.255.88.155/paramount/tracks-v1a1/mono.ts.m3u8
-http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8
+#http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNiNk9aToCJ_rez4yXY2o8LTusO2kb0CAoG9q8wSpvjH4NdnVJXSw-FVjOvgzKu5YptQ8ssUFnMItoFfKM2SjW_56eLbdpwIe-3LKXp49s0qt3QIYiS95WSi2pDL_DTBHYRU2sHdhZ-K1fa2UBaH0Ca-GoNG5Ld8ZqaAEqplG-6_rvlA-6FSLHDm_lrrwM/s1600/MGM+_logo.png",MGM+ (US)
@@ -3185,6 +3185,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/ind
 
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD4OJdIMqfYgPFT16w3cq07UWAk1_FZ00Ox1gUWcR1q1KLaoZObVBm4TqgIwiazLL8vP6dDeTrIVMbjMRVP5TnHn7-RQeYXcxBiOpTPxGtkYPzP-5YOWvXQ4pXcCWDz8jxGVboLKXxMIsENv2sPQ3MbX2iHyiOzD646tLJpYBXo0jxZhLZmwbJxF-cFrJV/s1600/Amc_logo.png",AMC (US)
 http://23.239.31.26:8989/amc/index.m3u8
+#http://41.205.93.154/AMC/index.m3u8
 
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD4OJdIMqfYgPFT16w3cq07UWAk1_FZ00Ox1gUWcR1q1KLaoZObVBm4TqgIwiazLL8vP6dDeTrIVMbjMRVP5TnHn7-RQeYXcxBiOpTPxGtkYPzP-5YOWvXQ4pXcCWDz8jxGVboLKXxMIsENv2sPQ3MbX2iHyiOzD646tLJpYBXo0jxZhLZmwbJxF-cFrJV/s1600/Amc_logo.png",TWD Universe | Vizio (AMC)
 https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8?l1br3date0702andAMCBinge
