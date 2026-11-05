@@ -1538,7 +1538,8 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
 
 #EXTINF:-1 group-title="TV Jiran" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMITrv5gaKSMu7T1mIWLXkUMwV7Ab7eAXnbHxtQb7tmxr0kg7JSVEQvnEVDZTHiyCMHlSy0LR_VPinLHw3myFPEXG0kssRvUNVMkS1Mj2Ns3pP_HqykhqfpJpcxxWGOrecHteCJwk7s_O9ZEJunrmt6cbq2z9S3JmepzEb27ZCi88bbSwD932J5D5tmDGv/s1600/Bernama_TV.png",Bernama (My)
-https://2bfd741e.b-cdn.net/streamer/8aw7eudWZ9nZJdrA4j59g8agN9yStCCskcpAEkjguiZW.m3u8?expires=1790579960&token=vnuTDN-dL58EP5_SBy8izXYWYsxotmyH2H7qTXe1DHw
+https://2bfd741e.b-cdn.net/streamer/8aw7eudWZ9nZJdrA4j59g8agN9yStCCskcpAEkjguiZW.m3u8
+
 
 #EXTINF:-1 group-title="TV Jiran" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHZWFjcPyQuH54TaMGMvOfrh5hyYYvxElhO_EPr_Lcxge8xR9s0a2yaHNPW9fbfT15tyZA8oxi4XqTf9kSIuguKgSwwkHH36GdxLwSELEhTdM0z4-tYtYDZqtgyUDQHgspdm_fWgXr0MrFkdotV6G69Y9uvplb1kNNU2REqCD7fIO7HU_pU9bs28yEjvXA/s1600/Logo_Berita_RTM.png",Berita RTM (My)
 https://d25tgymtnqzu8s.cloudfront.net/main/VPxRb6/dl_1080p.m3u8
@@ -1566,7 +1567,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
 
 #EXTINF:-1 group-title="TV Jiran" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBEqI-tRAWkzE2MgHPcKldqPh0DoSFJCvsophjXeGX1VVzvqYWPcHRNj34XWCVi_-74h_3S0zPQ6zNrnsF-uQNvA80giSUBtaoOXeBIQoBjfUejZGlIzoVkA01BXD-BWWuRn7WcmQjO3seIHrkwq7azKjxoVp3zuSTlxOX9WXlhsf8_HLo9yhJJenQDJ4C/s1600/TV3_%28Malaysia%29.png",TV3 (My)
 #EXTVLCOPT:http-referrer=https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420323
-https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420323
+#https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420323
+https://2bfd741e.b-cdn.net/streamer/6enj7a28wshMvNNzXzLrtmMDgVsnVpJC6cZGZf6g5yJt.m3u8
 
 #EXTINF:-1 group-title="TV Jiran" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw4I0GXyrO7GysAjNORU7-FrDbSZzR7GMcAiJxvhEBHac9KtJtTwgzj5UqG1AzD6pldTKMrFl5q6kEckQbPkgM-pMNpt96SH50a-X1FhA-WJNuDYD97QOOpMyOn-2l9wr4PoDUj3fRDIVeflxHTAIt0iEOQPz2oSzpCxCPFaPXFajMliEtRQPncRZN6tTR/s1600/TV6.png",TV 6 (My)
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
@@ -1577,13 +1579,15 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #https://2bfd741e.b-cdn.net/streamer/6CUB9HLbPFdQQ4TRGwvx8q7g1RUKomj4W1PGT2Ybxrf8.m3u8?expires=1789539481&token=RiXguiNKIGXg7cp5vUOcrEQLY0Ly8kK1H17UqrX0hD0
 #https://2bfd741e.b-cdn.net/streamer/GRb41qqNMC1yUxfgpkTEnFM34K7spbrvPh9KEJTnyVdJ.m3u8?expires=1789539481&token=fpx5C2paWHygMvnJWFiS1cZbi2kRL_BJusAhEaJfabk
 #https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
-https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420326
+#https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420326
+https://2bfd741e.b-cdn.net/streamer/6CUB9HLbPFdQQ4TRGwvx8q7g1RUKomj4W1PGT2Ybxrf8.m3u8
 
 #EXTINF:-1 group-title="TV Jiran" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHO2J2BuBfCE44LtqifWLi_JbFi4HuhH6p7CA5gB8tPW71tEJTltH3I1TpfxGm6X2NGk3qnfObWEegmma2qxUwKw74s2_OOLYV04vkabRGcLSA-AIkGMuSL6ljeWdmcfblswTuz4JOnluFRno7L1qswMZKyaqkS_Wt8kWX3KNxxeQts8wT92OqptnCHI8C/s1600/SelangorTV.png",SelangorTV (My)
-http://live.mana2.my/SelangorTv/index.m3u8
+#http://live.mana2.my/SelangorTv/index.m3u8
 #https://live.mana2.my/SelangorTv/tracks-v3a1/mono.m3u8
 #https://2bfd741e.b-cdn.net/streamer/DkWBMnvzxJptEHmhvfm5aKHVoGwx8PUQZWBUDY6KtcWY.m3u8?expires=1789539361&token=FQAXeIM5UBsVHaOFA4VtSItDZl8wSI4nSi9HBBminnc
 #https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd&token=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd
+https://2bfd741e.b-cdn.net/streamer/DkWBMnvzxJptEHmhvfm5aJwq8W4z1QegPmonrfMC87yh.m3u8
 
 #EXTINF:-1 group-title="TV Jiran" group-title="TV Jiran" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_pYKX_ZCir3RuFu98wDtTVX_qe-5dUcWiwPw9OOt34YSmlpgokIZ1zBOdjFlpmYN02AjDU_Ku8k81-pCLlNQB0EsNKYOgYEtYBz6xQaFvNYCpuLrDhB97Deyd9a1U14sMe5ZAfIp7N79b1w7z1wcEb17IMlr5-yiADBb1b6JLkBQxHwIo6oYHHjuBme1N/s1600/Okey_RTM.png",TV Okey (My)
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
@@ -1592,14 +1596,16 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #EXTINF:-1 group-title="TV Jiran" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg03Z8uhQukKqzlio0FnfVyukro_CqjgXByL43229pjqO2Kma_2nzycpubn2_-DZij-qUCmycLzN4tkW5jAEFDSUDvwvwoZxYEpjR40Yv7tZhostfe5T_AdmYuQxfBYR2KegI_Qg0XUXrQsFa9bWjHYsQKH0Dw_DRgbqvJqvXBAmqiJaB-F-PaM_X_gE71W/s1600/SUKANRTM.png" group-title="TV Jiran",Sukan RTM (My)
 #https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
 #https://2bfd741e.b-cdn.net/streamer/4tyP3EoCC4M6SkNPNS9eyqFxwTeENn6wULfE38rkEMct.m3u8?expires=1789539959&token=Ur_oO7LjLE-joG1S12THCZMB4DeBXlw0RrYLrAfujXg
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
+#https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
 #https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+https://2bfd741e.b-cdn.net/streamer/4tyP3EoCC4M6SkNPNS9eyqVghqqjANGvk4rFy1xEWMwK.m3u8
 
 #EXTINF:-1 group-title="TV Jiran" tvg-logo="logo" group-title="TV Jiran",Suke TV (My)
 https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272
 
 #EXTINF:-1 group-title="TV Jiran" tvg-logo="logo" group-title="TV Jiran",TV Ikim (My)
-https://live.mana2.my/TvIkim/index.m3u8?auth_key=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942&token=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942
+#https://live.mana2.my/TvIkim/index.m3u8?auth_key=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942&token=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942
+https://2bfd741e.b-cdn.net/streamer/3riAzUHoBPS2rMhfTEWcisYYGZowpmEJsFEBPExSa9BX.m3u8
 
 #EXTINF:-1 group-title="TV Jiran" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG2SE-X7MaLoBsqzP_9OpJsbC6yJhoz31UEtYO9fd8uEkfpudQ-EZQJmfS0dgBFRexlrX0Mcg8gEXKS1KK_DZUgLVZf9LmERwzIwW5GFVsLqjCQXnH0NSB-qSjvYLuln-G9UmkGTPPT8v_VuXwT9-o3XiUDdFz3BYlRg7NxXtD-kHqgiG0JK-b_13UkWef/s1600/TV%20Maah.png",MaahTV (My)
 https://hls.maahtv.live/hls/stream.m3u8
@@ -1655,37 +1661,37 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 http://107.175.220.4:11799/Arena/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Jiran" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV2cwoJ9dBThtYkGuvBch41HC7US_ihRUkSz9h8bDG1hzfI12q_UkHZnW6jX39BxHPB1DX7IguagC1ypeSrhDvJT4vzct3utDHQBqgRT8w3kl8IZsx3Q-nIGdE2_keyamS1hYxZV1d2i6YWwU6nYOQ1omfxC8hTj7xTdMZIY1AZKDdo0DVTNgoiM7Tmqyo/s1600/AstroArena2.png",Astro Arena 2 (My)
-http://107.175.220.4:11799/Arena2/playlist.m3u8
+#http://107.175.220.4:11799/Arena2/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Jiran" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio0Oe6wRTkX5CVR8Grh5G_pEah9BRYNFmA7vF-3ovAl5PgIIhkrtTiurFeOQg6qfSP123pCHIENpxZIKst21cIrywy1VWpZTNclQQ-mRK8RbBjFK-wY7y0vbicgGRidp5DMISzufV37jqqro80wnSMUz_j8r3nKjNqL99Kjqrik1hNHJx_ZgQO8a4ziJ4c/s1600/AstroSportsPlus.png",Astro Sports Plus (My)
-http://107.175.220.4:11799/go_sportsplus/playlist.m3u8
+#http://107.175.220.4:11799/go_sportsplus/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Jiran" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjipaAASFiPYMqQPMgDpgI3BjmrSMMI2Xf9hYd9r38Rf253l3eT7WvpPLIIdAYbfECZ_qC8YyI06vmsD7jJR5OgMoF1DrZEtXbRSZ3_G34rnKQzpb4O1jpYe3_KDpnRcVKUclwjeZyCxBosb8SogwX_RYXeh2lp-Vq4CvYgPyf1B8BvR4YE4MHs85yAGz17/s1600/AstroPremierLeague.png",Astro Premier League (My)
-http://107.175.220.4:11799/go_assp1/playlist.m3u8
+#http://107.175.220.4:11799/go_assp1/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Jiran" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZGe44faocxqYTaOGuXIvXSzKyanecJ4a9RJ9SWqqphtlSM5M7jzJm7cmzZ1UE-omMxpLqv-SRAADxM8yaVw3hID-6tA6PTn5PYRG3RFtdN3tbTtmA-Q_tXVuX-z9907FQe9-O5K1GPDbd7G9upF99DYA-z3HKBuVja-ViW39rf1tb591Ns-blyA9g4amZ/s1600/AstroPremierLeague2.png",Astro Premier League 2 (My)
-http://107.175.220.4:11799/go_assp2/playlist.m3u8
+#http://107.175.220.4:11799/go_assp2/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Jiran" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg78JlBgHPlZKoCPe_iNekd_-tIhH98gz5RGQjzq3Bfmwd-wfjN59WUubQYPyribWZd5PKvoSo0GnT9JsMXunODuMhVQc9zCR9XQJ2hIrYJ5k0EgZvvLyz45VdUCJWwdNTC7dhuPO6_F1RDwTtpMuLuAUJAYR8alnhJ8euHM1RrttXIYQQh7Hpiynxr5jBm/s1600/AstroFootball.png",Astro Football (My)
-http://107.175.220.4:11799/go_assp4/playlist.m3u8
+#http://107.175.220.4:11799/go_assp4/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Jiran" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0iXIOEKrHsmxpqgvkVrbkSYapiLEsDVDI3cNBQDzYq_a5GItDwL_9G6ThctZtU6JsroylExIJUAZLkWqnQxZSIExfwnPnfPF1hCa6ejk2_6w5kaGGCpm42hvVBoSKKw8OuKq8Yx5AOGpiFJfNDC6Rfated4k3DRmXj1SwTtOgY1zX_1IrivpypXnhAVaT/s1600/AstroBadminton.png",Astro Badminton (My)
-http://107.175.220.4:11799/go_badminton1/playlist.m3u8
+#http://107.175.220.4:11799/go_badminton1/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Jiran" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPL4iRAGMk_Cdu3ariLg2VUaQBnPTfuCrfQK6ljewuTQ-Lb1R4sWtb-4ksKSYqZ7GE77nZKlIh90Ei8fKiJKFpQUwcLgcEa_FheGNLkMrGbiskPBUAKeO_gRfq1w58Farf-K66qaiqj4yglliHMyW5-4T2DxLGHOrVHvUz4OcMypTPSVAfDOcyo6yoHerY/s1600/AstroGrandStand.png",Astro Grandstand (My)
-http://107.175.220.4:11799/go_assp3/playlist.m3u8
+#http://107.175.220.4:11799/go_assp3/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/ 
 #EXTINF:-1 group-title="TV Jiran" tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkH2BKYUf58B5p5rATY_26t7MLxcq_4iuJDDs8ZxwQOn3beAUi44oCtQoe6kM8cEXOTrj-FiyxFwMn014wSmCKXB4yf2cCk_mpcXq2YIYmS578mIzHJcGZhlTO75tZA6SPRpeM5mPjsHKOZ-lvrxq7OpOTNeZDn0X9rovZk3UTk2QQdLku90fR7aNs2dpR/s1600/CTV1.png",Champions TV 1 (My)
-http://202.169.224.202:8800/udp/239.9.1.9:1234 
+#http://202.169.224.202:8800/udp/239.9.1.9:1234 
 
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/ 
 #EXTINF:-1 group-title="TV Jiran" tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfJWaJv6fC-FwMp6veCZspkUTABPORfKyh5yLy5a6Lv91qhM5MP_oD1MShkw2XiVdz6tHBtO4u5KSohPKHbp50OI-qNzTOK5dIJ-YC3n9BAqhAd1excpplYUhu4J8knSEfNKvseLuBtBHwKHXEMZz_6N9Q9ohfnO6Q6fayoyadtwxSJ2p7_DnnC1HWsg5F/s1600/CTV2.png",Champions TV 2 (My)
-http://202.169.224.202:8800/udp/239.9.1.10:1234 
+#http://202.169.224.202:8800/udp/239.9.1.10:1234 
 
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Linux; Android 12; Kodi/21.0) ExoPlayerLib/2.9.6,referer=http://203.77.246.58/ 
 #EXTINF:-1 group-title="TV Jiran" tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimo3ZPKNpVaDfnIg0rwZl-0vXN40P2s4oD1IZRk_BpAtA4azUHTiHzr-oHJqNIhEYTg-tGWvRsPXS8mcwdF_5VaF81XtJ3BcgqfOhbh7Pzxvu_Kw2MqXMUbCckoI4uJB0oi9dDENIiptlKD5P2fFK_8esqVJgSSaI3vmSnC9NLblajD5YcUrWd-JZwvSOS/s1600/CTV3.png",Champions TV 3 (My)
-http://202.169.224.202:8800/udp/239.9.1.11:1234
+#http://202.169.224.202:8800/udp/239.9.1.11:1234
 
 #EXTINF:-1 group-title="TV Jiran" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgialnRT88ldZnr9u2BOMxm9Wo4ZYcPp9nl7DvmeueVeEjIbgByz5PkGGJbF8ckgwy4RQQbvqbUijJe2873tOu7iJnTgzbbfm2gZYNucp9pTpidsMKKaWP6nbA2Kah9ylnFX1OaOrmjY2a35T_e4yKSOVByeCcCyyj3oUjvUotvjIwnGBaihgZP1pdg4d80/s1600/Mediacorp_Suria_2023.png",SURIA (Sg)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -7265,10 +7271,10 @@ https://cctv.bantenprov.go.id/service/stream-cctv/68eb7f59-9f35-472c-83ff-1067b0
 #EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",Anyer Gudang Areng
 https://cctv.bantenprov.go.id/service/stream-cctv/9ec3f9ab-1520-401e-bfd9-d5a63de876a9/index.m3u8?t=1790586148822
 
-#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",Merak Dermaga 3,4,5,7
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",Merak Dermaga 3 4 5 7
 https://cctv.bantenprov.go.id/service/stream-cctv/a1e9e7f5-28f9-49fc-bfad-18ed267c7e48/index.m3u8?t=1790586205842
 
-#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",Merak Dermaga 1, 2
+#EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",Merak Dermaga 1 2
 https://cctv.bantenprov.go.id/service/stream-cctv/fd3e3495-c3d1-4f5c-9699-dfb107e337b1/index.m3u8?t=1790586253358
 
 #EXTINF:-1 group-title="CCTV Merak" tvg-logo="https://cctv.bantenprov.go.id/images/logo-banten.png",Merak Dermaga 6
