@@ -2574,8 +2574,9 @@ https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuIdjt41KuJVQwAQl2Z9nqMvWoDWtk1dUJkZQuvbDZ8VV1j4c5MEmqLguFyxrAcqACt9SwPUQNDgoAGSRD5fGUk11lI19_NcfNW9ABsCyxe-YouG2FPKq06j09DBCvgdsipn2rzjB9sdrkvB2ROmV6y0R98VcEw2yAskBTWwoe8i6BTnvT_WaT6GtPfThQ/s1600/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_UATV.png",UATV
 #https://freedom.cdn-03.cosmonova.net.ua/mobile-app/main/freedom/FreeDom_video_mid_.m3u8
-#https://op-group1-swiftservehd-1.dens.tv/h/h101/S4/mnf.m3u8
-https://live-freedom.cosmonova-broadcast.tv/live/master.m3u8
+#https://live-freedom.cosmonova-broadcast.tv/live/master.m3u8
+https://dash4.antik.sk/live/test_uatv/playlist.m3u8
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX2gKMwKWEddQfELUyo22B74VE4Mhw6srJLs7VpgJjxfKpgsXiROjpGO0lueOBEd5OtasOPPRSqTCaAkVuKZTshoQNrx3rw9sAxfZX9BgsUvOiplWebUA4GgB2dWXyVMd0vkMaosdW3jRZ43PzKGDbOqRSG9iftpRHJVbjPFCdNinYabMIV9YFjDVezzO1/s1600/CCTV1.png",CCTV 1
 https://ldncctvwbcdcnchw.v.cdn20.com/ldncctvwbcd/cdrmldcctv1_1_576P/playlist.m3u8?wsApp=HLS
@@ -2641,7 +2642,8 @@ https://media2.streambrothers.com:1936/8122/8122/chunklist_w69057261.m3u8
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKQFtmFQNoCYnu8TK1-_t1uIfuu5aNONiHlkkeulO-a8inLH99XHJigB1oeDLTbdUYDs-WTh_nGGM3nmdvPfdMetOt2FsWEqJEeL7vC5NiVQsWyrzAARRFEpzkJvtBjAuB-7M7TSZ5r4imT5nI9cXLdQpzN2REePCr0QBhqGEyHYdJ0rWAx3UwqjEQKI1m/s1600/Dubai%20TV.png",DUBAI International
-https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b5500000.m3u8
+#https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b5500000.m3u8
+http://185.9.2.18/chid_139/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIr0MxHrQ9ug2Rgm2WDNcrcMKfV9gwBXh4J_-SRrA-ZKmW5PBP5EnTvq7yD5bg7yKfUqWTCJVmZKHdeVT1pYCeGlpqafIJBpn3VsuPV5oxK3jMV9yhmYuHszy3Etqu1fB7t0Mf9oAtAtQuScA0EwvaiiVQybQQ0GKCNL1XMYLZs1XDVTWRnxrwnhYWgPgE/s1600/WION_news.png",WION (World in One NEws)
 #https://op-group1-swiftservehd-1.dens.tv/h/h91/S1/mnf.m3u8
@@ -2672,14 +2674,16 @@ https://cdnbal1.indihometv.com/atm/DASH/phoenixinfonews/phoenixinfonews-avc1_250
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/a1dc0cb4b4f14a3094088b16366bbeed/index.mpd
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiei3mWurrHFayz_ubgRUJ5XPJRrbcs2Odd5GYtzDYsRtklULMu49O2lLHWJ7e5tAWkPmy97-RnRhDOi56AhgnT6vLxCfB9UU37mASAbIv6HLHNicRDswxAEbyRbGlXPsjA4cvzWPMeT8S68Q0owIOrpIDI3TQah9-Sl5DA-_ceGSE6DSNcAdY9Er4RKc0b/s1600/RTP.png",RTP Portugal
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
+#https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 #https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxOTc2NDg4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9ydHBpL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ1ZThjMWEzYmM0ZTczYzMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI0MSIsInNvdXJjZXMiOls0OF19.YQ-Ln3B64U6TZgDGRG2WFaLx26_Uj7D1RFxhiIYH-q17lYk4r82UNjfgYrFm1HIO3Wqiwi1ffXEuG-pB_a9kSg==/live/eds/rtpi/browser-HLS8/rtpi-mp4a_130400_por=20000.m3u8
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibDIAw-3nnu45XclZcjqdF4ccdIwgEFSTUWVlbsSKOUrZjQsvYFQNzEIQYawzTUgCY-8GTHaPzqBbh6n9O5uPvmjMnMWAtaXwt2XQzRSBU9_4AgkE8E2Pjj4jzwYJb-UKLGMBPfeqgwdgMPBkHPg8B7RdkGfxcBXaI0kr7YcsVwKXXsF0zK4rRjW5570wY/s1600/Logo_of_RAI_%282016%29.png",Rai Italia
 #https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/events(1000)/RAIItaliaAustralia-video=1200000.m3u8
 #https://streamcdnr4-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
-https://atemeshield1-voe.sysln.id/live/eds/RaiItalia/mediampd/RaiItalia.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/RaiItalia/mediampd/RaiItalia.mpd
+#https://atemeshield1-voe.sysln.id/live/eds/RaiItalia/mediampd/RaiItalia.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/RaiItalia/mediampd/RaiItalia.mpd
+https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibDIAw-3nnu45XclZcjqdF4ccdIwgEFSTUWVlbsSKOUrZjQsvYFQNzEIQYawzTUgCY-8GTHaPzqBbh6n9O5uPvmjMnMWAtaXwt2XQzRSBU9_4AgkE8E2Pjj4jzwYJb-UKLGMBPfeqgwdgMPBkHPg8B7RdkGfxcBXaI0kr7YcsVwKXXsF0zK4rRjW5570wY/s1600/Logo_of_RAI_%282016%29.png",Rai News 24
 https://streamcdnr4-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
