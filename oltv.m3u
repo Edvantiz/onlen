@@ -2603,7 +2603,8 @@ https://ml-pull-hwc.myco.io/CGTN6/hls/index.m3u8
 #http://104.255.88.155/history/playlist.m3u8
 #http://104.255.88.155/history/tracks-a1/mono.ts.m3u8
 #http://84.17.50.102/history/index.m3u8
-https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
+#https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
+http://212.5.144.156:8080/history/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-DZJJ-UqdacEnCGXKdnTceMiINfI0VY_sMGsCB5YL808ijtuI103HHMQN87fZXO3Uit5chDh_V20xxwQV7MhlEXZm1uX0za9QG3HQncjyuN4msV2BYul2EdYhFxeZyCmo7p5q8R1XPplMBK-nGj6i7f-rxWWqf1NvCJRjuJQjP1-_NM_4lpsfn6rDyQUV/s1600/History.png",History 2
 https://fast-channels-prod.akamaized.net/out/v1/6fbb677b6ffc4a4fac47a8fd85c8b333/live_5.m3u8
