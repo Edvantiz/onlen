@@ -712,8 +712,8 @@ https://cdnjktidc01.transvision.co.id/epyc-tx01/dash/UkNUSS1DaGFubmVs/manifest.m
 #http://beetv.my.id/stream/rctiplus.m3u8?ch=rcti|user-agent=VidioPlayer/6.31.6
 #https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti|user-agent=android-R+
 #https://rplus.inisemar.my.id/rcti.m3u8|user-agent=android-R+
-http://goldenid.online:80/play/38ifGdTRCzSHegy1-Yigj7wbjzF6E2FvbQEx2BR8Bcd49ST9eeHK5efg94CjyI3-
 #https://mncmedia.malingtv.workers.dev/rcti.m3u8
+https://proxy-c.rctiplus.id/live/mweb/rcti/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpuMk_5iFiMM1um9jSfIw36nzaaNdwA5lXf3uj8qFZV848vL5IOKM_1xo8AbCfACNMrrdRBYshb2n0gN5rN9OJmNw5KBlt-CdxbW1mHCzOuIMYckktk56fKLYaV1pooCBW5z_bV23oA5AMhhG_GIzlkLgM7hJ2XjjgPLSF5U4okMF1NA_wgH0BchPw1BIY/s1600/ezgif.com-crop.gif",GlobalTV
 #https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd|user-agent=IndiHomeTV/8.7.12
@@ -730,6 +730,7 @@ https://cdnjktidc01.transvision.co.id/epyc-tx01/dash/TU5DVFY/manifest.mpd|user-a
 #https://mncmedia.malingtv.workers.dev/inews.m3u8
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 https://rplus.inisemar.my.id/inews.m3u8|user-agent=android-R+
+https://proxy-c.rctiplus.id/live/mweb/inews/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
 #EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzgBL2tcpzeojuJoNu0B6mo7fNK-sfKxwpFiBoiLwYyEvUIs9aIe2duBK5xK-sfjvnEprNDrJrFBRxD5zSXscIbEB6513NABR-zkni3-QBR8fTsJlF1jTz6WqLsZCBxLDJtJ5zZooqSoQoMcY8frX9hBKVChMtq8k7CkqfyjqOXgWKD1-7rZYoxACRyPoD/s1600/BTV_%28Indonesia%29_logo_%282025%29.png",BTV
 #https://btv.secureswiftcontent.com/han/btv/btv10005r/srtoutput/manifest.m3u8
