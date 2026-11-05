@@ -2688,10 +2688,13 @@ https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lig
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFTg4gJD0IXbHuIheWKJj1gzEQFqqelv7tRDxuPA8S5293Z-3CErOLFA64EhRSw3WV637Rq5dF3glBYVhrwOTEbynC8JycKV4xw7rlZvXqVI1aY2vJ-FPHLFEWPgQUpkLV4NeGSVAMHQ6f-mEtAjGISugNIzNehPXTQv-HwkMZwrI-oZwLmzMrpFSpTURB/s1600/cnn.png" group-title="International",CNN Original
-https://jmp2.uk/stvp-CHBD800001D0
+#https://jmp2.uk/stvp-CHBD800001D0
+https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK1obBZJ2lWHA4_Wh7jYvXbiGZPhFzxUbMAXM_jd2vfVBYC240aY-744YqXK-oaN4q0il3cA2Z8G4zWgiYJKbSv18qzt1ozaEA7CZNHppHPHvXla8E2Iq8KSEsy-hf79Wu8jJsq6O3J-wkUQ6G3gHhXRGgdkLmvENjl6SqJjgYM_-UYQr_fBprExojkTh8/s1600/cnngo.png",CNN Go
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#https://tvsen6.aynaott.com/cnn/index.m3u8
+https://p13.usnlive.com/stream/cnn.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIuTujAMAb6bT0Sh3lbm3cZZQprAv4OpnKjI4kgV0QeXWf3m23ZMbnS2YZBXvL7IZ2jfuQEkdpjAkm80IVpX3kfBEiCN1UQeygkBDH75Z_0KXG5UkDrxlvy-gvxLV_b4ayCIr1mdM49Huh_riGWbaFlDxiflVO5XNiaPWPU6Ax6B_QhT4iL7fAoSvDyeyJ/s1600/gousa_logo_color.png",GoUSA TV
 #https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Li5GYyuE8SoJYsEhBsrf
@@ -2705,6 +2708,7 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60a9d105d162
 #https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
 #https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
 https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+#https://p14.usnlive.com/stream/oann.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjybItg1_pkppU9sF2P1Ij857JZ1GcImBYNFyfzjBqK2kBWT0kgP4riN7bCUReKUAee1WRHR6RIXjG0p8Z0jGeB_dYftQyWW1JrCgrdoa9l3-7_9rKN-8sM7B0watgk1GaTuQItvsZp6mZEmxha1CKFxw8pOpxbOb9OoiW68QUk8poeVFEkKh_dj0Ki7kGT/s1600/OAN.png",OAN Encore
 https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8
@@ -2818,8 +2822,8 @@ https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
 #https://fl61.moveonjoy.com/OWN/tracks-v1a1/mono.ts.m3u8
 #http://104.255.88.155/own/playlist.m3u8
 #http://104.255.88.155/own/tracks-a1/mono.ts.m3u8
-#http://23.237.104.106:8080/USA_OWN/index.m3u8
-http://206.212.244.63/135/tracks-v1a1/mono.m3u8
+http://23.237.104.106:8080/USA_OWN/index.m3u8
+#http://206.212.244.63/135/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHCnveJrIWLf9JosHwFtDJ5nef2DebGErSlHWKtJt0fTuj98VCXioOR5_ZB3_Fq7SzpsUTW5c8TMk0C9YQ765HkGRVkxYe8uGCLqPHTclyzM9ySPqQ44W44ZhLIFTuKj0F5UlYlxxjFmzz0stC91HG1qbqa7p9jT1T8mt-wVXWTxl5zjSHDW4d7aNpDSqU/s1600/YahooFinance.png" group-title="International",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
