@@ -2596,8 +2596,10 @@ https://dash4.antik.sk/live/test_uatv/playlist.m3u8
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX2gKMwKWEddQfELUyo22B74VE4Mhw6srJLs7VpgJjxfKpgsXiROjpGO0lueOBEd5OtasOPPRSqTCaAkVuKZTshoQNrx3rw9sAxfZX9BgsUvOiplWebUA4GgB2dWXyVMd0vkMaosdW3jRZ43PzKGDbOqRSG9iftpRHJVbjPFCdNinYabMIV9YFjDVezzO1/s1600/CCTV1.png",CCTV 1
-https://ldncctvwbcdcnchw.v.cdn20.com/ldncctvwbcd/cdrmldcctv1_1_576P/playlist.m3u8?wsApp=HLS|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+#https://ldncctvwbcdcnchw.v.cdn20.com/ldncctvwbcd/cdrmldcctv1_1_576P/playlist.m3u8?wsApp=HLS|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 #http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+http://69.30.245.50/live/cctv1.m3u8
+#https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBTAoP8D0RZIzF_lhW7aqp0ZVzmefpY6zhCF8DkmFMNRNflv7vTJ4zuoPa6po_OhDeYmoTQja7q-efSo6YAyM294-6d7OXYXK_MqcrtIY2MPU2l-wYHX_59HJM7_5a_l7RpNq6hzoGMFbALlg6e9D4DxQT3M34loBeILxoujmR4ZGys9HeDRSdJiUngS5l/s1600/CCTV4.png",CCTV 4
 #https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
@@ -2605,10 +2607,13 @@ https://ldncctvwbcdcnchw.v.cdn20.com/ldncctvwbcd/cdrmldcctv1_1_576P/playlist.m3u
 #https://op-flashcon-digdayahd-1.dens.tv/s/s19/index.m3u8
 #https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mediampd/CCTV4.mpd
 #https://cdnbal1.indihometv.com/atm/DASH/CCTV_4/CCTV_4-avc1_2500000=7-3277707030000000.mpd
-http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 
-#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYQOVAN3oSB0BusB-xW3M9XYxABzIxmv4VGDfVcSiZG4-Ext8WmFoO8yoPaGWX8ZmToFYkcusigAURErDo_1d1tyfcn-WmWoE0OnV4j3pvYtym3YBzXbhHZTDh92ruVPdVTJsJZFvxbJ5U1Pmso9lkaM84bI8pOwoPu0N8fshFSkAv2CBmhobl01UXwkA3/s1600/CCTV+.png",CCTV+
-http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYQOVAN3oSB0BusB-xW3M9XYxABzIxmv4VGDfVcSiZG4-Ext8WmFoO8yoPaGWX8ZmToFYkcusigAURErDo_1d1tyfcn-WmWoE0OnV4j3pvYtym3YBzXbhHZTDh92ruVPdVTJsJZFvxbJ5U1Pmso9lkaM84bI8pOwoPu0N8fshFSkAv2CBmhobl01UXwkA3/s1600/CCTV+.png",CCTV+ 1
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+
+#EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYQOVAN3oSB0BusB-xW3M9XYxABzIxmv4VGDfVcSiZG4-Ext8WmFoO8yoPaGWX8ZmToFYkcusigAURErDo_1d1tyfcn-WmWoE0OnV4j3pvYtym3YBzXbhHZTDh92ruVPdVTJsJZFvxbJ5U1Pmso9lkaM84bI8pOwoPu0N8fshFSkAv2CBmhobl01UXwkA3/s1600/CCTV+.png",CCTV+ 2
+http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8S7eYRywYNqomq6UXny3M83sSVJJHOTtS80HXIpkqHNV53d9PJSHyynhhbfqIEBXrOu0mFnKcX_ZD0gn-YqcXWo5fFG4IIfBGHzELztUTE9wZkpwxCNHYt_Y9C5DIyI4DkTYRqqWuLKQohFG20JLUYUMra0QdKtrnEV50QIio5cKJvNXtmsXzyPBaKHId/s1600/France24.png",FRANCE 24
 https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
@@ -2683,8 +2688,9 @@ http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQfja2D6XmjUkcPE8s1CulridfiqYN-jpj_xpEfXVb5TWxceSCKPFIQuPpT88RF-2PEn0pBlQuVFRO-3g5-TMu4f9_QR-jSXWhPkG009osSrLpNwOLUZGkoK-5cSiJ7pfyjFnqrqPostJfRsjVMHjk_Z1IxhjW4Gr-c312qNZ2q0qU1I6YlvWzWNVfNvGn/s1600/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.png",Phoenix News
 #http://45.126.83.51/qwr9ew/s/s21/index.m3u8
 #http://iptv.kilas7.com:80/kaukia/asdfrewq/36
-http://cdn6.163189.xyz/163189/fhzx
-https://cdnbal1.indihometv.com/atm/DASH/phoenixinfonews/phoenixinfonews-avc1_2500000=7-3277707030000000.mpd
+#http://cdn6.163189.xyz/163189/fhzx
+#https://cdnbal1.indihometv.com/atm/DASH/phoenixinfonews/phoenixinfonews-avc1_2500000=7-3277707030000000.mpd
+http://php.17186.eu.org/phtv/fhzx.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZHnMJSau-1J_mtrm2Cj8STASKRo-P_1KvmGRG40BDva_DL-q2wk8iLMvrWhvp08oX2H4qXSe949uqa42jCzHeP556tz9ed95jLhj8be6ErQaX7ZoztPUYuTSDEKuhpTwpGm_byZP5uYI74eanLHYQ-6PFIMQtsRNvuUZrCV5tOHgi7ZLMADY4iEIXYm4Q/s1600/Xing_Kong_China.png",Xing Kong
 #http://210.210.155.35/x6bnqe/s/s94/S4/mnf.m3u8
@@ -2704,6 +2710,9 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8|user-agent=Mozilla/5.0 (Wi
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibDIAw-3nnu45XclZcjqdF4ccdIwgEFSTUWVlbsSKOUrZjQsvYFQNzEIQYawzTUgCY-8GTHaPzqBbh6n9O5uPvmjMnMWAtaXwt2XQzRSBU9_4AgkE8E2Pjj4jzwYJb-UKLGMBPfeqgwdgMPBkHPg8B7RdkGfxcBXaI0kr7YcsVwKXXsF0zK4rRjW5570wY/s1600/Logo_of_RAI_%282016%29.png",Rai News 24
 https://streamcdnr4-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_2400/chunklist.m3u8
+
+#EXTINF:-1 group-title="International" tvg-logo="logo",Iran Press
+https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjOzPhV9lsDC6ILvcZ-fxmnvRhEQtsSi0l_rqX_-S0lZxRe6TSTgr9e22kATt7K-9cAqh-73PDf4qNtu_RuqgCfYlFfg_2hN0c91A-lJwSGQeojYjo8rKLiJCb5ArdCKwbRRIKnd9jWHRLfGmjmEHkucoePzKietbGtdOoFOe44gVbqG55SIN7BCNphbra/s1600/Iran_International.png",Iran International
 #https://live.playstop.me/1816184091/chunklist_b1196000.m3u8
@@ -2924,7 +2933,8 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
 #https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Premium" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjglResYWOvxYdGLEK7dEV713ykQkhVFt4HydJgYi9DrAXSD2Re_SILJb35iXpkLaSRSXJHToKHpADWEXTcOEqUytUDb5lcJ2LWzcoJ6qORBsw-UJY2AWfKv8rMcbXa9kZPwz_MbgVhZby8pWeBvat8ORipk0h73ZvOh3nyFj9fXA-4acQOupULhja2GHGU/s1600/CinemaWorld.png",CinemaWorld (Sg)
 #https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
