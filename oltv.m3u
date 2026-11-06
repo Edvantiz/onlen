@@ -2641,8 +2641,9 @@ https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhENV5_P7e0_G9ZGLS_7er2F85uevy3pmyhO5QkkaQ3whCoxAlUWPtLllBBZeL_lBdPWuGPtq3fbAoQvHmUudoPpU-0hOZ-vpuxVDGrMTMP3HyA0mTXaD7HVyj9AjMOyGdALQn4AHu7xiT5gEnhAp2nYE9QkBT8h9_d9RQgnp_SdPTWdLugaeDmjHef4tsJ/s1600/CGTNGlobalBiz.png", CGTN Global Biz
-https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
-https://ml-pull-hwc.myco.io/CGTN6/hls/index.m3u8
+#https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
+#https://ml-pull-hwc.myco.io/CGTN6/hls/index.m3u8
+https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-DZJJ-UqdacEnCGXKdnTceMiINfI0VY_sMGsCB5YL808ijtuI103HHMQN87fZXO3Uit5chDh_V20xxwQV7MhlEXZm1uX0za9QG3HQncjyuN4msV2BYul2EdYhFxeZyCmo7p5q8R1XPplMBK-nGj6i7f-rxWWqf1NvCJRjuJQjP1-_NM_4lpsfn6rDyQUV/s1600/History.png",History TV
 #http://104.255.88.155/history/playlist.m3u8
