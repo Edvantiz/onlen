@@ -2384,6 +2384,7 @@ https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playli
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcLKgiHdepBjpG3BQsHhBUNbtdZmlt1Z_jlDm17oI9Mg8bveaQltvX3G3zevcQZs2Tz7mdfTRCN0Gmtp5ZWBpvyyRpRmIsAVWxFZjIcqNfeT4ZDN9Oj8rCYsucUA4SQvDCExtjKo0DJ2eZ9iLSsz3CqXELpUm9hG433S8E7lG9ra4FZtxxCFc7kFoBmMnZ/s1600/PalestineTV1.png" group-title="International",Palestine TV (Satellite Channel)
 #https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://pbc.furrera.ps/palestinehd/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+#https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFTg4gJD0IXbHuIheWKJj1gzEQFqqelv7tRDxuPA8S5293Z-3CErOLFA64EhRSw3WV637Rq5dF3glBYVhrwOTEbynC8JycKV4xw7rlZvXqVI1aY2vJ-FPHLFEWPgQUpkLV4NeGSVAMHQ6f-mEtAjGISugNIzNehPXTQv-HwkMZwrI-oZwLmzMrpFSpTURB/s1600/cnn.png" group-title="International",CNN Original
 #https://jmp2.uk/stvp-CHBD800001D0
@@ -2643,7 +2644,7 @@ https://ml-pull-hwc.myco.io/CGTN6/hls/index.m3u8
 #http://104.255.88.155/history/tracks-a1/mono.ts.m3u8
 #http://84.17.50.102/history/index.m3u8
 #https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
-http://212.5.144.156:8080/history/index.m3u8
+http://212.5.144.156:8080/history/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-DZJJ-UqdacEnCGXKdnTceMiINfI0VY_sMGsCB5YL808ijtuI103HHMQN87fZXO3Uit5chDh_V20xxwQV7MhlEXZm1uX0za9QG3HQncjyuN4msV2BYul2EdYhFxeZyCmo7p5q8R1XPplMBK-nGj6i7f-rxWWqf1NvCJRjuJQjP1-_NM_4lpsfn6rDyQUV/s1600/History.png",History 2
 https://fast-channels-prod.akamaized.net/out/v1/6fbb677b6ffc4a4fac47a8fd85c8b333/live_5.m3u8
@@ -2659,7 +2660,7 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKQFtmFQNoCYnu8TK1-_t1uIfuu5aNONiHlkkeulO-a8inLH99XHJigB1oeDLTbdUYDs-WTh_nGGM3nmdvPfdMetOt2FsWEqJEeL7vC5NiVQsWyrzAARRFEpzkJvtBjAuB-7M7TSZ5r4imT5nI9cXLdQpzN2REePCr0QBhqGEyHYdJ0rWAx3UwqjEQKI1m/s1600/Dubai%20TV.png",DUBAI International
 #https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b5500000.m3u8
-http://185.9.2.18/chid_139/index.m3u8
+http://185.9.2.18/chid_139/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIr0MxHrQ9ug2Rgm2WDNcrcMKfV9gwBXh4J_-SRrA-ZKmW5PBP5EnTvq7yD5bg7yKfUqWTCJVmZKHdeVT1pYCeGlpqafIJBpn3VsuPV5oxK3jMV9yhmYuHszy3Etqu1fB7t0Mf9oAtAtQuScA0EwvaiiVQybQQ0GKCNL1XMYLZs1XDVTWRnxrwnhYWgPgE/s1600/WION_news.png",WION (World in One NEws)
 #https://op-group1-swiftservehd-1.dens.tv/h/h91/S1/mnf.m3u8
@@ -2692,7 +2693,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/a1dc0cb4b4f14a3094088b16366bbeed/in
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiei3mWurrHFayz_ubgRUJ5XPJRrbcs2Odd5GYtzDYsRtklULMu49O2lLHWJ7e5tAWkPmy97-RnRhDOi56AhgnT6vLxCfB9UU37mASAbIv6HLHNicRDswxAEbyRbGlXPsjA4cvzWPMeT8S68Q0owIOrpIDI3TQah9-Sl5DA-_ceGSE6DSNcAdY9Er4RKc0b/s1600/RTP.png",RTP Portugal
 #https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 #https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcxOTc2NDg4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9ydHBpL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ1ZThjMWEzYmM0ZTczYzMiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI0MSIsInNvdXJjZXMiOls0OF19.YQ-Ln3B64U6TZgDGRG2WFaLx26_Uj7D1RFxhiIYH-q17lYk4r82UNjfgYrFm1HIO3Wqiwi1ffXEuG-pB_a9kSg==/live/eds/rtpi/browser-HLS8/rtpi-mp4a_130400_por=20000.m3u8
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibDIAw-3nnu45XclZcjqdF4ccdIwgEFSTUWVlbsSKOUrZjQsvYFQNzEIQYawzTUgCY-8GTHaPzqBbh6n9O5uPvmjMnMWAtaXwt2XQzRSBU9_4AgkE8E2Pjj4jzwYJb-UKLGMBPfeqgwdgMPBkHPg8B7RdkGfxcBXaI0kr7YcsVwKXXsF0zK4rRjW5570wY/s1600/Logo_of_RAI_%282016%29.png",Rai Italia
 #https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/events(1000)/RAIItaliaAustralia-video=1200000.m3u8
@@ -2757,12 +2758,12 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 #https://uselector.cdn.intigral-ott.net/NGAD/NGAD.isml/manifest.mpd
 #https://tvpass.org/live/NationalGeographicEast/hd
 #http://151.80.18.177:86/National_Geo_HD/index.m3u8
-http://212.5.144.156:8080/natgeo/index.m3u8
+http://212.5.144.156:8080/natgeo/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUU72kaNAGtSV0YZJcjN6KOrDz32OTCu5prqWIsmSqrA3HzuedMh_87RU8DYebcAKjRt_sGG0M1rihWRQmfwD9zUVqgPyy1JhbiX997fpyHrdmhW5Fc9GowimTCqW5mEdkRMZMyr3fpeyB4PHASXI7DzdWARbU9FfMuD9dbsB8GrljZfHdVtSWfaqnfIMv/s1600/NatGeo.png", National Geographic East
 #https://fl31.moveonjoy.com/National_Geographic/index.m3u8
 #https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.ts.m3u8
-http://198.58.104.90:8989/natgeo/index.m3u8
+http://198.58.104.90:8989/natgeo/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 #http://84.17.50.102/nationalgeographic/index.m3u8
 #http://179.60.51.134:8888/NATGEO/index.m3u8
 
@@ -2774,14 +2775,14 @@ http://198.58.104.90:8989/natgeo/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 #https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
-http://84.17.50.102/natgeowild/index.m3u8
+http://84.17.50.102/natgeowild/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1kAjQ5o3jxEsaoZa0TIAtZukdA1N9mzGfrOi4T1g24-Qu5aOkdtzBf0wvcvLSfM7_HE1jEn7DGFdmhf7v8ZOm8JyHiSGSz2vW9ACUlBgzdyrORJrNuKG1cfPWTefVgojrPYtAPq-V5z4rqGgr6cK-Ujkk7C14eFLzdV3tRs8bUIHUDCu2N7M6k8Sw8RyI/s1600/Nat_Geo_Wild_Logo_2006.png", NatGeo WILD East
 #https://fl7.moveonjoy.com/Nat_Geo_Wild/tracks-a1/mono.ts.m3u8
 #https://fl31.moveonjoy.com/Nat_Geo_Wild/tracks-v1a1/mono.ts.m3u8
 #https://fl31.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #https://tvpass.org/live/NationalGeographicWildEast/hd
-http://198.58.104.90:8989/natgeowild/index.m3u8
+http://198.58.104.90:8989/natgeowild/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpyTjVsoi8eeiD9C8lBAcwnf4zVqeUtlGHvZy0MtIa7ghIv0KOKTWAgZBKbLZpU4xaAZJ5ZrVYN6t4JGRA5usMkOhYFsE7UlUdIQR526Ae_iu44t_4qa4PZV2qdjhql8VCmkwiWnKiSoxD1CvL_PVtzFGdX6aKXVEz1zcEQS5k-wv601rxEzaseWGVcMIm/s1600/Animalplanet.png",Animal Planet
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2792,7 +2793,7 @@ http://198.58.104.90:8989/natgeowild/index.m3u8
 #okehttp://84.17.50.102/animalplanet/index.m3u8
 #http://23.237.104.106:8080/USA_ANIMAL_PLANET/tracks-v1a1/mono.m3u8
 #http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-http://23.239.31.26:8989/animalplanet/index.m3u8
+http://23.239.31.26:8989/animalplanet/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih6FjO7jDp_iAOeujaORzyCH9po7dKfP7Cxe2GjvIRg-usBesInBJnZQWHK-ZSIPjyQp3456KPFjXFw1-ZyKJVIXve7kgFIYpcbzRXTPV-p5Ok6Soct1xcQEk5T5PgXHoI_gaB9wPMzRLufgxe2zeoZlbKIHcxJvsMEeb0Obknv86niIayhd9oA-ZjZENo/s1600/discovery-channel1.png",Discovery Channel
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2803,13 +2804,13 @@ http://23.239.31.26:8989/animalplanet/index.m3u8
 #http://104.255.88.155/discovery/tracks-v1a1/mono.ts.m3u8
 #http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #http://41.205.93.154/DISCOVERY/index.m3u8
-http://151.80.18.177:86/Discovery_HD/index.m3u8
+http://151.80.18.177:86/Discovery_HD/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj16Bg_fuLeaSB7VGex6C26jXaJWfH360fV_FeCDFn2n_A5LgkVKOBSzJUXYOmUBEtbd_m9C2l3xnoTpTStkko6SUV5tblVMCx0pfhiyRcR_WaRmD7xZ-LzJjfc7aa6rttexIHierbSjaNckwh-5D80r2K3Rnl0OJ41v517D8rJuOVEJLuRHx7IA4FHjD_A/s1600/discoverych.png",Discovery Channel
-http://84.17.50.102/discovery/index.m3u8
+http://84.17.50.102/discovery/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfEF0rPAS7ZANIPHAVBmXb8zdAxX-1bH5Z9WeUM5OxPBGiL21aadz_8t2fYQyWZRIsdY5U0KMsG48byp-WVQSxQ20l5VCaHmjA7RI1b0M9rXwevlvKC8HIho3UTypkBezVXL2_hvxCsN8W02fcEu8vxHzTejH7FUHmAwehEjp00-1NHX-6hoArQdcDV-sw/s1600/Discovery-Channel.png",Discovery Channel
-http://179.60.51.134:8888/DISCOVERY-CHANNEL/index.m3u8
+http://179.60.51.134:8888/DISCOVERY-CHANNEL/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgFmH4VoOBKp2YdDZqyCh3oIwNs_mkswSUi1Gi4f_tJOwmC_FgU9jGYI7m8PlxUPZLTQjH2ovFlaUwDjzrJ4H0WJRyAPTVk7I5PirKfQ95nZ6N24YhyHEeT7AcGvrAEaIFxM_ftLnRnW88Y7HlabSaFVScq_jch6Bm5nR5eZkVeXHxcB6Ft4c5z8D0cnFG/s1600/Documentary+.png",Documentary+ International
 https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
@@ -2833,7 +2834,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr0PTgpRX8xFcNUs9uzQ2zHYBfDFPHYxa_X836SEf6oIZz7dSgUbEi37EYKeeJz9xdFZiADvoxtKT4NoShSr20khQ9bjw4rMO8tnMH5Y3NhYsU-wtc_ovTldOxXhIo0_Yf7YFID0GgBPdIwjV8lPI4jB-pxigNXvFqCtVIH3zGXXzkcUEtK25V2PysxPko/s1600/Global%20Trekker1.png",Global Trekker
-https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsRmZQquMlGVfGpsu6BtaKgKtRbsZzgNyR-lI5MbI6Bc6M8dBS4Ah2QkWqpjTi13KdcdvQQ1N6XE1idCMylifRxY6oWWWkPYaM9Q4XJKezh8KU_RCk0lROSS4Ro-HtGCG3UwBjLZH7IByJYmLIIE-uUzM6x37PKrRdGQXpLIV3UBXtQTKKwb5PVBckZKAr/s1600/4kTravel.png",4K Travel
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
