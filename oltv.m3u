@@ -1734,7 +1734,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
 #EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM7lw2KgLyaq0yt6qcIKBKeoUW23931PhNa2Y41e_p3Bw2P-iAOCF5vBSP_DB_xDJYEgyG1WbtslYNz-_1JFgMnHabKU6pV5-cJ7ox-mqyyNqhMakJKlWdd-E-Sr7E1IhRLigYFxKGSGaj1o4IE221mmPIA6UqT2cCCjp5lpQPCM94dLdC9S6NKioqAXxv/s1600/1.png",1 Music.Com
-http://rtmp.one.by:1300
+#http://rtmp.one.by:1300
+http://176.118.197.101/1HD/index.m3u8
+#https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUKtWNBv2p8cKwEhgyAapeVs5ZX3h46U1RbWPs73YovtgNyd4tO56UZ_k1n37WAeuE6VfBEGKIoFok2vOjgJsN1meyR_deq23FRDid_SRb0-g7O2-cjr3gKiFWtQxBNqAEp1Ip4Mr1C2Q8RLlrSZHcOIel8CjnokH2nkhQflfLf_TZqQjPGitMR4JThIbd/s1600/NOW_70s_2022_logo.png",Now 70's
 https://lightning-now70s-rakuten.amagi.tv/playlist.m3u8
@@ -1799,6 +1801,7 @@ https://dash3.antik.sk/live/mb_classic/index.m3u8
 
 #EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzbnLeO1ltIOtebiUpTgxurKg2a-Us9HItJl5oizqppOSNrXb-_8oY_azlCgOrSLjaQt1QIyVvetsHj9hW27XiFH4kE9rufebFXoNvhwt3m5Mj74xT8sJHE4juHL5Og8U0nyX_CCPtCJh8dOLq8P4OhuYDa6L7mORnuZnqYMCLgEU2OLe3qeK_smSgF8a1/s1600/Retro_Music_TV_logo.png",RETRO TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzUj1JO2Yg56WTZ1shOyJ8dT18Fou99j9v_g5bC4_09i3mkig2bI7WyyZL4wcfqeC5x4k33bZQDOLqflL_bA7vvXQGarT98_uNhX5iMvC55EfARY3RGB15NENprELRuU0N74u5sGnqbG2fUfhQ7iuDpT5Lxms62akVfPCbD7UHtzMlvkwamMnpwyFwatzU/s1600/Rebel.png",REBEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1807,7 +1810,8 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 https://dash3.antik.sk/live/test_rebel/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIlD_Di-jOwvKmTztAN2W8TtOi_UsWduSXyFCRsgJGd-n2DqSxPhIGbl6ML780s7C7YR4sKMQQ9FBSMaIdpLlfkWtkDBSibylwWihj1aGsEYG7Dn_Q8_SWPkbk-rLfu2ZbKxAkNASd1iP1ytMWdmtDS_E6DRgZoKdAhxusnbSHMTWdmsKOhEMYMYwn6cE0/s1600/VIVA_TV_RUSSIA_LOGO.png",VIVA TV (Russia)
-https://132544.edgevideo.ru/streams/132544_713325/132544480/index.m3u8
+#https://132544.edgevideo.ru/streams/132544_713325/132544480/index.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnAojA00AYYhPXN9Aa6RH8OnEvdwEqa1_npzsl2De5skg3TYRzgL3n5F49XJ6rzgp1ryhcAgp93VO0eI3j3bc_yrLlCStTv-KUwxnH0hNVaMxyTS5bBfW1WLkqxXYW6kUbtt7546TJ8PZoVosvlUQCpV_hMxaBBbLYdtY71fcYVJPuHA55zzLc74w4B1Zk/s1600/BluesTV.png",Blues TV Network
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/chunklist.m3u8
@@ -2054,6 +2058,8 @@ EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com
 https://dash3.antik.sk/live/test_ocko_star/playlist.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8?wmsAuthSign=Inspirationlivetv|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 
+#EXTINF:-1 group-title="TV Musik" tvg-logo="logo",Classic Music
+http://stream.mcquack.net/312/index.m3u8
 
 
 
@@ -2784,7 +2790,8 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 #https://uselector.cdn.intigral-ott.net/NGAD/NGAD.isml/manifest.mpd
 #https://tvpass.org/live/NationalGeographicEast/hd
 #http://151.80.18.177:86/National_Geo_HD/index.m3u8
-http://212.5.144.156:8080/natgeo/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+#http://212.5.144.156:8080/natgeo/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUU72kaNAGtSV0YZJcjN6KOrDz32OTCu5prqWIsmSqrA3HzuedMh_87RU8DYebcAKjRt_sGG0M1rihWRQmfwD9zUVqgPyy1JhbiX997fpyHrdmhW5Fc9GowimTCqW5mEdkRMZMyr3fpeyB4PHASXI7DzdWARbU9FfMuD9dbsB8GrljZfHdVtSWfaqnfIMv/s1600/NatGeo.png", National Geographic East
 #https://fl31.moveonjoy.com/National_Geographic/index.m3u8
@@ -2801,7 +2808,8 @@ http://198.58.104.90:8989/natgeo/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 #https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
-http://84.17.50.102/natgeowild/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+#https://84.17.50.102/natgeowild/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://178.76.68.60:7442/50/mpegts
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1kAjQ5o3jxEsaoZa0TIAtZukdA1N9mzGfrOi4T1g24-Qu5aOkdtzBf0wvcvLSfM7_HE1jEn7DGFdmhf7v8ZOm8JyHiSGSz2vW9ACUlBgzdyrORJrNuKG1cfPWTefVgojrPYtAPq-V5z4rqGgr6cK-Ujkk7C14eFLzdV3tRs8bUIHUDCu2N7M6k8Sw8RyI/s1600/Nat_Geo_Wild_Logo_2006.png", NatGeo WILD East
 #https://fl7.moveonjoy.com/Nat_Geo_Wild/tracks-a1/mono.ts.m3u8
@@ -2819,7 +2827,8 @@ http://198.58.104.90:8989/natgeowild/index.m3u8|user-agent=Mozilla/5.0 (Windows 
 #okehttp://84.17.50.102/animalplanet/index.m3u8
 #http://23.237.104.106:8080/USA_ANIMAL_PLANET/tracks-v1a1/mono.m3u8
 #http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-http://23.239.31.26:8989/animalplanet/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+#http://23.239.31.26:8989/animalplanet/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+http://stream.mcquack.net/114/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih6FjO7jDp_iAOeujaORzyCH9po7dKfP7Cxe2GjvIRg-usBesInBJnZQWHK-ZSIPjyQp3456KPFjXFw1-ZyKJVIXve7kgFIYpcbzRXTPV-p5Ok6Soct1xcQEk5T5PgXHoI_gaB9wPMzRLufgxe2zeoZlbKIHcxJvsMEeb0Obknv86niIayhd9oA-ZjZENo/s1600/discovery-channel1.png",Discovery Channel
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -3251,7 +3260,8 @@ https://streamer1.nexgen.bz/WE_TV/index.m3u8
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoPkr_UdklcDsTHQyyNln9pAgMickhs6ISMbtuXyCiDPxnDNaFvLwPJeEE9_YjI31gtN_ygc9mTif58Z6ML0sTL-WJLIZ3Ut0zCK9zP8AH0gJzbFhySjst4GNbNioOP0tEtWjp4g-R2Az4vhH-VDYjf5PrLply1zLL9WzVlrbRVIiiU9Onn3Q0Hky-Bang/s1600/DaVinci.png",Da Vinci (De)
 #https://cdn10jtedge.indihometv.com/atm/DASH/davinci/manifest.mpd
 #https://indihuy.streamized.net/atm/DASH/davinci/manifest.mpd
-https://cdnbal1.indihometv.com/atm/DASH/davinci/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/davinci/manifest.mpd
+https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Film & Drama" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTuWSQA_hNBBX_RuYSeCfO_T1-VtFHjNzp9dpZV1UFf33E498a50OdrGfjiEq8OWLrILriibG3ZHk05FneIMyNqhqrvuGeVVcIWH8Hm19TpUUkAscLgDEXSOb_z8PfoPPeESCUGvgrhgJcMuh7S6pFwR0BoKQleXAUd-qjzfqiZPg16-mV4D5eULi52Neq/s1600/ion.png",Ion (US)
 #https://live-manifest.production-public.tubi.io/live/4ed608c9-863e-4ea5-91d1-27549ef1adda/playlist.m3u8
