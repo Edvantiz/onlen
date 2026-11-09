@@ -1419,14 +1419,14 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 #EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio1gEPhV9MtKv5eRem4j9rz3Vb-lw511WBlyDTw74Uz1_Omt82_p5sD_KgcjPJMV9XDw5Mwy2nOeneVYhnya7MzWLARCghsdjI9zIow-4JoXiFOK1D5SpzGR4GQnKCyBTmugLk4WLCdpv5Lq4Uswvv04ojsW8NRw1svzQC1QU3Ua2dWk3Ayw7J8jhGzClP/s1600/Alquran-Kareem.png", Al-Quran Kareem
 #http://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
-http://m.live.net.sa:1935/live/quran/gmswf.m3u8
-#http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#http://m.live.net.sa:1935/live/quran/gmswf.m3u8
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Religi" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQC62wGWjfa6q9d4qTrbD0hyphenhyphenHASXaD7MtbfW3zr4_V7ka2wJpgSIWOZJwx9CgZ5fe1ADyT_N2eMHolQg-otFW7_ysAvY0CK2DKGxWdvuw1teQ0KeEXvrkyGzOpF9NBFHYgOp6npTqxUIZcCOtLUSj2g2ZhchWhzu336eGm69YvUUtITdZo-3-l1vG8OgvT/s1600/Assunah-Anabawi.png", AsSunah AnNabawi
 #https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
 #http://210.210.155.37/x6bnqe/s/s27/index.m3u8
-http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
-#http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Religi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ajwa_TV_logo.png", Ajwa TV
 http://ikitv.sqn.at:8000/play/a00j/index.m3u8
