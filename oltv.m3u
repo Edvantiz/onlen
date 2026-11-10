@@ -1734,7 +1734,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
 #EXTINF:-1 group-title="TV Musik" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM7lw2KgLyaq0yt6qcIKBKeoUW23931PhNa2Y41e_p3Bw2P-iAOCF5vBSP_DB_xDJYEgyG1WbtslYNz-_1JFgMnHabKU6pV5-cJ7ox-mqyyNqhMakJKlWdd-E-Sr7E1IhRLigYFxKGSGaj1o4IE221mmPIA6UqT2cCCjp5lpQPCM94dLdC9S6NKioqAXxv/s1600/1.png",1 Music.Com
-#http://rtmp.one.by:1300
+http://rtmp.one.by:1300
+
+#EXTINF:-1 group-title="TV Musik" tvg-logo="logo",OneHD
 http://176.118.197.101/1HD/index.m3u8
 #https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8
 
@@ -2078,8 +2080,8 @@ https://cdnbal1.indihometv.com/atm/DASH/indikids/manifest.mpd|user-agent=IndiHom
 #https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=8237&type=hls
 #https://etslive-v3-vidio-com-preview-tokenized.akamaized.net/stream/8237/file/stream.mpd
 #http://tvratu.my.id/nissa/index.mpd?id=8237&type=dash|user-agent=VidioPlayer/6.31.6
-#https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237|user-agent=VidioPlayer/6.31.6
-https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C80nmAc3kfgfnlJ4q2odTO7M/ts
+https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=8237|user-agent=VidioPlayer/6.31.6
+#https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C80nmAc3kfgfnlJ4q2odTO7M/ts
 
 #EXTINF:-1 group-title="TV Kids" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1Q3Om8vfRuC9ywGZ0xc8dNxAu9m4iK836MWOH2-qtlBanDFQoxuawlYJ2WxZXO6A54aMIRkxe7L55w4U55QfqzOgmZGD1KQLnb5amSGRpr2BLCZbqN81qQKbEHUzMRGpzqoYURmcFz-c2eaFBkzXAr2H9GOOErw-OOFW10C9cyRm83g2V0m3YmNHpVNAz/s1600/Rajawali_Televisi.svg.png",RTV (Rajawali)
 #EXTVLCOPT:http-referrer=http://175.158.57.130:8888/
@@ -2404,8 +2406,8 @@ https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playli
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcLKgiHdepBjpG3BQsHhBUNbtdZmlt1Z_jlDm17oI9Mg8bveaQltvX3G3zevcQZs2Tz7mdfTRCN0Gmtp5ZWBpvyyRpRmIsAVWxFZjIcqNfeT4ZDN9Oj8rCYsucUA4SQvDCExtjKo0DJ2eZ9iLSsz3CqXELpUm9hG433S8E7lG9ra4FZtxxCFc7kFoBmMnZ/s1600/PalestineTV1.png" group-title="International",Palestine TV (Satellite Channel)
 #https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://pbc.furrera.ps/palestinehd/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-#https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8
+#https://pbc.furrera.ps/palestinehd/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFTg4gJD0IXbHuIheWKJj1gzEQFqqelv7tRDxuPA8S5293Z-3CErOLFA64EhRSw3WV637Rq5dF3glBYVhrwOTEbynC8JycKV4xw7rlZvXqVI1aY2vJ-FPHLFEWPgQUpkLV4NeGSVAMHQ6f-mEtAjGISugNIzNehPXTQv-HwkMZwrI-oZwLmzMrpFSpTURB/s1600/cnn.png" group-title="International",CNN Original
 #https://jmp2.uk/stvp-CHBD800001D0
@@ -2459,8 +2461,8 @@ https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 #https://fl31.moveonjoy.com/BBC_AMERICA/index.m3u8
 #https://fl31.moveonjoy.com/BBC_AMERICA/tracks-v1a1/mono.ts.m3u8
 #http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
-http://23.239.31.26:8989/bbcamerica/index.m3u8
-#https://gpuserver3.tier1streams.com/BBC_AMERICA/index.m3u8
+#http://23.239.31.26:8989/bbcamerica/index.m3u8
+https://gpuserver3.tier1streams.com/BBC_AMERICA/index.m3u8
 #http://206.212.244.63/13/index.m3u8
 
 #EXTINF:-1 group-title="International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9vPDdyySlJZwnR1Nn-2i07WrJbnX0dCood1eRGOzogk-Y6eofwamsJUZV7Cyy0a2xlEa1i2KU5T4OQw9it6m5_52nW6V2JzF2XcYNcc4aOQCEudhFr0-MSkV6iputC1Rr6F09JV4CCrBrfSqC4-MbsH3H1L4R9feOLkdgMgTb_ymgfX_qxCZdO_HSiHAf/s1600/BBC_Earth_channel.png",BBC Earth
