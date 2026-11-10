@@ -6507,8 +6507,13 @@ https://ia601009.us.archive.org/27/items/iwan-fals-masa-depan-ada-di-tangan-kita
 ======History======
    
   
-#EXTINF:-1 group-title="Sejarah" tvg-logo="https://cdn-images.dzcdn.net/images/cover/872d1cfe7566c9b589bce4b46ea80886/0x1900-000000-80-0-0.jpg", Test 1
-https://ia800509.us.archive.org/5/items/rb-1_20251008/RB1.mp4
+#EXTINF:-1 group-title="Sejarah" tvg-logo="logo", Zainuddin MZ
+https://ia601404.us.archive.org/11/items/the-legend-mengenang-zainuddin-mz-dai-sejuta-umat-high/THE%20LEGEND%20-%20Mengenang%20Zainuddin%20MZ-%20Dai%20Sejuta%20Umat_High.mp4
+
+#EXTINF:-1 group-title="Sejarah" tvg-logo="logo", Warkop DKI
+https://ia601005.us.archive.org/3/items/the-legend-warkop-dki-hd/THE%20LEGEND%20-%20WARKOP%20DKI_HD.mp4
+
+
 
 
 ======Concert======
@@ -6949,6 +6954,16 @@ https://ia803102.us.archive.org/16/items/nsd_20251114/NADAMURNI%20-%20Sepohon%20
 
 #EXTINF:-1 group-title="Syair Islami" tvg-logo="https://archive.org/download/nsd_20251114/nadapondok.png", Nada Murni - Di Pondok Kecil
 https://ia903102.us.archive.org/16/items/nsd_20251114/Nada%20Murni%20-%20Di%20Pondok%20Kecil.mp4
+
+
+
+======Ceramah======
+   
+  
+#EXTINF:-1 group-title="Ceramah & Khotbah" tvg-logo=https://archive.org/download/01.IkhlasKHZainuddinMZ/01.Ikhlas-KH%20Zainuddin%20MZ.gif", Ikhlas - KH Zainiddin MZ
+https://dn600203.us.archive.org/0/items/01.IkhlasKHZainuddinMZ/01.Ikhlas-KH%20Zainuddin%20MZ.flv
+
+
 
 
 ======Radio======
