@@ -6587,7 +6587,7 @@ https://ia600703.us.archive.org/8/items/aow_20251117/Age%20of%20Wonders%20Soundt
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_EfQrXNImA49eVvpc8FSkcxXe0jlJts6vnA&s", Medieval Celtics Tunes
 https://ia800503.us.archive.org/22/items/medieval-celtics-tavern/Medieval%20Celtics%20Tavern%20Tunes.mp4
 
-#EXTINF:-1 group-title="The Playlist" tvg-logo="logo", Eliott Tordo - Erhu
+#EXTINF:-1 group-title="The Playlist" tvg-logo="https://ia600703.us.archive.org/20/items/eliott-tordo/tordo.jpg", Eliott Tordo - Erhu
 https://ia600703.us.archive.org/20/items/eliott-tordo/Eliott%20Tordo.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4460/header.jpg?t=1712848950", City Life Deluxe
@@ -6597,7 +6597,7 @@ https://ia600109.us.archive.org/2/items/city-life-game-2006-full-soundtrack/City
 #https://ia601405.us.archive.org/16/items/mltr_gh/MLTR-Greatest-Hits.mp4
 https://ia801405.us.archive.org/16/items/mltr_gh/MLTR-Greatest-Hits.mp4
 
-#EXTINF:-1 group-title="The Playlist" tvg-logo="logo", Best of Coldplay
+#EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/best-of-coldplay/__ia_thumb.jpg", Best of Coldplay
 https://ia600104.us.archive.org/33/items/best-of-coldplay/Best%20of%20Coldplay.mp4
 
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://i.ytimg.com/vi/p4me3bm8Kg0/maxresdefault.jpg", Gary Moore - Ballads and Blues
@@ -6691,8 +6691,15 @@ https://ia801405.us.archive.org/21/items/toto-salmon-sundari-sukotjo-pop-keronco
 #EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/22-pop-keroncong-dari-masa-ke-masa-vol-2/__ia_thumb.jpg", Keroncong dari Masa ke Masa vol. 2
 https://ia803105.us.archive.org/12/items/22-pop-keroncong-dari-masa-ke-masa-vol-2/22-Pop-Keroncong-Dari-Masa-Ke-Masa-Vol-2.mp4
 
-#EXTINF:-1 group-title="The Playlist" tvg-logo="logo", Thomas Arya (Accoustic)
+#EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/thomas-arya_202610/Thomas.jpg", Thomas Arya (Accoustic)
 https://ia903105.us.archive.org/13/items/thomas-arya_202610/Thomas%20Arya.mp4
+
+#EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/spice-girls-gh/Spice%20GIrls.jpg", Spice Girls
+https://ia600104.us.archive.org/12/items/spice-girls-gh/Spice%20Girls%20GH.mp4
+
+#EXTINF:-1 group-title="The Playlist" tvg-logo="https://archive.org/download/classic-gh/ClassicGH.jpg", Classics Greatest Hits
+https://ia600604.us.archive.org/12/items/classic-gh/ClassicGH.mp4
+
 
 
 
